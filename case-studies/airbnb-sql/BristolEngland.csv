@@ -1,0 +1,851 @@
+name,neighbourhood,room_type,bedrooms,bathrooms,accommodates,minimum_nights,price,availability_365,number_of_reviews,review_score,latitude,longitude,is_superhost
+City Centre-Waterside Retreat,Clifton,Private room,1.0,2.5,4,1,66.0,364,143,99.0,51.450509999999994,-2.6105400000000003,1
+The White Room -  Central Bristol Art House Garden,Bedminster,Private room,1.0,1.0,1,21,29.0,23,39,95.0,51.44101,-2.60121,0
+Peaceful Safe Home & Clear Space 'The Lilac Room',Easton,Private room,1.0,1.5,2,7,30.0,180,21,91.0,51.466409999999996,-2.55533,0
+HUGE Room CENTRAL location House,Ashley,Private room,1.0,1.0,3,2,69.0,88,80,94.0,51.46668,-2.5827400000000003,0
+Listed Georgian house in the heart of Bristol.,Ashley,Entire home/apt,5.0,3.0,13,2,336.0,345,79,99.0,51.466609999999996,-2.5870900000000003,1
+Cosy large room near TV studios & Paintworks,Brislington West,Private room,1.0,1.0,1,2,28.0,28,33,99.0,51.44429,-2.55777,1
+Historic Trym House - five star!,Westbury-on-Trym & Henleaze,Private room,2.0,1.5,3,2,70.0,89,61,99.0,51.49508,-2.61715,1
+Bristol Luxury Garden Apartment,Ashley,Entire home/apt,1.0,1.0,5,2,91.0,365,255,98.0,51.469409999999996,-2.58166,1
+The dog lovers haven,Ashley,Private room,1.0,1.0,2,1,26.0,271,154,98.0,51.46547,-2.58458,1
+Modern inner city 3 bed eco house,Redland,Entire home/apt,3.0,2.0,5,2,180.0,316,324,98.0,51.47331,-2.6059799999999997,1
+Central Double Room With Your Own Bathroom,Lawrence Hill,Private room,1.0,1.0,2,1,43.0,113,190,99.0,51.455909999999996,-2.57803,1
+Edwardian house in central Bristol,Southville,Private room,1.0,1.0,2,1,51.0,121,269,94.0,51.44553,-2.60413,1
+"Clifton Village, superfast internet, car permits",Clifton,Entire home/apt,1.0,1.0,4,3,102.0,351,390,97.0,51.45524,-2.62168,1
+Big double room ensuite bathroom,Redland,Private room,1.0,1.5,2,2,42.0,53,203,98.0,51.47079,-2.59645,1
+BnB in Barn with 2 ensuite Bedrooms,Redland,Entire home/apt,2.0,2.0,5,2,120.0,297,236,97.0,51.47513,-2.60474,1
+large ensuite with seating area,Ashley,Private room,1.0,1.5,2,1,69.0,88,166,94.0,51.46665,-2.58284,0
+Clifton Towers Bristol B and B,Clifton,Private room,1.0,1.0,2,1,46.0,365,267,98.0,51.45308,-2.61544,1
+Tranquil Room near City Centre,Ashley,Private room,1.0,1.5,1,2,37.0,268,309,97.0,51.46307,-2.5798200000000002,1
+"Lovely quiet, clean, Double Bed+Single, with tv",Easton,Private room,1.0,1.5,3,1,28.0,0,399,95.0,51.46907,-2.56077,1
+"Lovely quiet, clean, cosy room, Double Bed, tv",Easton,Private room,1.0,1.5,2,1,27.0,0,353,96.0,51.46922,-2.56105,1
+Private room in ‘Garden Square' Georgian townhouse,Clifton,Private room,1.0,1.0,2,3,35.0,233,71,98.0,51.45169,-2.62087,1
+"Large, comfortable, elegant and quiet room",Knowle,Private room,2.0,1.0,2,1,41.0,323,14,95.0,51.438590000000005,-2.5653599999999996,0
+Kingsize bed room in Shirehampton,Avonmouth & Lawrence Weston,Private room,1.0,1.0,2,1,25.0,299,15,97.0,51.48503,-2.6724200000000002,1
+Quiet Double With Ensuite In An Old Jeweller Shop,Ashley,Private room,1.0,1.0,1,2,41.0,358,218,95.0,51.46465,-2.58947,0
+"Excellent central location, perfect for visitors",Lawrence Hill,Private room,1.0,1.0,3,2,36.0,174,196,96.0,51.45952,-2.5737900000000002,1
+Stylish Family Home in Amazing Location,Stoke Bishop,Entire home/apt,5.0,4.5,10,7,600.0,328,15,93.0,51.473659999999995,-2.63905,0
+Cosy single room with breakfast,Eastville,Private room,1.0,1.0,1,20,20.0,357,15,90.0,51.47371,-2.54602,1
+Amazing location centre of Bristol,Hotwells & Harbourside,Private room,1.0,2.0,2,1,50.0,363,550,96.0,51.44786,-2.6023400000000003,1
+Blanket Box - Sarah's large Room,Windmill Hill,Private room,1.0,1.0,2,2,40.0,90,108,96.0,51.440490000000004,-2.5922,1
+Homestay - Single Room in Bristol,Henbury & Brentry,Private room,1.0,1.0,1,3,22.0,311,130,99.0,51.51255,-2.60012,1
+"Sunny, stylish home-great location- Free Parking",Cotham,Entire home/apt,1.0,1.0,2,2,100.0,88,39,99.0,51.46669,-2.5968400000000003,1
+Lovely light attic room,Easton,Private room,1.0,1.0,2,1,30.0,147,184,97.0,51.469879999999996,-2.56336,1
+A Cool Place in Montpelier !,Ashley,Private room,1.0,1.0,2,2,32.0,143,256,97.0,51.46774,-2.58777,1
+Brooklyn-Style Art Loft With Balcony & Free Prk,Brislington West,Entire home/apt,2.0,1.0,4,1,131.0,168,89,98.0,51.44337,-2.56794,1
+A home away from home!,Clifton,Private room,1.0,1.0,2,1,35.0,359,17,87.0,51.46097,-2.62344,1
+A stay in a home from home!,Clifton,Private room,1.0,1.0,1,1,32.0,365,115,96.0,51.46098,-2.62405,1
+Beautiful flat in Clifton,Clifton Down,Entire home/apt,1.0,1.0,2,1,60.0,83,14,85.0,51.46739,-2.61508,0
+"Huge, bright, spacious double room",Southmead,Private room,1.0,1.0,2,1,32.0,0,262,96.0,51.50372,-2.5901400000000003,0
+"Comfortable, light single room",Easton,Private room,1.0,1.0,1,1,25.0,6,260,96.0,51.470659999999995,-2.56357,1
+Small bright room in Clifton,Clifton,Private room,1.0,1.0,1,2,29.0,82,299,97.0,51.45851,-2.62321,1
+Quiet Modern Flat 5 mins from Temple Meads,Lawrence Hill,Entire home/apt,1.0,1.0,2,1,75.0,338,227,97.0,51.45221,-2.57869,0
+Quiet + large ensuite double room,Ashley,Private room,1.0,1.0,2,1,40.0,365,333,92.0,51.46816,-2.58244,1
+Double-bedroom to rent near city centre,Lawrence Hill,Private room,1.0,1.0,1,90,18.0,262,87,95.0,51.46052,-2.5662599999999998,1
+Modern Clifton Town House,Clifton Down,Private room,1.0,1.0,1,3,44.0,89,12,89.0,51.46692,-2.60854,0
+"Lovely large, quiet, clean room, Double Bed, sofa",Easton,Private room,1.0,1.5,2,1,29.0,0,294,98.0,51.46796,-2.56088,1
+Large terraced apartment in the heart of Clifton,Clifton,Entire home/apt,3.0,3.0,6,2,350.0,221,17,99.0,51.452259999999995,-2.6248400000000003,0
+"Bright and airy 1-bed flat, nr Clifton & BBC",Clifton Down,Entire home/apt,1.0,1.0,2,1,89.0,177,75,96.0,51.46653,-2.61032,0
+✓Walk Score 78✓6 Parking✓Garden✓King Bed✓Sun Patio,Brislington West,Entire home/apt,4.0,2.5,8,3,150.0,203,56,96.0,51.43744,-2.5573099999999998,1
+Tranquil City Centre Double Room,Lawrence Hill,Private room,2.0,1.5,2,2,46.0,362,135,99.0,51.46306,-2.57796,1
+Luxury Harbour Side Apartment,Hotwells & Harbourside,Entire home/apt,2.0,2.5,4,2,232.0,365,38,95.0,51.44923,-2.60908,0
+Stylish flat In Clifton Village,Clifton,Entire home/apt,1.0,1.0,2,7,88.0,20,326,99.0,51.455890000000004,-2.61309,1
+"Victorian house, room with double bed and en suite",Clifton Down,Private room,1.0,1.0,2,1,45.0,0,84,98.0,51.47077,-2.6118900000000003,1
+"Beautiful room and bathroom, central location",Cotham,Private room,1.0,1.0,2,1,49.0,46,610,98.0,51.46225,-2.59804,1
+Room in modern flat near centre,Southville,Private room,1.0,1.0,2,2,43.0,89,161,98.0,51.44538,-2.5927599999999997,1
+Amazing location  Heart of Bristol,Hotwells & Harbourside,Private room,1.0,2.0,2,1,50.0,365,328,97.0,51.44695,-2.6032,1
+A piece of country in the city!,Eastville,Private room,1.0,1.0,1,1,25.0,84,89,95.0,51.479240000000004,-2.5467299999999997,0
+Cosy Eco-Cabin with lake views,Eastville,Entire home/apt,1.0,1.5,3,2,50.0,90,406,95.0,51.476820000000004,-2.55623,0
+Private Room with private bath in Central Bristol,Ashley,Private room,1.0,1.5,1,7,55.0,178,31,97.0,51.4605,-2.58592,0
+Luxurious Maisonette,Horfield,Entire home/apt,2.0,1.0,6,2,121.0,360,94,97.0,51.4911,-2.58351,0
+Bristol City Centre Apartment,Central,Entire home/apt,1.0,1.0,4,2,39.0,53,99,91.0,51.455740000000006,-2.5960099999999997,0
+Franks Place,Stoke Bishop,Entire home/apt,2.0,2.5,4,2,132.0,153,99,98.0,51.47473,-2.6257099999999998,1
+"Central Bristol - A lovely, homely garden flat",Redland,Entire home/apt,1.0,1.0,2,1,70.0,265,132,98.0,51.4697,-2.59458,1
+Gorgeous flat in Heart of Clifton,Clifton Down,Entire home/apt,1.0,1.0,2,3,76.0,285,350,97.0,51.45888,-2.61033,0
+Two bed flat Clifton+Balcony+Parkng,Clifton Down,Entire home/apt,2.0,1.0,4,2,61.0,362,323,97.0,51.4583,-2.60922,1
+Family home in central Bristol,Redland,Entire home/apt,5.0,3.0,8,2,120.0,178,13,100.0,51.47278,-2.59713,0
+one double room,Cotham,Private room,2.0,1.5,2,1,60.0,88,48,99.0,51.471579999999996,-2.6111,1
+Double room with amazing city views in family home,Knowle,Private room,1.0,1.0,2,2,55.0,87,25,99.0,51.43865,-2.57297,0
+"Private cosy flat, free road parking and garden",Windmill Hill,Entire home/apt,1.0,1.0,2,2,54.0,319,262,92.0,51.43808,-2.5947299999999998,0
+Victoria Park Studio,Windmill Hill,Private room,1.0,1.0,2,2,39.0,90,263,98.0,51.43848,-2.58816,1
+Luxury Apartment with Roof Garden & 360 City Views,Bedminster,Entire home/apt,2.0,2.0,4,2,120.0,344,116,96.0,51.43723,-2.60298,1
+Large Light & airy ensuite room (private bathroom),Central,Private room,1.0,1.5,1,5,35.0,93,32,98.0,51.4624,-2.60707,0
+Stylish & Relaxing Loft Overlooking The River+Prk,Brislington West,Entire home/apt,1.0,1.5,2,1,93.0,50,111,98.0,51.443540000000006,-2.56833,1
+Views. 2 double beds/ensuite/kitchenette/parking.,Southville,Private room,1.0,1.0,4,2,47.0,254,538,97.0,51.44166,-2.6081,1
+Double room with private lounge and bathroom,Ashley,Private room,1.0,1.0,2,2,35.0,326,34,88.0,51.46378,-2.58375,0
+City centre 2 dbl bedroom & garden.,Lawrence Hill,Entire home/apt,2.0,1.0,4,1,120.0,363,212,96.0,51.45715,-2.5826599999999997,1
+3BD central sunny house just off Gloucester Road,Redland,Entire home/apt,3.0,2.0,6,5,250.0,328,18,99.0,51.47295,-2.5931,1
+Spacious 2 bed in the heart of Bristol,Clifton,Entire home/apt,2.0,1.0,4,10,75.0,321,137,95.0,51.45017,-2.62164,1
+City centre double: with river views + breakfast,Hotwells & Harbourside,Private room,1.0,1.0,2,2,59.0,0,66,99.0,51.44693,-2.60373,1
+Room in friendly household,Bishopston & Ashley Down,Private room,1.0,1.0,1,2,29.0,8,40,98.0,51.48448,-2.58776,1
+2 DoubleBed Flat in Victorian home,Ashley,Entire home/apt,2.0,1.0,5,1,114.0,0,64,85.0,51.470040000000004,-2.5815,0
+Garden Flat near Whiteladies Road with Parking,Clifton Down,Entire home/apt,1.0,1.0,2,2,83.0,255,349,99.0,51.46635,-2.61155,1
+Pill Harbourside double bedroom,Avonmouth & Lawrence Weston,Private room,1.0,1.0,2,2,38.0,365,14,100.0,51.48172,-2.68321,0
+Lovely double room in family home,Central,Private room,1.0,1.0,1,5,25.0,162,29,97.0,51.460879999999996,-2.6071,0
+A Unique Bristol Harbour Apartment With Parking!,Hotwells & Harbourside,Entire home/apt,1.0,1.0,4,3,121.0,208,86,99.0,51.450340000000004,-2.6061799999999997,1
+1 bed apartment - Central Bristol,Lawrence Hill,Entire home/apt,1.0,1.0,2,1,60.0,331,283,94.0,51.45663,-2.58261,0
+Charming and Light Victorian House,St George West,Entire home/apt,2.0,1.0,4,2,60.0,10,159,95.0,51.4604,-2.55036,1
+Stunning large Victorian house by park,Ashley,Entire home/apt,5.0,2.0,8,5,190.0,331,12,98.0,51.47314,-2.5868,0
+Spacious apartment Heart of Clifton,Clifton,Entire home/apt,1.0,1.0,4,2,96.0,285,356,99.0,51.45805,-2.6143,1
+"Calm and lovely, near city centre",Cotham,Private room,1.0,1.5,1,16,28.0,255,12,97.0,51.4637,-2.5952900000000003,0
+Clifton Stylish 1 Bed & Parkng,Clifton,Entire home/apt,1.0,1.0,2,2,100.0,317,41,97.0,51.45221,-2.6173,0
+"Attic room, spectacular views, nr centre, b.fast",Ashley,Private room,1.0,1.0,2,1,30.0,53,173,98.0,51.46796,-2.5882400000000003,1
+Coach House in Clifton Village,Clifton,Entire home/apt,1.0,1.0,2,7,71.0,322,93,98.0,51.457609999999995,-2.61821,1
+Double room in excellent Clifton location,Clifton Down,Private room,1.0,1.0,2,2,50.0,179,64,97.0,51.45745,-2.6095099999999998,0
+Cosy apartment near Clifton Village,Clifton,Private room,1.0,1.0,2,1,46.0,365,73,83.0,51.45133,-2.61932,0
+Spacious room in Victorian house,Bishopston & Ashley Down,Private room,1.0,1.5,2,1,40.0,48,156,98.0,51.47926,-2.58416,1
+Bristol self-catering studio+kitchen+parking,Knowle,Entire home/apt,1.0,1.0,4,14,60.0,321,326,95.0,51.43094,-2.5653799999999998,1
+Quiet en-suite Attic Room with blackout blinds,Bishopston & Ashley Down,Private room,1.0,1.0,1,1,31.0,164,163,98.0,51.48012,-2.585,1
+"Lovely, sunny, double room",Redland,Private room,1.0,1.0,2,1,35.0,22,383,97.0,51.47828,-2.5937900000000003,1
+A lovely kingsize room in Horfield,Horfield,Private room,1.0,1.0,2,1,32.0,326,96,96.0,51.494040000000005,-2.5787400000000003,1
+"Richmond Terrace Lux Studio with Parking, Clifton",Clifton,Entire home/apt,1.0,1.0,1,7,60.0,53,18,98.0,51.455259999999996,-2.6136,0
+Bright Private double room in Bristol.,Brislington West,Private room,1.0,1.0,2,2,28.0,88,33,92.0,51.44395,-2.55065,1
+lovely and spacious house,Easton,Private room,1.0,1.0,2,1,31.0,46,21,96.0,51.45585,-2.55375,0
+"Stunning House, Amazing Views, Kid Friendly",Ashley,Entire home/apt,2.0,2.5,6,4,120.0,206,14,90.0,51.46905,-2.5859,0
+South Bristol - Bright Loft Space,Bedminster,Private room,1.0,1.5,3,1,46.0,274,172,97.0,51.432629999999996,-2.62532,0
+Warehouse Conversion at Paintworks+Parking,Brislington West,Entire home/apt,2.0,1.0,5,1,149.0,21,67,97.0,51.44313,-2.56798,1
+Self contained studio apartment,Eastville,Entire home/apt,1.0,1.5,2,2,51.0,342,144,97.0,51.47757,-2.5413799999999998,1
+Attic double room with bathroom,Redland,Private room,1.0,1.5,2,2,35.0,53,74,99.0,51.47116,-2.59457,1
+Quirky flat with private deck in Bristol centre!,Lawrence Hill,Entire home/apt,1.0,1.0,2,2,69.0,217,10,100.0,51.45604,-2.57932,0
+"Single, warm, cosy, inviting bedroom",Brislington East,Private room,1.0,1.0,1,4,30.0,363,17,88.0,51.45298,-2.5443700000000002,0
+Cosy cabin w/ woodburner,Ashley,Private room,1.0,0.0,2,2,40.0,364,32,92.0,51.47405,-2.57698,0
+Kingsize room in victorian terrace,Bedminster,Private room,1.0,1.0,2,1,35.0,1,164,99.0,51.43769,-2.61332,1
+Cosy apartment close to city centre,Knowle,Entire home/apt,1.0,1.0,2,2,48.0,242,112,93.0,51.43207,-2.56314,0
+Quirky family home with view and large garden.,Eastville,Entire home/apt,4.0,1.5,9,2,200.0,172,29,95.0,51.47761,-2.55623,0
+5 bed house in central east Bristol BS5,Easton,Entire home/apt,5.0,2.5,9,4,105.0,55,20,95.0,51.45837,-2.5590599999999997,1
+"Single room, 15 min walk to Southmead Hospital",Southmead,Private room,1.0,1.5,1,1,28.0,267,67,100.0,51.50014,-2.60741,1
+In the heart of Easton,Easton,Private room,1.0,1.0,2,1,28.0,67,61,99.0,51.46764,-2.5646400000000003,1
+Relaxing room in Easton,Easton,Private room,1.0,1.0,2,1,27.0,178,97,96.0,51.46584,-2.56236,1
+Spacious ensuite loft room with views & breakfast,Eastville,Private room,1.0,2.0,2,1,55.0,42,70,95.0,51.47598,-2.54762,1
+Holiday House in Clifton Bristol UK,Clifton Down,Entire home/apt,2.0,1.5,5,2,157.0,208,109,97.0,51.4674,-2.61295,0
+"Double loft room, Bristol",Westbury-on-Trym & Henleaze,Private room,1.0,1.0,2,1,38.0,295,217,99.0,51.4929,-2.61328,1
+Private Room near Temple Meads,Lawrence Hill,Private room,1.0,1.0,2,2,48.0,22,49,99.0,51.45393,-2.57775,0
+"Guest suite. Double bed, free parking, nr. Clifton",Stoke Bishop,Entire home/apt,1.0,1.0,2,2,65.0,275,103,97.0,51.47149,-2.6383799999999997,0
+Super Comfortable Double Bedroom in Redland,Cotham,Private room,1.0,1.0,2,1,50.0,88,61,100.0,51.46908,-2.6081,1
+"Amazing Bedsit off Glouc Rd, breakfast & bathroom.",Bishopston & Ashley Down,Private room,1.0,1.0,2,2,50.0,180,84,98.0,51.48624,-2.58871,1
+Beautiful victorian family house - free parking,Ashley,Entire home/apt,5.0,3.0,10,3,300.0,332,19,99.0,51.47397,-2.58652,0
+Double bed & sofa bed in friendly home,Lawrence Hill,Private room,1.0,1.0,3,1,38.0,53,47,93.0,51.46695,-2.56771,0
+"Beautiful, period flat in Clifton",Clifton,Entire home/apt,2.0,1.0,2,7,90.0,365,40,98.0,51.45487,-2.61374,1
+"Cosy Single room off Gloucester  Rd, own bathroom.",Bishopston & Ashley Down,Private room,1.0,1.0,1,2,40.0,365,65,98.0,51.48522,-2.58819,1
+Single/Dbl room 15 mins walk to Southmead Hospital,Southmead,Private room,1.0,1.5,2,1,35.0,267,72,99.0,51.50078,-2.6053599999999997,1
+Lovely 2 Double Bedroom Garden Flat,Cotham,Entire home/apt,2.0,1.0,4,3,100.0,41,91,98.0,51.469190000000005,-2.6055200000000003,0
+Central Flat with Stunning View Monthly discount,Ashley,Entire home/apt,2.0,1.0,4,5,75.0,105,29,99.0,51.47166,-2.5806400000000003,1
+Charming Apartment - Quiet Spot near City Centre,Cotham,Entire home/apt,2.0,1.0,4,4,110.0,345,103,96.0,51.46691,-2.59996,0
+"Quiet, sunny room with stunning views in Clifton",Hotwells & Harbourside,Private room,1.0,1.0,2,1,40.0,89,236,97.0,51.44963,-2.61464,1
+Totterdown double room near Temple Mead's Station,Windmill Hill,Private room,1.0,1.5,2,2,53.0,352,66,100.0,51.444309999999994,-2.5804400000000003,1
+4th floor contemporary apartment,Central,Entire home/apt,2.0,1.0,4,2,75.0,315,83,94.0,51.461040000000004,-2.60168,1
+Clifton - Georgian townhouse for up to 9 guests,Clifton,Entire home/apt,5.0,3.0,9,2,425.0,143,26,100.0,51.45139,-2.62042,1
+"Entire garden flat, Clifton",Clifton,Entire home/apt,1.0,1.0,2,5,77.0,114,161,98.0,51.45319,-2.61554,1
+Double bedroom with ensuite bath,Bedminster,Private room,1.0,1.0,2,100,35.0,179,29,98.0,51.440940000000005,-2.60298,0
+Bohemian Georgian Luxury in Centre,Hotwells & Harbourside,Private room,1.0,1.0,4,4,61.0,22,33,99.0,51.45382,-2.60406,0
+Room in Victorian house in vibrant Southville,Southville,Private room,1.0,1.5,1,2,38.0,364,190,97.0,51.442679999999996,-2.60575,0
+Lovely Sunny Apartment.Great Views.Clifton Village,Clifton,Entire home/apt,2.0,1.0,4,2,125.0,232,115,99.0,51.4564,-2.61666,1
+"Mezzanine bed, kitchenette,study!",Easton,Private room,1.0,1.0,2,1,32.0,363,22,91.0,51.46799,-2.56606,0
+Stunning apartment in great location,Cotham,Entire home/apt,2.0,1.0,4,4,84.0,129,29,95.0,51.465140000000005,-2.60184,0
+"Rear Garden View, Large Bedroom with King Size Bed",Brislington West,Private room,1.0,1.0,2,2,34.0,364,41,97.0,51.43775,-2.5583299999999998,0
+"Rustic, light and spacious double room in Easton",Easton,Private room,1.0,1.0,2,2,31.0,42,22,98.0,51.46346,-2.562,1
+Large light and homely master bedroom in Easton,Lawrence Hill,Private room,1.0,1.0,2,2,29.0,42,34,97.0,51.46229,-2.56372,1
+Cosy large light double room in Easton,Easton,Private room,1.0,1.0,2,2,29.0,42,52,96.0,51.46389,-2.56261,1
+Bristol skyline room Montpelier,Ashley,Private room,1.0,1.0,2,2,40.0,124,263,97.0,51.46667,-2.5863099999999997,1
+Groovy spacious double room Easton,Easton,Private room,1.0,1.0,2,1,39.0,365,38,91.0,51.46962,-2.56587,0
+Comfortable and Clean Flat - Great Location,Ashley,Entire home/apt,1.0,1.0,4,1,61.0,296,565,98.0,51.47115,-2.59157,1
+Beautiful Georgian apartment in Clifton village,Clifton,Entire home/apt,2.0,2.5,4,4,120.0,23,38,97.0,51.453920000000004,-2.62261,0
+Unique 2 bed flat central Bristol,Lawrence Hill,Entire home/apt,2.0,1.0,6,1,104.0,0,213,97.0,51.45762,-2.57746,1
+Bristol skyline flat Montpelier,Ashley,Entire home/apt,2.0,2.0,4,2,100.0,299,43,95.0,51.46812,-2.5859400000000003,1
+Lovely 3 Bed Flat - Refurb,Bishopston & Ashley Down,Entire home/apt,3.0,3.0,5,1,90.0,0,171,88.0,51.479409999999994,-2.58797,0
+Sophie & Dan's spare room,St George West,Private room,1.0,1.0,2,1,27.0,207,18,98.0,51.4592,-2.54942,1
+"Central 2 bed flat in Clifton, Bristol - Hopewell",Central,Entire home/apt,2.0,1.0,4,1,87.0,0,184,88.0,51.45825,-2.6085599999999998,0
+2 Bedroom House 10 mins from the centre. St Judes,Lawrence Hill,Entire home/apt,2.0,1.0,4,2,79.0,340,359,93.0,51.45941,-2.57554,0
+The Cottages - 2bed 2bath  Apartment  w. Terrace,Clifton,Entire home/apt,2.0,2.0,4,1,99.0,159,94,95.0,51.45367,-2.61861,0
+Cleyro Apartments - Finzels Reach 2 Bedroom Deluxe,Central,Entire home/apt,2.0,1.0,4,1,169.0,46,30,93.0,51.4539,-2.5876200000000003,0
+Cleyro Apartments - Finzels Reach 2 Bed Superior,Central,Entire home/apt,2.0,2.0,4,1,135.0,65,55,92.0,51.45389,-2.58702,0
+Large peaceful room in Victorian house.,Southville,Private room,1.0,1.0,1,2,42.0,65,29,98.0,51.441790000000005,-2.60259,0
+Large Single room in Handsome House,Southville,Private room,1.0,1.0,1,2,30.0,65,81,98.0,51.441790000000005,-2.60259,0
+Guest annex A: 2 rooms & kitchenette in Totterdown,Windmill Hill,Entire home/apt,2.0,1.5,4,1,48.0,90,232,97.0,51.44042,-2.57154,1
+"Comfy Double Room in Westbury Park, Bristol",Westbury-on-Trym & Henleaze,Private room,2.0,1.5,2,1,65.0,179,47,99.0,51.47773,-2.60986,1
+5* Hotel Quality Living - 10mins from City,Henbury & Brentry,Entire home/apt,5.0,4.5,16,1,496.0,146,86,97.0,51.505309999999994,-2.61259,1
+Double Room 2.,Eastville,Private room,1.0,3.0,1,5,23.0,365,36,93.0,51.4748,-2.55877,0
+"Large, Bright Double Bedroom.",Easton,Private room,1.0,1.0,2,1,49.0,365,58,93.0,51.468140000000005,-2.56576,0
+"Comfortable double room, en-suite, private lounge.",Avonmouth & Lawrence Weston,Private room,1.0,1.5,2,1,61.0,88,88,100.0,51.49543,-2.63948,1
+"Fab flat, fab location, fab views!",Cotham,Entire home/apt,1.0,1.0,2,4,80.0,84,17,100.0,51.4623,-2.59361,0
+Vintage Style room in Bristol city centre (33),Central,Private room,1.0,2.0,2,1,41.0,220,150,89.0,51.45486,-2.5928400000000003,0
+A Sunny Room In Montpelier,Ashley,Private room,1.0,1.0,2,3,30.0,330,81,97.0,51.46714,-2.58716,1
+Guest annex B: 2 rooms & kitchenette in Totterdown,Windmill Hill,Entire home/apt,2.0,1.5,4,1,48.0,90,253,97.0,51.44037,-2.5715,1
+Newly decorated annex with garden view,Bishopston & Ashley Down,Entire home/apt,1.0,1.0,2,2,50.0,165,157,98.0,51.48457,-2.59501,1
+Sunny & bright 1 bed flat in colourful Totterdown,Windmill Hill,Entire home/apt,1.0,1.0,4,2,66.0,362,225,98.0,51.44231,-2.58228,1
+"Lovely sunny, double room with on-street parking",Brislington West,Private room,1.0,1.0,1,2,23.0,176,52,100.0,51.44105,-2.5529,0
+2 lovely double rooms in quiet home,Avonmouth & Lawrence Weston,Private room,2.0,1.5,4,5,55.0,242,45,97.0,51.49505,-2.65498,1
+Beautiful house full of character,Easton,Entire home/apt,3.0,1.0,6,1,140.0,35,37,93.0,51.45876,-2.55678,1
+Gorgeous double room,Easton,Private room,1.0,1.0,2,2,28.0,359,99,97.0,51.457,-2.55756,1
+Cosy Stylish Bedroom near Glos Rd & Airbus,Horfield,Private room,1.0,1.0,1,1,25.0,23,326,95.0,51.49577,-2.58302,1
+Redland: Double room in large Victorian house,Redland,Private room,1.0,1.0,2,1,48.0,0,72,99.0,51.47218,-2.60532,1
+Clean and comfy townhouse,Windmill Hill,Private room,1.0,1.5,1,2,29.0,53,51,98.0,51.443459999999995,-2.57996,1
+Comfortable south Bristol townhouse,Southville,Private room,1.0,1.5,2,2,43.0,53,68,98.0,51.44552,-2.58074,1
+Clifton Village Apt 2bed w. Balcony GreatLocation!,Clifton,Entire home/apt,2.0,1.0,4,1,130.0,119,12,98.0,51.45394,-2.61564,0
+Massive flat... in beautiful Clifton Village,Clifton,Entire home/apt,2.0,1.0,3,2,106.0,0,67,97.0,51.45523,-2.6228599999999997,1
+Double Room in Victorian Terrace,Southville,Private room,1.0,1.0,2,1,40.0,84,63,99.0,51.441159999999996,-2.60727,1
+Entire Apartment! Cozy City Centre - Wapping Wharf,Central,Entire home/apt,1.0,1.0,2,30,69.0,70,11,96.0,51.44624,-2.59836,1
+"Self-contained Southville flat, perfect location!",Southville,Entire home/apt,1.0,1.0,4,2,62.0,337,166,97.0,51.444959999999995,-2.6009900000000004,0
+"Cosy Maisonette, On Gloucester Road",Bishopston & Ashley Down,Entire home/apt,2.0,1.5,4,5,65.0,12,21,97.0,51.48407,-2.58776,0
+Self contained double with ensuite,Henbury & Brentry,Private room,1.0,1.0,2,3,30.0,326,78,91.0,51.51399,-2.59545,0
+"Sunny family home in Clifton, Bristol inc parking",Clifton,Entire home/apt,4.0,2.5,6,4,129.0,158,11,91.0,51.45254,-2.6158799999999998,0
+Stylish room-great central location-Free Parking,Cotham,Private room,1.0,1.0,1,2,40.0,90,55,100.0,51.465579999999996,-2.59729,1
+"Double room, south facing.",Southville,Private room,1.0,1.5,1,7,33.0,2,99,99.0,51.44133,-2.6037,1
+Spacious double room in lovely home with breakfast,Eastville,Private room,1.0,1.0,2,1,35.0,113,14,99.0,51.47537,-2.54922,1
+"4-Bed Family Retreat House in Best Square, Bristol",Cotham,Entire home/apt,4.0,2.0,14,2,236.0,6,191,98.0,51.46468,-2.59262,0
+"Calm, spacious ensuite near Southmead Hosp. 1 or 2",Horfield,Private room,1.0,1.0,2,1,30.0,326,154,96.0,51.49406,-2.59715,1
+"Quiet + peaceful garden view single, near hospital",Horfield,Private room,1.0,1.0,1,1,28.0,303,92,97.0,51.49287,-2.5969,1
+Stunning double bedroom with private bathroom,Bedminster,Private room,1.0,1.0,2,1,32.0,84,131,98.0,51.435140000000004,-2.6101,1
+Double with sunset views in St Werburghs,Ashley,Private room,1.0,1.0,2,3,25.0,53,63,97.0,51.47182,-2.57666,1
+"Spacious Boutique Apartment Clifton, King Size Bed",Clifton Down,Entire home/apt,1.0,1.0,2,2,98.0,0,115,90.0,51.470420000000004,-2.61448,0
+Stunning traditional flat in the heart of Bristol,Cotham,Entire home/apt,2.0,1.0,4,1,101.0,142,420,97.0,51.46367,-2.59789,1
+Quiet double room close to Gloucester Rd BS7,Bishopston & Ashley Down,Private room,1.0,1.5,1,2,28.0,53,147,98.0,51.4756,-2.58751,1
+Awesome 2 Bedroom House v. close to Gloucester Rd,Bishopston & Ashley Down,Entire home/apt,2.0,1.0,4,2,85.0,0,10,100.0,51.47979,-2.5825099999999996,0
+Lovely Victorian family home,Bishopston & Ashley Down,Entire home/apt,4.0,2.5,8,2,190.0,210,60,97.0,51.48555,-2.58929,1
+Sunny house with balcony near Bristol harbour side,Southville,Entire home/apt,1.0,1.5,6,2,86.0,15,256,99.0,51.44234,-2.59904,1
+Kingsize bed in the centre of Bristol,Central,Private room,1.0,1.0,2,1,30.0,365,82,91.0,51.44951,-2.59033,0
+Comfy double rooms in a lovely area  /back room,Stoke Bishop,Private room,1.0,1.5,2,1,35.0,365,85,95.0,51.48444,-2.64352,0
+Comfy double rooms in a lovely area /front room,Stoke Bishop,Private room,1.0,1.5,2,1,30.0,364,70,93.0,51.48384,-2.64424,0
+"Double  Room, Cheswick Village, Bristol,(MOD/UWE)",Lockleaze,Private room,1.0,1.0,1,1,31.0,0,164,98.0,51.49488,-2.5568299999999997,1
+Family home 10 mins walk to centre,Southville,Entire home/apt,2.0,1.5,4,2,80.0,350,75,91.0,51.44363,-2.5970400000000002,0
+"Spacious, comfy double room near Bristol & Bath",Brislington East,Private room,1.0,1.5,2,1,40.0,0,60,97.0,51.435159999999996,-2.5510599999999997,1
+Warm & Welcoming Single/Twin or Super-King,Southmead,Private room,1.0,1.0,2,1,28.0,3,128,98.0,51.49411,-2.60926,1
+LARGE DOUBLE ROOM WITH 2 SINGLE BEDS RED ROOM.,Brislington East,Private room,1.0,1.0,2,1,29.0,328,27,93.0,51.43947,-2.53476,0
+LARGE DOUBLE ROOM WITH 2 SINGLE BEDS RED ROOM.,Brislington East,Private room,1.0,1.0,2,1,29.0,359,29,94.0,51.43786,-2.53511,0
+Interestng  Victorian house built in 1883,Redland,Private room,1.0,1.0,2,2,69.0,165,36,91.0,51.470490000000005,-2.6052299999999997,0
+Beautiful luxury apartment Redland,Cotham,Entire home/apt,1.0,1.0,2,2,45.0,0,132,92.0,51.4674,-2.60724,1
+Art and Health in Comfort in Central Bristol,Clifton Down,Entire home/apt,1.0,1.0,2,2,75.0,203,83,96.0,51.463390000000004,-2.6061,0
+The Big Bristol House!,Clifton,Entire home/apt,5.0,2.0,14,2,438.0,337,68,95.0,51.455090000000006,-2.61035,0
+Double bedroom just off Whiteladies Road + parking,Clifton Down,Private room,1.0,1.0,1,1,35.0,37,351,95.0,51.45864,-2.61335,1
+Secluded Industrial Warehouse Living at Paintworks,Brislington West,Entire home/apt,2.0,1.5,4,1,146.0,11,37,99.0,51.44291,-2.56944,1
+Bijou room in Totterdown close to Temple Meads,Windmill Hill,Private room,1.0,1.5,2,2,36.0,272,77,100.0,51.44446,-2.58035,1
+Modern Studio in Desirable Clifton Area,Clifton,Entire home/apt,1.0,1.0,2,1,61.0,53,163,94.0,51.46107,-2.62067,0
+The loft Room 6,Eastville,Private room,1.0,2.0,1,5,21.0,236,56,94.0,51.47364,-2.5601700000000003,0
+The double Room 3,Eastville,Private room,1.0,3.0,1,5,23.0,175,44,98.0,51.47364,-2.5601700000000003,0
+Victorian Double Room Close to Centre with Garden,Bedminster,Private room,1.0,1.5,2,1,42.0,179,11,100.0,51.43435,-2.60935,0
+En-suite superking loft in outstanding location,Redland,Private room,1.0,1.0,2,100,50.0,365,33,100.0,51.47123,-2.59406,0
+"Central, quiet, top floor rooms and bathroom",Ashley,Private room,2.0,1.0,4,2,40.0,179,70,97.0,51.46946,-2.58685,1
+"Period property, Nr Whiteladies Rd",Cotham,Private room,1.0,1.0,2,1,48.0,41,122,100.0,51.470009999999995,-2.60341,0
+Large room with single bed in Victorian house,Ashley,Private room,1.0,1.5,1,2,31.0,53,79,99.0,51.47045,-2.58533,1
+City centre top-floor apartment with roof terrace,Ashley,Entire home/apt,1.0,2.0,2,4,80.0,153,159,92.0,51.46367,-2.58918,0
+"Lovely double bedroom, fabulous location!",Redland,Private room,1.0,2.0,2,1,36.0,56,19,100.0,51.47224,-2.59979,1
+BEAUTIFUL SPACIOUS CLIFTON APARTMENT WITH PARKING,Clifton,Entire home/apt,2.0,2.0,4,3,160.0,256,27,95.0,51.45943,-2.6227,0
+City Centre Haven,Ashley,Entire home/apt,1.0,1.5,2,2,65.0,83,27,98.0,51.462270000000004,-2.58975,0
+semi detached with terrace garden,Brislington East,Private room,1.0,1.0,2,1,26.0,0,19,98.0,51.43367,-2.54659,0
+KJ's Pembrokeshire twin -  in-room refreshments,Lockleaze,Private room,1.0,1.0,1,1,35.0,226,63,99.0,51.49071,-2.57753,1
+Stylish apartment close to City Centre & Clifton,Clifton Down,Entire home/apt,1.0,1.0,4,2,79.0,84,234,98.0,51.46485,-2.60695,1
+Comfy double room in a lovely area,Stoke Bishop,Private room,1.0,1.5,2,1,35.0,364,52,93.0,51.4839,-2.6351,0
+Luxurious Garden Apartment in Clifton Village,Clifton,Entire home/apt,1.0,1.5,2,30,80.0,285,107,98.0,51.45427,-2.6198900000000003,1
+KJ's Cotswold twin with in-room refreshments,Lockleaze,Private room,1.0,1.0,2,1,35.0,226,145,99.0,51.48959,-2.57745,1
+"Clean comfortable room, quiet road, great location",Avonmouth & Lawrence Weston,Private room,1.0,1.0,2,2,31.0,0,65,100.0,51.48656,-2.67938,1
+Cosy cabin w/ woodburner & ensuite,Ashley,Private room,1.0,1.0,2,2,45.0,364,10,96.0,51.474740000000004,-2.5765,0
+The Polygon - Garden Flat - Clifton Village,Clifton,Entire home/apt,1.0,1.0,2,2,74.0,25,72,85.0,51.45113,-2.62205,0
+City centre stay adorn sewing 1,Central,Private room,1.0,0.0,3,1,45.0,174,233,92.0,51.45398,-2.59217,0
+En-suite king bed in gorgeous Victorian house,Bishopston & Ashley Down,Private room,1.0,1.0,3,1,250.0,51,173,97.0,51.47675,-2.58059,0
+"Newly refurbished, stylish, urban 3 BR apartment",Bishopston & Ashley Down,Entire home/apt,3.0,1.0,6,7,80.0,12,215,98.0,51.48277,-2.58765,1
+Spacious flatlet with bathroom and kitchenette,Ashley,Private room,1.0,1.0,2,6,40.0,82,34,99.0,51.47015,-2.5878900000000002,1
+"x Just off Gloucester Rd, small modern studio",Redland,Entire home/apt,1.0,1.0,2,1,49.0,79,330,98.0,51.4772,-2.59233,1
+"Self Contained Annexe ,own entrance",Westbury-on-Trym & Henleaze,Entire home/apt,1.0,1.0,2,7,56.0,139,245,99.0,51.48717,-2.60606,1
+"The Old Gaol, Montpelier",Ashley,Entire home/apt,1.0,1.0,2,2,80.0,326,187,98.0,51.46523,-2.5886099999999996,1
+Historic two bed apartment in the City Centre,Central,Entire home/apt,2.0,1.0,4,2,70.0,117,165,87.0,51.453759999999996,-2.59313,0
+Single room in Victorian building,Clifton Down,Private room,1.0,1.0,1,2,28.0,0,12,100.0,51.4658,-2.60915,0
+Funky garden maisonette in Redland with parking,Cotham,Entire home/apt,1.0,1.0,2,1,69.0,49,596,99.0,51.46979,-2.60933,1
+Lower Park Row Apartments- Studio 8,Central,Hotel room,1.0,1.0,2,1,75.0,214,187,91.0,51.4557,-2.59939,0
+Lower Park Row Apartments- Studio 9,Central,Hotel room,1.0,1.0,2,1,75.0,214,29,89.0,51.4557,-2.59939,0
+Spacious double room in Garden Flat,Clifton,Private room,1.0,1.0,2,2,55.0,364,15,99.0,51.45708,-2.61098,0
+"The Coach House, Clifton + With Parking",Clifton,Entire home/apt,1.0,1.0,2,1,66.0,305,149,88.0,51.45689,-2.6154599999999997,0
+Spacious airy garden flat in the heart of Clifton.,Clifton,Entire home/apt,2.0,1.0,3,2,71.0,53,109,98.0,51.45508,-2.61194,0
+"Sunny, small nice place, Bristol",Stockwood,Private room,1.0,1.0,2,1,21.0,0,88,98.0,51.4214,-2.5510200000000003,0
+"Great location. Newly built, warm and welcoming.",Ashley,Private room,1.0,1.5,2,1,55.0,89,16,100.0,51.4752,-2.59068,1
+Modern Apartment Near North St,Bedminster,Entire home/apt,1.0,1.0,4,6,140.0,0,30,90.0,51.43806,-2.60403,0
+Bright Spacious Family Home in lively Easton,Easton,Entire home/apt,3.0,1.0,6,2,84.0,0,92,95.0,51.46387,-2.56333,0
+Beautiful modern flat a stones throw from the city,Ashley,Entire home/apt,1.0,1.0,4,1,56.0,296,142,94.0,51.46066,-2.58992,0
+Vibrant house full of character near City Centre,Easton,Private room,1.0,1.0,2,2,30.0,54,136,96.0,51.46474,-2.55985,1
+Elegant Victorian house:iconic views across city,Windmill Hill,Entire home/apt,3.0,1.0,5,2,130.0,350,80,93.0,51.44063,-2.57167,0
+Cosy double bedroom in St Andrews with garden,Ashley,Private room,1.0,1.5,2,1,42.0,89,41,97.0,51.46847,-2.5908599999999997,1
+Modern  apartment - Sleeps 4 people Cabot Circus,Ashley,Entire home/apt,1.0,1.0,4,2,102.0,0,21,100.0,51.46013,-2.58577,0
+Victorian family house with stunning city views,Windmill Hill,Entire home/apt,3.0,1.0,6,3,100.0,110,28,99.0,51.43953,-2.5918099999999997,1
+"Big Bay Double, 15min walk CityCenter",Ashley,Private room,1.0,1.0,2,1,20.0,89,81,95.0,51.46686,-2.57715,0
+"Charming Room in Family Home, Henleaze",Westbury-on-Trym & Henleaze,Private room,1.0,1.5,1,1,31.0,57,76,97.0,51.48464,-2.5996099999999998,0
+Large very central 4-story townhouse - Big Groups!,Ashley,Entire home/apt,7.0,3.0,16,1,663.0,115,74,98.0,51.46255,-2.58576,0
+Victorian House In Kingswood,Hillfields,Entire home/apt,2.0,1.0,4,2,125.0,294,44,96.0,51.46779,-2.51943,1
+"Great location. Newly built, warm and welcoming.",Redland,Private room,1.0,1.5,2,1,55.0,0,32,99.0,51.47721,-2.5908599999999997,1
+"Victorian townhouse, bright decor, king size bed",Southville,Hotel room,1.0,1.5,2,1,40.0,327,130,93.0,51.44608,-2.6037,1
+"Victorian townhouse, bright decor, single bed",Southville,Hotel room,1.0,1.0,1,1,35.0,324,59,94.0,51.44608,-2.6037,1
+Charming spacious double room,Redland,Private room,1.0,1.0,1,30,70.0,0,37,99.0,51.47247,-2.59309,1
+Double room in Clifton Georgian penthouse,Central,Private room,1.0,1.0,2,1,55.0,0,221,97.0,51.45622,-2.60564,1
+Large room in centrally located Georgian house.,Redland,Private room,1.0,1.0,2,1,40.0,125,292,97.0,51.47232,-2.61285,1
+The  loft Room 5,Eastville,Private room,1.0,2.0,1,5,21.0,347,33,96.0,51.47364,-2.5601700000000003,0
+"Elegant, Stylish & modern flat in Central Bristol",Ashley,Entire home/apt,2.0,2.5,4,1,118.0,334,92,98.0,51.46175,-2.585,1
+Sm single room near to Southmead Hospital,Southmead,Private room,1.0,1.5,1,1,25.0,267,97,100.0,51.49954,-2.60641,1
+"Trendy, urban open plan apartment (City centre)",Ashley,Entire home/apt,2.0,1.0,6,1,87.0,20,129,95.0,51.46363,-2.58438,1
+Bright modern apartment in great Bristol location,Bishopston & Ashley Down,Entire home/apt,1.0,1.0,2,3,50.0,156,18,99.0,51.47716,-2.57728,0
+Lower Park Apartments Studio 1 - Hopewell,Central,Hotel room,1.0,1.0,2,1,85.0,214,19,84.0,51.4557,-2.59939,0
+Lower Park Row Apartments - Studio 3,Central,Hotel room,1.0,1.0,2,1,75.0,278,77,89.0,51.45547,-2.59881,0
+Lower Park Row Apartments - Studio 4,Central,Hotel room,1.0,1.0,2,1,75.0,145,59,91.0,51.4557,-2.59939,0
+Lower Park Row Apartments- Studio 5,Central,Hotel room,1.0,1.0,2,1,60.0,59,82,90.0,51.4557,-2.5994,0
+Lower Park Apartment Studio 2,Central,Hotel room,1.0,1.0,2,1,75.0,23,131,86.0,51.4557,-2.59939,0
+Lower Park Row Apartments - Studio 7,Central,Hotel room,1.0,1.0,2,1,75.0,214,49,87.0,51.4557,-2.59939,0
+MyCityHaven Stylish apartment edge of Cabot Circus,Ashley,Entire home/apt,1.0,1.0,4,14,70.0,298,42,97.0,51.45964,-2.58812,0
+Comfortable double in Totterdown,Windmill Hill,Private room,1.0,1.0,2,2,30.0,5,79,99.0,51.442809999999994,-2.58245,1
+Comfortable single in Totterdown,Windmill Hill,Private room,1.0,1.0,1,2,30.0,5,86,100.0,51.44252,-2.5808400000000002,1
+3 Berkeley Square - Sycamore or Cedar,Hotwells & Harbourside,Hotel room,1.0,1.5,2,1,69.0,187,51,96.0,51.45353,-2.60627,1
+Modern & Stylish  2 Bedroom Flat,Ashley,Entire home/apt,2.0,1.0,4,2,125.0,0,21,100.0,51.46165,-2.58756,1
+Clean & Tidy Double Bedroom in Central Bristol,Ashley,Private room,1.0,1.0,1,2,35.0,0,23,100.0,51.4614,-2.58854,1
+3 Berkeley Square -  Chestnut/Hazel/Willow/Oak,Hotwells & Harbourside,Hotel room,1.0,1.0,2,1,74.0,189,44,100.0,51.45418,-2.60549,1
+3 Berkeley Square - Maple - Deluxe ensuite shower,Hotwells & Harbourside,Hotel room,1.0,1.0,3,1,76.0,189,38,99.0,51.45575,-2.60623,1
+Safe Peaceful Lovely Space 'The Parlour Room',Easton,Private room,1.0,1.0,2,7,30.0,180,14,86.0,51.4651,-2.55563,0
+Prince Street Studio 14,Central,Entire home/apt,1.0,1.0,2,1,61.0,53,174,90.0,51.450559999999996,-2.59623,0
+One cosy bedroom in South Bristol,Bishopsworth,Private room,1.0,1.0,2,1,26.0,0,99,94.0,51.42597,-2.61178,0
+"Basement suite, two double rooms, bathroom.",Redland,Private room,2.0,1.0,4,2,88.0,363,41,89.0,51.47378,-2.61539,0
+Large entire family home quiet but close to centre,Redland,Entire home/apt,4.0,2.5,6,2,212.0,118,64,98.0,51.47425,-2.5989,1
+Bright Comfortable Double Bedroom in North Bristol,Henbury & Brentry,Private room,1.0,1.5,2,3,30.0,178,21,100.0,51.51252,-2.6356599999999997,1
+Luxurious apartment w/ balcony 5 mins from BRI,Central,Entire home/apt,1.0,1.0,4,2,141.0,0,57,96.0,51.45572,-2.59671,1
+"Bright, self contained accommodation.",Frome Vale,Entire home/apt,1.0,1.0,2,1,40.0,194,238,96.0,51.47915,-2.52759,0
+Mon - Fri double bedroom.,Southville,Private room,1.0,1.0,1,3,30.0,88,19,100.0,51.44178,-2.5968,1
+Cosy single room overlooking garden,Southmead,Private room,1.0,1.0,1,1,25.0,0,191,95.0,51.50542,-2.58995,0
+Beautiful Clifton flat with patio close to BRI,Clifton Down,Entire home/apt,1.0,1.0,4,2,73.0,353,103,93.0,51.46004,-2.61021,0
+"Large, sunny loft conversion facing Victoria Park",Windmill Hill,Private room,1.0,1.0,2,2,28.0,344,86,100.0,51.43991,-2.58938,1
+"Impressive 5 per en suite, in Period Drawing room",Southville,Hotel room,1.0,2.5,5,1,75.0,328,160,94.0,51.44608,-2.6037,1
+Very Central 2 Bed Loft Apartment- Self Check In,Central,Entire home/apt,2.0,1.0,4,1,80.0,237,256,93.0,51.45521,-2.59619,0
+Private single room/shared bathroom and kitchen,Ashley,Private room,1.0,1.0,1,7,28.0,363,19,86.0,51.4665,-2.58583,0
+Log Cabin - set before a small stone circle,Hengrove & Whitchurch Park,Entire home/apt,1.0,1.5,2,1,45.0,270,130,96.0,51.42553,-2.56711,1
+Light rustic-feel double room overlooking garden,Easton,Private room,1.0,1.0,2,2,29.0,46,48,98.0,51.46378,-2.5636099999999997,1
+Fabulous Garden Flat close to the Centre,Windmill Hill,Entire home/apt,1.0,1.0,4,1,75.0,328,140,94.0,51.44363,-2.57958,0
+City centre stay  adorn sewing 2,Central,Private room,1.0,1.0,2,1,39.0,179,188,87.0,51.45471,-2.5941099999999997,0
+"Super king bed, in spacious house with gym.",Southville,Private room,1.0,1.0,2,1,40.0,58,77,95.0,51.44162,-2.6173900000000003,0
+Great Large Clifton Townhouse-Clifton Village,Clifton,Entire home/apt,3.0,1.0,5,1,126.0,0,149,89.0,51.45472,-2.62206,0
+"Modern fab ensuite double, harbour, inc. breakfast",Central,Private room,1.0,1.5,2,4,46.0,358,344,99.0,51.44778,-2.59275,1
+STUNNING city-centre 3 bed. River views + Parking,Central,Entire home/apt,3.0,2.5,8,2,300.0,345,101,99.0,51.45417,-2.59309,1
+Galley-style single bedroom in Victorian flat,Windmill Hill,Private room,1.0,1.0,1,1,19.0,26,161,96.0,51.4378,-2.59728,1
+Cosy rustic victorian cottage for cat lovers,St George Central,Entire home/apt,2.0,1.0,4,2,80.0,0,23,98.0,51.461000000000006,-2.53805,0
+Large bedroom with en-suite in quiet neighbourhood,Hillfields,Private room,1.0,1.0,1,2,36.0,270,39,97.0,51.46703,-2.51858,1
+City Centre stay Adorn Sewing 3,Central,Private room,1.0,1.0,2,1,45.0,179,135,90.0,51.4557,-2.5937799999999998,0
+Stylish and modern apartment with garden,Ashley,Entire home/apt,1.0,1.0,3,3,60.0,16,12,98.0,51.47405,-2.58521,0
+Self contained comfortable flat heart of Clifton,Clifton,Entire home/apt,1.0,1.0,4,2,68.0,53,32,88.0,51.456179999999996,-2.6125599999999998,0
+"Central, spacious townhouse with fantastic views",Ashley,Entire home/apt,3.0,1.5,6,3,110.0,52,11,88.0,51.471940000000004,-2.58396,0
+Lower Park Apartments Studio 10,Central,Hotel room,1.0,1.0,2,1,75.0,214,24,88.0,51.4557,-2.5994,0
+Central Apartment Near Cabot Circus,Lawrence Hill,Entire home/apt,2.0,1.0,4,1,100.0,359,105,84.0,51.45759,-2.5832599999999997,0
+Berkeley Sq Pads 3 - yourapartment,Hotwells & Harbourside,Entire home/apt,1.0,1.0,3,1,66.0,359,19,83.0,51.45496,-2.60629,0
+"Lovely room in quiet Victorian  house ,Horfield.",Horfield,Private room,1.0,1.0,2,1,23.0,84,167,99.0,51.48868,-2.5832900000000003,1
+5* stunning townhouse. 15 min walk to Harbourside.,Windmill Hill,Entire home/apt,4.0,1.5,8,1,400.0,357,58,97.0,51.4377,-2.59619,1
+Berkeley Sq Pads 7- yourapartment,Hotwells & Harbourside,Entire home/apt,1.0,1.0,2,1,59.0,360,21,94.0,51.454809999999995,-2.60643,0
+Berkeley Square Pads - Apartment 9,Hotwells & Harbourside,Entire home/apt,1.0,1.0,2,1,59.0,355,10,88.0,51.454809999999995,-2.60643,0
+Cosy garden flat in Cotham - close to UoB & BRI,Cotham,Entire home/apt,1.0,1.0,2,2,67.0,4,52,89.0,51.46359,-2.5986,0
+"2 Bed, Quiet, Distinctive  Victorian flat",Windmill Hill,Entire home/apt,2.0,1.0,3,2,58.0,0,63,94.0,51.43825,-2.59835,1
+Towed Town Camping. Cleopatra Caravan.,Lawrence Hill,Entire home/apt,1.0,1.0,2,1,35.0,259,129,91.0,51.45084,-2.57366,0
+Trendy Central City Pad - Stokes Croft and Cabot,Ashley,Entire home/apt,2.0,1.0,5,2,45.0,0,171,92.0,51.46202,-2.58733,0
+"Single bed, cheap and cheerful",Hengrove & Whitchurch Park,Private room,1.0,1.0,1,1,22.0,167,22,95.0,51.416909999999994,-2.5642,1
+"En-suite loft Room with sauna, South Bristol",Hengrove & Whitchurch Park,Private room,1.0,1.0,2,1,35.0,180,48,99.0,51.4167,-2.56218,1
+Luxury Riverside Apartment - 2 Bed - sleeps 6,Central,Entire home/apt,2.0,2.0,6,1,122.0,353,29,81.0,51.45215,-2.59297,0
+The Urban Cabin - Self contained stylish living,Easton,Entire home/apt,1.0,1.0,2,1,78.0,89,212,98.0,51.46123,-2.56156,1
+Comfortable and cozy 1 bedroom in all house,Hillfields,Private room,1.0,1.0,2,1,70.0,270,15,93.0,51.47613,-2.5322299999999998,0
+"Lovely flat with garden & views, nr Gloucester Rd",Ashley,Entire home/apt,2.0,1.0,4,2,105.0,0,54,94.0,51.470279999999995,-2.58221,0
+Towed Town Camping. Mia Caravan,Lawrence Hill,Entire home/apt,1.0,1.5,2,1,38.0,293,93,95.0,51.45214,-2.57451,0
+Clifton Apartment|15% Weekly|25% Monthly Discounts,Clifton,Entire home/apt,1.0,1.0,4,1,65.0,141,190,96.0,51.45595,-2.61239,1
+Beaconsfield Road,St George West,Private room,1.0,1.0,2,1,30.0,90,166,98.0,51.45864,-2.5442299999999998,1
+Towed Town Camping. Asha Caravan,Lawrence Hill,Entire home/apt,1.0,1.0,2,1,40.0,293,98,93.0,51.4508,-2.5726,0
+Towed Town Camping. Elsie Caravan,Lawrence Hill,Entire home/apt,1.0,1.5,3,1,45.0,292,142,94.0,51.451370000000004,-2.57689,0
+Cosy loft room in contemporary styled home,St George West,Private room,1.0,1.5,2,1,29.0,178,124,97.0,51.4642,-2.54788,1
+Cheap and cheerful single. South Bristol,Hengrove & Whitchurch Park,Private room,1.0,1.0,2,1,21.0,364,61,97.0,51.41662,-2.56374,1
+Comfortable family home near Bristol & Bath,Brislington East,Entire home/apt,3.0,1.5,5,2,78.0,100,53,98.0,51.43436,-2.54981,1
+Beautiful Victorian Home on Gloucester Road (FF),Ashley,Entire home/apt,2.0,1.5,4,2,79.0,47,82,96.0,51.47501,-2.59117,1
+Towed Town Camping. Dotty Caravan,Lawrence Hill,Entire home/apt,1.0,1.0,2,1,35.0,260,93,94.0,51.45073,-2.5724299999999998,0
+Bright Apartment with parking - Hopewell,Southville,Entire home/apt,2.0,1.0,4,4,72.0,34,119,91.0,51.445170000000005,-2.59298,0
+Ashley House Maisonette,Ashley,Entire home/apt,2.0,1.0,4,3,75.0,0,29,95.0,51.46369,-2.58354,0
+Stylish and comfy garden flat in great location,Cotham,Entire home/apt,1.0,1.0,2,2,79.0,24,105,99.0,51.46731,-2.6055900000000003,1
+Lovely Victorian 3 bed terraced house,Bedminster,Entire home/apt,3.0,1.0,6,2,85.0,290,298,99.0,51.434059999999995,-2.60665,1
+Berkeley Square Pads - Apartment 10,Hotwells & Harbourside,Hotel room,1.0,1.0,2,1,61.0,364,18,87.0,51.454809999999995,-2.60643,0
+Bright airy house within Southville/Ashton area.,Bedminster,Private room,1.0,1.0,1,2,20.0,353,41,96.0,51.435179999999995,-2.61384,1
+Indoor Campground.,Lawrence Hill,Entire home/apt,5.0,5.0,11,1,400.0,311,77,96.0,51.4505,-2.57307,0
+A Spacious 2 Bedroom Flat,Westbury-on-Trym & Henleaze,Entire home/apt,2.0,1.0,4,3,105.0,168,68,96.0,51.49309,-2.6189,1
+Lovely one bed apartment nr Victoria Park,Windmill Hill,Entire home/apt,1.0,1.5,4,2,67.0,136,122,97.0,51.43887,-2.5899799999999997,1
+Well loved home in Greenbank,Easton,Entire home/apt,1.0,1.0,4,2,84.0,39,39,98.0,51.46824,-2.5565599999999997,0
+The  Box Room 4,Eastville,Private room,1.0,2.0,1,5,17.0,357,34,92.0,51.47355,-2.5596900000000002,0
+Modern room in great location - on street parking,Cotham,Private room,1.0,1.0,2,2,45.0,364,72,99.0,51.464929999999995,-2.60202,1
+"Room in the heart of Bristol, city centre",Central,Private room,1.0,1.0,2,1,35.0,298,22,95.0,51.45111,-2.59183,0
+Charlotte's Charming Clifton Flat - Hopewell,Clifton Down,Entire home/apt,1.0,1.0,2,1,61.0,108,117,90.0,51.45909,-2.61036,0
+Delightful Grade II flat with off street parking,Cotham,Entire home/apt,2.0,1.0,5,2,83.0,166,160,99.0,51.463359999999994,-2.59753,1
+Beautiful flat with balcony in amazing location,Clifton,Entire home/apt,2.0,1.0,4,2,99.0,123,27,96.0,51.455009999999994,-2.61685,1
+Spacious sunny double,Eastville,Private room,1.0,1.5,2,2,29.0,89,14,94.0,51.47514,-2.53868,0
+Large double bedroom available in Stoke Gifford,Lockleaze,Private room,1.0,1.0,2,2,40.0,359,42,98.0,51.4933,-2.55844,0
+Modern & spacious apartment near the city centre.,Filwood,Entire home/apt,1.0,1.0,3,1,86.0,110,151,97.0,51.43231,-2.6031,1
+"Lovely apartment with  pool, gym and woods",Stoke Bishop,Entire home/apt,2.0,1.0,6,1,164.0,109,24,92.0,51.472409999999996,-2.64247,0
+Self-contained Victorian Flat near Whiteladies Rd,Clifton Down,Entire home/apt,1.0,1.0,2,2,72.0,244,149,98.0,51.46673,-2.60855,1
+Stylish double room with high ceilings and a view,Bishopston & Ashley Down,Private room,1.0,1.0,2,1,31.0,53,24,97.0,51.47869,-2.5782599999999998,1
+Prime Clifton Location - R&R Guesthouse #1,Clifton Down,Entire home/apt,2.0,1.0,4,2,74.0,357,76,93.0,51.46,-2.61025,0
+"Bright apartment close to city centre, monthly let",St George West,Entire home/apt,1.0,1.0,2,5,75.0,9,31,95.0,51.45945,-2.54305,0
+Spaciously Georgian Clifton Flat,Clifton Down,Entire home/apt,2.0,2.0,3,1,111.0,0,18,91.0,51.45823,-2.6099900000000003,0
+Entire flat with great views and a flexible host!,St George Central,Entire home/apt,1.0,1.0,2,7,42.0,363,88,97.0,51.463,-2.53226,0
+"Cozy room in central Bristol, Stokes Croft",Ashley,Private room,1.0,1.0,2,1,30.0,64,268,97.0,51.46313,-2.58848,1
+EcoCity Living in an inner city strawbale home.,Filwood,Entire home/apt,1.0,1.0,4,2,50.0,78,262,94.0,51.42584,-2.58523,0
+1 Bed Flat 7-min walk from Temple Meads,Windmill Hill,Entire home/apt,1.0,1.0,4,2,48.0,0,37,89.0,51.4449,-2.57914,0
+Prince Street Studio 13,Central,Entire home/apt,1.0,1.0,2,1,61.0,53,61,88.0,51.4506,-2.5965599999999998,0
+spacious double with additional single bed,Southville,Hotel room,1.0,1.0,3,1,48.0,331,141,92.0,51.44608,-2.6037,1
+Xmas Steps next to BRI hospital,Central,Entire home/apt,2.0,1.0,4,1,128.0,145,87,91.0,51.45695,-2.59698,0
+Quayside townhouse on Bristol's historic harbour,Hotwells & Harbourside,Entire home/apt,3.0,2.0,8,2,152.0,0,190,99.0,51.44638,-2.6186,1
+Bright Double Room in Stylish House,Windmill Hill,Private room,1.0,1.0,2,2,38.0,163,206,100.0,51.44077,-2.5825,1
+"Georgian Townhouse, 3 Berkeley Square, Clifton",Hotwells & Harbourside,Entire home/apt,7.0,7.0,15,1,485.0,240,75,99.0,51.45493,-2.6059099999999997,1
+"Private bed & bath with TV, centre Clifton Village",Clifton,Private room,1.0,1.0,2,1,40.0,365,90,96.0,51.456109999999995,-2.62082,0
+No.73,Eastville,Private room,1.0,2.0,1,1,21.0,267,176,97.0,51.47195,-2.55405,1
+Wide-beam houseboat in Bristol/Bath area.,Redland,Entire home/apt,1.0,1.0,3,3,139.0,165,22,94.0,51.47445,-2.61309,1
+Oakfield Place - yourapartment,Clifton Down,Entire home/apt,2.0,2.0,6,1,122.0,359,27,93.0,51.459559999999996,-2.6118,0
+Double room with comfortable bed,Bishopston & Ashley Down,Private room,1.0,1.0,2,2,36.0,83,32,99.0,51.47697,-2.58855,1
+Luxury Victorian Garden Apartment Sleeps 8,Horfield,Entire home/apt,2.0,1.0,8,1,128.0,200,48,93.0,51.49257,-2.58292,0
+Bright light funky City Centre Studio BS28RH,Ashley,Entire home/apt,1.0,1.5,2,2,81.0,365,51,87.0,51.45993,-2.5847599999999997,0
+"Bright, Self Contained, En-suite, Private Access",Knowle,Entire home/apt,1.0,1.0,2,2,51.0,364,185,99.0,51.43642,-2.57896,1
+Clean & tidy double room in Bristol,Hartcliffe & Withywood,Private room,1.0,1.0,2,2,28.0,88,12,98.0,51.40865,-2.62049,0
+A beautiful 2 bed Victorian apartment in Cotham,Cotham,Entire home/apt,2.0,1.0,3,1,75.0,0,54,98.0,51.46523,-2.59548,1
+Prince Street Studio 12,Central,Entire home/apt,1.0,1.0,2,1,61.0,78,111,90.0,51.450559999999996,-2.59623,0
+Riverside House - 3 bedroom apartment,Central,Entire home/apt,3.0,2.0,8,1,189.0,360,49,91.0,51.45215,-2.59297,0
+Room in new warehouse-convert flat by waterfront.,Central,Private room,1.0,1.0,2,1,55.0,87,118,97.0,51.44927,-2.59008,1
+Entire property in Bristol close to UWE/MOD/Town,Frome Vale,Entire home/apt,2.0,1.0,4,2,60.0,137,109,99.0,51.48964,-2.54197,1
+FunkyVan,Easton,Private room,1.0,1.0,2,1,25.0,364,52,95.0,51.45629,-2.5553,0
+The Dukes' Apartment.,Ashley,Entire home/apt,2.0,1.0,6,6,96.0,82,16,98.0,51.46735,-2.57547,1
+Beautiful Central 3 storey house - 25% discount,Hotwells & Harbourside,Entire home/apt,4.0,1.0,10,1,199.0,324,210,94.0,51.450309999999995,-2.61857,0
+Coronavirus FREE lovely  double bedroom ....,Westbury-on-Trym & Henleaze,Private room,1.0,0.0,1,2,30.0,128,17,99.0,51.48982,-2.62187,1
+"Spacious, lovely double rm in stylish & comfy home",Lawrence Hill,Private room,1.0,1.0,2,1,30.0,88,39,97.0,51.45239,-2.55952,0
+"Modern, fresh & spacious apartment with parking",Southville,Entire home/apt,2.0,2.0,4,2,79.0,264,222,96.0,51.44405,-2.5904,1
+Victoria Park Rooms - Double & Rainforest shower,Windmill Hill,Private room,1.0,1.0,2,5,31.0,28,47,96.0,51.43877,-2.5885700000000003,1
+Prince Street Studio 11,Central,Entire home/apt,1.0,1.0,2,1,75.0,53,43,88.0,51.45135,-2.59738,0
+The Broadmead Jungle - Lovely 3BDR Apartment,Central,Entire home/apt,3.0,1.0,7,2,101.0,312,26,90.0,51.45582,-2.59025,0
+Wonderful private flat with free on-street parking,Bishopston & Ashley Down,Entire home/apt,1.0,1.0,2,2,50.0,92,269,99.0,51.4821,-2.58803,1
+"higgihaus (#46, 2-3 Bed ). Small Groups. Hip Location. Sleeps 4 - 6.",Clifton Down,Entire home/apt,3.0,3.0,6,1,312.0,54,70,97.0,51.46629,-2.60794,1
+"Own floor & entrance nr TMeads, Bristol",Windmill Hill,Private room,1.0,1.0,2,1,50.0,179,210,98.0,51.44297,-2.58055,1
+Artist's Townhouse with Views of Victoria Park,Windmill Hill,Private room,1.0,1.0,2,1,34.0,90,42,98.0,51.44072,-2.58941,1
+Suite 1 at 31 Meridian Suites - Hopewell,Clifton,Hotel room,1.0,1.0,2,1,68.0,204,52,90.0,51.455859999999994,-2.61077,0
+Suite 4 at 31 Meridian- Hopewell,Clifton,Hotel room,1.0,1.0,2,1,68.0,0,103,91.0,51.455859999999994,-2.61077,0
+Suite 6 at 31 Meridian Suites- Hopewell,Clifton,Hotel room,1.0,1.0,2,1,68.0,272,92,91.0,51.455859999999994,-2.61077,0
+Lovely Room in Excellent Bristol Location,Bishopston & Ashley Down,Private room,1.0,1.0,2,1,37.0,0,51,100.0,51.48658,-2.58688,1
+"Clean, stylish and lovely 2 bedroom house w/garden",Easton,Entire home/apt,2.0,1.0,5,1,119.0,88,15,96.0,51.4521,-2.55936,0
+"Avon Side Guest Hse, Grand Victorian Villa",Southville,Hotel room,1.0,1.5,5,1,70.0,328,99,94.0,51.44608,-2.6037,1
+Central Haven,Ashley,Private room,1.0,1.0,2,2,37.0,89,56,99.0,51.46359,-2.58807,0
+The Beeches,Brislington East,Entire home/apt,12.0,12.5,16,1,1100.0,74,47,98.0,51.4318,-2.53583,0
+Fantastic 2 Bedroom City Center Apartment,Ashley,Entire home/apt,2.0,2.0,4,2,71.0,327,44,93.0,51.461000000000006,-2.58555,1
+Ideal base for exploring Bristol and Bath,Brislington West,Private room,1.0,1.5,2,1,50.0,180,89,100.0,51.443259999999995,-2.5672099999999998,1
+Three bedroom maisonette near Bristol Harbourside,Southville,Entire home/apt,1.0,1.0,6,3,79.0,0,238,99.0,51.44148,-2.59932,1
+Beautiful room on the Top Floor of Artistic House,Central,Private room,1.0,1.0,2,2,50.0,88,24,98.0,51.463570000000004,-2.5914099999999998,1
+Spacious self-contained attic with en suite,Frome Vale,Private room,1.0,1.0,2,1,35.0,163,191,99.0,51.48816,-2.548,1
+Private room close to Cabot Circus&City Centre,Lawrence Hill,Private room,1.0,1.0,2,1,38.0,328,56,97.0,51.45856,-2.57803,1
+Outstanding Stylish Townhouse in Prime Location,Cotham,Entire home/apt,4.0,1.5,8,2,201.0,201,20,100.0,51.46488,-2.6021900000000002,0
+City centre twin bed  flat spacious bright BS2 8,Ashley,Entire home/apt,2.0,1.0,4,2,100.0,365,27,94.0,51.45993,-2.5847599999999997,0
+Clifton Coach House With Off Street Secure Parking,Clifton,Entire home/apt,1.0,1.0,2,7,79.0,106,26,96.0,51.45627,-2.61156,0
+Elegant 1 bed Clifton Down flat with parking,Clifton Down,Entire home/apt,1.0,1.0,2,2,75.0,0,51,96.0,51.46518,-2.60744,1
+Funky flat in the heart of Bristol - free parking,Ashley,Entire home/apt,2.0,1.0,4,2,99.0,19,169,93.0,51.46284,-2.58377,0
+Spacious loft room overlooking nature reserve!,Eastville,Private room,1.0,1.0,1,1,31.0,89,36,96.0,51.473079999999996,-2.55172,0
+Riverside Apartments - yourapartment,Central,Entire home/apt,1.0,1.0,4,1,78.0,342,13,75.0,51.4529,-2.59273,0
+Harp Heaven,Easton,Entire home/apt,1.0,1.0,3,1,48.0,17,26,95.0,51.46818,-2.55436,0
+Kristina's Swedish Harbourside Getaway,Hotwells & Harbourside,Entire home/apt,2.0,1.5,4,1,107.0,53,33,98.0,51.4491,-2.60675,0
+we are a small and cosy dwelling you will relax.,Hartcliffe & Withywood,Shared room,1.0,1.0,2,1,35.0,365,29,96.0,51.408159999999995,-2.62298,0
+3 Bedroom Victorian House in Montpelier,Ashley,Entire home/apt,3.0,1.0,6,2,116.0,8,37,93.0,51.46877,-2.57875,0
+Lovely 1 bedroom garden flat in St George,St George Central,Entire home/apt,1.0,1.0,2,1,42.0,82,18,94.0,51.45926,-2.53824,0
+★ Entire 3 bed luxury townhouse ★ Private Parking,Bishopston & Ashley Down,Entire home/apt,3.0,2.0,6,2,156.0,120,30,99.0,51.47619,-2.57931,1
+Chic One Bed Apartment in Clifton,Clifton Down,Entire home/apt,1.0,1.0,2,2,81.0,0,101,89.0,51.460570000000004,-2.6118900000000003,0
+Loft Apartment in Historic Building in Quiet Central Setting,Hotwells & Harbourside,Entire home/apt,2.0,2.0,4,1,104.0,0,131,96.0,51.454609999999995,-2.6029400000000003,0
+Large Garden apartment - Clifton,Clifton,Entire home/apt,3.0,2.0,8,1,189.0,338,32,86.0,51.45554,-2.61163,0
+Small home where you can relax.and enjoy yourself,Hartcliffe & Withywood,Private room,1.0,1.0,1,1,25.0,271,41,96.0,51.407309999999995,-2.6236,0
+Easton's Little Secret,Easton,Entire home/apt,2.0,1.0,4,1,36.0,358,156,92.0,51.46628,-2.56217,1
+The Old Dutch - Your Apartment,Clifton Down,Entire home/apt,2.0,2.0,6,1,133.0,247,23,93.0,51.46089,-2.61024,0
+"Spacious home sleeps 15 - families, groups, & work",Redland,Entire home/apt,5.0,2.5,15,2,314.0,89,91,98.0,51.47276,-2.59426,1
+Grand Victorian Apartment in Sought-After Clifton,Clifton Down,Entire home/apt,2.0,1.0,4,2,100.0,232,147,100.0,51.46347,-2.61532,1
+Modern & Stylish Eco Home+Garden  with city views,Ashley,Entire home/apt,2.0,3.0,4,2,182.0,0,26,96.0,51.46911,-2.5794900000000003,0
+Spacious Apt with central location & Queen Bed,Central,Entire home/apt,1.0,1.0,4,1,83.0,58,78,95.0,51.454570000000004,-2.5927599999999997,0
+"Charming Cosy Coach House in Fishponds, Bristol",Hillfields,Entire home/apt,1.0,1.0,2,2,48.0,351,22,90.0,51.46703,-2.51514,0
+2 Spacious rooms on the top floor,Avonmouth & Lawrence Weston,Private room,2.0,1.5,6,1,40.0,90,92,99.0,51.50173,-2.7032,1
+Spacious 2 Bed Garden Flat in Montpelier,Ashley,Entire home/apt,2.0,1.0,4,2,74.0,0,68,89.0,51.469359999999995,-2.5804400000000003,0
+Redlands Garden Ranch,Cotham,Entire home/apt,2.0,1.0,3,6,109.0,176,32,98.0,51.47015,-2.60691,0
+Riverside Walk,St George Troopers Hill,Entire home/apt,1.0,1.0,2,2,64.0,0,158,97.0,51.453920000000004,-2.53635,1
+Prince Street Studio 7,Central,Entire home/apt,1.0,1.0,2,1,61.0,241,38,84.0,51.45043,-2.59706,0
+Prince Street Studio 5,Central,Entire home/apt,1.0,1.0,2,1,75.0,0,45,83.0,51.44892,-2.59738,0
+Prince Street Studio 1,Central,Private room,1.0,1.0,2,1,61.0,0,27,84.0,51.44919,-2.59763,0
+Prince Street Studio 6,Central,Entire home/apt,1.0,1.0,2,1,75.0,0,43,88.0,51.45001,-2.59577,0
+Prince Street Studio 8,Central,Entire home/apt,1.0,1.0,2,1,59.0,360,102,90.0,51.44897,-2.5975900000000003,0
+Prince Street Studio 10,Central,Entire home/apt,1.0,1.0,2,1,60.0,302,30,83.0,51.449459999999995,-2.5972,0
+★Bohemian Bedroom ★Garden★ Vibrant Art Quarter★,Cotham,Private room,1.0,1.0,2,1,36.0,298,103,98.0,51.467690000000005,-2.59288,1
+Lovely Relaxing Bishopston Victorian Family Home,Ashley,Entire home/apt,4.0,2.5,7,4,150.0,12,14,96.0,51.47509,-2.58312,0
+Victoria Park double bedroom,Windmill Hill,Private room,1.0,1.5,2,3,25.0,0,36,99.0,51.43905,-2.5836099999999997,1
+Cosy En-suite room in Clifton,Clifton Down,Private room,1.0,1.0,2,2,40.0,47,76,99.0,51.46797,-2.61635,1
+Fully equipped flat in vibrant central location.,Ashley,Entire home/apt,1.0,1.0,4,2,74.0,0,78,95.0,51.46386,-2.58669,0
+"Comfy, great nights sleep in Bristol",Avonmouth & Lawrence Weston,Private room,1.0,1.0,2,1,30.0,143,16,100.0,51.488890000000005,-2.67124,0
+Deluxe Townhouse Next to Cabot Circus,Ashley,Entire home/apt,2.0,2.5,5,1,121.0,322,104,95.0,51.46114,-2.58555,0
+CENTRAL - FREE PARKING - STYLISH APT - SPOTLESS,Central,Entire home/apt,2.0,1.0,4,4,79.0,172,393,97.0,51.45543,-2.59924,1
+Belmont - yourapartment,Central,Entire home/apt,1.0,1.0,4,1,75.0,357,10,90.0,51.45308,-2.59733,0
+Urban Paradise... PETS TO FEED! **SPECIAL RATE**,Hotwells & Harbourside,Entire home/apt,3.0,1.0,8,14,98.0,0,10,96.0,51.45475,-2.60615,0
+Gorgeous Georgian House with garden in Bristol.,Ashley,Entire home/apt,4.0,2.0,8,3,275.0,21,14,100.0,51.46862,-2.58495,0
+What a view too!,St George Troopers Hill,Private room,1.0,1.0,1,1,20.0,172,32,99.0,51.45335,-2.5345299999999997,1
+Beautiful House in Bristol with Garden,St George West,Entire home/apt,2.0,1.0,4,2,61.0,356,11,98.0,51.45989,-2.55381,0
+Gorgeous & Light Victorian Home - Private Garden,Ashley,Entire home/apt,2.0,1.0,4,2,84.0,73,62,98.0,51.471990000000005,-2.57511,1
+Modern Bristol apartment right in the city centre,Central,Entire home/apt,1.0,1.0,2,2,58.0,338,59,98.0,51.4547,-2.59213,1
+Double room close to City Centre,Lawrence Hill,Private room,1.0,1.0,2,2,29.0,343,15,92.0,51.45687,-2.56525,0
+"Fab Ensuite Double,  harbour & breakfast",Central,Private room,1.0,1.5,2,1,44.0,54,220,100.0,51.44773,-2.59281,1
+Picture House Apartments on Whiteladies Road,Clifton Down,Hotel room,1.0,1.0,2,1,67.0,53,43,92.0,51.46232,-2.60886,0
+"Spacious, Peaceful Garden-Facing Bedroom",Westbury-on-Trym & Henleaze,Private room,1.0,1.5,1,1,28.0,58,77,97.0,51.4839,-2.5996200000000003,0
+Lovely 2 bedroom flat close to city centre,Lawrence Hill,Entire home/apt,2.0,1.0,3,2,57.0,162,44,96.0,51.45856,-2.5653,0
+Heart of Old Town Two bedroom apartment,Central,Entire home/apt,2.0,1.0,6,2,91.0,180,40,93.0,51.45558,-2.59238,0
+Four person newly refurbished en suite room,Southville,Hotel room,1.0,1.5,4,1,65.0,326,110,94.0,51.44578,-2.60261,1
+Cosy attic room in beautiful victorian conversion,Lawrence Hill,Private room,1.0,1.0,2,2,30.0,365,46,88.0,51.46705,-2.56737,0
+Beautiful large Clifton townhouse,Clifton,Entire home/apt,3.0,2.5,6,3,335.0,352,13,100.0,51.453359999999996,-2.6244400000000003,0
+Central retreat,Ashley,Entire home/apt,1.0,1.0,2,1,55.0,206,69,98.0,51.46025,-2.58966,1
+City of Bristol Home with a View,Cotham,Entire home/apt,1.0,1.0,2,2,97.0,0,74,98.0,51.46501,-2.59021,1
+Gloucester Road central double room,Redland,Private room,1.0,1.0,2,2,30.0,0,43,94.0,51.47719,-2.5907,0
+Stylish Studio apartment in Clifton Village,Clifton,Entire home/apt,1.0,1.0,2,2,70.0,346,75,86.0,51.45624,-2.62032,0
+"Windmill Hill- spacious, sunny, comfortable room",Windmill Hill,Private room,1.0,1.0,2,1,35.0,58,73,99.0,51.438829999999996,-2.5946599999999997,1
+"Bright, Spacious Gem in Heart of Bristol!",Ashley,Entire home/apt,1.0,1.5,3,2,126.0,133,75,98.0,51.46529,-2.58806,1
+Stylish 2 Bed * Stunning Open-Plan Space * Garden,Ashley,Entire home/apt,2.0,1.0,4,2,120.0,9,22,96.0,51.46783,-2.58695,1
+Stylish city centre Penthouse Apartment + parking,Central,Entire home/apt,2.0,3.0,6,1,174.0,50,304,96.0,51.45165,-2.59271,1
+"Roof garden flat, Royal York Crescent (Room)",Clifton,Private room,1.0,1.0,2,1,28.0,0,126,96.0,51.45533,-2.61957,1
+"Private flat with bedroom, living room & bathroom",Cotham,Entire home/apt,1.0,1.0,2,3,55.0,10,52,98.0,51.47034,-2.60736,1
+"The Barley Mow, centrally located 3 bed apartment",Lawrence Hill,Entire home/apt,3.0,1.5,8,2,137.0,173,98,92.0,51.45219,-2.57833,0
+Entire Flat - in Gorgeous New Quiet Eco-Build,Ashley,Entire home/apt,1.0,1.0,2,2,52.0,0,30,98.0,51.468790000000006,-2.58045,0
+Balcony flat in the heart of vibrant Stokes Croft,Ashley,Entire home/apt,1.0,1.0,2,2,70.0,0,46,98.0,51.4604,-2.58986,0
+"Quiet, spacious period house in Redland",Cotham,Entire home/apt,4.0,2.0,6,3,189.0,93,34,95.0,51.46938,-2.60413,0
+Double bedroom in the heart of the artistic hub,Cotham,Private room,1.0,1.0,2,1,30.0,0,56,100.0,51.46621,-2.59091,1
+"Spacious period family home in Bishopston, Bristol",Redland,Entire home/apt,3.0,1.5,6,1,134.0,80,29,99.0,51.47526,-2.5927700000000002,1
+"Bright, Cosy Double Bedroom 20min walk to town...",Southville,Private room,1.0,2.5,2,1,36.0,365,77,99.0,51.44154,-2.5968299999999997,1
+Light single bedroom Victorian house nr University,Cotham,Private room,1.0,1.0,1,2,35.0,179,42,96.0,51.46439,-2.60407,1
+Berkeley Sq Pads 5 - yourapartment,Hotwells & Harbourside,Entire home/apt,1.0,1.0,4,1,66.0,346,35,92.0,51.455659999999995,-2.60695,0
+Family home in Bedminster,Bishopsworth,Private room,1.0,1.0,4,1,25.0,89,57,96.0,51.42967,-2.60756,0
+Beautiful Double Victorian Room near University,Cotham,Private room,1.0,1.0,2,2,57.0,180,34,98.0,51.46512,-2.60512,1
+City flat close to restaurants and bars,Bishopston & Ashley Down,Entire home/apt,1.0,1.0,2,2,52.0,0,28,94.0,51.4753,-2.58963,0
+Vintage room available St Nicholas Markets (32),Central,Private room,1.0,2.0,2,1,41.0,220,188,88.0,51.45349,-2.59331,0
+Retro vintage room in Bristol centre (31),Central,Private room,1.0,2.0,2,1,41.0,217,159,88.0,51.45339,-2.59216,0
+Single bed in modern 3 bed house with gym,Southville,Private room,1.0,1.0,1,1,32.0,89,42,95.0,51.442859999999996,-2.61593,0
+Double bed in double room,Lockleaze,Private room,1.0,1.0,3,1,40.0,0,10,90.0,51.48944,-2.5682,1
+Revamped Flat in Georgian Heritage Home,Hotwells & Harbourside,Entire home/apt,1.0,1.0,2,2,99.0,69,132,100.0,51.45384,-2.6069999999999998,1
+City Of Bristol Loft Space,Knowle,Private room,1.0,1.0,2,1,31.0,53,31,95.0,51.438109999999995,-2.57402,1
+"6  or 7 bedroom flat, city centre Stag/Hen welcome",Central,Entire home/apt,7.0,2.0,16,1,557.0,219,36,96.0,51.453540000000004,-2.5928299999999997,0
+higgihaus Apartment (#26). Cool. Quirky. Stylish. Awesome Central Location.,Central,Entire home/apt,1.0,1.0,4,1,89.0,328,97,98.0,51.45947,-2.58416,1
+higgihaus Apartment (#23). Cool. Quirky. Stylish. Awesome Central Location.,Ashley,Entire home/apt,1.0,1.0,4,1,89.0,270,66,96.0,51.460609999999996,-2.58486,1
+"Modern & spacious room close to town, Temple Mead",Southville,Private room,1.0,2.0,2,1,33.0,364,78,98.0,51.441590000000005,-2.59706,1
+Small single bedroom in the heart of Lawrence Hill,Lawrence Hill,Private room,1.0,1.0,1,2,25.0,180,19,94.0,51.45765,-2.56637,0
+Delightful bungalow in a quiet part of Bristol,Horfield,Entire home/apt,2.0,1.0,4,2,60.0,0,22,96.0,51.49477,-2.59587,1
+"Gorgeous, Georgian 2BR Flat - Gloucester Road",Redland,Entire home/apt,2.0,1.0,5,2,104.0,310,65,93.0,51.47099,-2.59311,0
+Marsh House 2 Bed Superior Apartment,Central,Entire home/apt,2.0,2.0,4,1,118.0,2,10,88.0,51.4535,-2.59825,1
+Space. Egyptian Cotton. Nespresso. Montpelier.,Ashley,Entire home/apt,2.0,1.0,6,1,147.0,287,139,95.0,51.4676,-2.5813200000000003,1
+City Centre Apartment Near Cabot Circus BS2 Area,Lawrence Hill,Entire home/apt,1.0,1.0,2,2,57.0,314,111,96.0,51.45677,-2.5789999999999997,1
+2-Bed Family Home with Sunny Garden,Easton,Entire home/apt,2.0,1.0,4,1,91.0,53,77,88.0,51.462379999999996,-2.5632599999999996,0
+Spacious bright airy r4a,Eastville,Private room,1.0,2.5,2,4,27.0,174,21,83.0,51.47722,-2.55983,0
+"Silbury Rd, Ashton Vale",Bedminster,Private room,3.0,1.5,1,2,25.0,180,33,98.0,51.43497,-2.62854,1
+The Old Bank - No.1 - Your Apartment,Brislington West,Hotel room,1.0,1.0,4,1,70.0,360,14,96.0,51.442479999999996,-2.5601,0
+The Old Bank - No. 2 - Your Apartment,Brislington West,Entire home/apt,1.0,1.0,4,1,70.0,332,17,92.0,51.44089,-2.56094,0
+The Old Bank - No.3 - Your Apartment,Brislington West,Entire home/apt,1.0,1.0,4,1,70.0,357,23,94.0,51.4408,-2.56026,0
+Comfy single room 5a,Lockleaze,Private room,1.0,2.5,1,4,26.0,52,16,89.0,51.47772,-2.5611900000000003,0
+Cosy double bedroom 3a,Lockleaze,Private room,1.0,2.0,2,4,27.0,143,15,91.0,51.477990000000005,-2.5614,0
+Bristol City Centre Apartment with Parking,Hotwells & Harbourside,Entire home/apt,1.0,2.0,5,1,60.0,287,64,92.0,51.45128,-2.60206,0
+Attractive one bed flat in Clifton Village,Clifton,Hotel room,1.0,1.0,2,1,146.0,365,25,94.0,51.45387,-2.61963,0
+Bright 1 Bed in the Centre of Bristol,Central,Entire home/apt,1.0,1.0,2,1,67.0,214,45,88.0,51.46141,-2.59085,0
+"The Garden Flat - parking, Whiteladies & UoB",Clifton Down,Entire home/apt,1.0,1.0,3,2,53.0,36,167,96.0,51.46237,-2.61065,1
+"Gorgeous 2 Bedroom Town House In Clifton, Bristol",Clifton,Entire home/apt,2.0,1.0,4,2,150.0,92,13,95.0,51.45415,-2.62373,1
+Lovely private room in a family home,Lockleaze,Private room,1.0,1.0,2,1,25.0,180,148,95.0,51.48655,-2.5676799999999997,0
+Double Room in Family Home close to city centre,Knowle,Private room,1.0,1.0,1,2,25.0,351,38,97.0,51.4361,-2.57409,1
+City Of Bristol Apartment with Large Garden,Cotham,Entire home/apt,2.0,1.0,4,2,61.0,60,36,93.0,51.46902,-2.59537,1
+No 75,Horfield,Private room,1.0,1.0,2,1,31.0,143,62,98.0,51.49177,-2.5798099999999997,1
+Spacious bright room 2A,Lockleaze,Private room,1.0,2.5,2,4,27.0,143,17,87.0,51.477059999999994,-2.56168,0
+Stunning peaceful apartment nr Bristol TempleMeads,Brislington West,Entire home/apt,1.0,1.0,2,2,95.0,365,36,97.0,51.43629,-2.56117,1
+Furnished retro room in centre of Bristol (23),Central,Private room,1.0,2.0,2,1,41.0,221,73,87.0,51.454809999999995,-2.59287,0
+Double room in quiet family home,Horfield,Private room,1.0,1.0,1,1,30.0,130,40,95.0,51.49856,-2.58997,0
+Double room with ensuite in the centre of Bristol,Ashley,Private room,1.0,1.0,2,3,39.0,0,52,98.0,51.46184,-2.58493,1
+Double bedroom in a sunny modern flat,Eastville,Private room,1.0,1.0,2,1,30.0,90,62,99.0,51.48357,-2.55675,0
+Double Room in a Friendly House with TV,Filwood,Private room,1.0,1.0,2,23,28.0,13,88,99.0,51.42852,-2.59133,1
+[Rare!] BS3 Cozy Room Garden View Perfect Location,Bedminster,Private room,1.0,1.0,1,1,39.0,90,27,98.0,51.43636,-2.6042400000000003,1
+Spacious 2 Bedroom Property in Bristol,Easton,Entire home/apt,2.0,1.0,4,2,64.0,270,20,90.0,51.46174,-2.55701,0
+Calm bedroom. Quick access to Bristol,Avonmouth & Lawrence Weston,Private room,1.0,1.5,2,2,26.0,90,43,97.0,51.50225,-2.70362,1
+"Henleaze, en-suite king size double, free parking",Westbury-on-Trym & Henleaze,Private room,1.0,1.0,2,2,35.0,84,36,99.0,51.489940000000004,-2.60082,1
+No.73 - Mr Fox room. Boutique style nr Glos Rd,Bishopston & Ashley Down,Private room,1.0,1.0,2,1,51.0,89,10,98.0,51.481970000000004,-2.58589,1
+Bristol Bed & Breakfast,Hotwells & Harbourside,Private room,1.0,1.0,2,1,60.0,84,70,99.0,51.4481,-2.6097599999999996,1
+The Grange - yourapartment,Clifton,Entire home/apt,2.0,1.0,6,1,122.0,364,13,82.0,51.457359999999994,-2.6190700000000002,0
+Double room in quiet home near Bristol airport,Hartcliffe & Withywood,Private room,1.0,2.0,2,1,40.0,179,14,92.0,51.40605,-2.62224,0
+Upper Belmont,Bishopston & Ashley Down,Private room,1.0,1.0,2,2,33.0,0,16,100.0,51.47634,-2.58945,1
+Spacious bedroom 1A close to all amenities,Lockleaze,Private room,1.0,2.5,2,4,27.0,233,13,88.0,51.476729999999996,-2.56167,0
+Stylish 1 bed garden flat nr Whiteladies / Clifton,Redland,Entire home/apt,1.0,1.0,2,2,79.0,0,84,100.0,51.47032,-2.6027099999999996,1
+Bright room in the centre of Bristol (21),Central,Private room,1.0,2.0,2,1,28.0,179,65,84.0,51.45445,-2.5927700000000002,0
+No.73 - Barney Owl room. Boutique style nr Glos rd,Bishopston & Ashley Down,Private room,1.0,1.0,3,1,51.0,89,12,97.0,51.48059,-2.58495,1
+Garden Double Bed & Ensuite in Trendy St.Werburghs,Ashley,Private room,1.0,1.0,2,3,25.0,147,59,91.0,51.46775,-2.57278,0
+Stylish and Cosy Bristol Townhouse - free parking,Redland,Entire home/apt,3.0,2.5,5,2,84.0,53,25,98.0,51.47765,-2.59348,1
+Bristol BS5 room above a friendly funky pub,St George West,Private room,1.0,1.0,2,1,79.0,361,18,89.0,51.45838,-2.55154,0
+Quality room above a funky friendly Bristol pub,St George West,Hotel room,1.0,1.0,2,1,79.0,350,13,83.0,51.46009,-2.5529,0
+Cosy Victorian home 10 min bus Bristol city centre,Lawrence Hill,Private room,1.0,1.5,2,2,30.0,211,90,99.0,51.46257,-2.56874,1
+Victorian townhouse in cosmopolitian Montpelier,Ashley,Private room,1.0,2.0,2,1,38.0,174,117,99.0,51.46795,-2.58291,1
+Fishponds Lodge,Eastville,Entire home/apt,5.0,2.0,16,1,1029.0,352,12,95.0,51.47345,-2.55125,0
+Charming 1 Bed House Close to City Centre,Windmill Hill,Entire home/apt,1.0,1.0,2,2,73.0,31,18,99.0,51.43993,-2.57125,1
+R1 LARGE ROOM WITH COMFY BEDS,Eastville,Private room,1.0,1.0,6,1,28.0,0,52,85.0,51.47336,-2.5512799999999998,0
+1 Bedroom App +parking,Ashley,Entire home/apt,1.0,1.5,2,1,79.0,0,26,93.0,51.46102,-2.5906700000000003,0
+Private room available in character BS9 home,Stoke Bishop,Private room,1.0,1.5,2,2,38.0,64,29,96.0,51.47337,-2.63594,0
+R2 LARGE ROOM WITH PRIVATE BATHROOM,Eastville,Private room,1.0,2.0,4,1,33.0,0,48,88.0,51.473259999999996,-2.55039,0
+R3 QUIET LARGE ROOM,Eastville,Private room,1.0,1.0,4,1,28.0,0,49,86.0,51.47356,-2.54999,0
+R5 BEAUTIFUL ROOM ON ATTIC,Eastville,Private room,1.0,1.0,2,1,28.0,0,42,96.0,51.47405,-2.5504700000000002,0
+"Modern, light and spacious city centre pad for 4",Central,Entire home/apt,1.0,1.0,4,2,56.0,206,46,88.0,51.45584,-2.59574,0
+Double Bed Musicians Den in Trendy St. Werburghs,Ashley,Private room,1.0,1.0,2,3,30.0,91,17,99.0,51.46775,-2.57278,0
+Stylish flat next to Temple Meads train station,Lawrence Hill,Entire home/apt,1.0,1.0,4,2,65.0,349,41,94.0,51.453179999999996,-2.58,0
+Cosy Tree House with private balcony + lake view,Eastville,Entire home/apt,1.0,1.5,3,2,50.0,364,68,97.0,51.478790000000004,-2.5555,0
+Central Urban Retreat,Lawrence Hill,Entire home/apt,1.0,1.0,4,1,110.0,298,73,95.0,51.45595,-2.57914,1
+LARGE PEACEFUL DOUBLE ROOM WITH PARKING,Hengrove & Whitchurch Park,Private room,1.0,1.0,2,2,35.0,365,23,97.0,51.41885,-2.57727,1
+Self-Contained Annexe Flat with Parking & Garden,Southmead,Entire home/apt,1.0,1.0,2,1,45.0,188,73,99.0,51.50589,-2.5956200000000003,1
+Warm and comfortable home in Westbury Park.,Westbury-on-Trym & Henleaze,Entire home/apt,3.0,3.5,5,3,129.0,44,56,100.0,51.478809999999996,-2.61425,1
+"Off Whiteladies Rd nr Uni, BBC, Hospitals, Clifton",Clifton Down,Entire home/apt,2.0,1.0,6,2,92.0,0,99,95.0,51.46245,-2.60826,1
+City Centre 2 Bed Maisonette,Central,Entire home/apt,2.0,1.0,4,1,100.0,134,28,89.0,51.45661,-2.59796,0
+Work from our home with free parking in Clifton,Hotwells & Harbourside,Entire home/apt,3.0,2.5,6,2,182.0,70,48,98.0,51.44964,-2.62262,0
+STUNNING City Centre Living - with parking,Central,Entire home/apt,2.0,1.0,4,2,116.0,92,22,98.0,51.45641,-2.5979900000000002,1
+Brand new stylish central apartment,Ashley,Entire home/apt,2.0,2.5,4,5,140.0,179,10,100.0,51.45948,-2.5851599999999997,0
+Stylish period apartment in Bristol Harbourside,Southville,Entire home/apt,1.0,1.0,2,1,55.0,0,25,100.0,51.44497,-2.59978,0
+Luxurious flat with own entrance and parking,Clifton,Entire home/apt,1.0,1.0,2,2,70.0,99,173,99.0,51.45582,-2.61101,1
+Beautiful 2 bedroom apartment in vibrant Easton,Easton,Entire home/apt,2.0,1.0,7,2,215.0,180,22,94.0,51.4649,-2.56109,0
+"Bristol Redland 1 Bedroom Flat, Sleeps 4",Redland,Entire home/apt,1.0,1.0,4,1,70.0,323,52,90.0,51.47687,-2.609,0
+Very spacious double room on ground floor.,Avonmouth & Lawrence Weston,Private room,1.0,1.5,3,2,36.0,90,19,95.0,51.50178,-2.7014400000000003,1
+Private room in superb Southville Location Mon-Fri,Southville,Private room,1.0,1.5,1,2,35.0,23,18,100.0,51.44585,-2.60722,1
+Modern one bed apartment close to the centre.,Southville,Entire home/apt,1.0,1.0,2,2,60.0,37,32,100.0,51.44119,-2.5958,0
+No.73 - Boutique style rooms near Glos rd,Bishopston & Ashley Down,Private room,2.0,1.0,5,1,108.0,0,16,99.0,51.48062,-2.58427,1
+Stylish City Centre Penthouse-Private Roof Terrace,Ashley,Entire home/apt,2.0,2.0,4,1,82.0,264,46,97.0,51.46034,-2.58533,1
+The Bookroom,Southville,Private room,1.0,1.0,3,1,28.0,174,66,99.0,51.44377,-2.61554,0
+"Lovely 2-bed apartment, popular Gloucester Road",Bishopston & Ashley Down,Entire home/apt,2.0,1.0,6,2,115.0,175,42,98.0,51.48571,-2.58606,1
+Modern luxury apartment in Bristol City Centre,Central,Entire home/apt,2.0,1.0,4,1,123.0,167,87,97.0,51.46164,-2.59085,1
+Bright 1 double bed apartment near Cabot Circus,Ashley,Entire home/apt,1.0,1.0,2,2,75.0,0,49,96.0,51.4598,-2.58409,0
+3 bedroom Shirehampton flat near Avonmouth & M4,Avonmouth & Lawrence Weston,Entire home/apt,3.0,1.0,5,2,126.0,90,11,96.0,51.49026,-2.67797,0
+Single-bedroom in a Beautiful Flat in St. Andrew's,Ashley,Private room,1.0,1.0,1,3,36.0,178,12,100.0,51.47095,-2.58684,0
+Beautiful Georgian flat with parking! Clifton,Clifton Down,Entire home/apt,2.0,1.0,6,28,81.0,262,172,98.0,51.46284,-2.61301,1
+Fantastic 2 double bedroom apartment,Hartcliffe & Withywood,Entire home/apt,2.0,1.0,6,2,68.0,0,14,90.0,51.41558,-2.61722,0
+Charming Victorian Apartment- Vibrant Central Area,Redland,Entire home/apt,2.0,1.0,5,2,57.0,146,77,90.0,51.47203,-2.59628,0
+Large Clifton One Bed Flat + Parking,Clifton,Entire home/apt,1.0,1.0,2,1,68.0,73,75,89.0,51.45647,-2.61503,0
+2-Bed in Bedminster with Parking,Bedminster,Entire home/apt,2.0,1.0,4,1,93.0,0,41,90.0,51.43895,-2.61049,0
+3 bedroom apartment overlooking SS Great Britain,Clifton,Entire home/apt,3.0,3.0,6,1,206.0,257,23,91.0,51.450540000000004,-2.61036,0
+"Two person re furnished room, great views",Hotwells & Harbourside,Private room,1.0,1.5,2,1,40.0,328,47,93.0,51.44672,-2.60344,1
+"Beautiful, light home in friendly St.Werburghs",Ashley,Entire home/apt,4.0,1.5,8,7,275.0,263,12,98.0,51.47009,-2.5758900000000002,1
+Charming & spacious garden flat close to BRI,Clifton,Entire home/apt,2.0,2.0,4,2,121.0,127,55,94.0,51.4574,-2.6095099999999998,1
+coach house discounts long term stays sleep 8,Bishopston & Ashley Down,Entire home/apt,2.0,1.0,6,2,60.0,339,54,94.0,51.484629999999996,-2.58222,0
+Attic room with en suite,Windmill Hill,Private room,1.0,1.0,4,2,30.0,73,79,100.0,51.43942,-2.5805599999999997,1
+"Apartment in Quiet, City Centre, Historic Building",Lawrence Hill,Entire home/apt,2.0,1.0,4,2,100.0,174,19,96.0,51.45562,-2.58297,0
+Georgian Home for Comfort and Rest,Cotham,Private room,1.0,1.0,2,1,28.0,0,91,95.0,51.47125,-2.60961,1
+"Experience Bristol & Bath; Sunny, Hip, Central apt",Lawrence Hill,Entire home/apt,2.0,1.0,6,28,129.0,293,76,95.0,51.45595,-2.57914,1
+Lorraine's quiet and comfy city centre apartment,Ashley,Entire home/apt,1.0,1.0,2,2,89.0,3,24,91.0,51.46135,-2.59068,0
+Duplex! Penthouse! Private Rooftop!  Location!,Lawrence Hill,Entire home/apt,2.0,1.0,6,3,103.0,85,27,92.0,51.45747,-2.58088,0
+"Light, spacious and calm loft room in family home",Bedminster,Private room,1.0,1.0,1,2,20.0,0,15,100.0,51.435559999999995,-2.6088,1
+Tranquil 2 bedroom home in Totterdown,Windmill Hill,Entire home/apt,2.0,1.5,4,2,95.0,120,53,98.0,51.44128,-2.5705299999999998,1
+Work from our House with the Blue Door in Clifton,Clifton,Entire home/apt,5.0,2.5,9,2,463.0,292,32,93.0,51.45597,-2.6112900000000003,0
+A Sunlit Single bedroom for a female,Eastville,Private room,1.0,1.0,1,1,39.0,90,10,98.0,51.482079999999996,-2.55706,0
+Single room near airport bus route and bottleyard,Hengrove & Whitchurch Park,Private room,1.0,1.0,1,1,20.0,125,82,98.0,51.423359999999995,-2.56352,1
+Clifton 2 Bedroom Apartment with Garden,Clifton Down,Entire home/apt,2.0,1.0,4,1,111.0,0,35,95.0,51.45909,-2.61386,0
+The Hubert,Ashley,Entire home/apt,2.0,2.0,6,1,124.0,359,27,98.0,51.461000000000006,-2.58426,0
+"Quiet, large, sunny big bedroom with en-suite.",Redland,Private room,1.0,1.0,2,2,50.0,89,12,97.0,51.47497,-2.5931599999999997,0
+City Hideaway. No leisure bookings until April 12,St George Troopers Hill,Entire home/apt,3.0,2.0,9,2,124.0,328,137,97.0,51.45472,-2.53249,1
+Lovely room to rent in Victorian house,Easton,Private room,1.0,1.0,2,1,35.0,89,13,97.0,51.46246,-2.55982,0
+Spacious loft double room.,Windmill Hill,Private room,1.0,1.5,2,2,35.0,23,15,95.0,51.4388,-2.58995,0
+Modernised and spacious family home.,Avonmouth & Lawrence Weston,Entire home/apt,3.0,1.5,5,2,127.0,363,12,92.0,51.49357,-2.67951,0
+⭐  AMAZING House ⭐ Free Parking! 🚙⭐ Location! ⭐,Southville,Entire home/apt,3.0,1.0,8,1,89.0,74,48,99.0,51.44206,-2.61179,1
+Luxury garden flat in the heart of Bristol. 7px,Cotham,Entire home/apt,3.0,2.0,7,1,300.0,139,92,99.0,51.462990000000005,-2.59718,1
+Immaculate small single room in lovely house.,Westbury-on-Trym & Henleaze,Private room,1.0,1.0,1,1,27.0,52,25,99.0,51.49015,-2.62256,1
+Kings sized bed in a double bedroom,Westbury-on-Trym & Henleaze,Private room,1.0,1.0,1,1,25.0,50,13,100.0,51.48915,-2.62317,1
+Self-contained garden annexe,Henbury & Brentry,Entire home/apt,1.0,1.0,2,2,55.0,149,38,92.0,51.505759999999995,-2.62724,0
+Furnished Vintage room in Centre of Bristol (24),Central,Private room,1.0,2.0,2,1,41.0,221,74,86.0,51.45298,-2.59329,0
+"⭐️Fantastic Apartment nr Eastville Park, slps 8⭐️",Eastville,Entire home/apt,4.0,1.5,8,2,199.0,78,26,88.0,51.472609999999996,-2.5596099999999997,0
+City Centre 1 Bed Apartment by the Water Front,Central,Entire home/apt,1.0,1.0,2,1,73.0,57,29,87.0,51.453179999999996,-2.59667,0
+Spacious 2 bedroom flat with lovely views,Westbury-on-Trym & Henleaze,Entire home/apt,2.0,1.0,3,2,60.0,3,34,100.0,51.47616,-2.61101,1
+STUNNING BrandNew Apartment - Between Bristol&Bath,Brislington West,Entire home/apt,1.0,1.0,2,2,76.0,179,28,96.0,51.4292,-2.53987,0
+Ebury Place - Your Apartment,Southville,Entire home/apt,2.0,2.0,5,1,122.0,239,17,95.0,51.4461,-2.60081,0
+"En-suite, Kingsize, Attic room.",Eastville,Private room,1.0,1.0,1,1,25.0,176,30,99.0,51.4778,-2.54134,1
+higgihaus (7 Bed). Large House. Big Groups. Best Location.,Clifton Down,Entire home/apt,7.0,3.0,16,1,1124.0,131,21,96.0,51.4666,-2.60818,1
+"⭐Private, quiet, double-bedroom in Bristol⭐",Lawrence Hill,Private room,1.0,1.5,2,10,45.0,37,32,96.0,51.46115,-2.5642099999999997,1
+The Wharf,Southville,Entire home/apt,3.0,1.5,8,1,189.0,330,10,88.0,51.44508,-2.60373,0
+Victoria Sq Clifton Village Large Apt 2 Bed/2 Bath,Clifton,Entire home/apt,2.0,2.0,4,2,92.0,275,61,100.0,51.45598,-2.61645,1
+"Calm, stylish double ensuite. Free WiFi & parking",Windmill Hill,Private room,1.0,1.0,2,2,25.0,113,62,100.0,51.43823,-2.58938,1
+"Friendly family home, double bed, close to centre",Filwood,Private room,1.0,1.0,2,1,26.0,120,67,99.0,51.42933,-2.59346,1
+"Comfortable room, quiet road with easy parking.",St George Troopers Hill,Private room,1.0,1.5,2,1,25.0,42,36,99.0,51.45765,-2.5409900000000003,1
+Spacious light-filled 3 bedroom house with garden,Bishopston & Ashley Down,Entire home/apt,3.0,1.0,6,3,160.0,239,10,98.0,51.4792,-2.58704,0
+Cotham Apartment Stokes Croft BS6 Bristol Views,Cotham,Entire home/apt,1.0,1.0,2,3,69.0,354,11,89.0,51.464859999999994,-2.5921,0
+"One bed duplex in Cigar Factory, North Street",Southville,Entire home/apt,1.0,1.0,2,2,52.0,180,88,98.0,51.44245,-2.61254,1
+Sun drenched. well located- 2 room garden Annex,Bishopston & Ashley Down,Entire home/apt,1.0,1.0,2,2,75.0,365,37,97.0,51.48,-2.58541,1
+Big Private double bedroom in family home.,Horfield,Private room,1.0,2.0,2,1,44.0,180,14,100.0,51.49303,-2.5791,1
+Beautiful Central Apartment - Free Secure Parking!,Ashley,Entire home/apt,1.0,1.0,2,2,45.0,1,104,98.0,51.45964,-2.58497,0
+"Bright double room -garden, BBQ, near shops & park",Bishopston & Ashley Down,Private room,1.0,1.0,2,2,45.0,270,17,98.0,51.482040000000005,-2.58183,1
+Whiteladies Rd 1 Bed Apartment,Clifton Down,Entire home/apt,1.0,1.0,2,1,75.0,0,13,92.0,51.4695,-2.61367,0
+★Large 4 story  house hidden in Central Bristol★,Central,Entire home/apt,1.0,1.0,2,2,72.0,227,33,88.0,51.45401,-2.59648,0
+Gorgeous home. Great Location. Off-street Parking.,Cotham,Private room,1.0,1.0,2,1,46.0,88,20,98.0,51.466429999999995,-2.60086,1
+Double room in luxury apartment in Clifton Village,Clifton,Private room,1.0,1.0,2,1,60.0,89,121,98.0,51.45474,-2.61796,1
+Superb large private loft suite with great views,Stoke Bishop,Entire home/apt,1.0,1.0,2,2,93.0,0,28,100.0,51.482490000000006,-2.63843,1
+Rowan Tree #2 - Garden Apartment - Your Apartment,Central,Entire home/apt,2.0,2.0,6,1,133.0,144,10,98.0,51.46172,-2.60336,0
+Rowan Tree #1 - Garden Apartment - Your Apartment,Cotham,Entire home/apt,3.0,3.0,6,1,133.0,342,18,94.0,51.4628,-2.6034900000000003,0
+Comfort,Lockleaze,Entire home/apt,1.0,1.0,1,1,35.0,179,69,91.0,51.48499,-2.56752,0
+"Stylish Spacious Deluxe Garden Flat, Clifton",Clifton,Entire home/apt,1.0,1.0,4,3,99.0,111,43,100.0,51.45205,-2.61783,1
+Stunning Arty Apartment in the heart of Clifton,Clifton,Entire home/apt,2.0,1.0,4,1,75.0,21,35,95.0,51.4602,-2.6159,0
+Burlington Apartment Above Whiteladies Road,Clifton Down,Entire home/apt,2.0,1.5,4,1,119.0,0,25,89.0,51.4693,-2.61348,0
+Spacious Central Bristol Apartment- nr Harbourside,Bedminster,Entire home/apt,3.0,1.0,6,2,270.0,178,17,94.0,51.43963,-2.60638,0
+Coldharbour Suites - No 3 Studio- Hopewell,Redland,Entire home/apt,1.0,1.0,2,1,58.0,349,28,93.0,51.47967,-2.60482,0
+Coldharbour Suites - No 4 - Hopewell,Westbury-on-Trym & Henleaze,Entire home/apt,1.0,1.0,2,1,99.0,316,11,91.0,51.48118,-2.60608,0
+Coldharbour Suites - No 5 - Hopewell,Westbury-on-Trym & Henleaze,Entire home/apt,1.0,1.0,2,1,61.0,307,15,81.0,51.48041,-2.60705,0
+Coldharbour Suites- No 6 Studio- Hopewell,Westbury-on-Trym & Henleaze,Entire home/apt,1.0,1.0,2,1,55.0,365,27,90.0,51.480579999999996,-2.60719,0
+"C4M HOUSE- garden, driveway & street parking free",Avonmouth & Lawrence Weston,Entire home/apt,3.0,1.5,10,2,85.0,0,28,89.0,51.50057,-2.6631299999999998,0
+& Cosy Apartment in the heart of Stokes Croft,Ashley,Entire home/apt,1.0,1.0,4,1,57.0,68,63,94.0,51.46416,-2.58679,0
+& Budget garden flat  on the Stokes Croft,Ashley,Entire home/apt,1.0,1.0,6,1,45.0,78,42,91.0,51.464459999999995,-2.58699,0
+The Studio,Avonmouth & Lawrence Weston,Private room,1.0,1.0,2,1,63.0,21,73,99.0,51.49413,-2.6686799999999997,1
+City centre House on wheels Motor home!,Lawrence Hill,Entire home/apt,1.0,1.5,3,3,29.0,358,42,89.0,51.45333,-2.57538,0
+Contemporary room with creative design features,Frome Vale,Private room,1.0,1.0,2,2,24.0,180,49,97.0,51.48186,-2.53559,1
+R6 PRIVATE ROOM ON ATTIC,Eastville,Private room,1.0,1.0,3,1,27.0,0,18,95.0,51.47383,-2.54917,0
+*DEEP CLEANED* Roof Apartment HEART of Bristol,Central,Entire home/apt,2.0,2.0,5,1,107.0,271,66,88.0,51.4533,-2.59628,0
+*UNIQUE DEEP CLEANED 2bed  apartment*,Lawrence Hill,Entire home/apt,2.0,2.0,6,1,122.0,193,57,90.0,51.45789,-2.5800099999999997,0
+Luxury garden flat in Clifton village with parking,Clifton,Entire home/apt,2.0,1.0,4,2,122.0,117,70,98.0,51.456720000000004,-2.61545,1
+Renovated Victorian house with all modern comforts,Windmill Hill,Entire home/apt,2.0,1.0,4,2,140.0,193,20,99.0,51.4441,-2.5797,0
+Bright and spacious room close to temple meads,Windmill Hill,Private room,1.0,1.0,2,2,33.0,90,33,98.0,51.4417,-2.57682,1
+"Very special, charming cottage in Clifton Village",Clifton,Entire home/apt,3.0,3.0,5,1,150.0,4,11,98.0,51.45349,-2.61504,0
+The centre point One Bed Flat ..,Central,Entire home/apt,1.0,1.0,2,2,58.0,335,47,97.0,51.45471,-2.59323,1
+Self Contained Apartment City Centre Bristol,Central,Entire home/apt,1.0,1.0,2,1,75.0,86,29,97.0,51.45438,-2.5853900000000003,1
+Stokes Croft double room- central but lively,Ashley,Private room,1.0,1.0,2,1,26.0,24,62,97.0,51.464009999999995,-2.58942,0
+Stay at the Whiteway.,St George Central,Entire home/apt,1.0,1.0,4,1,67.0,329,22,99.0,51.461729999999996,-2.53389,1
+Master bedroom in Victorian terraced home,Easton,Private room,1.0,1.0,2,1,20.0,68,54,98.0,51.46761,-2.56556,1
+Clifton Spacious 3 Bed Apt&Parking-Simply Check In,Clifton Down,Entire home/apt,3.0,3.0,5,2,143.0,0,15,96.0,51.467659999999995,-2.61865,1
+2 bdrm House off Whiteladies Sleeps 6 Free Parking,Clifton Down,Entire home/apt,2.0,1.0,6,2,39.0,1,52,88.0,51.46235,-2.60898,0
+Brand new to air bnb market. 3 Storey Town House,Horfield,Entire home/apt,4.0,2.5,10,1,95.0,82,39,94.0,51.49747,-2.57333,0
+2- Double Room in Clifton,Clifton Down,Private room,1.0,1.0,3,1,37.0,365,48,92.0,51.45834,-2.61078,0
+Bright Modern Two Bed with Parking,Cotham,Entire home/apt,2.0,1.0,4,1,139.0,53,26,89.0,51.46758,-2.60203,0
+A brand new modern 2-bed apartment in Bedminster,Southville,Entire home/apt,2.0,1.0,4,2,60.0,296,39,96.0,51.442440000000005,-2.59552,0
+Beautiful spacious cottage with hot tub.,Bishopsworth,Entire home/apt,3.0,2.0,8,2,194.0,118,69,100.0,51.420840000000005,-2.6308700000000003,1
+Spacious sunny 3 bedroom flat in Bishopston,Redland,Entire home/apt,3.0,1.0,6,2,85.0,352,12,100.0,51.4776,-2.59364,1
+2 Bed Home - Gloucester Road,Redland,Entire home/apt,2.0,1.0,3,2,60.0,325,38,89.0,51.47191,-2.59218,0
+Comfortable double room with two windows and WiFi,Southmead,Private room,1.0,1.5,2,1,28.0,365,11,100.0,51.500890000000005,-2.60993,1
+NEW LISTING comfortable double room with garden,Southmead,Private room,1.0,1.5,2,1,25.0,365,25,98.0,51.49965,-2.61082,1
+"Friendly popular area,near Bristol City Centre",Windmill Hill,Private room,1.0,1.0,2,1,36.0,83,70,99.0,51.44081,-2.58018,1
+City Centre Stay with amazing outside space,Central,Entire home/apt,1.0,1.0,2,1,80.0,53,12,100.0,51.45518,-2.58748,1
+3 bed Victorian house with private parking,Windmill Hill,Entire home/apt,3.0,1.5,5,2,130.0,179,14,100.0,51.43962,-2.5756900000000003,1
+"Sunny, elegant Clifton Village flat",Clifton,Entire home/apt,1.0,1.0,2,1,97.0,364,27,99.0,51.45661,-2.6103400000000003,0
+Fantastic home from home,Hengrove & Whitchurch Park,Entire home/apt,2.0,1.0,5,2,75.0,178,13,97.0,51.41623,-2.5659099999999997,0
+Bright & cosy 1-bedroom flat in central Bristol,Hotwells & Harbourside,Entire home/apt,1.0,1.0,2,2,70.0,0,10,96.0,51.452490000000004,-2.60696,0
+The Armidale : fantastic central one-bed flat,Ashley,Entire home/apt,1.0,1.0,4,2,65.0,11,12,90.0,51.46667,-2.58902,0
+Cosy room in Townhouse,Avonmouth & Lawrence Weston,Private room,1.0,1.0,1,2,22.0,117,19,98.0,51.50007,-2.69889,1
+Creative & comfy house with garden oasis,Filwood,Entire home/apt,3.0,1.0,5,4,81.0,0,22,98.0,51.43034,-2.60182,1
+A cosy family home in Windmill Hill,Windmill Hill,Entire home/apt,2.0,1.0,5,2,73.0,337,20,93.0,51.43573,-2.59836,0
+SACO Bristol Broad Quay Studio Apartment,Central,Private room,1.0,1.0,2,1,73.0,38,16,93.0,51.451879999999996,-2.59611,0
+Charming Southville House with Garden,Southville,Entire home/apt,2.0,1.0,4,1,74.0,11,20,83.0,51.44423,-2.60343,0
+Charming self-contained Clifton flat with parking,Clifton Down,Entire home/apt,1.0,1.0,4,1,99.0,29,83,99.0,51.46289,-2.61187,1
+Stylish 2 bed 2 bath apartment in downtown Bristol,Ashley,Entire home/apt,2.0,2.0,4,7,65.0,114,28,94.0,51.46179,-2.5868,0
+Modern Townhouse with Garden and Parking,Bishopston & Ashley Down,Entire home/apt,3.0,2.5,6,1,133.0,194,26,95.0,51.47893,-2.58209,0
+In a wood in the city,Clifton Down,Private room,1.0,1.0,1,2,33.0,38,35,98.0,51.46287,-2.61448,1
+"Large 2 bedroom, sleeps 6 - City Centre",Lawrence Hill,Entire home/apt,2.0,2.0,6,1,124.0,364,12,88.0,51.45519,-2.58215,0
+Lawrence Hill Apartments  - No 1,Lawrence Hill,Entire home/apt,1.0,1.0,2,1,71.0,365,21,77.0,51.45884,-2.56446,0
+Lawrence Hill Apts -No2,Lawrence Hill,Entire home/apt,1.0,1.0,4,1,89.0,243,18,83.0,51.45722,-2.56498,0
+Lawrence Hill Apartments- No 3,Lawrence Hill,Entire home/apt,2.0,1.0,4,1,98.0,0,11,85.0,51.457159999999995,-2.5667299999999997,0
+Southville 1 Bed Flat - 12min walk to Harbourside,Bedminster,Entire home/apt,1.0,1.0,2,1,50.0,320,14,83.0,51.43919,-2.6021,0
+One Bed Apartment on Welsh Back,Central,Entire home/apt,1.0,1.0,2,7,94.0,0,12,95.0,51.45436,-2.59135,0
+Studio Apartment on Welsh Back,Central,Entire home/apt,1.0,1.0,2,7,79.0,99,36,95.0,51.45286,-2.5928400000000003,0
+Clifton Georgian Balcony Apt - Simply Check In,Clifton,Entire home/apt,2.0,2.0,5,2,146.0,119,44,99.0,51.45329,-2.6209700000000002,1
+Sandbed House - Sleeps 4 - 6.,Ashley,Entire home/apt,2.0,2.5,6,2,84.0,257,41,98.0,51.46802,-2.57183,1
+"The Robinson Building, converted Victorian factory",Southville,Entire home/apt,1.0,1.0,2,2,55.0,1,54,98.0,51.44062,-2.60006,1
+Berkeley Sq Pads - No.8,Hotwells & Harbourside,Entire home/apt,1.0,1.0,4,1,66.0,261,17,84.0,51.455909999999996,-2.60759,0
+Double room in a lovely place to stay,St George Troopers Hill,Private room,1.0,1.5,1,1,20.0,127,20,94.0,51.4526,-2.53488,0
+Lovely 2BR home with sunny garden in Montpelier,Ashley,Entire home/apt,2.0,1.0,4,2,90.0,142,48,98.0,51.46565,-2.58366,1
+Quiet Room in the Heart of Cliftonwood,Hotwells & Harbourside,Private room,1.0,1.0,1,3,30.0,0,16,95.0,51.44982,-2.60915,0
+Newly renovated flat near Bristol City Centre!,Ashley,Entire home/apt,1.0,1.0,4,2,64.0,261,41,99.0,51.467259999999996,-2.5770299999999997,1
+Spacious double bedroom in comfortable property.,Redland,Private room,1.0,2.0,3,1,45.0,138,12,98.0,51.47168,-2.60621,1
+Fantastic 2 Bed Apartment Close To The Downs,Stoke Bishop,Entire home/apt,2.0,2.0,4,1,114.0,308,12,87.0,51.47238,-2.62855,0
+New! Stylish flat in Clifton close to City Centre,Clifton,Entire home/apt,2.0,1.0,4,1,107.0,103,65,95.0,51.45025,-2.6241,1
+Central Bristol stylish Victorian home PARK FREE,Redland,Entire home/apt,3.0,2.5,6,2,145.0,0,10,96.0,51.47156,-2.59649,1
+White Horse Mews discounts long term stay,Ashley,Entire home/apt,2.0,1.0,6,1,63.0,358,24,92.0,51.4652,-2.57818,0
+The treasure chest,St George West,Private room,1.0,1.0,2,2,25.0,53,23,99.0,51.46287,-2.54327,1
+Chic coach house in excellent area,Clifton Down,Entire home/apt,1.0,1.0,2,1,45.0,162,37,92.0,51.46996,-2.61036,0
+Studio as part of large manor house,Cotham,Entire home/apt,1.0,1.0,2,1,45.0,152,36,93.0,51.46997,-2.60879,0
+Cosy newly renovated flat near Bristol City Centre,Ashley,Entire home/apt,1.0,1.0,4,1,72.0,270,34,98.0,51.465920000000004,-2.57934,1
+Cool newly renovated flat near Bristol City Centre,Ashley,Entire home/apt,1.0,1.0,4,2,96.0,0,28,99.0,51.4673,-2.57967,1
+Little Luckwell Apartment,Bedminster,Entire home/apt,1.0,1.0,2,2,85.0,118,12,97.0,51.4359,-2.61127,0
+The Loft - 3 Bedroom apartment - Your Apartment,Lawrence Hill,Entire home/apt,3.0,2.0,8,1,189.0,364,16,93.0,51.454809999999995,-2.5831,0
+Elegant Georgian apartment near Clifton Village,Clifton,Entire home/apt,1.0,1.0,2,2,60.0,161,32,92.0,51.45194,-2.62042,0
+New - Bristol base near city centre!,Ashley,Entire home/apt,1.0,1.0,4,2,66.0,260,34,96.0,51.4666,-2.57931,1
+⭐️ NEW Bristol Holiday Home ⭐️ Private Garden ⭐️,Bishopston & Ashley Down,Entire home/apt,3.0,1.5,9,2,165.0,223,10,94.0,51.48357,-2.5939200000000002,0
+"Luxury 2 bedroom flat, garage for free parking!",Clifton,Entire home/apt,2.0,2.0,6,2,115.0,80,41,98.0,51.45479,-2.61921,1
+Sunny & Warm Loft Room with Double Bed,Avonmouth & Lawrence Weston,Private room,1.0,1.5,1,1,20.0,0,23,96.0,51.48877,-2.67148,0
+"Number 2 ""The Cottage""West Town Park",Brislington West,Entire home/apt,1.0,1.5,2,1,50.0,115,31,98.0,51.4304,-2.55355,1
+Spacious attic room -Victorian house.Free parking.,Ashley,Private room,1.0,1.0,2,2,45.0,90,25,100.0,51.470909999999996,-2.5843599999999998,1
+Converted Victorian Sunday School,Southville,Private room,1.0,1.0,2,2,50.0,89,11,98.0,51.44121,-2.6031299999999997,1
+"Comfortable, bright flat oozing Mid Century chic.",Bedminster,Entire home/apt,1.0,1.0,3,1,38.0,151,60,99.0,51.43851,-2.6045,1
+Imagination Cosy 3 bed House Bristol,Southmead,Entire home/apt,3.0,1.0,6,1,106.0,360,12,93.0,51.49982,-2.60564,0
+Apartment - Southmead Hospital Airbus MoD Parking✅,Southmead,Entire home/apt,1.0,1.0,2,4,50.0,32,20,94.0,51.50388,-2.60445,1
+Unique & Homely Suite With Own Access,Clifton Down,Entire home/apt,1.0,1.0,2,1,54.0,365,28,81.0,51.469429999999996,-2.61743,0
+"higgihaus (#3a, 4 Bed). Big Groups. Hip Location. Sleeps 12.",Cotham,Entire home/apt,4.0,3.0,12,1,843.0,147,11,95.0,51.46712,-2.59125,1
+"higgihaus (#3b, 4 Bed). Big Groups. Hip Location. Sleeps 10.",Ashley,Entire home/apt,4.0,3.0,10,1,702.0,144,10,96.0,51.46894,-2.59072,1
+Spacious double bed and newly refurbed bathroom,Brislington East,Private room,1.0,1.0,2,1,45.0,270,16,95.0,51.45016,-2.54973,0
+First floor double bedroom in comfortable home.,Cotham,Private room,1.0,2.0,2,1,39.0,290,15,92.0,51.46985,-2.6063099999999997,1
+Modern city centre hideaway,Central,Entire home/apt,1.0,1.0,4,2,39.0,326,81,99.0,51.4461,-2.58529,1
+Quiet Hideaway on Windmill Hill!),Windmill Hill,Private room,1.0,1.0,2,1,42.0,364,22,99.0,51.43929,-2.5912900000000003,1
+CLEAN Beautiful Clifton Bedroom super close to BBC,Clifton Down,Private room,1.0,1.0,2,1,69.0,30,20,97.0,51.45865,-2.61002,1
+Cheap Bristol stay,Frome Vale,Private room,1.0,1.5,2,1,22.0,53,12,95.0,51.47918,-2.53392,0
+Spacious and Comfortable 1 Bedroom Flat,St George Troopers Hill,Entire home/apt,1.0,1.0,2,3,55.0,328,25,99.0,51.4556,-2.5283599999999997,1
+A Clifton Village Pied-A-Terre in the perfect location in Clifton Village.,Clifton,Entire home/apt,1.0,1.0,2,1,54.0,349,12,93.0,51.4539,-2.62006,0
+Stylish and spacious one bedroom flat,Clifton Down,Entire home/apt,1.0,1.0,2,2,50.0,206,27,93.0,51.46417,-2.60736,0
+Incredible Riverside House with Huskies -  Ensuite,St George Troopers Hill,Private room,1.0,1.5,3,1,34.0,357,50,93.0,51.45593,-2.53828,1
+Westbourne - Clifton garden flat - MyCityHaven,Clifton Down,Entire home/apt,2.0,1.0,6,2,116.0,180,11,78.0,51.45984,-2.61013,0
+Cosy red guest double room in Easton home,Easton,Private room,1.0,1.0,2,1,21.0,68,33,98.0,51.46859,-2.56668,1
+Cosy home near to Bristol Airport and City Centre,Bishopsworth,Entire home/apt,3.0,1.0,5,2,68.0,53,22,94.0,51.422540000000005,-2.6253599999999997,0
+"Gorgeous Hidden Gem!  Private, Trendy & Central",Ashley,Entire home/apt,2.0,2.0,6,2,95.0,214,26,99.0,51.467729999999996,-2.57344,1
+Unique oasis in the heart of the city Free Parking,Hotwells & Harbourside,Entire home/apt,1.0,1.0,2,7,80.0,331,10,100.0,51.452909999999996,-2.60426,1
+MICHELANGELO  “...questing for perfection...”,Stockwood,Private room,1.0,2.0,2,1,30.0,365,12,97.0,51.4286,-2.55718,1
+Amazing Wapping Wharf 2 bed Apartment + Balcony!,Southville,Entire home/apt,2.0,1.0,4,1,107.0,53,12,93.0,51.44575,-2.6003700000000003,0
+Gorgeous garden cabin,St George Central,Entire home/apt,1.0,1.0,4,2,45.0,154,16,98.0,51.46646,-2.52478,1
+The annexe,Henbury & Brentry,Entire home/apt,1.0,1.0,4,1,40.0,67,26,97.0,51.51397,-2.617,0
+Townhouse in Clifton Village - R&R Guesthouse #3,Clifton,Entire home/apt,4.0,2.5,7,2,220.0,289,20,88.0,51.45393,-2.6248099999999996,0
+"Bright, quiet, spacious room with private bathroom",Easton,Private room,1.0,1.0,2,1,40.0,301,11,98.0,51.45601,-2.5588900000000003,1
+"Comfortable room, 10 min walk to the city centre",Southville,Private room,1.0,1.0,2,1,25.0,39,30,96.0,51.44448,-2.60418,0
+Cosy guest room in warm friendly house.,Avonmouth & Lawrence Weston,Private room,1.0,1.0,2,1,32.0,363,31,100.0,51.49537,-2.69223,1
+Quaint calm stylish oasis (with resident cat),Ashley,Private room,1.0,1.0,1,2,30.0,59,15,99.0,51.46802,-2.58487,1
+Delightful 2 bedroom house near City Centre!,Lawrence Hill,Entire home/apt,2.0,1.0,4,2,86.0,122,41,94.0,51.460809999999995,-2.57443,0
+Bright one bed flat close to BRI & University,Clifton Down,Entire home/apt,1.0,1.5,2,1,76.0,0,10,96.0,51.45909,-2.61021,0
+Double Room in good location,Windmill Hill,Private room,1.0,1.0,2,1,37.0,174,15,96.0,51.43775,-2.5824,1
+Cosy Double room in Quiet family home,Easton,Private room,1.0,1.0,2,2,25.0,1,11,98.0,51.458040000000004,-2.55999,1
+Your Apartment The Portland,Central,Entire home/apt,1.0,1.0,2,1,75.0,362,13,88.0,51.456720000000004,-2.60777,0
+The Best Luxury Harbourside Apartment in Bristol,Hotwells & Harbourside,Entire home/apt,1.0,1.0,4,2,126.0,147,13,98.0,51.451209999999996,-2.60541,1
+Stylish 2 bed home in the heart of Clifton,Clifton,Entire home/apt,2.0,1.0,4,2,103.0,151,36,98.0,51.45695,-2.6183,1
+Modern and Stylish Apartment in Portland Square,Ashley,Entire home/apt,1.0,1.0,4,3,60.0,77,22,93.0,51.46145,-2.5859,0
+Stylish Central Bristol Base!,Lawrence Hill,Entire home/apt,1.0,1.0,4,2,64.0,267,18,98.0,51.457840000000004,-2.5791,1
+Cozy 2 Bedroom House in the heart of Bristol,Windmill Hill,Entire home/apt,2.0,1.5,4,3,70.0,96,14,96.0,51.43925,-2.5821,1
+"Luxurious, spacious apartment in Clifton",Clifton Down,Entire home/apt,2.0,2.0,4,2,141.0,94,12,95.0,51.46672,-2.61402,1
+Large Double Room ...in beautiful Clifton Village,Clifton,Private room,1.0,1.5,2,1,30.0,151,17,96.0,51.45405,-2.62372,1
+Harbourside views  with breakfast,Hotwells & Harbourside,Entire home/apt,2.0,2.0,4,1,180.0,358,18,97.0,51.45111,-2.6065,1
+Cherry Tree House,Frome Vale,Entire home/apt,2.0,1.5,4,3,45.0,0,22,92.0,51.48472,-2.52156,0
+Beatrix House by Cliftonvalley Apartments,Horfield,Entire home/apt,4.0,2.5,8,2,187.0,362,10,98.0,51.49883,-2.57219,0
+"Cosy, quiet, double room in friendly house",Frome Vale,Private room,1.0,1.0,2,1,25.0,58,11,100.0,51.48695,-2.52135,0
+Spacious one bed flat in the heart of Bristol,Easton,Entire home/apt,1.0,1.0,4,2,52.0,299,13,86.0,51.46705,-2.56127,0
+Deluxe Apartment near Cabot Circus w.Parking  sleeps 7,Ashley,Entire home/apt,3.0,2.5,7,1,138.0,163,46,90.0,51.46275,-2.5859900000000002,0
+Comfy & quiet double room in Windmill Hill Bristol,Windmill Hill,Private room,1.0,1.0,2,1,29.0,172,24,99.0,51.440540000000006,-2.5929900000000004,1
+🏡 Completely self contained flat in quiet area.,Stockwood,Entire home/apt,1.0,1.0,4,2,70.0,319,29,97.0,51.4183,-2.54045,1
+"Bright, quiet room in beautiful BS5",Easton,Private room,1.0,1.5,1,1,27.0,242,22,97.0,51.46396,-2.5598799999999997,1
+"Contemporary home in friendly Easton, free parking",Easton,Entire home/apt,2.0,1.0,5,2,101.0,139,21,93.0,51.465959999999995,-2.55829,0
+Belgravia Apartments 2 Over looking Clifton Down,Stoke Bishop,Entire home/apt,1.0,1.0,2,2,82.0,90,13,98.0,51.471270000000004,-2.61637,1
+Lovely room with a view onto green square,Knowle,Private room,1.0,1.0,1,3,22.0,89,11,95.0,51.42937,-2.57025,0
+The Parade: Central Flat with Parking,Cotham,Entire home/apt,2.0,1.0,6,2,80.0,351,22,96.0,51.46419,-2.5952900000000003,1
+Large 3 Bed City Centre House- FREE PARKING,Lawrence Hill,Entire home/apt,3.0,1.5,8,2,98.0,151,20,92.0,51.46471,-2.57503,0
+"Charming, Spacious & Light in Stunning Clifton",Clifton,Entire home/apt,2.0,2.5,4,2,74.0,0,33,98.0,51.45604,-2.6145400000000003,1
+"Cheap, clean - single room *FREE FOR KEYWORKERS*",Filwood,Private room,1.0,1.0,1,1,14.0,122,48,99.0,51.42895,-2.58909,1
+Cosy 2 Bed Victorian Flat- perfect for exploring,Clifton,Entire home/apt,2.0,1.0,4,3,99.0,116,16,98.0,51.45102,-2.62284,0
+St George Fire Station,St George West,Entire home/apt,1.0,1.0,2,2,115.0,42,11,93.0,51.45876,-2.54658,0
+Central 1 bed Harbourside flat with river views,Hotwells & Harbourside,Entire home/apt,1.0,1.0,2,2,60.0,238,10,94.0,51.449290000000005,-2.60812,0
+Contemporary Garden flat in Clifton,Clifton Down,Entire home/apt,1.0,1.0,4,2,71.0,161,28,87.0,51.458529999999996,-2.61308,0
+Modern 2-bed in the stylish Paintworks,Brislington West,Entire home/apt,2.0,2.0,6,2,125.0,20,15,100.0,51.443000000000005,-2.5645599999999997,1
+Grade II Listed Converted Church Tower - 6 person,Lawrence Hill,Entire home/apt,3.0,2.0,6,2,153.0,3,15,97.0,51.45669,-2.58066,0
+1 bedroom house with a private garden,Southville,Entire home/apt,1.0,1.0,2,1,600.0,365,19,93.0,51.44399,-2.59072,0
+Belgravia Apartment 3 Overlooking Clifton Downs,Clifton Down,Entire home/apt,1.0,1.0,2,2,82.0,90,14,96.0,51.46993,-2.61702,1
+Central flat in Stokes Croft with parking!,Central,Entire home/apt,2.0,1.0,4,7,88.0,82,12,97.0,51.46085,-2.5911299999999997,1
+Spacious & modern apartment in the city centre,Central,Entire home/apt,1.0,1.0,2,2,67.0,95,35,100.0,51.45538,-2.59191,1
+A lovely 1 bed flat just off Whiteladies Road,Central,Entire home/apt,1.0,1.0,2,3,71.0,328,10,98.0,51.46247,-2.60617,1
+Andie’s Apartment - Clifton Triangle,Hotwells & Harbourside,Entire home/apt,1.0,1.0,2,2,67.0,325,21,97.0,51.45588,-2.60774,1
+Double Room  in 3 bedroom house,Lockleaze,Private room,2.0,1.5,1,1,24.0,364,26,92.0,51.49054,-2.56298,1
+"Two bed home in creative area, near city centre",Bedminster,Entire home/apt,2.0,1.0,4,2,79.0,328,12,97.0,51.4377,-2.60494,0
+Spacious and stylish central Bristol base,Lawrence Hill,Entire home/apt,2.0,1.0,6,2,83.0,137,33,96.0,51.45753,-2.5778,1
+Harbourside view Modern apartment with Balcony,Hotwells & Harbourside,Entire home/apt,1.0,1.0,4,1,75.0,361,29,90.0,51.448409999999996,-2.6025,0
+Modern and spacious apartment - Bedminster,Southville,Entire home/apt,2.0,1.0,4,1,100.0,0,13,100.0,51.44407,-2.5903,1
+Boutique Harbourside Apartment - SS Great Britain,Clifton,Entire home/apt,2.0,1.0,5,1,92.0,52,28,98.0,51.45085,-2.60994,1
+Spacious Designer Flat in The Centre of Bristol,Central,Entire home/apt,1.0,1.0,2,2,63.0,56,28,100.0,51.45655,-2.59062,1
+Entire Garden Flat in Central Clifton Location,Clifton,Entire home/apt,1.0,1.0,2,3,72.0,47,32,99.0,51.45649,-2.6097099999999998,1
+2 bed modern secure flat in central Bristol,Lawrence Hill,Entire home/apt,2.0,1.0,4,1,70.0,6,17,96.0,51.45369,-2.5786599999999997,0
+"Fantastic Apartment nr Eastville Park, slps 8",Eastville,Entire home/apt,4.0,1.5,8,2,82.0,331,13,82.0,51.47315,-2.55885,0
+Stunning City Apartment- Pool Table & Balcony,Central,Entire home/apt,2.0,2.0,6,1,86.0,362,28,99.0,51.4534,-2.59105,1
+Clifton 2 bed apartment - free parking & Prosecco,Clifton,Entire home/apt,2.0,1.0,4,2,110.0,47,15,95.0,51.45619,-2.61773,0
+Beautiful 2bed annex/flat with garden in Clifton,Clifton,Entire home/apt,2.0,1.5,4,3,60.0,320,13,95.0,51.4509,-2.62348,0
+Entire 1 bed flat in great location on North St,Southville,Entire home/apt,1.0,1.0,2,3,73.0,0,10,100.0,51.442640000000004,-2.6123,1
+"Luxury, contemporary Georgian Apartment",Ashley,Entire home/apt,1.0,1.0,2,2,90.0,361,11,100.0,51.46154,-2.5859799999999997,1
+Perfect hideaway stone barn between Bath & Bristol,Brislington West,Entire home/apt,1.0,1.0,5,2,84.0,68,15,97.0,51.42586,-2.53769,1
+MODERN STYLISH WONDERFULLY LOCATED APARTMENT,Stoke Bishop,Entire home/apt,1.0,1.0,2,1,80.0,156,22,99.0,51.47368,-2.63805,1
+Touch of luxury near Old City - parking available,Central,Entire home/apt,1.0,1.0,2,2,83.0,214,29,100.0,51.45388,-2.58957,1
+4- Double Room In Clifton Region,Clifton Down,Private room,1.0,1.0,2,1,40.0,365,11,96.0,51.45771,-2.61274,0
+Elegant Victorian Flat in Redland with Parking,Clifton Down,Entire home/apt,1.0,1.0,2,1,73.0,0,37,98.0,51.46914,-2.61008,1
+3- Double Room In Clifton Area,Clifton Down,Private room,1.0,1.0,2,1,37.0,365,17,91.0,51.45803,-2.61212,0
+Alma Studios In Perfect Location- Alma 2,Clifton Down,Entire home/apt,1.0,1.0,2,1,100.0,0,12,95.0,51.46391,-2.61044,0
+Beautiful and exclusive flat in Bristol,Ashley,Entire home/apt,1.0,1.0,4,1,65.0,353,12,85.0,51.46348,-2.58688,0
+"Fantastic House in Horfield, Bristol Sleeps 8",Horfield,Entire home/apt,4.0,2.0,8,1,81.0,348,10,100.0,51.49106,-2.58192,0
+Modern and Chic 2BD in Bristol,Eastville,Entire home/apt,2.0,1.0,4,2,61.0,146,13,92.0,51.47872,-2.53649,0
+Spacious 3 Bedroom Queen Square Apartment,Central,Entire home/apt,3.0,2.0,6,2,98.0,265,14,97.0,51.4507,-2.5925599999999998,0
+Boutique Victorian Flat in Redland with Parking,Clifton Down,Entire home/apt,1.0,1.0,2,1,74.0,147,10,100.0,51.46946,-2.60964,1

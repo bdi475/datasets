@@ -1,0 +1,872 @@
+name,neighbourhood,room_type,bedrooms,bathrooms,accommodates,minimum_nights,price,availability_365,number_of_reviews,review_score,latitude,longitude,is_superhost
+Pleasant Room along Bukit Timah,Bukit Timah,Private room,1.0,1.0,2,90,80.0,365,18,91.0,1.33235,103.78520999999999,0
+COZICOMFORT,Woodlands,Private room,1.0,1.0,1,6,66.0,0,20,98.0,1.44246,103.79666999999999,0
+Ensuite Room (Room 1 & 2) near EXPO,Tampines,Private room,2.0,1.0,6,90,174.0,365,20,89.0,1.34541,103.95711999999999,0
+3rd level Jumbo room 5 near EXPO,Tampines,Private room,1.0,1.0,6,1,202.0,180,29,82.0,1.34348,103.96337,0
+5 mins walk from Newton subway,Newton,Private room,1.0,1.0,2,90,72.0,365,133,89.0,1.31125,103.83816,0
+Nice room with private bath beside train station,Geylang,Private room,1.0,1.0,1,8,41.0,91,105,90.0,1.3169799999999998,103.89,0
+20 Mins to Sentosa @ Hilltop ! (8),Bukit Merah,Private room,1.0,0.0,1,14,49.0,364,14,84.0,1.28976,103.80896,0
+Budget short stay room near  EXPO,Tampines,Private room,1.0,1.5,1,90,46.0,365,58,92.0,1.34943,103.95951,0
+5mins from Newton Train Station,Newton,Private room,1.0,1.0,2,90,69.0,0,81,90.0,1.3115,103.83759,0
+5 mins walk from Newton MRT,Novena,Private room,1.0,1.0,2,90,66.0,365,165,88.0,1.3132700000000002,103.8398,0
+Heritage Apartment Room near Orchard,River Valley,Private room,1.0,0.0,1,90,59.0,301,27,86.0,1.29345,103.83561999999999,0
+Master Bedroom 4-Airport & EXPO,Tampines,Private room,1.0,1.0,3,90,79.0,365,18,89.0,1.34838,103.9592,0
+★★★LOVELY ENSUITE ROOM 30 MINS TO ORCHARD ROAD★★★,Serangoon,Private room,1.0,1.5,2,2,80.0,365,82,94.0,1.3628,103.86446,0
+Comfortable Condo Room - Boon Lay MRT,Jurong West,Private room,1.0,1.0,1,90,54.0,365,30,92.0,1.34135,103.71139000000001,1
+Boutique 1 bedroom entiere appart,Bukit Timah,Entire home/apt,2.0,2.0,2,4,263.0,362,11,91.0,1.33171,103.79383,0
+"Ensuite room, pool, near airport, expo and sutd.",Tampines,Private room,1.0,2.0,2,90,83.0,90,80,96.0,1.34153,103.95775,0
+Quiet ensuite room in Holland Village,Queenstown,Private room,1.0,1.0,2,90,100.0,89,28,90.0,1.30816,103.79811,0
+Fantastic Serviced Apartment in the Singapore CBD,Downtown Core,Private room,1.0,1.0,4,4,119.0,358,72,93.0,1.27663,103.84521,0
+Fantastic Serviced Apartment in the Singapore CBD,Downtown Core,Private room,1.0,1.0,4,4,119.0,365,26,91.0,1.27585,103.84597,0
+East Coast Boutique,Marine Parade,Private room,1.0,1.0,2,90,250.0,0,70,95.0,1.30416,103.90075999999999,1
+Boutique 2 Bedroom Apartment,Marine Parade,Entire home/apt,2.0,2.0,4,90,300.0,0,40,96.0,1.30492,103.90315,1
+Cozy Room @Central Area,Novena,Private room,1.0,1.0,1,2,70.0,102,247,97.0,1.33334,103.8327,1
+Super Host Apartment,River Valley,Entire home/apt,1.0,1.0,2,1,125.0,357,225,97.0,1.29245,103.83742,1
+Luxury Loft in the Center of SG,Singapore River,Entire home/apt,1.0,1.0,2,90,230.0,69,28,94.0,1.28708,103.84444,1
+3BR (For 5)Apt Orchard/Stevens/UNESCO *MRT* Sui,Tanglin,Entire home/apt,3.0,3.0,5,7,250.0,364,44,89.0,1.31617,103.82694000000001,0
+NEWLY RENOVATED 1 Bedrm Apt Orchard/Stevens #12,Tanglin,Entire home/apt,1.0,1.0,2,7,224.0,364,35,95.0,1.31503,103.82614000000001,0
+2BR (For 3) Apt Orchard/Stevens/UNESCO *MRT* A,Tanglin,Entire home/apt,2.0,2.5,3,7,200.0,365,33,92.0,1.3150700000000002,103.82704,0
+SHORT TERM ACCOMODATION AT CLEMENTI,Queenstown,Shared room,1.0,4.0,2,5,50.0,365,11,86.0,1.2927,103.7685,0
+"1-5pax Paya Lebar MRT, Sentosa, MBS, Orchard, City",Geylang,Entire home/apt,1.0,1.5,5,30,119.0,343,88,98.0,1.31511,103.88946999999999,1
+Live with a Singaporean family!,Bedok,Private room,1.0,1.0,3,14,80.0,364,97,91.0,1.32889,103.90799999999999,0
+Quiet Tropical Garden Bedroom Suite,Novena,Private room,1.0,1.0,2,90,87.0,71,91,96.0,1.33917,103.82306,1
+Ladies-Only Shared Room @ Chinatown,Outram,Shared room,1.0,0.0,1,1,51.0,306,150,91.0,1.28405,103.84424,0
+Mixed Shared Room @ Chinatown,Outram,Hotel room,1.0,0.0,1,1,51.0,306,93,93.0,1.28405,103.84424,0
+"3 BR @ ROB WALK-Orchard, Clark/Boat Quay close by!",Museum,Entire home/apt,3.0,2.0,4,120,180.0,363,16,97.0,1.2994700000000001,103.84661,1
+Heart of Orchard rd Master Room,Newton,Private room,1.0,1.0,2,90,86.0,334,13,89.0,1.30626,103.83994,0
+Family room  (Room 6) at 3rd level,Tampines,Private room,1.0,1.0,3,90,92.0,365,10,90.0,1.34566,103.95994,0
+Studio Apt Orchard/Stevens Area #2,Tanglin,Hotel room,1.0,1.0,2,7,135.0,365,28,96.0,1.31742,103.82571999999999,0
+Fantastic Serviced Apartment in the Singapore CBD,Downtown Core,Private room,1.0,1.0,4,4,119.0,358,77,90.0,1.27539,103.84491,0
+Singapore Private Mini Room!,Novena,Private room,1.0,2.0,1,5,287.0,179,11,84.0,1.3234700000000001,103.85213,0
+Perfect Location Comfy Studio Apt,River Valley,Entire home/apt,1.0,1.0,5,14,141.0,321,115,87.0,1.29549,103.83931,0
+"Clean room, minutes to MRT & shops",Choa Chu Kang,Private room,1.0,1.0,1,4,53.0,34,29,99.0,1.38686,103.74468,0
+Luxuriously Spacious Studio Apt.,Bedok,Entire home/apt,1.0,1.0,5,92,115.0,365,370,99.0,1.32122,103.91492,0
+Singapore Room for Rent!,Novena,Private room,1.0,2.0,2,3,216.0,179,21,93.0,1.32423,103.85293,0
+"Cozy, Many Guests Loved It Here",Hougang,Private room,1.0,1.5,1,90,50.0,331,13,95.0,1.36867,103.89905,1
+Modern Chic 1BD shopfront,Museum,Entire home/apt,1.0,1.0,2,5,104.0,365,48,82.0,1.2942,103.84283,0
+1 Bedroom with Balcony suite (Walk to Aljunied MRT,Geylang,Entire home/apt,1.0,1.0,2,25,83.0,179,61,95.0,1.31566,103.8859,0
+10 Min Walk to HawParVilla MRT - INSEAD (C),Queenstown,Private room,1.0,1.0,1,10,56.0,365,12,90.0,1.2805,103.78439,0
+16-Bed Mixed Dormitory,Kallang,Shared room,1.0,2.0,16,1,35.0,0,19,91.0,1.31047,103.86095999999999,0
+Modern Asian Designer Terrace in Central Singapore,Serangoon,Entire home/apt,3.0,5.5,6,2,1821.0,358,36,96.0,1.35617,103.86669,0
+12-Bed Ladies Dormitory,Kallang,Shared room,1.0,2.0,12,1,37.0,0,18,96.0,1.3108600000000001,103.85883000000001,0
+"Furnishied Room Near Airport, Changi BizPark, SUTD",Tampines,Private room,1.0,1.0,1,90,89.0,362,10,95.0,1.34948,103.96321,0
+FEMALE DORMS in the heart of Chinatown!,Outram,Hotel room,1.0,4.0,10,1,31.0,365,140,88.0,1.28318,103.84335,0
+Dorms... in the heart of Chinatown!,Outram,Hotel room,1.0,4.0,16,1,31.0,364,80,88.0,1.2845799999999998,103.84298000000001,0
+DORMS... in the heart of Chinatown!,Outram,Hotel room,1.0,4.0,16,1,31.0,365,192,89.0,1.28496,103.84318,0
+DORMS... in the heart of Chinatown!,Outram,Hotel room,1.0,4.0,16,1,31.0,365,177,88.0,1.28439,103.84308,0
+DORMS - In the heart of Chinatown!,Outram,Hotel room,1.0,4.0,12,1,31.0,365,18,79.0,1.28262,103.84487,0
+4-Bed Private Room - Steps from Chinatown MRT!,Outram,Private room,1.0,2.0,4,2,146.0,179,49,90.0,1.28354,103.84331,0
+Relaxed & Spacious Studio w JACUZZI,River Valley,Entire home/apt,1.0,1.0,5,28,153.0,316,288,91.0,1.2953299999999999,103.83797,0
+Spacious and Furnished 1 Bedroom Apartment,Geylang,Entire home/apt,1.0,1.0,2,90,85.0,168,26,97.0,1.31379,103.88577,0
+1-person Bunk Bed Private Room,Rochor,Private room,1.0,8.0,1,1,58.0,0,20,94.0,1.30376,103.85923000000001,0
+Ground floor 1 Bedroom Unit,Geylang,Entire home/apt,1.0,1.0,2,28,66.0,116,81,94.0,1.31586,103.88559000000001,0
+1 Bedroom Suite with balcony,Geylang,Entire home/apt,1.0,1.0,2,30,85.0,179,66,97.0,1.31565,103.88576,0
+Spacious 2 Bedroom Amidst Nature,Bukit Panjang,Entire home/apt,2.0,2.0,5,12,155.0,157,63,96.0,1.3471,103.77532,1
+1-person Bunk Bed Private Room,Rochor,Private room,1.0,8.0,2,1,58.0,0,28,89.0,1.30148,103.85813,0
+1-person Bunk Bed Private Room,Rochor,Private room,1.0,8.0,1,1,58.0,0,10,86.0,1.30348,103.85969,0
+2BR (For 4) Apt Orchard/Stevens/UNESCO *MRT* B,Tanglin,Entire home/apt,2.0,2.0,4,7,220.0,357,34,95.0,1.31595,103.8269,0
+DORMS - In the heart of Chinatown!,Outram,Hotel room,1.0,4.0,12,1,31.0,365,49,88.0,1.28278,103.8445,0
+DORMS - In the heart of Chinatown!,Outram,Hotel room,1.0,4.0,12,1,31.0,365,21,87.0,1.28332,103.8433,0
+Within a stone's throw from Orchard,Novena,Private room,1.0,1.0,2,2,89.0,364,14,96.0,1.31718,103.84286999999999,0
+Central Haven,Singapore River,Entire home/apt,2.0,1.5,5,14,130.0,362,312,92.0,1.29331,103.83166999999999,0
+Serene Spacious Sanctuary near CBD,Kallang,Private room,1.0,1.0,2,90,63.0,316,42,94.0,1.31512,103.85343,0
+1 Bedroom Suite with Balcony,Geylang,Entire home/apt,1.0,1.0,2,22,86.0,186,66,96.0,1.31503,103.88605,0
+1 Bedroom Condo @ St Michael's,Kallang,Entire home/apt,1.0,1.0,4,3,100.0,356,41,93.0,1.32712,103.86468,0
+Simple Private Room for Two,Geylang,Private room,1.0,1.0,2,1,64.0,0,133,88.0,1.31025,103.88325999999999,0
+"Queen Room , 5 mins from MRT",Geylang,Private room,1.0,1.0,2,1,64.0,0,210,84.0,1.31045,103.88114,0
+New Condo near East Coast Beach!,Bedok,Entire home/apt,1.0,1.0,8,1,164.0,365,58,95.0,1.31467,103.93974,1
+2BR (For 3) Apt Orchard/Stevens/UNESCO *MRT* A,Tanglin,Entire home/apt,2.0,2.5,3,7,200.0,364,16,94.0,1.31617,103.82694000000001,0
+Condo-4 MRT-stops-to-Orchard-15 min,Toa Payoh,Private room,1.0,2.0,2,90,76.0,364,16,85.0,1.34151,103.84163000000001,0
+Cozy Apt home away from home,Geylang,Entire home/apt,1.0,1.0,2,20,95.0,88,77,95.0,1.31316,103.88735,1
+Cosy Scandinavian-Inspired Room,Bishan,Private room,1.0,1.0,2,180,51.0,364,29,94.0,1.36,103.8319,0
+Master bed room for 3,Geylang,Private room,1.0,1.0,3,1,90.0,0,87,87.0,1.31161,103.88143000000001,0
+Nicely furnished apt close to City,Geylang,Entire home/apt,1.0,1.0,2,20,90.0,89,27,93.0,1.3130700000000002,103.88623,1
+Cozy apartment near the city,Geylang,Entire home/apt,1.0,1.0,2,20,70.0,90,95,95.0,1.31464,103.88642,1
+Hotel concept rooms in apartment,Geylang,Private room,1.0,1.0,2,1,64.0,0,50,84.0,1.31102,103.88139,0
+EverGreen Residences,Geylang,Private room,1.0,1.0,2,1,64.0,0,49,85.0,1.31045,103.88148000000001,0
+CS S3 Central studio with private bath & kitchen!,Outram,Entire home/apt,1.0,1.5,2,2,93.0,365,93,91.0,1.28175,103.84433,0
+3BR (For 5)Apt Orchard/Stevens/UNESCO *MRT* Sup,Tanglin,Entire home/apt,3.0,3.5,5,7,260.0,350,24,92.0,1.3165799999999999,103.82714,0
+Ironsmith's Home,Bedok,Private room,5.0,3.0,15,90,82.0,0,124,96.0,1.32265,103.90775,0
+Master Room With Balcony for 3,Geylang,Private room,1.0,1.0,3,1,90.0,0,168,89.0,1.31114,103.88278000000001,0
+Cosy Apartment for Rent,Geylang,Private room,1.0,1.0,2,1,64.0,0,81,84.0,1.31091,103.88131,0
+2 Bedroom unit near the City,Geylang,Entire home/apt,2.0,2.0,4,20,120.0,69,75,94.0,1.3155299999999999,103.88662,1
+Evergreen Residences 2,Geylang,Private room,1.0,1.0,2,1,64.0,0,67,83.0,1.31105,103.88313000000001,0
+Master Rm A3 nr MRT/CBP/CGH/SUTD/Boeing & SIA,Bedok,Private room,1.0,1.0,2,4,79.0,33,59,99.0,1.33043,103.94814000000001,1
+#24 TBC after renovation,Tanglin,Entire home/apt,1.0,2.0,2,7,150.0,55,14,96.0,1.31539,103.82758000000001,0
+S3  @ City Central,Rochor,Entire home/apt,1.0,1.0,2,2,82.0,167,194,95.0,1.3042200000000002,103.85619,1
+S2 @ City Central,Rochor,Entire home/apt,1.0,1.0,2,2,81.0,157,243,94.0,1.3040200000000002,103.85423,1
+S7 @ City Central,Rochor,Entire home/apt,1.0,1.0,2,2,86.0,147,201,94.0,1.30376,103.85471,1
+S6 @ City Central,Rochor,Entire home/apt,1.0,1.0,2,2,81.0,156,236,96.0,1.3054299999999999,103.85647,1
+S1 @ City Central,Rochor,Entire home/apt,1.0,1.0,2,2,64.0,163,191,93.0,1.30541,103.85508,1
+S5 @ City Central,Rochor,Entire home/apt,1.0,1.0,2,2,76.0,137,290,95.0,1.30386,103.85459,1
+Nice  Cozy room with great facility,Jurong West,Private room,1.0,2.0,2,90,55.0,28,22,91.0,1.34366,103.71259,0
+"Serene, Private Bedrm w Garden View",Kallang,Private room,1.0,1.0,2,90,70.0,173,23,96.0,1.3161399999999999,103.85169,0
+"1min walk to MRT, 1Double Bed for 1-2px,Quiet&Cosy",Geylang,Private room,1.0,1.0,2,2,102.0,365,11,98.0,1.3291,103.88257,0
+3BR/2Bth new lux condo near the zoo,Choa Chu Kang,Entire home/apt,3.0,2.0,6,2,232.0,66,137,89.0,1.37935,103.75949,1
+Luxurious En Suite 1 Near Orchard,Novena,Private room,1.0,1.0,7,1,102.0,87,266,95.0,1.3195,103.84791,1
+Grand En Suite 2 Near Orchard,Novena,Private room,1.0,1.0,6,1,99.0,365,209,96.0,1.3177299999999998,103.84633000000001,1
+"HVIr1-Holland Village Condo, 1 min away from MRT",Bukit Timah,Private room,1.0,1.0,1,28,57.0,364,17,93.0,1.31164,103.79555,0
+Best Value In Town! All Student+Guest loves it!,Woodlands,Private room,1.0,1.0,2,12,35.0,212,111,92.0,1.44299,103.79424,0
+Very Cozy  House With Housekeeping+Laundry Service,Woodlands,Private room,1.0,1.0,2,30,35.0,266,69,93.0,1.4419600000000001,103.7939,0
+The Studio Suite,Tampines,Private room,1.0,1.0,7,30,70.0,362,151,97.0,1.3458700000000001,103.96046,1
+The Private Sanctuary,Tampines,Private room,1.0,1.0,5,90,70.0,365,285,96.0,1.34495,103.96043,1
+"FS C1 central Farrer Park, heritage Common room.",Kallang,Private room,1.0,1.0,2,14,42.0,332,18,87.0,1.31621,103.85614,0
+Entire Home in the Heart of City,Rochor,Entire home/apt,1.0,1.0,4,3,151.0,65,209,96.0,1.3015299999999999,103.85344,0
+FS S1 Farrer Park studio with Balcony/kitchen/bath,Kallang,Entire home/apt,1.0,1.0,4,5,94.0,0,71,91.0,1.3164200000000001,103.85776,0
+The Antiquity Room,Tampines,Private room,1.0,1.0,6,90,80.0,337,246,97.0,1.34471,103.96249,1
+New home,Yishun,Private room,1.0,1.0,2,1,66.0,57,13,92.0,1.41621,103.84424,0
+Nicely  furnished 1 bedroom unit,Geylang,Entire home/apt,1.0,1.0,2,90,68.0,0,65,94.0,1.3164799999999999,103.89486,0
+Spacious loft Apartment (Opposite Chinatown MRT),Outram,Entire home/apt,1.0,1.0,2,90,120.0,159,28,92.0,1.28504,103.84416999999999,0
+Cozy one bedroom close to the City,Geylang,Entire home/apt,1.0,1.0,2,20,74.0,62,83,95.0,1.31352,103.88728,1
+"HVIr5 -Holland Village Condo, 1 min from HV MRT",Bukit Timah,Private room,1.0,1.0,1,28,55.0,365,10,98.0,1.3123799999999999,103.79542,0
+Studio unit in Chinatown opp MRT,Outram,Entire home/apt,1.0,1.0,2,20,85.0,89,31,94.0,1.28504,103.84424,1
+Simple & Cozy 1 BD resort-like apt,Woodlands,Entire home/apt,1.0,1.0,4,93,180.0,267,11,96.0,1.42803,103.78584000000001,0
+"1Min walk to MRT, Ensuite Studio Room for 1 person",Geylang,Private room,1.0,1.0,1,3,91.0,365,24,95.0,1.32958,103.88464,0
+Cosy Ensuite,Bedok,Private room,5.0,3.0,12,2,82.0,351,27,96.0,1.32234,103.9086,0
+Lor 17 L3R1 Masterbed room w private toilet,Geylang,Private room,1.0,1.0,3,2,60.0,0,125,91.0,1.31322,103.87976,0
+Maison Sims201,Geylang,Entire home/apt,3.0,2.5,6,3,156.0,26,70,92.0,1.31644,103.88701999999999,0
+Comfortable 2 Bedroom Apartment 10 mins to MRT,Geylang,Entire home/apt,2.0,2.0,4,20,140.0,69,60,94.0,1.31314,103.88681,1
+1 bedroom service apartment in orchard near subway,River Valley,Entire home/apt,1.0,1.0,4,6,177.0,365,30,94.0,1.29655,103.84108,0
+Room 1 - Affordable room near the university,Clementi,Private room,2.0,1.0,2,90,60.0,302,37,98.0,1.29361,103.76746,1
+Cozy and spacious 1 bedroom Apartment,Geylang,Entire home/apt,1.0,1.0,2,90,84.0,151,28,94.0,1.3145200000000001,103.88589,0
+Affordable stay near Serangoon!,Serangoon,Private room,1.0,1.0,2,1,90.0,363,98,98.0,1.34471,103.86898000000001,0
+Lovely Room With a View,Kallang,Private room,1.0,1.0,1,90,68.0,294,14,100.0,1.3130000000000002,103.85922,1
+"Room-INSEAD, Metropolis, NTU, NUH-min 3-month rent",Queenstown,Private room,1.0,1.0,2,28,88.0,241,18,92.0,1.30531,103.78374000000001,0
+Modern Minimalistic Studio,Bedok,Entire home/apt,1.0,1.0,2,90,121.0,0,11,96.0,1.31683,103.91109,1
+Explore Serangoon!,Serangoon,Private room,1.0,1.0,2,1,100.0,0,57,98.0,1.34399,103.87076,0
+Affordable Room Stay in Serangoon,Serangoon,Private room,1.0,1.0,2,1,90.0,362,75,98.0,1.34604,103.87111,0
+Quiet Room in Large Apartment,Clementi,Private room,1.0,1.0,1,180,89.0,364,19,98.0,1.33028,103.76566,0
+Nicely furnished Apt Close to Town,Geylang,Entire home/apt,1.0,1.0,2,20,75.0,89,61,93.0,1.31362,103.8864,1
+Modern home at city fringe Orchard,Tanglin,Entire home/apt,1.0,1.0,2,5,150.0,361,18,95.0,1.2943200000000001,103.82611999999999,0
+Cosy 1 Bedroom Unit (8 min walk to Aljunied MRT),Geylang,Entire home/apt,1.0,1.0,2,90,69.0,177,87,96.0,1.3144,103.88671,0
+Black & White Studio 5,Rochor,Private room,1.0,1.0,2,2,100.0,363,262,95.0,1.30105,103.84786,0
+Lakeside En-suit/Master room.,Jurong West,Private room,1.0,1.0,3,90,66.0,365,25,95.0,1.33317,103.72421999999999,1
+Clean & Cosy Room on MRT Green Line,Bedok,Private room,1.0,1.0,1,3,45.0,119,14,83.0,1.32206,103.91158,0
+"Clean Room with Queen Bed, 3 mins walk to MRT",Bedok,Private room,1.0,2.0,2,3,44.0,363,29,89.0,1.32292,103.91101,0
+(Central-Novena) Semi-Detached House Near Subway,Novena,Entire home/apt,3.0,2.5,5,60,400.0,267,147,96.0,1.3195700000000001,103.8465,1
+"A Room with  bathroom near NTU, Boon Lay",Jurong West,Private room,1.0,1.0,2,1,58.0,363,29,99.0,1.3426,103.71500999999999,1
+Cozy room in friendly Kembangan area,Bedok,Private room,1.0,1.0,2,90,85.0,260,10,96.0,1.31746,103.91265,1
+1 bedroom unit (8 min walk to Aljunied MRT),Geylang,Entire home/apt,1.0,1.0,2,28,70.0,171,69,95.0,1.31481,103.88701,0
+1 Bedroom Apartment (Walk to Aljunied MRT),Geylang,Entire home/apt,1.0,1.0,2,21,70.0,0,67,96.0,1.31546,103.88721,0
+New Heritage Modern 1BR Apt@Orchard,River Valley,Entire home/apt,1.0,1.0,2,28,148.0,307,82,87.0,1.29484,103.83859,0
+Central Master bedroom in Orchard/River Valley,River Valley,Private room,1.0,1.0,1,21,85.0,365,15,98.0,1.29795,103.83012,0
+"Clean cosy room, 7 mins to Sentosa",Bukit Merah,Private room,1.0,1.0,2,3,74.0,270,322,98.0,1.27718,103.82167,1
+Cozy Studio in River Valley,River Valley,Entire home/apt,1.0,1.0,2,20,95.0,89,69,97.0,1.29611,103.84064000000001,1
+Convenient Apartment near the City,Geylang,Entire home/apt,1.0,1.0,2,20,85.0,89,12,98.0,1.3137299999999998,103.88803,1
+Your first home in Singapore,Tanglin,Private room,1.0,1.0,2,2,85.0,0,11,94.0,1.29325,103.82334,1
+LARGE MASTER SUITE@ BUONA VISTA MRT,Bukit Timah,Private room,1.0,1.0,3,3,75.0,252,64,91.0,1.3174299999999999,103.77955,0
+Cozy Penthouse Room,Kallang,Private room,1.0,1.0,1,90,53.0,315,11,100.0,1.31209,103.85757,1
+Large Room- CBD Next to KALPSON AMARA & SOUTHPOINT,Bukit Merah,Private room,1.0,1.0,1,1,566.0,358,29,92.0,1.27439,103.84083000000001,0
+Balcony Room ( Smoking ),Geylang,Private room,1.0,1.0,2,1,74.0,0,13,85.0,1.31186,103.88136,0
+Balcony room for 2,Geylang,Private room,1.0,1.0,2,1,74.0,0,34,88.0,1.31138,103.88157,0
+Balcony Room for 2  @ Geylang,Geylang,Private room,1.0,1.0,2,1,74.0,0,22,85.0,1.3115299999999999,103.88266999999999,0
+Comfortable & Clean In The East With Easy Access,Bedok,Private room,1.0,1.0,1,3,44.0,360,10,90.0,1.32416,103.91297,0
+1 Bedroom with Patio (Walk to Aljunied MRT),Geylang,Entire home/apt,1.0,1.0,2,30,83.0,147,49,96.0,1.3155,103.88591,0
+"Central Location, Near MRT & Food. Long Term Rent.",Kallang,Private room,1.0,1.0,1,180,60.0,358,10,90.0,1.3139299999999998,103.87216,0
+1 Bedroom apartment at River Valley,River Valley,Entire home/apt,1.0,1.0,2,20,95.0,27,33,97.0,1.29614,103.83967,1
+2 Bedroom Apartment near the City,Geylang,Entire home/apt,2.0,2.0,4,20,130.0,72,58,95.0,1.31359,103.88794,1
+Cosy 1 bedroom Apartment,Geylang,Entire home/apt,1.0,1.0,2,31,70.0,146,65,96.0,1.3161200000000002,103.88781,0
+PRIVATE RM w Toilet (ensuite) @ SERANGOON GARDENS,Serangoon,Private room,1.0,1.5,2,90,50.0,364,223,97.0,1.3636,103.8704,0
+3 bedroom apt beside Kembangan MRT.,Bedok,Entire home/apt,3.0,1.5,7,2,200.0,365,34,88.0,1.31952,103.91476,0
+ENTIRE  APT/ONE PERSON@HOLLAND VILL/INSEAD/ESSEC,Bukit Timah,Entire home/apt,1.0,1.5,1,90,76.0,300,42,88.0,1.31587,103.78891,0
+City Hall  Loft (Staycation Approved),Downtown Core,Entire home/apt,1.0,1.0,2,1,122.0,316,162,93.0,1.2962799999999999,103.85365,0
+"Chateau Le Fame near ACS, SCGS, NUS (Bukit Timah)",Tanglin,Entire home/apt,3.0,3.0,6,90,260.0,239,20,89.0,1.31579,103.83026,0
+Double En-suite Room & private bathroom (6),Bedok,Private room,1.0,1.0,3,7,100.0,335,10,90.0,1.3187799999999998,103.91382,1
+Modern 1bedroom at Superb Location Near Orchard,River Valley,Entire home/apt,1.0,1.0,2,10,130.0,300,36,95.0,1.2966600000000001,103.83975,0
+Rain Forest View Retreat Suite for Women,Novena,Private room,1.0,1.0,2,90,93.0,208,31,95.0,1.3404,103.82685,1
+The Zen Room,Tampines,Private room,1.0,1.0,2,30,45.0,180,203,97.0,1.3443200000000002,103.96211,1
+Charming Studio at River Valley,River Valley,Entire home/apt,1.0,1.0,2,20,95.0,87,30,96.0,1.2947799999999998,103.83901,1
+"Garden of Eden (Near Airport, Expo)",Tampines,Private room,1.0,1.0,2,21,80.0,331,144,98.0,1.34574,103.94188,1
+standard room for 2,Geylang,Private room,1.0,1.0,2,1,64.0,0,95,84.0,1.3113700000000001,103.88129,0
+Standard Room @ Geylang Road,Geylang,Private room,1.0,1.0,2,1,64.0,0,72,84.0,1.31136,103.88150999999999,0
+Peaceful Cosy Apt Facing Greens,Bukit Batok,Entire home/apt,3.0,3.0,4,90,150.0,270,55,89.0,1.3527799999999999,103.75726999999999,0
+3BR (For 5)Apt Orchard/Stevens/UNESCO *MRT* Sui,Tanglin,Hotel room,3.0,3.5,5,7,299.0,365,34,98.0,1.31617,103.82694000000001,0
+1 Bedroom Sky View Apartment ZsM,Novena,Entire home/apt,1.0,1.0,3,25,130.0,365,11,95.0,1.32869,103.8474,0
+Marina Bay Iconic Luxury 1-Bed Apt,Downtown Core,Entire home/apt,1.0,1.0,3,120,250.0,365,32,97.0,1.28051,103.85327,0
+CS S1 Central studio with private bath & kitchen,Outram,Entire home/apt,1.0,1.0,2,5,89.0,349,52,84.0,1.2834,103.84775,0
+Beary's 6 Bed Mixed Dorm (Per Bed),Outram,Hotel room,1.0,5.0,6,1,30.0,306,17,91.0,1.28365,103.84637,0
+Beary's 8 Bed Mixed Dorm (Per Bed),Outram,Hotel room,1.0,5.0,8,1,30.0,310,38,90.0,1.28285,103.8445,0
+Ladies Only Dorm with Ensuite Bathroom (per bed),Outram,Hotel room,1.0,1.0,8,1,30.0,12,21,89.0,1.28453,103.84472,0
+Rare Twin Studios /2rm @MarinaBaySG,Downtown Core,Entire home/apt,2.0,2.0,5,7,431.0,365,20,95.0,1.28198,103.85159,0
+Quaint & Chic Soho (Long Stay),Marine Parade,Private room,1.0,1.0,2,30,89.0,0,215,97.0,1.30504,103.90106999999999,0
+Private room- 4 bed (Shared toilet),Kallang,Private room,1.0,1.0,4,365,85.0,365,45,90.0,1.30985,103.87271,0
+SINGLE BED CAPSULE IN HOSTEL RM 2,Kallang,Hotel room,1.0,6.0,16,1,24.0,365,38,84.0,1.3114700000000001,103.86072,0
+Capsule with River View,Singapore River,Shared room,1.0,4.0,1,1,51.0,365,23,83.0,1.28598,103.84982,0
+River View | Queen| RafflesMRT 5min,Singapore River,Shared room,1.0,4.0,2,1,79.0,364,26,90.0,1.2863200000000001,103.8505,0
+Diva's Bed/Shared Room @citycentre- Female only,Rochor,Shared room,1.0,3.0,4,4,25.0,364,52,91.0,1.2994299999999999,103.85274,0
+DOUBLE BED IN CAPSULE HOSTEL RM 2,Kallang,Hotel room,1.0,8.0,16,1,47.0,0,34,81.0,1.3145799999999999,103.85076,0
+Single Master Room Near MRT,Bukit Batok,Private room,1.0,1.0,1,1,86.0,0,27,95.0,1.34866,103.74683,0
+Private room- 5 bed (Shared toilet),Kallang,Private room,1.0,0.0,5,365,105.0,365,35,89.0,1.3111700000000002,103.87361,0
+Private room- 7 bed (Shared toilet),Kallang,Private room,1.0,0.0,7,2,145.0,365,15,92.0,1.31169,103.87275,0
+Local homestay,Jurong West,Private room,1.0,1.0,1,180,50.0,269,29,97.0,1.34895,103.72199,0
+Sea view room with private bath,Bedok,Private room,2.0,2.5,2,30,50.0,340,94,95.0,1.3110600000000001,103.93683,0
+"Long-term rental only, 1 cosy room",Pasir Ris,Private room,1.0,1.0,2,180,91.0,364,31,99.0,1.37544,103.95919,0
+Executive Master bedroom for 2,Woodlands,Private room,1.0,2.0,2,1,110.0,89,24,89.0,1.45287,103.78725,0
+"!Stay in City Center, next to Farrer Park MRT (1)",Kallang,Private room,1.0,1.0,2,2,61.0,270,106,86.0,1.31609,103.85444,0
+Swanky & spacious studio w/ Balcony,Hougang,Entire home/apt,1.0,1.0,2,180,64.0,271,19,84.0,1.37576,103.90349,0
+A-2mins subway/city central/aircon/wifi/bus/quiet,Kallang,Private room,1.0,1.0,2,3,75.0,179,131,93.0,1.31913,103.86103,0
+Chinatown: In the Heart of the City,Outram,Private room,1.0,2.0,1,90,88.0,0,206,94.0,1.28329,103.84251,0
+Cozy single bedroom share bathroom,Mandai,Private room,1.0,1.0,1,30,41.0,364,23,91.0,1.42571,103.82591,0
+BUONA VISTA  BELLA @BUONA VISTA MRT,Bukit Timah,Private room,1.0,1.0,2,3,59.0,330,95,91.0,1.3160399999999999,103.78135999999999,0
+Nice and cozzy room without window.,Outram,Private room,1.0,3.0,1,90,58.0,364,188,93.0,1.28471,103.8436,0
+Private Pod in Mix 14 Dorm (1),Kallang,Shared room,1.0,1.0,1,1,38.0,365,92,99.0,1.3115299999999999,103.85984,1
+Quiet and Comfortable City-Fringe Apartment套房民宿201,Novena,Private room,1.0,1.0,2,90,99.0,365,40,94.0,1.32158,103.85341,1
+CityLiving Chinatown,Outram,Private room,1.0,2.0,1,90,88.0,180,156,95.0,1.28294,103.84387,0
+Private Pod in Mix 14 Dorm (2),Kallang,Shared room,1.0,5.0,1,1,38.0,365,13,100.0,1.3129,103.86146,1
+Pods...right outside the action!,Kallang,Shared room,1.0,5.0,1,1,38.0,365,26,97.0,1.31132,103.86153,1
+Your Private Pod Outside The City (1),Kallang,Shared room,1.0,7.5,1,1,30.0,364,69,97.0,1.31284,103.86089,1
+Your Private Pod Outside The City (2),Kallang,Shared room,1.0,5.0,1,1,32.0,365,13,100.0,1.3123200000000002,103.86178000000001,1
+"2 bedroom condo, high floor",Sengkang,Entire home/apt,2.0,2.0,4,90,140.0,364,13,95.0,1.3899299999999999,103.88019,0
+Best Day Use apartment (Day 10am to 7pm),Geylang,Entire home/apt,1.0,1.0,4,1,97.0,359,169,93.0,1.31103,103.88215,0
+MET A SPACE POD @ Boat Quay (Deluxe Space Pod),Singapore River,Shared room,1.0,7.0,16,1,60.0,310,36,95.0,1.2866,103.85051,0
+Skyroom w a pool & jacuzzi (near MRT),Bedok,Entire home/apt,1.0,1.0,2,90,123.0,362,92,98.0,1.32071,103.90878000000001,1
+Cozy double bedroom share bathroom,Mandai,Private room,1.0,1.0,2,90,45.0,0,12,83.0,1.42562,103.82559,0
+Beary's 10 Bed Mixed Dorm (Per Bed),Outram,Hotel room,1.0,5.0,10,1,28.0,308,24,90.0,1.28481,103.84461999999999,0
+Cozy Room @ Singapore North (No Aircon),Yishun,Private room,1.0,1.0,2,1,28.0,363,212,91.0,1.42479,103.84528,0
+MET A SPACE POD @ Boat Quay ( Premier Space Pod ),Singapore River,Shared room,1.0,7.0,16,1,65.0,310,44,93.0,1.28672,103.84831,0
+SINGLE BED CAPSULE IN HOSTEL RM5,Kallang,Hotel room,1.0,6.0,16,1,24.0,365,15,83.0,1.3114,103.86077,0
+SINGLE BED CAPSULE IN HOSTEL RM6B,Kallang,Shared room,1.0,6.0,2,1,24.0,365,76,83.0,1.31114,103.86054,0
+DOUBLE BED IN CAPSULE HOSTEL RM4,Kallang,Hotel room,1.0,8.0,16,1,47.0,358,24,84.0,1.3111700000000002,103.86066,0
+SINGLE BED CAPSULE IN HOSTEL RM6A,Kallang,Shared room,1.0,6.0,16,1,24.0,365,33,84.0,1.31134,103.86073,0
+COSY SINGLE BED CAPSULE IN HOSTEL 3,Kallang,Hotel room,1.0,6.0,16,1,24.0,365,85,81.0,1.31145,103.8607,0
+COSY SINGLE BED CAPSULE IN HOSTEL 8,Kallang,Hotel room,1.0,6.0,16,1,24.0,365,28,84.0,1.31114,103.86054,0
+1 Bedroom @ M -  Central 8M8,Rochor,Entire home/apt,1.0,1.0,3,30,130.0,365,11,88.0,1.30584,103.84985999999999,0
+COSY SINGLE BED CAPSULE IN HOSTEL 9,Kallang,Hotel room,1.0,6.0,16,1,24.0,365,30,85.0,1.31129,103.86064,0
+COSY SINGLE BED CAPSULE IN HOSTEL 2,Kallang,Shared room,1.0,6.0,16,1,24.0,365,67,82.0,1.31114,103.86054,0
+DOUBLE BED CAPSULE IN HOSTEL RM3,Kallang,Hotel room,1.0,6.0,16,1,47.0,358,59,82.0,1.31114,103.86054,0
+DOUBLE BED CAPSULE IN HOSTEL RM6,Kallang,Hotel room,1.0,6.0,16,1,42.0,358,34,84.0,1.31114,103.86054,0
+新国际女神聚居地 Divas place@ City centre-Female only,Rochor,Shared room,1.0,3.0,1,2,30.0,362,39,92.0,1.29961,103.85257,0
+Deluxe Sea-Facing Condo ~ Luxury Beach Amenities,Bedok,Entire home/apt,1.0,1.5,6,2,136.0,360,60,90.0,1.30986,103.93345,0
+NEW! Penthouse w/ an amazing 180* sea & city view!,Geylang,Entire home/apt,2.0,1.0,3,3,177.0,55,59,96.0,1.31722,103.88754,0
+"Cosy, Clean & Cheap Room!",Hougang,Private room,1.0,1.0,2,180,35.0,358,49,93.0,1.36675,103.89587,0
+Diva's Bed/Shared Room @citycentre-FEMALE ONLY,Rochor,Shared room,1.0,3.0,1,2,25.0,365,33,91.0,1.29939,103.85284,0
+Diva's Bed/Shared Room @citycentre-Female only!,Rochor,Shared room,1.0,3.0,4,4,29.0,362,98,91.0,1.2994299999999999,103.85274,0
+Diva's Bed/Shared Room @citycentre-FEMALE ONLY,Rochor,Shared room,1.0,3.0,4,2,25.0,365,88,87.0,1.29914,103.85204,0
+Private room-queen size bed near Sengkang MRT,Punggol,Private room,1.0,2.0,2,1,49.0,56,215,95.0,1.3997700000000002,103.89763,0
+Junior double room next to bencoolen station,Rochor,Private room,1.0,1.0,2,90,78.0,364,14,80.0,1.29989,103.85063000000001,0
+Private room in central district.,Novena,Private room,1.0,1.0,1,3,50.0,270,19,93.0,1.3203799999999999,103.8523,0
+Resort style living and full condo facilities,Bedok,Entire home/apt,1.0,1.5,2,90,150.0,353,36,98.0,1.33054,103.90381,1
+Spacious Rm R1: Bugis/Dhoby/Orchard,Rochor,Private room,1.0,1.0,2,2,101.0,174,141,97.0,1.30264,103.85127,1
+Spacious room near Woodleigh MRT,Toa Payoh,Private room,1.0,1.0,2,1,50.0,56,354,97.0,1.33514,103.87621999999999,1
+Modern apartment near Orchard/CBD,Tanglin,Entire home/apt,1.0,1.5,2,4,150.0,361,19,88.0,1.29446,103.82571999999999,0
+Nice & Clean room 4 U,Ang Mo Kio,Private room,1.0,1.0,1,1,37.0,331,30,97.0,1.3912200000000001,103.85573000000001,0
+Your Central Singapore Suite ★3 mins to Bus Stop★,Geylang,Private room,1.0,1.0,4,14,54.0,0,83,96.0,1.3299299999999998,103.87546,1
+Corporate Listing : Well Furnish Cozy Apartment,Woodlands,Entire home/apt,2.0,2.0,4,180,165.0,363,13,100.0,1.4295,103.78663,0
+1 Bedroom Apartment (Walk to Aljunied MRT),Geylang,Entire home/apt,1.0,1.0,2,28,78.0,179,38,95.0,1.31525,103.88744,0
+"1 Private Room HomeStay, MRT/Bukit Batok",Bukit Batok,Private room,1.0,1.0,2,2,60.0,362,45,92.0,1.34671,103.75859,0
+Spacious Rm R2: Bugis/Dhoby/Orchard,Rochor,Private room,1.0,1.0,3,2,108.0,148,164,97.0,1.30083,103.85202,1
+Designer-Chic City Apartment (Suite I),Novena,Entire home/apt,1.0,1.5,2,14,105.0,123,39,96.0,1.3168799999999998,103.84483,1
+Spacious Rm L2: Bugis/Dhoby/Orchard,Rochor,Private room,1.0,1.0,2,2,101.0,179,100,97.0,1.30221,103.85109,1
+Cosy Studio Apt/WIFI @ Orchard/Somerset Area,River Valley,Entire home/apt,1.0,1.0,2,28,120.0,344,73,83.0,1.295,103.83825,0
+"CS S7 Central loft studio, private bath & kitchen",Outram,Entire home/apt,1.0,1.0,2,2,93.0,363,128,94.0,1.2819200000000002,103.84399,0
+CS S8 Central studio with private bath & kitchen!,Outram,Entire home/apt,1.0,1.0,2,4,94.0,354,71,94.0,1.2820200000000002,103.8467,0
+CS S6 Central Studio with private bath & kitchen!,Outram,Entire home/apt,1.0,1.0,2,5,89.0,0,97,90.0,1.28156,103.84572,0
+Cozy & Stylish City Apartment,Novena,Entire home/apt,1.0,1.5,2,7,108.0,30,22,94.0,1.3168799999999998,103.84483,1
+Master Bedroom for 2 pax,Woodlands,Private room,1.0,1.0,2,1,90.0,360,26,94.0,1.45204,103.78765,0
+"A 3-5mins to Kovan MRT, 20mins to City,Quiet,Clean",Hougang,Private room,1.0,1.0,1,1,44.0,181,179,96.0,1.36246,103.88486999999999,1
+"3-5mins to Kovan MRT, 20mins to City, Quiet, Clean",Hougang,Private room,1.0,1.0,1,1,38.0,179,223,95.0,1.36248,103.88486999999999,1
+Cozy room,Punggol,Private room,1.0,1.0,1,180,55.0,363,71,97.0,1.40225,103.90988,1
+"Great location. A spacious, well equipped home.",Kallang,Entire home/apt,1.0,1.0,4,1,131.0,26,243,97.0,1.30011,103.86118,1
+Queen Capsule for 2 (Free Breakfast),Kallang,Shared room,1.0,8.0,2,1,59.0,362,25,85.0,1.31027,103.85642,0
+Single Capsule For 1,Rochor,Shared room,1.0,7.0,16,1,26.0,362,39,89.0,1.31082,103.85365999999999,0
+Luxury condo for business/vacation,Geylang,Entire home/apt,1.0,1.0,2,3,144.0,283,61,93.0,1.32893,103.90496999999999,0
+"Condo Master Rm 2 w balcony,5mins MRT,15mins city",Geylang,Private room,1.0,1.0,2,90,57.0,280,21,97.0,1.3134700000000001,103.88416,1
+Single Capsule For 1,Kallang,Shared room,1.0,1.0,1,1,29.0,362,92,89.0,1.31005,103.85829,0
+Single Capsule for 1,Kallang,Shared room,1.0,1.0,1,1,29.0,362,67,88.0,1.31005,103.85829,0
+Single Capsule For 1,Kallang,Shared room,1.0,4.0,10,1,29.0,362,26,88.0,1.31005,103.85829,0
+Single Capsule For 1,Kallang,Hotel room,1.0,4.0,10,1,27.0,355,72,88.0,1.31005,103.85829,0
+Single Capsule for 1,Kallang,Hotel room,1.0,4.0,12,1,27.0,358,158,87.0,1.31005,103.85829,0
+Great Cosy Rm in the City/Farrer Pk MRT/Sanitised,Kallang,Private room,1.0,1.0,1,3,40.0,58,67,94.0,1.31785,103.8531,0
+"City room 5mins to Haji, near Suntec/MBS/Merlion",Kallang,Private room,1.0,1.0,2,1,64.0,7,270,97.0,1.30466,103.86193,0
+FEMALE DORMS in the heart of Chinatown!,Outram,Hotel room,1.0,4.0,10,1,31.0,365,12,85.0,1.28379,103.84399,0
+FV22 / Clean & Quiet Hotel Room We are SG Clean:),Geylang,Private room,1.0,1.0,2,7,78.0,90,31,86.0,1.31158,103.88271,0
+Convenient apt 10 mins to MRT,Geylang,Entire home/apt,1.0,1.0,2,20,68.0,28,70,97.0,1.31324,103.88672,1
+1 RM Ensuite Bath Shared Living Near Orchard,Tanglin,Private room,1.0,1.0,2,90,71.0,58,72,95.0,1.2945799999999998,103.82836999999999,0
+Cozy condo Singapore City Centre min 3 months stay,Rochor,Entire home/apt,1.0,1.0,2,180,240.0,358,26,94.0,1.30216,103.84699,0
+CORPORATE LISTING : Cosy WELL FURNISH 2BEDROOM APT,Woodlands,Entire home/apt,2.0,2.0,4,90,190.0,363,15,92.0,1.43424,103.79784000000001,0
+COMMON RM / 1 PERS @ BUONA VISTA MRT,Bukit Timah,Private room,1.0,1.5,1,5,52.0,350,59,89.0,1.31768,103.77954,0
+Cozy & Convenient 1 Bedroom Apt,Geylang,Entire home/apt,1.0,1.0,2,21,80.0,49,82,96.0,1.31339,103.88747,1
+5min to MRT Condominium Room with Balcony,Choa Chu Kang,Private room,1.0,1.0,1,90,45.0,365,44,99.0,1.38802,103.74625999999999,1
+Spacious Rm L1: Bugis/Dhoby/Orchard,Rochor,Private room,1.0,1.0,2,2,98.0,150,98,97.0,1.30225,103.8501,1
+Lam An Reflections,Bukit Merah,Entire home/apt,3.0,3.0,6,2,788.0,90,32,98.0,1.2675,103.81056,0
+"High City View! 1-5pax MRT, Orchard, Sentosa, MBS",Kallang,Entire home/apt,1.0,1.0,5,30,119.0,330,45,97.0,1.3167200000000001,103.85954,1
+"10min City!1-6pax 5min MRT, Sentosa, Orchard & MBS",Kallang,Entire home/apt,2.0,2.0,6,30,189.0,365,18,99.0,1.31636,103.86354,1
+Female share room in the heart of city centre,Rochor,Shared room,1.0,3.0,2,2,28.0,362,67,90.0,1.2990700000000002,103.85172,0
+Room 2 in Terrace House @ Thomson Village,Bishan,Private room,1.0,2.0,2,1,35.0,364,11,80.0,1.3544200000000002,103.83176,0
+Charming 2Bed-2Bath- Parking Full Apartment,Bishan,Entire home/apt,2.0,2.5,4,30,198.0,364,49,94.0,1.35584,103.82951,0
+DORMS - Excellent location in Chinatown,Outram,Hotel room,1.0,4.0,13,1,31.0,365,16,89.0,1.2846600000000001,103.84498,0
+DORMS - Excellent location in Chinatown,Outram,Hotel room,1.0,4.0,13,1,31.0,364,17,88.0,1.28379,103.84399,0
+Comfortable apt home away from home,Geylang,Entire home/apt,1.0,1.0,2,20,80.0,89,56,95.0,1.31536,103.88817,1
+10min to CITY CENTRE CleanCosyApt 5min WalktoMetro,Geylang,Entire home/apt,1.0,1.5,6,90,288.0,365,65,95.0,1.3144,103.87805,1
+"Private room next to Lakeside MRT, single size bed",Jurong West,Private room,1.0,1.0,1,2,63.0,85,42,97.0,1.3430799999999998,103.71963000000001,1
+"10min City!1-5pax 5min MRT, Orchard, Sentosa & MBS",Kallang,Entire home/apt,1.0,1.0,5,30,134.0,365,12,100.0,1.3169600000000001,103.86034000000001,1
+Cozy & Comfy Apartment,Geylang,Entire home/apt,1.0,1.0,2,20,70.0,25,90,96.0,1.31358,103.88750999999999,1
+"Master Bedroom w private Bathroom, 10 mins to MRT",Woodlands,Private room,1.0,1.0,2,2,60.0,240,33,95.0,1.42709,103.77343,0
+Near Airport And Central,Hougang,Private room,2.0,3.0,1,1,75.0,0,11,100.0,1.3686399999999999,103.8967,0
+Cozy 2 Bedroom Apartment,Geylang,Entire home/apt,2.0,2.0,4,20,120.0,61,13,98.0,1.31374,103.8881,1
+Spacious double room at high floor,Queenstown,Private room,1.0,1.0,2,180,57.0,0,20,94.0,1.3029600000000001,103.78559,0
+Singapore homestay @ Pasir Ris street 51,Pasir Ris,Private room,2.0,1.0,2,2,68.0,351,58,94.0,1.37258,103.94852,0
+"Home2020@Singapore, NTU&NUS",Jurong West,Private room,1.0,1.0,1,14,168.0,365,24,92.0,1.34401,103.70107,0
+New Elegant Modern Room at City Fringe,Kallang,Private room,1.0,1.0,1,90,65.0,364,63,97.0,1.32103,103.86582,0
+Luxurious Penthouse In City Centre 1,Tanglin,Private room,1.0,1.0,2,30,132.0,365,19,98.0,1.29409,103.83079000000001,1
+Private room - 4 bed (Shared toilet). Room 2,Kallang,Private room,1.0,1.0,4,365,85.0,365,12,88.0,1.31019,103.87265,0
+MaisonSims302 - 4 bdrms,Geylang,Entire home/apt,4.0,3.0,8,2,181.0,72,75,93.0,1.3157299999999998,103.88886,0
+Luxurious Design Room With Private Bath Tub,Serangoon,Private room,1.0,1.0,2,2,130.0,365,15,96.0,1.36485,103.86381,0
+Posh En Suite 3 Near Orchard,Novena,Private room,1.0,1.0,4,1,102.0,26,38,96.0,1.31897,103.84655,1
+Orchard Luxury Stylish Resort 3 Bedroom.,Tanglin,Entire home/apt,3.0,2.0,8,2,1000.0,0,46,97.0,1.29437,103.83005,0
+Cozy 2- bedroom Home Away From Home,Punggol,Entire home/apt,2.0,2.0,5,4,150.0,253,145,96.0,1.39259,103.91346,0
+Single Bed in 6 Bed Mixed Dorm,Kallang,Shared room,1.0,7.0,6,1,24.0,302,33,82.0,1.31502,103.85853,0
+Single Capsule  Pod in Mixed Dorm,Kallang,Shared room,1.0,7.0,16,1,30.0,302,60,90.0,1.31491,103.85821,0
+Condo Room near the Beach and Airport!,Bedok,Private room,1.0,1.0,3,30,35.0,146,83,95.0,1.31132,103.92438,1
+"NEAR NUS & CLEMENTI MRT, SENTOSA,  ROOM AVAILABLE!",Clementi,Private room,1.0,2.0,4,2,55.0,149,26,90.0,1.30416,103.76817,0
+Cosy Open Concept Studio in City Opp Chinatown MRT,Outram,Entire home/apt,1.0,1.0,2,90,88.0,129,22,96.0,1.2833700000000001,103.84395,0
+"Queen Bed wz Private Bathroom, Ladies or Couples",Novena,Private room,1.0,1.0,2,3,112.0,0,30,98.0,1.32372,103.85021,0
+Resort Styled Condominium,Woodlands,Private room,1.0,2.0,2,90,59.0,364,18,99.0,1.43206,103.80046999999999,0
+Whole Condo Unit for 5pax ( Infront Aljunied MRT),Geylang,Entire home/apt,1.0,1.5,5,3,149.0,364,48,91.0,1.3126,103.88190999999999,0
+Shophouse Chic with Terrace,Marine Parade,Entire home/apt,1.0,1.5,3,90,271.0,4,11,95.0,1.30494,103.90306,1
+Clean Cosy Convenient (Airport/Expo/SUTD/Biz Park),Tampines,Private room,1.0,1.0,1,1,75.0,90,102,92.0,1.3532899999999999,103.95374,0
+Cool and convenient condo near Pasir Panjang MRT,Queenstown,Private room,1.0,1.0,2,20,65.0,0,24,93.0,1.27728,103.78784,0
+2 Bedroom Fully furnished apartment (Flora Drive),Pasir Ris,Entire home/apt,2.0,2.0,5,7,190.0,309,15,92.0,1.3568,103.96609000000001,0
+Cozy 4 Star Home,Sengkang,Private room,1.0,1.0,1,1,33.0,37,51,98.0,1.3925299999999998,103.89282,0
+New home,Yishun,Private room,1.0,1.0,2,1,66.0,58,37,97.0,1.41611,103.84217,0
+1BR SOHO Unit *2 Queen Beds & 1 Sofa Bed for 6pax*,Bukit Panjang,Entire home/apt,1.0,1.0,16,1,174.0,177,187,87.0,1.38131,103.76053,0
+Chinatown Single No window (Staycation Approved),Outram,Entire home/apt,1.0,1.5,1,1,78.0,361,99,96.0,1.2819999999999998,103.84552,0
+Chinatown Studio No window (Staycation Approved),Outram,Entire home/apt,1.0,1.0,2,1,85.0,365,142,95.0,1.2836,103.84603,0
+"Homely Shophouse 1BR Apt, mins away from 2 MRT",Rochor,Entire home/apt,1.0,1.0,3,30,125.0,365,65,93.0,1.30481,103.84888000000001,0
+"Haven by the bay，Seaview 2bd apt, Sentosa, Central",Bukit Merah,Entire home/apt,2.0,3.0,5,2,291.0,354,129,96.0,1.26759,103.8099,0
+Simple and cosy room in quiet neighbourhood,Tanglin,Private room,1.0,1.0,1,60,49.0,302,17,93.0,1.30942,103.80322,0
+Cozy room just 5 mins walk to NTU.,Jurong West,Private room,1.0,1.0,2,90,39.0,125,45,98.0,1.33966,103.68706999999999,1
+DesignWithDavid: Entire Home 5 Rooms Chinatown,Outram,Entire home/apt,5.0,3.0,13,90,325.0,180,83,83.0,1.28462,103.8414,0
+Cozy room in Newton,Newton,Private room,1.0,1.0,2,90,77.0,365,29,96.0,1.3117299999999998,103.8389,0
+Quiet Room in Newton,Newton,Private room,1.0,1.0,2,90,69.0,365,12,97.0,1.3129899999999999,103.83748,0
+Room with a balcony,Novena,Private room,1.0,1.0,2,3,83.0,365,12,90.0,1.3136,103.84346,0
+Loft studio at Orchard Rd,Newton,Private room,1.0,1.0,2,90,106.0,363,14,87.0,1.30501,103.83998000000001,0
+CleanCosyApt Beautiful Hills&CottageView By theSea,Queenstown,Entire home/apt,1.0,1.0,6,90,229.0,365,35,96.0,1.27886,103.78539,1
+FAMILY SUITE FOR 10 (Free Breakfast),Kallang,Private room,1.0,5.0,10,1,279.0,267,10,80.0,1.31005,103.85829,0
+Entire Condo Unit in Downtown-min walk to 3 MRT,Kallang,Entire home/apt,1.0,1.0,6,1,413.0,90,28,84.0,1.31276,103.85932,0
+Instant Booking Single Capsule Hostel,Kallang,Shared room,1.0,6.0,16,1,24.0,0,89,84.0,1.3125200000000001,103.86088000000001,0
+Instant Double Bed Capsule,Kallang,Hotel room,1.0,1.0,16,1,47.0,358,11,84.0,1.31114,103.86054,0
+Family 10 person Private Room(2 Double & 6 Single),Kallang,Hotel room,1.0,6.0,10,1,225.0,302,18,81.0,1.31114,103.86054,0
+Joo’s Service Bungalow - Room 4,Marine Parade,Private room,1.0,2.0,2,30,50.0,153,167,97.0,1.30845,103.89251,0
+Joo’s Service Bungalow - Room 7,Geylang,Private room,1.0,2.0,2,30,38.0,138,127,98.0,1.31009,103.89275,0
+Cosy 1 bedroom apartment (Walk to Aljunied MRT),Geylang,Entire home/apt,1.0,1.0,2,90,79.0,364,34,97.0,1.31515,103.88774000000001,0
+Centre of Chinatown.,Outram,Private room,1.0,3.0,1,90,88.0,364,68,97.0,1.2855,103.84204,0
+Comfortable Chermai (BR2),Serangoon,Private room,1.0,1.0,2,2,75.0,178,21,99.0,1.38636,103.87348,1
+Casa Sims 201,Geylang,Entire home/apt,3.0,3.0,6,3,205.0,116,11,96.0,1.31515,103.88794,0
+Cosy 1 Bedroom apartment,Geylang,Entire home/apt,1.0,1.0,2,90,77.0,144,30,97.0,1.3139399999999999,103.88638,0
+Luxury 2 BR Home above MRT in Chinatown #16 (市区公寓),Outram,Entire home/apt,2.0,2.0,5,3,196.0,169,54,96.0,1.2796399999999999,103.83983,1
+Elegant Room with Private Pool (2),Bukit Batok,Private room,1.0,1.0,2,5,160.0,89,17,95.0,1.37589,103.75719000000001,0
+Elegant Room with Private Pool (1),Bukit Batok,Private room,1.0,1.0,2,5,160.0,89,19,97.0,1.37612,103.75703,0
+"two cozy,spacious rooms with new fast internet",Orchard,Private room,2.0,1.5,2,3,50.0,324,14,91.0,1.29865,103.83898,0
+"PrivateRoom@City Ctr, FarrerParkMRT,Little India",Kallang,Private room,1.0,1.5,3,2,60.0,180,48,87.0,1.31378,103.85438,0
+Clean Dorms - Steps from Chinatown MRT! (per bed),Outram,Hotel room,1.0,6.0,12,1,30.0,181,17,85.0,1.28331,103.8435,0
+Female Dorms - Unbeatable Location in Chinatown!,Outram,Hotel room,1.0,6.0,10,1,31.0,181,11,95.0,1.2845,103.84366999999999,0
+"1+ Stay in City Center, next to MRT",Kallang,Private room,1.0,1.0,3,2,56.0,270,77,89.0,1.31377,103.85451,0
+Exotic charm in Joo Chiat Road,Geylang,Entire home/apt,2.0,1.5,8,5,150.0,136,112,95.0,1.3095299999999999,103.90120999999999,0
+1Br 2-4pax in Orchard 5 mins to MRT,River Valley,Entire home/apt,1.0,1.0,4,90,130.0,0,13,89.0,1.2977299999999998,103.83738000000001,0
+Leisure Studio APT 5 mins from Tg Pagar MRT,Downtown Core,Entire home/apt,1.0,1.0,2,30,132.0,332,34,98.0,1.27468,103.84573,1
+Cozy Studio Condo,Woodlands,Entire home/apt,1.0,1.0,2,90,71.0,252,25,96.0,1.43004,103.79855,0
+Homely feeling : good location - Common Room,Bukit Merah,Private room,1.0,1.0,2,3,70.0,0,12,80.0,1.2838200000000002,103.82485,0
+1BR Cosy Home @ Holland,Tanglin,Entire home/apt,1.0,1.5,2,3,139.0,357,29,93.0,1.31094,103.80467,0
+Quirky gem near Orchard Road / INSEAD (1 bedroom),Bukit Timah,Private room,1.0,1.5,2,2,83.0,301,11,98.0,1.31077,103.796,1
+Instant Booking Single Capsule Hostel 2,Kallang,Shared room,1.0,6.0,16,1,24.0,358,23,71.0,1.31114,103.86054,0
+14 Beds Mixed Dorm(1) (with windows),Singapore River,Hotel room,1.0,3.0,1,1,27.0,365,27,90.0,1.28669,103.84767,0
+10 Bed Mixed Dorm(1) (with windows),Singapore River,Hotel room,1.0,3.0,1,1,29.0,365,28,92.0,1.2883200000000001,103.84691,0
+6 Bed Mixed Dorm(1),Singapore River,Hotel room,1.0,3.0,1,1,31.0,365,26,91.0,1.28696,103.84685999999999,0
+Homely Feeling & Cosy Stay,Bukit Merah,Private room,1.0,1.0,2,180,70.0,0,38,89.0,1.28444,103.82431,0
+14 Bed Mixed Dorm(2) (with windows),Singapore River,Hotel room,1.0,3.0,1,1,27.0,365,28,90.0,1.28636,103.84616,0
+14 Bed Mixed Dorm(4) (with windows),Singapore River,Hotel room,1.0,3.0,1,1,27.0,365,10,90.0,1.28722,103.84838,0
+9 Bed Female Dorm (4),Singapore River,Hotel room,1.0,3.0,1,1,29.0,365,12,88.0,1.28692,103.84805,0
+Bright & beautiful apt near Orchard Rd/NUS/INSEAD,Queenstown,Entire home/apt,2.0,3.0,3,2,234.0,301,15,99.0,1.30774,103.79724,1
+Small Cozy  Studio Room in Orchard Road (200 sqft),River Valley,Entire home/apt,1.0,1.0,2,7,115.0,290,23,90.0,1.29724,103.83661,0
+Comfortable Small Studio in Orchard (200 sqft),River Valley,Hotel room,1.0,1.0,2,6,115.0,283,12,88.0,1.29704,103.83648000000001,0
+Cozy apartment tucked in River Valley,River Valley,Entire home/apt,1.0,1.0,2,20,90.0,89,40,97.0,1.29568,103.84009,1
+Divas's Place  Female share room at city centre,Rochor,Shared room,1.0,2.0,4,2,32.0,365,15,93.0,1.2994299999999999,103.85274,0
+"Apt Room 5mins to Haji, near MBS/Suntec/Sportshub",Kallang,Private room,1.0,1.0,2,1,80.0,0,233,95.0,1.3068,103.86003000000001,0
+2BR Cosy Home @ River Valley,River Valley,Entire home/apt,2.0,2.0,4,3,195.0,300,85,92.0,1.29562,103.83587,0
+Divas bed/share room at City centre-Female only,Rochor,Shared room,1.0,3.0,4,5,30.0,365,13,91.0,1.29806,103.85257,0
+Clean Dorms - Steps from Chinatown MRT! (Per Bed),Outram,Hotel room,1.0,6.0,12,1,31.0,365,36,86.0,1.2846600000000001,103.8435,0
+Quiet and Safe Location (BR1),Serangoon,Private room,1.0,1.0,2,2,75.0,183,26,97.0,1.3855899999999999,103.87359000000001,1
+Luxurious Room in a Stunning Apartment,Rochor,Private room,1.0,1.0,2,30,65.0,179,38,91.0,1.3021200000000002,103.84809,0
+Lor 17 L3R2 Private Room shared toilet outside,Geylang,Private room,1.0,2.0,4,2,60.0,90,127,91.0,1.3131899999999999,103.87916,0
+Modern Asian Peranakan Gem 1,Woodlands,Private room,1.0,2.0,2,21,35.0,309,10,94.0,1.43141,103.7738,1
+Orchard Rd - Big Master Room,Newton,Private room,1.0,1.5,2,90,106.0,364,15,95.0,1.3061200000000002,103.84000999999999,0
+Brand New Listing 1BR Loft Unit,Choa Chu Kang,Entire home/apt,1.0,1.0,16,1,414.0,180,93,85.0,1.37944,103.75984,0
+Queen Bed Capsule in Clean Hostel(Price for 2 Pax),Kallang,Shared room,1.0,6.0,16,1,49.0,365,16,80.0,1.3114299999999999,103.86067,0
+2CozyRooms@City Center/FarrerPark MRT/Little India,Kallang,Private room,2.0,2.0,6,2,114.0,270,58,88.0,1.31475,103.85441,0
+Cozy Studio Apartment w WIFI near Somerset/Orchard,River Valley,Entire home/apt,1.0,1.0,5,28,141.0,352,56,92.0,1.2958100000000001,103.83799,0
+Cube Boutique Capsule Hotel,Outram,Hotel room,7.0,12.5,1,1,56.0,365,76,93.0,1.2829,103.84416999999999,0
+SIngle Capsule Bed in Clean Hostel,Kallang,Shared room,1.0,4.0,16,1,25.0,365,43,84.0,1.3115700000000001,103.86069,0
+Chua's@33,Jurong West,Private room,1.0,1.0,2,3,90.0,362,32,99.0,1.33863,103.69112,1
+Whole Luxury Condo unit just  opposite of Lake/Mrt,Jurong West,Entire home/apt,3.0,4.0,8,15,250.0,331,10,88.0,1.34667,103.72143,0
+New Condo Ensuite Rm with  attached private bathrm,Jurong West,Private room,1.0,1.5,3,5,85.0,331,10,88.0,1.34702,103.72349,0
+*Cozy Room @ City Center,Rochor,Private room,1.0,2.5,3,2,57.0,270,103,90.0,1.31246,103.85441,0
+1 Bedroom Pierre Apartment,Orchard,Private room,1.0,1.0,3,1,509.0,130,24,98.0,1.30411,103.83707,0
+1 Bedroom Premier Apartment,Orchard,Private room,1.0,1.0,3,1,494.0,180,10,94.0,1.30411,103.83707,0
+Spacious 1 Bedroom apartment on Orchard Road,Orchard,Private room,1.0,1.0,3,1,459.0,180,22,97.0,1.30411,103.83707,0
+Clarke Quay  Studio Single (Staycation Approved),Singapore River,Entire home/apt,1.0,1.5,1,1,89.0,361,47,97.0,1.2887,103.84923,0
+Cheap Private Bedroom In Cosy Home,Bedok,Private room,1.0,1.0,2,1,40.0,90,50,92.0,1.31691,103.91025,0
+CHIC STAY IN THE HEART OF SINGAPORE!,Newton,Private room,1.0,1.0,2,1,68.0,0,52,94.0,1.3095299999999999,103.83938,0
+Condo Common room at clementi - near nus,Clementi,Private room,1.0,1.0,2,10,59.0,91,15,87.0,1.31855,103.76017,0
+New condo room near jurong east MRT,Jurong East,Private room,1.0,1.0,1,90,75.0,181,15,96.0,1.33522,103.74223,0
+"Adler -  Communal Lifestyle, in city centre.",Outram,Shared room,1.0,3.0,1,1,50.0,333,51,86.0,1.28168,103.84644,0
+Double room Infront of Bencoolen station,Museum,Private room,1.0,2.0,1,90,75.0,362,10,82.0,1.29787,103.84968,0
+LOVELY  STAY in HEART OF ISLAND!!,Newton,Private room,1.0,1.0,2,1,71.0,240,138,95.0,1.3099399999999999,103.83999,0
+CBD/MBS/Orchard/Somerset/Clark quay within mins!,River Valley,Private room,1.0,1.0,2,1,60.0,364,126,96.0,1.29539,103.84094,0
+Humble & Conveniently Located 1BR in Katong Area,Marine Parade,Entire home/apt,1.0,1.0,4,30,123.0,331,21,97.0,1.30735,103.89918,1
+(Room)Breezy Comfy Stay (Kitchen Bathroom),Woodlands,Private room,1.0,1.0,3,4,66.0,362,40,96.0,1.44728,103.79809,1
+B-2mins subway/city central/aircon/wifi/bus/quiet,Kallang,Private room,1.0,1.0,2,3,75.0,179,73,92.0,1.31873,103.85951999999999,0
+"1-4pax Kembangan MRT, Airport, MBS, Sentosa, Sea",Bedok,Entire home/apt,1.0,1.5,4,30,119.0,306,29,100.0,1.31907,103.9084,1
+"1-4pax Airport, Kembangan MRT, Orchard, MBS, City",Bedok,Entire home/apt,1.0,1.0,4,28,125.0,299,19,97.0,1.31825,103.90729,1
+Maison Sims301,Geylang,Entire home/apt,3.0,3.0,6,2,161.0,78,29,89.0,1.31481,103.8868,0
+"Nice,clean,spacious,private room for rent near NTU",Jurong West,Private room,1.0,1.0,2,2,68.0,364,20,96.0,1.34525,103.69375,0
+Newly furnished spacious room,Pasir Ris,Private room,1.0,1.0,1,1,48.0,0,235,92.0,1.36883,103.96253,0
+Tanjong Pagar Pristine Studio Apartment,Downtown Core,Entire home/apt,1.0,1.0,2,90,82.0,365,11,91.0,1.2793700000000001,103.84518,0
+Cozy Shophouse Studio Apartment 3 mins from MRT,Rochor,Entire home/apt,1.0,1.0,2,30,120.0,365,70,94.0,1.30246,103.85051999999999,0
+Room 2 - Affordable common room near university,Clementi,Private room,1.0,1.0,1,90,40.0,299,30,100.0,1.29529,103.76583000000001,1
+"10min walk - East Coast Beach, 4 Stops - Bedok MRT",Bedok,Private room,1.0,1.0,1,90,35.0,365,10,96.0,1.3135299999999999,103.93536,0
+Private Single Room @ Ang Mo Kio (Near MRT),Ang Mo Kio,Private room,1.0,1.0,1,1,35.0,146,11,91.0,1.36619,103.84749000000001,0
+New Cosy suite near airport,Bedok,Private room,1.0,1.0,2,2,60.0,177,16,100.0,1.32839,103.91407,0
+Bali Moon Studio. Netflix/Farrer Pk MRT/Sanitised,Kallang,Entire home/apt,1.0,1.5,2,3,92.0,88,71,94.0,1.31851,103.85178,0
+Spacious bedroom near city centre with free Wi-Fi,Outram,Private room,1.0,1.0,3,1,300.0,0,13,92.0,1.27534,103.8432,0
+Spacious bedroom near city centre with free Wi-Fi,Outram,Private room,1.0,1.0,3,1,300.0,0,10,98.0,1.27607,103.84456999999999,0
+Spacious bedroom near city centre with free Wi-Fi,Downtown Core,Private room,1.0,1.0,3,1,300.0,0,21,91.0,1.2754,103.84454000000001,0
+Spacious bedroom near city centre with free Wi-Fi,Outram,Private room,1.0,1.0,3,1,300.0,0,21,95.0,1.2761200000000001,103.84262,0
+Renovated Master Bedroom & own bathroom@East Coast,Bedok,Private room,1.0,1.0,2,90,100.0,90,33,97.0,1.30728,103.91452,0
+Ultimate River Valley resort escape,River Valley,Private room,1.0,1.0,2,2,85.0,0,78,93.0,1.29399,103.84079,0
+BRAND NEW 2 bedroom at West Coast/Clementi /Jurong,Clementi,Entire home/apt,2.0,1.0,3,90,192.0,0,27,96.0,1.3163799999999999,103.75697,1
+Stay in Clarke Quay - 2BR Apartment,Outram,Entire home/apt,2.0,1.0,5,6,556.0,365,19,97.0,1.28719,103.84295999999999,1
+Master Room with bathroom for single,Jurong West,Private room,1.0,1.0,1,3,56.0,269,35,95.0,1.3478299999999999,103.71804,0
+*New* 1BR SOHO UNIT with 3 Beds,Bukit Panjang,Entire home/apt,1.0,1.0,16,1,174.0,176,52,90.0,1.38147,103.76051,0
+Elegant Loft in the Heart of Orchard Road,Orchard,Entire home/apt,1.0,1.0,2,6,313.0,204,13,97.0,1.3037,103.83248,1
+Comfy 2BR Apartment in the Heart of Orchard Road,Orchard,Entire home/apt,2.0,2.0,5,6,441.0,316,20,94.0,1.30378,103.83395,1
+Somerset/fort canning/Dhoby Ghaut walking distance,River Valley,Private room,1.0,2.0,2,7,75.0,362,22,95.0,1.29779,103.84083000000001,0
+"CozyRoom @ CityCenter, Farrer Park MRT station",Kallang,Private room,1.0,1.0,3,3,56.0,180,37,90.0,1.31384,103.85509,0
+1 bedroom with balcony (Aljunied MRT Station),Geylang,Entire home/apt,1.0,1.0,2,90,87.0,180,14,99.0,1.3150899999999999,103.88736,0
+Spacious rm at Lakeside on East-West (green) line,Jurong West,Private room,1.0,1.0,1,1,65.0,102,16,99.0,1.3454899999999999,103.71891,0
+BRAND NEW Cosy Loft w 4 pools @ Clementi/WestCoast,Clementi,Entire home/apt,1.0,1.0,2,90,174.0,0,17,94.0,1.31664,103.75818000000001,1
+【CITY】Luxury Condo 1 min walk to TanJong Pagar MRT,Downtown Core,Entire home/apt,1.0,1.0,3,90,195.0,179,29,95.0,1.27554,103.84563,0
+"Bright & Charming 1BR Shophouse Apt, 3mins to MRT",Rochor,Entire home/apt,1.0,1.0,3,3,140.0,362,90,95.0,1.30334,103.84855999999999,0
+Serene 3BR Apartment in Clarke Quay,Singapore River,Entire home/apt,3.0,2.0,7,6,706.0,365,11,96.0,1.28939,103.84278,1
+The Heritage Place,Bukit Merah,Entire home/apt,1.0,1.0,2,4,161.0,147,48,97.0,1.28009,103.83906,1
+Single ONLY @ Yew Tee - Simple Industrial,Choa Chu Kang,Private room,1.0,1.0,1,2,72.0,364,12,95.0,1.40224,103.74468,0
+Prime Loft Apt in the heart of Orchard Road,Orchard,Entire home/apt,1.0,1.0,2,6,198.0,316,13,98.0,1.3040399999999999,103.83241,1
+Pristine 2BR Apt in the Heart of Orchard Road,Orchard,Entire home/apt,2.0,2.0,5,6,441.0,197,10,98.0,1.30376,103.83393000000001,1
+6mins to MRT 15mins to city condo master with bath,Geylang,Private room,1.0,1.0,3,2,48.0,0,24,94.0,1.31392,103.88439,1
+MasterbedRoom with PrivateToilet Clean newly Reno,Choa Chu Kang,Private room,1.0,1.0,3,180,61.0,55,49,99.0,1.37715,103.75546,1
+2BR Family Apartment in Clarke Quay,Singapore River,Entire home/apt,2.0,1.0,5,6,445.0,268,14,96.0,1.28852,103.84442,1
+1BR Apartment near Clarke Quay Central,Singapore River,Entire home/apt,1.0,1.0,3,6,156.0,253,13,100.0,1.28854,103.84293000000001,1
+Luxury yacht 3BR豪华游艇三室三卫，配有KTV,Bukit Merah,Entire home/apt,3.0,3.0,5,1,2500.0,90,55,95.0,1.26475,103.81908,0
+Spacious Room in Lush Green Terrace House,Bukit Timah,Private room,1.0,2.0,3,30,90.0,2,38,99.0,1.34249,103.77386,1
+Giffard Mansion,Novena,Private room,1.0,1.0,1,90,33.0,365,21,96.0,1.32651,103.84875,0
+Luxury 2 BR Home above MRT in Chinatown #38 (市区公寓),Bukit Merah,Entire home/apt,2.0,2.0,5,3,196.0,154,53,98.0,1.27867,103.83919,1
+Luxury 2 BR Home above MRT in Chinatown #37 (市区公寓),Outram,Entire home/apt,2.0,2.0,5,3,196.0,169,20,97.0,1.28063,103.83964,1
+373 Guillemard L2R3 prv room & toilet no windows,Geylang,Private room,1.0,1.0,2,2,50.0,0,122,89.0,1.3112700000000002,103.88727,0
+Luxury 2 BR Home above MRT in Chinatown #31 (市区公寓),Bukit Merah,Entire home/apt,2.0,2.0,5,3,196.0,169,19,93.0,1.27894,103.83881,1
+Lush Green Neighborhood Private Room,Bishan,Private room,1.0,1.0,2,90,50.0,363,41,82.0,1.35893,103.82973,0
+Cozy Room with a View,Bukit Timah,Private room,1.0,1.0,2,4,45.0,56,95,96.0,1.33463,103.80969,0
+Perfect City view Studio Apt with Housekeeping,Rochor,Entire home/apt,1.0,1.0,2,6,155.0,63,11,96.0,1.29806,103.85257,1
+Studio serviced apartment in Bugis near subway,Rochor,Entire home/apt,1.0,1.0,2,6,155.0,63,14,99.0,1.29806,103.85257,1
+Fully Furnished Apartment with Kitchenette in city,Rochor,Entire home/apt,1.0,1.0,2,6,155.0,30,26,99.0,1.29806,103.85257,1
+Family Room in West near Lakeside MRT/NTU/NUS,Jurong West,Private room,1.0,1.0,2,2,50.0,88,29,99.0,1.33749,103.71947,1
+Luxe 2 BR City Centre Loft. Near train station.,River Valley,Entire home/apt,2.0,2.0,4,90,234.0,323,74,96.0,1.2944799999999999,103.83976,1
+Superhost 1BR APT in the heart of Tg Pagar,Downtown Core,Entire home/apt,1.0,1.0,2,90,105.0,0,10,100.0,1.27538,103.84535,1
+1 min MRT/city area cozy room&pool@Botanic gardens,Bukit Timah,Private room,1.0,1.0,2,2,126.0,1,39,93.0,1.32536,103.80641999999999,0
+"10min walk to Orchard Rd, Modern 2-bedroom #279",Rochor,Entire home/apt,2.0,2.0,5,3,200.0,56,86,83.0,1.3017299999999998,103.84968,0
+Small Studio 2 mins Walk To Orchard (200 sqft),Orchard,Hotel room,1.0,1.0,2,6,115.0,290,10,84.0,1.29885,103.83818000000001,0
+Cosy 1 bedroom unit near to everything,Queenstown,Entire home/apt,1.0,1.0,2,70,95.0,58,13,86.0,1.2903,103.80663,0
+Cecil Street Premium Loft Apartment,Outram,Entire home/apt,1.0,1.0,2,90,94.0,365,22,95.0,1.2815,103.84764,0
+"!! CozyRoom@City Center,Little India,FarrerParkMRT",Kallang,Private room,1.0,1.0,2,4,58.0,270,80,93.0,1.31516,103.85331,0
+Gorgeous entire apartment in charming Tiong Bahru!,Bukit Merah,Entire home/apt,2.0,1.0,3,90,350.0,358,27,99.0,1.28455,103.83142,0
+Luxury Capsule (Single - Mixed) [Kampong Glam],Rochor,Hotel room,1.0,8.5,1,1,448.0,362,206,94.0,1.30161,103.8596,0
+Luxury Capsule (Single-Female Only) [Kampong Glam],Rochor,Hotel room,1.0,8.5,1,1,273.0,362,48,93.0,1.3007600000000001,103.85879,0
+Luxury Capsule (Queen - Mixed)[Kampong Glam],Rochor,Hotel room,1.0,8.5,2,1,161.0,362,14,83.0,1.30244,103.8587,0
+Superior Double Room in City Center,Singapore River,Hotel room,1.0,1.0,2,1,99.0,365,52,92.0,1.28741,103.84716,0
+Beautiful 2BR unit above MRT in Downtown #3 (市区公寓),Outram,Entire home/apt,2.0,2.0,5,3,196.0,171,39,97.0,1.2794299999999998,103.8421,1
+Peaceful & Quiet Modern Private Room,Ang Mo Kio,Private room,1.0,1.5,4,1,99.0,181,20,93.0,1.3869200000000002,103.83802,0
+Cozy Apartment 10 mins to MRT,Geylang,Entire home/apt,1.0,1.0,2,20,68.0,80,16,99.0,1.31465,103.8864,1
+Deluxe Double Room in City Center,Singapore River,Hotel room,1.0,1.5,2,1,115.0,1,48,90.0,1.28691,103.84848000000001,0
+Lovely 3BR Apt in the Heart of Orchard Road,Orchard,Entire home/apt,3.0,2.0,7,6,577.0,309,21,97.0,1.3023,103.83366,1
+Amaze5 - fully furnished Serviced Apartment,Kallang,Entire home/apt,1.0,1.0,2,7,146.0,85,36,96.0,1.29951,103.88525,1
+"5分钟步行至地铁站,小型别墅。#37-3",Hougang,Private room,1.0,1.0,2,3,60.0,89,29,83.0,1.36391,103.88001,0
+Chic4 - Serviced Apartment in the East,Kallang,Entire home/apt,1.0,1.0,2,7,158.0,89,30,95.0,1.29951,103.88525,1
+Standard Single  - 2mins away from Chinatown MRT,Outram,Hotel room,1.0,1.0,1,1,70.0,341,67,90.0,1.28463,103.84396,0
+Superior Queen - 2mins away from Chinatown MRT,Outram,Hotel room,1.0,1.0,2,1,101.0,341,74,84.0,1.28355,103.84371999999999,0
+"Private room with Shared bathroom, Aircon",Choa Chu Kang,Private room,1.0,1.0,2,5,41.0,86,27,98.0,1.38968,103.74169,0
+1 Bedroom Apartment 10 mins to Aljunied MRT,Geylang,Entire home/apt,1.0,1.0,2,20,70.0,81,13,97.0,1.31472,103.88814,1
+Amaze6 - Serviced Apartment with Wi-Fi,Kallang,Entire home/apt,1.0,1.0,2,7,146.0,181,29,95.0,1.29951,103.88525,1
+Extended CNY Promo Amaze1 - Serviced Apartment,Kallang,Entire home/apt,1.0,1.0,2,7,110.0,179,29,94.0,1.29951,103.88525,1
+Extended CNY Promo Amaze2 - Serviced Apartment,Kallang,Entire home/apt,1.0,1.0,2,7,110.0,84,50,96.0,1.29951,103.88525,1
+Amaze3 - Serviced Apartment in the East,Kallang,Entire home/apt,1.0,1.0,2,7,146.0,180,39,98.0,1.29951,103.88525,1
+Extended CNY Promo Amaze4 - Svc Apt in the East,Kallang,Entire home/apt,1.0,1.0,2,7,110.0,178,29,96.0,1.29951,103.88525,1
+Extended CNY Promo Chic1: SVC Apt w/ WiFi near CBD,Kallang,Entire home/apt,1.0,1.0,2,7,120.0,172,26,99.0,1.29951,103.88525,1
+Extended CNY Promo Chic2 - Service Apartment,Kallang,Entire home/apt,1.0,1.0,2,7,120.0,83,25,98.0,1.29951,103.88525,1
+Extended CNY Promo Chic3 - Cozy Svc Apartment,Kallang,Entire home/apt,1.0,1.0,2,7,120.0,119,43,98.0,1.29951,103.88525,1
+Sky1 - fully furnished Serviced Apt in the East,Kallang,Entire home/apt,1.0,1.0,2,7,199.0,180,10,96.0,1.29951,103.88525,1
+Sky2 - Serviced Apartment in the East,Kallang,Entire home/apt,1.0,1.0,2,7,199.0,187,25,96.0,1.29951,103.88525,1
+Twin room attached balcony,Geylang,Private room,1.0,2.0,2,1,40.0,44,90,95.0,1.3122,103.90344,0
+Luxury apartment few mins walk to Orchard Rd!,River Valley,Private room,1.0,1.0,2,3,190.0,364,46,93.0,1.29465,103.83505,1
+Master bed room - 5 mins ride to CBD,Geylang,Private room,2.0,1.0,1,180,500.0,90,25,98.0,1.31836,103.88141999999999,0
+9 PERS/4 BEDRM APT 5 NEAR HOLLAND VILLAGE MRT,Queenstown,Entire home/apt,4.0,2.0,9,3,289.0,229,56,89.0,1.3128799999999998,103.78934,0
+Cozy studio 10 mins to Aljunied MRT,Geylang,Entire home/apt,1.0,1.0,2,20,65.0,72,16,98.0,1.31334,103.88637,1
+Deluxe Queen Room - 2mins away from Chinatown MRT,Outram,Hotel room,1.0,1.0,2,1,115.0,341,94,85.0,1.28302,103.84464,0
+Small Utility Cosy Room,Bedok,Private room,1.0,1.0,2,1,36.0,180,159,93.0,1.3175,103.90942,0
+"@(v1)CozyRoom Near City, 6mins Walk To Aljunid MRT",Geylang,Private room,1.0,4.0,3,4,47.0,365,76,91.0,1.3122200000000002,103.88308,0
+"2 CozyRooms NearCity,  6mins Walk To Aljunid MRT*",Geylang,Private room,2.0,4.0,6,4,95.0,179,28,96.0,1.31292,103.88249,0
+"Cozy Room Near City, 6mins Walk To Aljunid MRT (2)",Geylang,Private room,1.0,4.0,3,4,48.0,180,75,91.0,1.3135700000000001,103.88221999999999,0
+"2Cozy Rooms NearCity,  6minsWalk To Aljunid MRT**",Geylang,Private room,2.0,4.0,6,3,95.0,180,32,89.0,1.31146,103.88173,0
+"@CozyRoom Near City, 6mins Walk To Aljunid MRT (3)",Geylang,Private room,1.0,4.0,3,2,47.0,180,31,90.0,1.31233,103.88297,0
+Cozy 1 BR Apt in River Valley,River Valley,Entire home/apt,1.0,1.0,2,20,95.0,90,13,97.0,1.29619,103.8402,1
+Deluxe1 - 1BR Serviced Apartment @ East Coast,Kallang,Entire home/apt,1.0,1.0,2,7,190.0,57,16,98.0,1.29986,103.8851,1
+"Cozy Room Near City, 6mins Walk To Aljunid MRT (4)",Geylang,Private room,1.0,4.0,3,4,48.0,179,48,90.0,1.31196,103.88176,0
+SINGLE RM 6@Holland Village/MRT/NUH/INSEAD,Bukit Timah,Private room,1.0,1.0,1,90,45.0,336,13,86.0,1.31362,103.78969000000001,0
+Ben’s Breakfast & Bed !,River Valley,Private room,1.0,1.0,2,1,90.0,322,31,90.0,1.29683,103.84173,0
+Modern 3 bedroom Condominium Near Public transport,Pasir Ris,Entire home/apt,3.0,2.5,6,2,280.0,357,83,95.0,1.3701,103.94426999999999,1
+Chic5 - cosy Serviced Apartment w/ WiFi near CBD,Kallang,Entire home/apt,1.0,1.0,2,7,158.0,91,22,99.0,1.29951,103.88525,1
+Chic6 - Serviced Apartment in the East,Kallang,Entire home/apt,1.0,1.0,2,7,158.0,81,12,97.0,1.29951,103.88525,1
+Bugis/Dhoby/Orchard: Roomy Rm L1,Rochor,Private room,1.0,1.0,2,90,92.0,179,55,96.0,1.30088,103.85056,1
+Bugis/Dhoby/Orchard: Roomy Rm L2,Rochor,Private room,1.0,1.0,2,90,92.0,0,40,93.0,1.3028,103.85077,1
+Bugis/Dhoby/Orchard: Roomy Rm R2,Rochor,Private room,1.0,1.0,2,90,94.0,179,48,97.0,1.3009899999999999,103.85218,1
+Bugis/Dhoby/Orchard: Roomy Rm R1,Rochor,Private room,1.0,1.0,2,90,94.0,179,29,96.0,1.30092,103.85072,1
+Oriental Tropics Forest View Bt Batok,Bukit Batok,Private room,1.0,1.0,2,2,150.0,123,10,91.0,1.34162,103.76086,0
+"Capsule C for 1 guest in Dorm, Little India",Rochor,Shared room,1.0,5.0,14,1,22.0,364,21,82.0,1.30854,103.85104,1
+6min to mrt 15 min to city cosy condo utility room,Geylang,Private room,1.0,1.0,1,2,33.0,0,35,98.0,1.31175,103.88879,1
+Bugis Link,Rochor,Entire home/apt,2.0,2.0,4,2,210.0,20,33,98.0,1.30213,103.85218,0
+"1+ Cozy Room Near City,  Walk To Aljunid MRT (V)",Geylang,Private room,1.0,4.0,3,4,43.0,180,66,90.0,1.31254,103.88244,0
+Newly Re-furbished Couple Room (Yew Tee MRT),Choa Chu Kang,Private room,1.0,1.0,2,2,82.0,179,17,99.0,1.40131,103.74558,0
+"Capsule E for 1 guest in Dorm, Little India",Rochor,Shared room,1.0,5.0,10,1,22.0,365,14,88.0,1.308,103.85074,1
+Female Divas bed/share room @city centre,Rochor,Shared room,1.0,3.0,2,4,28.0,365,19,93.0,1.29867,103.85206,0
+Diva's bed/share room at Bugis -female only,Rochor,Shared room,1.0,2.0,2,2,25.0,365,33,86.0,1.2989600000000001,103.85135,0
+Sea View Studio @ Shenton,Downtown Core,Entire home/apt,1.0,1.0,3,1,157.0,271,93,98.0,1.2776399999999999,103.85088,1
+Amazing view from 1 bedroom,Bukit Merah,Private room,1.0,1.0,1,2,65.0,364,46,89.0,1.29067,103.81954,0
+"(A) 1+ Cozy Room Near City,  Walk To Aljunid MRT",Geylang,Private room,1.0,4.0,2,4,43.0,180,63,91.0,1.31226,103.88303,0
+"(1bb*) Private Room @ City Center, next to MRT",Kallang,Private room,1.0,1.5,3,2,54.0,362,50,88.0,1.3154700000000001,103.85419,0
+**Cozy Room @ City Center,Kallang,Private room,1.0,2.5,3,3,57.0,180,49,90.0,1.3145,103.85392,0
+Sunlit 3 BR + 2 BA Penthouse close to CBD,Geylang,Entire home/apt,3.0,2.0,6,7,188.0,162,74,86.0,1.31122,103.87833,0
+"EH6, Brand New Master Room, next to Somerset MRT",Newton,Entire home/apt,1.0,1.0,1,28,78.0,365,10,96.0,1.30409,103.83981999999999,0
+Casa Sims301,Geylang,Entire home/apt,3.0,3.0,6,2,156.0,74,17,93.0,1.3158100000000001,103.88605,0
+★Lucky Plaza @ Orchard MRT - Long Term available,Orchard,Entire home/apt,2.0,2.0,8,3,165.0,243,108,96.0,1.3042799999999999,103.83285,0
+Little pandan,Jurong East,Private room,1.0,1.0,1,5,55.0,331,17,89.0,1.3213,103.7487,1
+Brand new cosy hostel@city centre(Single capsule),Downtown Core,Hotel room,1.0,4.0,14,1,900.0,219,46,89.0,1.29719,103.85674,0
+Garden home,Tampines,Private room,2.0,1.0,2,3,500.0,0,28,99.0,1.35535,103.96056,0
+*Female only* Relax East Coast stay near the city!,Marine Parade,Private room,1.0,1.0,1,6,45.0,17,62,96.0,1.30398,103.90100000000001,0
+*** 2 Private Rooms @ City Center,Kallang,Private room,2.0,2.5,6,2,104.0,365,11,85.0,1.31549,103.85368000000001,0
+NEWLY RENOVATED Studio Orchard/Stevens MRT #48,Tanglin,Entire home/apt,1.0,1.5,2,7,142.0,363,27,96.0,1.31679,103.82775,0
+Brand new cosy hostel@city centre(Single capsule),Downtown Core,Hotel room,1.0,4.0,1,1,39.0,46,15,86.0,1.29884,103.85653,0
+Club Street Two Bedroom Apartment,Outram,Entire home/apt,2.0,1.0,3,90,94.0,280,51,93.0,1.28165,103.84527,0
+∆ Orchard ∆ Family Private Room ✓ Bathroom inside,Newton,Private room,1.0,1.0,5,1,92.0,146,72,95.0,1.30502,103.83683,0
+! BEST ! LOCATION private room at Central Orchard,Newton,Private room,1.0,1.0,4,1,58.0,180,48,95.0,1.30532,103.83704,0
+© Family Room with Private Toilet at Orchard,Newton,Private room,1.0,1.0,5,1,65.0,178,84,95.0,1.3065799999999999,103.8373,0
+Warm and Cosy room for travellers,Bukit Merah,Private room,1.0,1.0,2,1,65.0,41,89,94.0,1.2752,103.83564,0
+Nice Home near dakota/aljunied mrt and food L3,Geylang,Entire home/apt,3.0,2.0,8,1,280.0,178,71,88.0,1.31294,103.88674,0
+Twin Room near Katong Mall,Bedok,Private room,1.0,1.0,2,1,60.0,365,11,78.0,1.30976,103.91245,0
+Room in Boutique hotel near Marine Parade Central,Bedok,Private room,1.0,1.0,2,1,50.0,364,23,83.0,1.30793,103.9123,0
+Room in Boutique hotel near Katong Mall,Bedok,Private room,1.0,1.0,2,1,50.0,364,25,83.0,1.30778,103.91223000000001,0
+Room in Boutique hotel near East Coast Park,Bedok,Private room,1.0,1.0,2,2,50.0,364,10,82.0,1.3099399999999999,103.91139,0
+Cozy 1 bedroom apartment 8 mins walk to Aljunied,Geylang,Entire home/apt,1.0,1.0,2,20,74.0,90,14,97.0,1.3139,103.88601,1
+Affordable Short Term Room Near NUS NUH. (7),Queenstown,Private room,1.0,1.0,1,90,49.0,365,21,91.0,1.2801799999999999,103.78771,0
+Design Loft for Creative Travelers/Digital Nomads,Bedok,Entire home/apt,2.0,2.0,4,10,138.0,117,10,100.0,1.3318,103.94263000000001,1
+Brand New Capsule. Atlantis Pods @ Little India,Kallang,Hotel room,1.0,4.0,4,1,33.0,174,106,82.0,1.31664,103.85913000000001,0
+"CLASSY & COZY, 3 BR IN CLEMENTI",Clementi,Entire home/apt,3.0,2.0,6,6,295.0,1,11,73.0,1.30921,103.75729,0
+Premier King Room - 2mins away from Chinatown MRT,Outram,Hotel room,1.0,1.0,2,1,156.0,298,19,94.0,1.2849,103.84473,0
+Ben's Business Pad,Downtown Core,Entire home/apt,2.0,1.0,4,2,182.0,348,70,93.0,1.28007,103.84881999999999,0
+Studio Apt w Balcony /WIFI @ Orchard/Somerset Area,River Valley,Entire home/apt,1.0,1.0,4,28,140.0,315,30,89.0,1.29455,103.83977,0
+Boutique Capsule - Brand New,Kallang,Hotel room,1.0,4.0,2,1,33.0,362,57,80.0,1.31545,103.85953,0
+Brand New Boutique Capsule,Kallang,Hotel room,1.0,4.0,2,1,33.0,362,15,81.0,1.31675,103.85845,0
+PRIVATE CAPSULE IN LITTLE INDIA,Kallang,Hotel room,1.0,4.0,4,1,33.0,362,84,84.0,1.31617,103.85805,0
+SPACE CAPSULE - NEW EXPERIENCE,Kallang,Hotel room,1.0,4.0,2,1,33.0,362,25,78.0,1.31544,103.85984,0
+ATLANTIS PODS @ LITTLE INDIA,Kallang,Hotel room,1.0,4.0,2,1,33.0,362,21,82.0,1.31529,103.85942,0
+Beary Nice Pod Hostel,Outram,Shared room,1.0,2.0,1,1,33.0,0,38,84.0,1.28293,103.84645,0
+Atlantis Pods@LittleIndia-Trendy New Capsule Hotel,Kallang,Hotel room,1.0,4.0,6,1,33.0,362,72,85.0,1.3156700000000001,103.85876999999999,0
+Atlantis Pods @ Little India. Capsule Hotel,Kallang,Hotel room,1.0,4.0,4,1,33.0,362,10,82.0,1.3153299999999999,103.85773,0
+Spacious Room 1 (Ensuite) near MRT in the East,Geylang,Private room,1.0,1.0,2,6,42.0,288,75,90.0,1.31558,103.90075999999999,0
+Spacious Room 4 (1+) near MRT in the East,Geylang,Private room,1.0,2.0,2,6,42.0,238,82,89.0,1.31637,103.89989,0
+Spacious Room 5 (1+) near MRT in the East,Geylang,Private room,1.0,2.0,2,6,44.0,92,89,89.0,1.31534,103.89967,0
+Tanjong Pagar Studio Apartment,Outram,Entire home/apt,1.0,1.0,2,90,71.0,317,36,84.0,1.2770299999999999,103.84374,0
+Large 2-bedroom apartment in orchard near subway,River Valley,Entire home/apt,2.0,2.0,4,6,256.0,1,21,94.0,1.2973,103.84208000000001,0
+"Stroll to Marina Bay, Chinatown, Fullerton Bay",Outram,Entire home/apt,1.0,1.0,4,6,130.0,38,28,89.0,1.28306,103.84563,0
+Attic Hideaway in Heart of the City,Outram,Entire home/apt,1.0,1.0,4,6,169.0,66,46,95.0,1.28191,103.84515999999999,0
+Master bedroom 1 @ Heritage Tiong Bahru,Outram,Private room,1.0,1.0,2,2,69.0,355,127,92.0,1.28447,103.83612,1
+373 L3R3 Private room with private bath,Geylang,Private room,1.0,1.0,3,2,65.0,3,69,89.0,1.31129,103.88709,0
+"Modern, spacious and central condo",Serangoon,Private room,1.0,1.0,2,4,79.0,56,20,97.0,1.3517299999999999,103.86312,0
+Deluxe King room near Bugis MRT,Downtown Core,Private room,1.0,1.0,2,1,65.0,364,22,83.0,1.29672,103.85279,0
+Superior twin room on Victoria Street,Downtown Core,Hotel room,1.0,1.0,2,2,59.0,364,48,86.0,1.29746,103.8533,0
+"Lovely Rm With Bathroom @ Haw Par Villa (205, 305)",Queenstown,Hotel room,1.0,1.0,2,14,91.0,365,14,85.0,1.2816,103.78607,0
+2BR Family Suite near Marina Bay /Chinatown,Outram,Entire home/apt,2.0,2.0,6,6,166.0,82,35,88.0,1.28169,103.8449,0
+A nice place for travellers,Geylang,Private room,1.0,1.0,2,1,64.0,0,37,91.0,1.31043,103.88128,0
+Nice Rooms for Travellers,Geylang,Private room,1.0,1.0,2,1,64.0,0,20,91.0,1.3114700000000001,103.88298,0
+Master bedroom 3 at Tiong Bahru/ Outram Park,Bukit Merah,Private room,1.0,1.5,2,2,60.0,362,111,92.0,1.28311,103.83407,0
+Entire Apartment @ Heritage Tiong Bahru+WIFI,Bukit Merah,Entire home/apt,1.0,1.0,2,2,90.0,346,108,94.0,1.2835,103.8351,0
+"Short-term Stay in NUS NUH (301, 304, 305, 309)",Queenstown,Private room,1.0,1.0,2,14,102.0,365,14,82.0,1.27988,103.78711,0
+"(v2) Cozy Room Near City, 6mins Walk ->Aljunid MRT",Geylang,Private room,1.0,4.0,3,4,48.0,365,45,93.0,1.31324,103.88199,0
+A Wonderful Experience in Singapore,Geylang,Private room,1.0,1.0,2,1,64.0,0,45,84.0,1.31031,103.88157,0
+Heritage Home,Outram,Entire home/apt,1.0,1.0,4,6,138.0,62,15,89.0,1.28367,103.84651,0
+Designer 1 bed condo with balcony off Orchard Road,Newton,Entire home/apt,1.0,1.0,2,5,90.0,132,13,98.0,1.30386,103.8424,0
+Cozy Room@Punggol - 1 LRT station to Punggol MRT,Punggol,Private room,1.0,1.0,2,3,40.0,0,11,98.0,1.40517,103.90675,0
+1BR Walk to Marina Bay. Heritage Trail @ Club St,Outram,Entire home/apt,1.0,1.0,4,6,152.0,56,31,94.0,1.28217,103.84629,0
+"8 mins walk to Paya Lebar MRT, near T. Katong Rd",Geylang,Entire home/apt,1.0,1.5,2,1,116.0,74,183,95.0,1.31142,103.89305999999999,1
+Single room at river valley,River Valley,Shared room,1.0,1.0,2,2,85.0,90,16,95.0,1.29518,103.83876,0
+Compact Studio near Marina Bay,Outram,Hotel room,1.0,1.0,2,6,93.0,0,33,86.0,1.28325,103.84675,0
+glamping kaki singapore-Standard medium bell ten,Bedok,Entire home/apt,1.0,0.0,4,1,220.0,24,23,91.0,1.31219,103.95253000000001,0
+The Executive State,Downtown Core,Entire home/apt,2.0,1.0,4,2,169.0,348,78,93.0,1.2800200000000002,103.85006,0
+"Capsule B for 1 guest in Dorm, Little India",Rochor,Shared room,1.0,5.0,5,1,22.0,365,13,92.0,1.30825,103.85055,1
+"*PRIVATE ACCESS* PATIO UNIT, OUTDOOR LIVING AREA‼️",Tampines,Private room,1.0,1.0,2,1,82.0,88,167,92.0,1.3493700000000002,103.92836,0
+Brisky Studio near Marina Bay,Outram,Hotel room,1.0,1.0,2,6,190.0,55,15,88.0,1.28362,103.84568,0
+Large Studio Apartment Near Marina Bay,Outram,Entire home/apt,1.0,1.0,4,6,132.0,84,13,86.0,1.28207,103.84625,0
+Quiet and spacious room near Woodleigh MRT(R2),Toa Payoh,Private room,1.0,1.0,2,1,45.0,56,169,98.0,1.3380299999999998,103.87048,1
+Heritage Home near Chinatown,Outram,Hotel room,1.0,1.0,4,6,195.0,78,16,88.0,1.28197,103.8465,0
+Luxury 2br Opulent Next to MBS,Downtown Core,Entire home/apt,2.0,1.0,4,2,182.0,14,23,96.0,1.2817100000000001,103.84959,0
+Hippie Studio at Town,Outram,Hotel room,1.0,1.0,2,6,105.0,62,41,91.0,1.28334,103.84688,0
+eHome-Cozy Apartment (Tanah Merah MRT),Bedok,Entire home/apt,1.0,1.0,2,180,109.0,116,63,98.0,1.32607,103.9461,1
+One-Bedroom Deluxe Apartment,Downtown Core,Hotel room,1.0,1.0,2,365,383.0,0,10,96.0,1.27786,103.85001,1
+The Snug - City /Bathroom/Farrer Pk MRT/Sanitised,Kallang,Private room,1.0,1.5,1,3,46.0,95,23,93.0,1.31644,103.85154,0
+1 Bedroom @ River Valley & Fort Canning MRT 1,Singapore River,Entire home/apt,1.0,1.0,3,30,130.0,365,11,93.0,1.2933,103.84183,0
+2 Bedroom Near Kallang Mrt & Buses 1,Geylang,Entire home/apt,2.0,2.0,6,30,178.0,365,40,93.0,1.31149,103.8782,0
+Private Cosy Master Room @ city centre,Bukit Merah,Private room,1.0,1.0,2,180,70.0,270,69,95.0,1.28912,103.82797,0
+2 Bedroom Near Kallang Mrt & Buses 5,Geylang,Entire home/apt,2.0,2.0,6,30,178.0,365,50,95.0,1.30962,103.87745,0
+3 Bedroom Close to Kallang Mrt & Buses 5,Geylang,Entire home/apt,3.0,3.0,9,30,258.0,365,30,91.0,1.30962,103.87810999999999,0
+Space Studio @ Chinatown & Business District,Outram,Entire home/apt,1.0,1.0,2,6,104.0,74,36,90.0,1.28223,103.8452,0
+Smart Studio near CBD,Outram,Hotel room,1.0,1.0,2,6,99.0,57,39,89.0,1.28205,103.84535,0
+Urban City Hab.,Outram,Hotel room,1.0,1.0,4,6,192.0,58,32,90.0,1.28285,103.8451,0
+Loft 1 Min to Clarke Quay MRT Marina bay view,Singapore River,Entire home/apt,2.0,1.0,6,1,171.0,71,123,89.0,1.2896299999999998,103.84756,0
+Glampingkaki-Singapore-Couple Deluxe Tent,Bedok,Entire home/apt,1.0,0.0,2,1,190.0,210,20,94.0,1.31213,103.95297,0
+Ideal place for Travelers 2,Geylang,Private room,1.0,1.0,2,1,64.0,0,43,91.0,1.31036,103.88344000000001,0
+Spacious Studio in Chinatown,Outram,Entire home/apt,1.0,1.0,4,6,116.0,0,19,91.0,1.28243,103.84501999999999,0
+"(F) Cozy Room Near City, 6mins Walk->Aljunid MRT",Geylang,Private room,1.0,4.0,3,4,46.0,365,39,91.0,1.31336,103.88364,0
+Newly and cozy 2BR condo 2mins to Farrer park mrt.,Kallang,Entire home/apt,2.0,2.5,6,2,139.0,331,58,95.0,1.31535,103.85409,0
+Cozy & Quiet private room nearby Botanic Gardens,Bukit Timah,Private room,1.0,1.0,2,1,68.0,87,22,100.0,1.32436,103.81059,0
+"10min walk to Orchard Rd, Modern 2-bedroom #281",Rochor,Entire home/apt,2.0,2.0,5,3,200.0,56,47,87.0,1.30303,103.84773,0
+Acasia Breeze @ Yishun (pink Rm) Room only,Yishun,Shared room,1.0,1.5,3,1,48.0,0,50,90.0,1.41547,103.84264,0
+Master Room with City View,Geylang,Private room,1.0,1.0,3,1,90.0,0,29,90.0,1.3103,103.88141,0
+Sweet Entire Home Near MRT & City Center,Kallang,Entire home/apt,2.0,2.0,5,4,141.0,224,49,90.0,1.32161,103.86578,0
+2 Bedroom Near Kallang Mrt & Buses 6,Geylang,Entire home/apt,2.0,2.0,6,30,178.0,365,28,95.0,1.31134,103.87810999999999,0
+2 Bedroom Near Kallang Mrt & Buses 4,Geylang,Entire home/apt,2.0,2.0,6,30,178.0,365,28,94.0,1.31009,103.87606,0
+3 Bedroom Close to Kallang Mrt & Buses 4,Geylang,Entire home/apt,3.0,3.0,9,30,258.0,365,20,86.0,1.30998,103.87791999999999,0
+2 Bedroom Near Kallang Mrt & Buses 2,Geylang,Entire home/apt,2.0,2.0,6,30,178.0,365,14,89.0,1.31182,103.87772,0
+Geylang lodge@City Center/Aljunied MRT/Nice View,Geylang,Entire home/apt,2.0,2.0,5,2,298.0,56,90,93.0,1.31277,103.87971,0
+Private bed room for stay (Queen Size Bed) Punggol,Punggol,Private room,1.0,1.0,2,1,80.0,26,11,93.0,1.40171,103.91865,0
+Deluxe Queen Capsule Hotel,Outram,Hotel room,1.0,1.0,2,1,129.0,333,10,74.0,1.2832299999999999,103.84371,0
+Trendy Poshtel Capsules,Outram,Hotel room,1.0,5.0,6,1,50.0,355,46,88.0,1.28409,103.84364000000001,0
+Spacious & Bright Shophouse Apartment 3 min to MRT,Rochor,Entire home/apt,1.0,1.0,3,30,145.0,362,25,94.0,1.30416,103.85036,0
+Boon Lay MRT - Single Room (with own Bathroom),Jurong West,Private room,1.0,1.0,2,90,53.0,173,22,97.0,1.3419,103.70775,1
+Beautiful apartment right above MRT in Chinatown!,Outram,Entire home/apt,1.0,1.5,4,3,207.0,270,106,97.0,1.27973,103.8414,1
+*PROMO* ♦ Spacious Room in the Heart of Orchard ♦,Orchard,Hotel room,1.0,1.0,2,1,326.0,69,45,96.0,1.30265,103.83699,1
+"Fully furnish,clean&bright private room,v near NTU",Jurong West,Private room,1.0,1.0,2,2,69.0,364,16,93.0,1.3459299999999998,103.69516999999999,0
+Room for 2 persons,Bishan,Private room,1.0,1.0,2,5,38.0,200,38,92.0,1.36242,103.83318,0
+Divas bed/share room at Bugis-Female only,Rochor,Shared room,1.0,3.0,2,3,28.0,362,19,94.0,1.2984,103.85133,0
+1+1 Good for Budget Travellers @ Chinatown MRT 超值,Outram,Private room,1.0,1.0,8,5,165.0,301,101,94.0,1.2856,103.84407,0
+City View 2200sft Apartment @ Chinatown MRT 牛车水地铁站,Outram,Entire home/apt,3.0,3.0,16,3,262.0,80,82,97.0,1.28475,103.84284,0
+RedDoorz Hostel @ Kallang MRT,Kallang,Hotel room,1.0,2.0,10,1,25.0,330,22,79.0,1.31123,103.87314,0
+Braddell View Pte Condo - Master Rm - Pool & Gym,Toa Payoh,Private room,1.0,1.0,1,1,49.0,340,17,96.0,1.34223,103.84166,0
+Bed in dormitory at 3 minute walk from Kallang MRT,Kallang,Hotel room,1.0,2.0,10,1,25.0,332,22,84.0,1.31174,103.87205,0
+City Fringe Cosy Comfy Private Room 套房民俗 203,Novena,Private room,1.0,1.0,2,90,40.0,365,39,96.0,1.32159,103.85339,1
+Evening  Apartment  from (2000 to 0830),Geylang,Entire home/apt,1.0,1.0,4,1,91.0,91,64,95.0,1.3107600000000001,103.88205,0
+Deluxe Resort Room with Outdoor Terrace *near Lavender MRT*,Kallang,Private room,1.0,1.0,2,1,205.0,7,11,84.0,1.31195,103.86048000000001,1
+Comfy Cosy City-fringe Private Room 套房民宿 206,Novena,Private room,1.0,1.0,2,90,99.0,365,45,98.0,1.32159,103.85338,1
+Spacious room3 near MRT in the East,Geylang,Private room,1.0,2.0,2,5,37.0,193,55,91.0,1.31534,103.89967,0
+"rejuvenating and tranquility, home in the city",Novena,Entire home/apt,2.0,1.0,6,2,136.0,75,64,97.0,1.32236,103.85370999999999,1
+Yunnan Garden Corner Terrace ( Near NTU),Jurong West,Private room,1.0,1.0,2,1,80.0,301,37,99.0,1.33797,103.6913,1
+Chinatown - Luxury [Mixed] Single Capsule,Outram,Hotel room,1.0,10.0,1,1,126.0,365,18,94.0,1.28309,103.84295999999999,0
+1-Bedroom Deluxe Suite,Rochor,Entire home/apt,1.0,1.0,2,3,378.0,344,12,97.0,1.30044,103.85946,0
+PRIV ROOM & BATH in shared apartment near Orchard,Novena,Private room,2.0,2.5,1,2,72.0,16,26,100.0,1.3162200000000002,103.83941,1
+❤180º Marina Bay View 2B2B (incl driver) 金莎景包接送车机！,Downtown Core,Entire home/apt,2.0,2.0,8,2,516.0,119,39,97.0,1.28031,103.8522,1
+Executive Queen - 2mins away from Chinatown MRT,Outram,Hotel room,1.0,1.0,2,1,125.0,341,12,78.0,1.2833299999999999,103.84384,0
+Ben's Concrete Jungle,Downtown Core,Entire home/apt,2.0,1.0,4,2,182.0,348,38,94.0,1.28175,103.84959,0
+6 BR House in Katong next to MRT,Bedok,Entire home/apt,6.0,6.0,16,2,857.0,231,48,100.0,1.31437,103.90726,1
+Private bedroom and bathroom in beautiful condo,Downtown Core,Private room,1.0,1.0,2,2,120.0,72,49,99.0,1.27633,103.84934,1
+The Nest - Modern Living in the food paradise,Marine Parade,Entire home/apt,1.0,1.0,3,2,139.0,71,85,99.0,1.30659,103.9048,1
+"Room in a big house in lush, safe, tranquil estate",Clementi,Private room,1.0,1.0,5,1000,89.0,365,26,93.0,1.32311,103.75836,0
+Fantastic Location 2 Bedroom 2 Bathroom Apartment!,Rochor,Entire home/apt,2.0,2.5,5,3,250.0,145,54,91.0,1.2994,103.85141,0
+Extended CNY Promo Byte1 ~ cosy Studio Apt w/WI-FI,Kallang,Entire home/apt,1.0,1.0,2,7,100.0,167,19,98.0,1.29966,103.88497,1
+Master room for 3 person ( Smoking Room ),Geylang,Private room,1.0,1.0,3,1,90.0,0,20,93.0,1.31063,103.88341,0
+371A L2R3 private room with private toilet,Geylang,Private room,1.0,1.0,2,2,60.0,0,59,96.0,1.31263,103.88733,0
+Ultra Modern Space & Luxurious Room in Balestier,Novena,Private room,1.0,1.5,1,3,65.0,172,21,96.0,1.32826,103.8615,0
+Big ensuite bedroom in newly built house,Jurong West,Private room,1.0,1.0,3,1,100.0,116,27,100.0,1.33733,103.69009,1
+Big ensuite bedroom in newly built house near NTU,Jurong West,Private room,1.0,1.0,3,1,100.0,301,13,98.0,1.33769,103.69027,1
+Elegant Suite @ CG!  ( Brand new condo ),Downtown Core,Entire home/apt,1.0,1.0,2,30,100.0,319,10,98.0,1.30009,103.85808,1
+Private Room to Rent,Bukit Timah,Private room,1.0,1.0,2,2,90.0,54,16,100.0,1.31316,103.80215,0
+"Jo's Place Sentosa, Boat Stay relocated to Punggol",Southern Islands,Entire home/apt,1.0,1.0,2,1,203.0,62,143,99.0,1.2453,103.83841,1
+CitySkylines@Chinatown,Outram,Private room,1.0,2.0,1,90,98.0,365,25,96.0,1.28474,103.8414,0
+D Your personal space in the Heart of Singapore,Kallang,Private room,1.0,1.0,2,3,90.0,0,31,96.0,1.31626,103.85351,1
+A cosy room away from home Room#1,Bedok,Private room,1.0,1.0,2,90,56.0,0,30,95.0,1.30881,103.9245,0
+quiet beautiful room in Singapore,Hougang,Private room,1.0,1.0,1,5,70.0,364,11,96.0,1.3745,103.90459,1
+Newly Re-furbished Family (with Children) Room,Choa Chu Kang,Private room,1.0,1.0,3,2,92.0,364,11,98.0,1.4025299999999998,103.74502,0
+Byte2 ~ cosy Studio Apt with WIFI,Kallang,Entire home/apt,1.0,1.0,2,7,135.0,177,18,97.0,1.29966,103.88497,1
+Extended CNY Promo Amaze7 -  Svc Apartment,Kallang,Entire home/apt,1.0,1.0,2,7,110.0,360,22,95.0,1.29966,103.88497,1
+"Room in a large house; lush, safe, tranquil estate",Clementi,Private room,1.0,1.0,4,1000,99.0,365,45,92.0,1.3225799999999999,103.7556,0
+Evergreen park condo near hougang MRT,Hougang,Private room,1.0,1.5,1,2,40.0,41,31,89.0,1.36886,103.89856999999999,0
+STANDARD ROOM,Geylang,Private room,1.0,1.0,2,1,50.0,0,15,83.0,1.31273,103.87791,0
+Byte3 - fully furnished serviced apartments,Kallang,Entire home/apt,1.0,1.0,2,7,135.0,181,16,98.0,1.29966,103.88497,1
+H - Luxe Modern Spacious 1 Bedroom Suite,Bukit Merah,Entire home/apt,1.0,1.5,2,60,150.0,0,47,90.0,1.28426,103.83433000000001,0
+(3 mins to MRT) Single Capsule + All Day Breakfast,Kallang,Hotel room,1.0,2.0,1,1,66.0,365,141,93.0,1.31213,103.87354,0
+Sunny 4-story house with modern interior,Geylang,Entire home/apt,6.0,6.0,16,7,400.0,74,33,92.0,1.31301,103.89981999999999,0
+Central 1BR Suite aboveMRT in Chinatown,Outram,Entire home/apt,1.0,1.0,3,3,169.0,323,29,99.0,1.28083,103.84127,1
+New Comfy 2 Queen Beds Room-Suite @ City Central,River Valley,Private room,1.0,1.0,5,14,128.0,0,45,89.0,1.2957,103.83784,0
+Fresh New Apartment at Club,Outram,Entire home/apt,1.0,1.0,4,6,142.0,0,12,84.0,1.2817,103.84509,0
+"Private Studio w/ Kitchen near CBD, MRT, Food,Shop",Outram,Entire home/apt,1.0,1.0,2,6,108.0,63,31,96.0,1.28226,103.8457,0
+Ananya’s house,Bukit Merah,Private room,1.0,1.0,2,1,50.0,56,27,92.0,1.28577,103.80873000000001,1
+"[A] 2BR Free Parking & Wifi, CBD Fringe-Long Term",Kallang,Entire home/apt,2.0,2.0,4,4,108.0,352,53,96.0,1.32397,103.86583,1
+"[E] 2BR Free Parking & Wifi, CBD Fringe",Kallang,Entire home/apt,2.0,2.0,4,5,145.0,165,39,99.0,1.3221399999999999,103.86469,1
+"[D] 2BR Free Parking & Wifi, CBD Fringe",Kallang,Entire home/apt,2.0,2.0,4,4,128.0,345,42,98.0,1.3223799999999999,103.86445,1
+"[C] 2BR Free Parking & Wifi, CBD Fringe",Kallang,Entire home/apt,2.0,2.0,4,4,128.0,346,39,98.0,1.3225799999999999,103.86529,1
+"[B] 2BR Free Parking & Wifi, CBD Fringe-Long Term",Kallang,Entire home/apt,2.0,2.0,4,4,128.0,335,47,95.0,1.32255,103.86558000000001,1
+"[C] 3BR Free Parking & Wifi, CBD Fringe",Kallang,Entire home/apt,3.0,2.0,6,3,154.0,0,56,95.0,1.32341,103.86613,1
+"[B] 3BR Free Parking & Wifi, CBD Fringe",Kallang,Entire home/apt,3.0,2.0,6,3,148.0,331,49,96.0,1.3223200000000002,103.8646,1
+"[D] 3BR Free Parking & Wifi, CBD Fringe-Long Term",Kallang,Entire home/apt,3.0,2.0,6,3,131.0,339,64,98.0,1.32412,103.86615,1
+"[E] 3BR Free Parking & Wifi, CBD Fringe",Kallang,Entire home/apt,3.0,2.0,4,3,148.0,159,49,96.0,1.3234700000000001,103.86411,1
+"[B] 4BR Free Parking & Wifi, CBD Fringe",Kallang,Entire home/apt,4.0,3.0,8,3,171.0,189,53,99.0,1.32397,103.86595,1
+"[A] 4BR Free Parking & Wifi, CBD Fringe-Long Term",Kallang,Entire home/apt,4.0,3.0,8,3,182.0,0,47,98.0,1.32207,103.8662,1
+"[C] 4BR Free Parking & Wifi, CBD Fringe",Kallang,Entire home/apt,4.0,3.0,8,5,171.0,343,60,97.0,1.3222399999999999,103.86606,1
+"[D] 5BR Free Parking & Wifi, CBD Fringe",Kallang,Entire home/apt,5.0,3.0,8,3,206.0,190,54,96.0,1.3226,103.86528,1
+"[E] 5BR Free Parking & Wifi, CBD Fringe",Kallang,Entire home/apt,5.0,3.0,8,3,420.0,64,49,97.0,1.32245,103.8661,1
+Spacious 1BR near CBD and Chinatown,Outram,Entire home/apt,1.0,1.0,2,6,131.0,70,25,91.0,1.28241,103.84714,0
+Private room & bath beside train. Newly renovated.,Bukit Panjang,Private room,1.0,1.5,2,5,45.0,269,13,92.0,1.37847,103.76825,0
+Spacious 1 Br very close to MRT,Rochor,Entire home/apt,1.0,1.5,3,1,106.0,268,63,95.0,1.31072,103.85253,1
+"Metropolitan living-2stop 2Orchard, MBS/RWS 15mins",Tanglin,Entire home/apt,1.0,1.0,3,21,138.0,26,24,94.0,1.29483,103.82723,0
+"Large-bedroom-20%off, long-term rent welcome",Bishan,Private room,1.0,1.0,1,90,65.0,87,11,98.0,1.35385,103.83643000000001,0
+3BR Spacioushigh floor apartment  near CBD1 minMRT,Downtown Core,Entire home/apt,3.0,3.0,9,2,407.0,292,57,95.0,1.27685,103.84649,1
+Large Room@ Seletar size 458sq.ft 20x22.9sq.ft,Serangoon,Private room,1.0,1.0,5,30,78.0,57,32,95.0,1.38289,103.86933,0
+Beary's Upper Capsule - Mixed - Shared Bathroom,Rochor,Hotel room,1.0,3.0,1,1,33.0,0,70,93.0,1.3008899999999999,103.8594,0
+Private Room at city center,Kallang,Private room,1.0,1.0,1,90,48.0,179,18,94.0,1.30777,103.85911,0
+Dream Room in the City/Farrer Pk MRT/Sanitised,Kallang,Private room,1.0,1.0,2,3,56.0,88,20,92.0,1.31675,103.85266999999999,0
+Charming 2-Bedroom Tiong Bahru Apt with Park View,Bukit Merah,Entire home/apt,2.0,1.0,6,5,220.0,26,34,98.0,1.28475,103.83134,1
+Deluxe 1 Bedroom serviced apartment near orchard,River Valley,Entire home/apt,1.0,1.0,3,6,175.0,365,12,90.0,1.29518,103.84053,0
+[1888]Triple-2mins away from chinatown MRT,Outram,Hotel room,1.0,1.0,3,1,122.0,210,29,92.0,1.28179,103.84478,0
+Spacious master bedroom near town,Novena,Private room,1.0,1.0,2,3,61.0,90,16,84.0,1.32617,103.85410999999999,0
+Superior Double-2mins away from chinatown MRT,Outram,Hotel room,1.0,1.0,2,1,89.0,209,15,91.0,1.28388,103.84505,0
+Standard Double-2mins away from chinatown MRT,Outram,Hotel room,1.0,1.0,2,1,82.0,206,37,87.0,1.28366,103.84316,0
+[1888]Single Room-2mins away from chinatown MRT,Outram,Hotel room,1.0,1.0,1,1,77.0,204,13,89.0,1.2819399999999999,103.8431,0
+[1888] Family Room-2mins away from chinatown MRT,Outram,Hotel room,1.0,1.0,4,1,177.0,182,10,94.0,1.28154,103.84356,0
+CozzyRoom@Chinatown(no window),Outram,Private room,1.0,3.0,1,90,78.0,364,14,93.0,1.28312,103.84156999999999,0
+Single Bed in Mixed Dorm,Rochor,Hotel room,1.0,2.0,8,1,29.0,275,47,90.0,1.30575,103.85138,0
+Family Room for 8 (No Breakfast),Rochor,Private room,1.0,4.0,8,1,199.0,311,12,88.0,1.30575,103.85169,0
+Family Room For 6 (No Breakfast),Rochor,Private room,1.0,1.0,6,1,150.0,265,22,87.0,1.30663,103.85327,0
+Single Bed in Mixed Dorm,Rochor,Shared room,1.0,2.0,8,1,28.0,331,33,90.0,1.30672,103.8517,0
+Single Bed in Mixed Dorm,Rochor,Shared room,1.0,2.0,6,1,29.0,331,41,88.0,1.30736,103.85181,0
+"1BR, Centrally located in Telok Ayer & Chinatown",Outram,Entire home/apt,1.0,1.0,4,6,194.0,78,21,88.0,1.28283,103.84685,0
+"Luxury Home @ Orchard Road, 2 BR, Quiet, Terrace",Rochor,Entire home/apt,2.0,1.0,5,7,250.0,168,28,89.0,1.29985,103.84819,0
+CityView@Chinatown,Outram,Private room,1.0,3.0,1,7,88.0,364,12,98.0,1.28359,103.84208000000001,0
+★Superb Location @ Bugis City Central 超值民宿★,Rochor,Entire home/apt,2.0,2.0,8,4,165.0,43,16,100.0,1.30292,103.85365,1
+Cozy Room @ Seletar,Serangoon,Private room,1.0,1.0,2,30,70.0,89,19,97.0,1.38315,103.86822,0
+2BR cosy condo minutes from Orchard pool gym,Rochor,Entire home/apt,2.0,1.0,5,1,152.0,74,20,93.0,1.3017,103.84995,1
+Luxurious 1 Br very close to MRT,Rochor,Entire home/apt,1.0,1.0,3,1,105.0,352,31,94.0,1.30974,103.85217,1
+Luxurious New 1 Br near to MRT,Rochor,Entire home/apt,1.0,1.0,2,1,104.0,361,33,96.0,1.30951,103.85249,1
+Single Bed in Mixed Dorm,Rochor,Shared room,1.0,2.0,8,1,28.0,331,32,88.0,1.30695,103.85113,0
+Female Room Single Bed,Rochor,Shared room,1.0,2.0,6,1,25.0,331,14,94.0,1.30755,103.85188000000001,0
+Queen Bed in Mixed Dorm,Rochor,Shared room,1.0,2.0,2,1,49.0,331,12,88.0,1.30664,103.85135,0
+NEWLY RENOVATED 1 Bedrm Apt Orchard/Stevens #11,Tanglin,Entire home/apt,1.0,1.0,2,7,224.0,360,12,100.0,1.31572,103.82642,0
+Beautiful New Clean Scandinavian Room,Bishan,Private room,1.0,1.0,2,2,65.0,249,19,99.0,1.35686,103.83006999999999,0
+Standard Queen Room - 2mins to Chinatown MRT,Outram,Hotel room,1.0,1.0,2,1,92.0,0,12,87.0,1.28503,103.84331,0
+Comfy apt 10 mins walk to Aljunied MRT,Geylang,Entire home/apt,1.0,1.0,2,20,70.0,77,14,97.0,1.3151,103.88749,1
+CLEAN AND COSY WHITE ROOM IN CONVENIENT LOCATION,Downtown Core,Private room,5.0,2.0,2,3,59.0,60,45,96.0,1.29682,103.85689,0
+Stylish Single Pod in Female Only Room,Singapore River,Hotel room,1.0,16.0,1,1,70.0,313,16,86.0,1.28729,103.84849,0
+SPACIOUS CLEAN MASTER ROOM NEAR BUGIS MRT,Downtown Core,Private room,1.0,1.0,3,1,96.0,173,74,94.0,1.29756,103.85595,0
+SPACIOUS CLEAN ROOM WITH 2 SINGLE BEDS NEAR BUGIS,Downtown Core,Private room,1.0,1.0,3,7,79.0,80,52,95.0,1.29891,103.85598,0
+Private Single Room with fan/air-con.,Choa Chu Kang,Private room,1.0,1.0,1,14,28.0,61,19,96.0,1.4049,103.75103,1
+STYLISH COSY ROOM NEAR BUGIS,Downtown Core,Private room,1.0,1.0,2,2,85.0,81,46,94.0,1.29808,103.85598,0
+Premium Central Studio Apt @ Orchard/Somerset Area,River Valley,Entire home/apt,1.0,1.0,4,2,114.0,362,24,86.0,1.29474,103.83931,0
+Bright and Spacious BR + Mins Walk to MRT,Serangoon,Private room,1.0,1.0,1,2,70.0,242,62,98.0,1.35671,103.86285,1
+[201] 3BR New free parking Central Kallang MRT,Geylang,Entire home/apt,3.0,2.0,9,2,135.0,57,43,95.0,1.31254,103.87881999999999,1
+New Comfy Room Suite/ WIFI @ Orchard/Somerset Area,River Valley,Private room,1.0,1.0,3,2,83.0,340,13,94.0,1.2962799999999999,103.84074,0
+[301] 3BR New free parking Central Kallang MRT,Geylang,Entire home/apt,3.0,2.0,9,4,135.0,116,36,96.0,1.31055,103.87723000000001,1
+[401] 3BR New free parking Central Kallang MRT,Geylang,Entire home/apt,3.0,2.0,9,4,145.0,117,35,96.0,1.31244,103.87895,1
+[601] 3BR New free parking Central Kallang MRT,Geylang,Entire home/apt,3.0,2.0,9,3,125.0,52,43,99.0,1.3104200000000001,103.87756,1
+[302] 超大4房 Super Spacious with free parking,Geylang,Entire home/apt,4.0,3.0,12,12,171.0,56,43,98.0,1.3108799999999998,103.87735,1
+[402] 超大4房 Super Spacious with free parking,Geylang,Entire home/apt,4.0,3.0,12,3,165.0,145,43,99.0,1.31187,103.87878,1
+[502] 超大4房 Super Spacious with free parking,Geylang,Entire home/apt,4.0,3.0,12,12,185.0,46,37,99.0,1.31231,103.87892,1
+[602] 超大4房 Super Spacious with free parking,Geylang,Entire home/apt,4.0,3.0,12,12,179.0,26,42,99.0,1.3103799999999999,103.87895999999999,1
+[702] 超大4房 Super Spacious with free parking,Geylang,Entire home/apt,4.0,3.0,12,12,179.0,61,46,99.0,1.3124,103.87948,1
+Tasteful & Cozy 1 Bedroom apt near SGH/Tiong Bahru,Bukit Merah,Entire home/apt,1.0,1.0,2,1,121.0,362,22,97.0,1.2844799999999998,103.83507,1
+6-pax Family Room | Mins walk to Farrer Park MRT,Kallang,Hotel room,1.0,3.0,6,1,150.0,313,15,87.0,1.31057,103.85861,0
+Tasteful & Cozy Exe 1 Bedroom Apt in Tiong Bahru,Outram,Entire home/apt,1.0,1.0,2,1,133.0,351,24,96.0,1.2847,103.8357,1
+Stylish Queen Pod in Mixed Gender Room,Singapore River,Hotel room,1.0,13.0,2,1,95.0,313,16,88.0,1.28809,103.84895,0
+CENTRAL_SINGAPORE_PRIVATE_ROOM_FOOD_AC_WIFI_BUSMRT,Bedok,Private room,1.0,1.5,2,1,49.0,59,52,87.0,1.32043,103.93961,0
+Cozy Modern 2BR condo Next to City,Geylang,Entire home/apt,2.0,2.0,5,7,153.0,169,21,91.0,1.3115299999999999,103.88552,0
+F Your Loft in the heart of Singapore,Kallang,Private room,1.0,1.5,2,3,95.0,180,27,98.0,1.31473,103.85363000000001,1
+Private room on the main line,Kallang,Private room,1.0,1.0,2,2,99.0,178,24,96.0,1.3081200000000002,103.86378,0
+Spacious 1+1 Room 2 near MRT in the East,Geylang,Private room,1.0,2.0,2,6,42.0,321,30,91.0,1.31585,103.90057,0
+373 L2R4 Private Master Bedroom w Private Toilet,Geylang,Private room,1.0,1.0,3,2,65.0,0,36,94.0,1.31231,103.88654,0
+371 Level 2 Room 4 Master bedroom w private toilet,Geylang,Private room,1.0,1.0,3,2,60.0,89,22,95.0,1.31136,103.88849,0
+Nine residence apartment common room for rent,Yishun,Private room,1.0,1.0,2,1,50.0,352,33,90.0,1.4335799999999999,103.84100000000001,1
+Cozy Scandi Vibes,Sengkang,Private room,1.0,1.0,1,1,80.0,180,10,100.0,1.38996,103.89582,1
+CBD Ensuite  with a view-IDEAL for Short Term Work,Downtown Core,Private room,1.0,1.0,2,1,138.0,0,16,99.0,1.27473,103.8463,1
+"CozyCondo, 1 minute to MRT",Bedok,Entire home/apt,1.0,1.0,2,200,105.0,179,28,99.0,1.32881,103.95000999999999,0
+1BR with Livingroom Unit with 2 Queen beds (6pax),Jurong East,Entire home/apt,1.0,1.0,16,1,174.0,180,31,81.0,1.3367799999999999,103.74278000000001,0
+Sweet Peranakan Studio. City/MRT/Netflix/Sanitised,Kallang,Entire home/apt,1.0,1.5,2,3,73.0,90,13,100.0,1.31705,103.85101,0
+Balcony room for 2  @ EverGreen,Geylang,Private room,1.0,1.0,2,1,74.0,0,13,92.0,1.31138,103.88112,0
+"1BR Up to 4pax near CBD, Shopping, Food Hub, MRT",Outram,Entire home/apt,1.0,1.0,4,6,191.0,58,21,85.0,1.28172,103.84579000000001,0
+"Family Studio, few mins to Marina Bay/near CBD",Outram,Entire home/apt,1.0,1.0,4,6,132.0,84,14,84.0,1.2815,103.8458,0
+Studio near Lau Pa Sat/MRT/CBD/Shops * Up to 4pax,Outram,Entire home/apt,1.0,1.0,4,6,127.0,15,14,100.0,1.2822,103.84510999999999,0
+"Up to 4pax 1BR near food, MRT/Close to CBD",Outram,Entire home/apt,1.0,1.0,4,6,130.0,39,13,82.0,1.28187,103.84683000000001,0
+Near MRT/subway & food Clean quiet windy safe MEN,Woodlands,Shared room,1.0,1.0,1,185,21.0,307,10,100.0,1.4316200000000001,103.78013,1
+1 min to MRT•15 min to airport !!,Bedok,Private room,1.0,1.5,2,1,68.0,176,55,91.0,1.32655,103.94595,0
+Tasteful & Cozy 1 BR near SGH/Tiong Bahru,Bukit Merah,Entire home/apt,1.0,1.0,2,1,121.0,358,59,93.0,1.28599,103.83426999999999,1
+Hmlet Cantonment - The Extra Large,Bukit Merah,Entire home/apt,1.0,1.0,2,6,282.0,359,24,98.0,1.27427,103.84092,0
+Hmlet Cantonment - The Medium,Bukit Merah,Private room,1.0,1.0,2,6,140.0,365,17,96.0,1.27427,103.84092,0
+Well connected 2 bedroom 2 bathroom apartment !,Rochor,Entire home/apt,2.0,2.0,5,3,250.0,240,31,92.0,1.30103,103.8511,0
+Hmlet Cantonment - The Small,Bukit Merah,Private room,1.0,1.0,2,6,117.0,365,50,98.0,1.27427,103.84092,0
+复式公寓 单独使用一层 独立卫生间客厅 交通便利 1分钟步行至巴士站5分钟MRT 十分钟车程到市中心,Hougang,Private room,1.0,1.5,1,1,38.0,65,19,96.0,1.35362,103.88604000000001,0
+复式公寓，独用卫生间，房间可以单独使用整层空间，5分钟走到地铁站楼下就是巴士站附近很多当地美食近市区,Hougang,Private room,1.0,1.0,1,3,39.0,340,11,98.0,1.35643,103.88717,0
+Cozy common room suitable for couple or family,Serangoon,Private room,1.0,1.0,2,5,120.0,89,14,86.0,1.37311,103.87165999999999,0
+主卧 私人公寓 有游泳池适合一家三口或是情侣度假，可加床，红色线走路8分钟，近有超市食阁交通便利。,Yishun,Private room,1.0,1.5,4,3,68.0,270,13,91.0,1.41203,103.83386999999999,0
+A spacious and unique room in Northern Singapore,Woodlands,Private room,1.0,2.0,1,90,38.0,363,26,96.0,1.4442700000000002,103.80677,1
+New Comfy Room Suite/ WIFI @ Orchard/Somerset Area,River Valley,Hotel room,1.0,1.0,2,6,78.0,326,23,83.0,1.29535,103.8389,0
+Deluxe Comfy Studio Apt@City/Orchard/Somerset Area,River Valley,Entire home/apt,1.0,1.0,3,2,106.0,362,20,89.0,1.29535,103.84066999999999,0
+Tranquil 1BR Condo near MRT and Bus (CS3),Novena,Entire home/apt,1.0,1.0,3,3,148.0,364,16,100.0,1.32055,103.85266,0
+Waterway Terrace,Punggol,Private room,1.0,1.0,2,2,43.0,90,16,88.0,1.4045100000000001,103.91223000000001,0
+"Luxurious 1 Bedroom condo, Novena MRT (D3)",Novena,Entire home/apt,1.0,1.0,3,3,151.0,363,19,94.0,1.3252,103.8457,0
+"2BR Up to 6pax Prime location, near CBD/Food/MRT",Outram,Entire home/apt,2.0,2.0,6,6,159.0,48,18,97.0,1.28179,103.84484,0
+阿狸,Geylang,Entire home/apt,2.0,1.5,5,30,160.0,179,30,94.0,1.31523,103.88073,0
+Cozy 1 Room Studio Apt /WIFI@Central/Somerset Area,River Valley,Entire home/apt,1.0,1.0,2,13,121.0,334,17,89.0,1.2953,103.83883,0
+Rejuvenate,Geylang,Entire home/apt,1.0,1.5,6,1,135.0,163,24,88.0,1.31054,103.88016999999999,0
+Maples Suites 1BR near CBD & Chinatown,Outram,Entire home/apt,1.0,1.0,4,6,143.0,54,17,95.0,1.28294,103.84529,0
+Nature Inspired Studio Apartment in Novena,Novena,Entire home/apt,1.0,1.0,2,3,158.0,0,10,98.0,1.31779,103.84863,1
+Nature Inspired Premier 1BR Apartment in Novena,Novena,Entire home/apt,1.0,1.0,2,2,248.0,360,28,98.0,1.3191700000000002,103.84739,1
+Luxurious condominium in Orchard,Newton,Entire home/apt,2.0,2.0,4,30,200.0,28,14,100.0,1.30767,103.83789,1
+"1BR w/ Kitchen near CBD & Ann Siang Hill, MRT",Outram,Entire home/apt,1.0,1.0,4,6,123.0,82,11,96.0,1.28235,103.84538,0
+Singapore Sentosa hardrock festive Michael hotel,Southern Islands,Private room,1.0,1.0,4,1,353.0,364,10,94.0,1.25583,103.82075,0
+Ensuite double room - Penthouse  Prime location,River Valley,Private room,1.0,1.5,2,3,68.0,90,13,91.0,1.29726,103.84169,0
+Cosy single room 1 - Shared Penthouse,Museum,Private room,1.0,1.5,1,3,59.0,59,15,100.0,1.29742,103.84325,0
+"Green Luxury Home @ Orchard Road, Terrace 2BR",Museum,Entire home/apt,2.0,2.0,5,7,258.0,166,13,97.0,1.29893,103.8465,0
+Cosy Ensuite Studio with Facilities,Bukit Merah,Entire home/apt,1.0,1.0,2,1,110.0,178,49,94.0,1.28397,103.82936,0
+Cozy 2BR condo near MRT,Novena,Entire home/apt,2.0,1.0,5,6,150.0,145,13,95.0,1.3255700000000001,103.8463,0
+*SHN Avail* (2 mins to MRT) Single Mixed Dorm A,Geylang,Shared room,1.0,2.0,6,1,34.0,251,15,89.0,1.3151700000000002,103.8847,0
+"Jo's Place Boat Stay,  Unique Staycation & Events",Punggol,Entire home/apt,2.0,1.0,4,1,300.0,63,11,95.0,1.4146299999999998,103.89941999999999,1
+Studio Queen near Outram Park and Sentosa (8),Bukit Merah,Entire home/apt,1.0,1.0,2,2,121.0,364,13,97.0,1.2736299999999998,103.83306999999999,0
+Cozy & Modern Furnished Room with Private toilet.,Marine Parade,Private room,1.0,1.5,2,2,80.0,0,16,93.0,1.30775,103.89944,1
+Cozy & Modern Furnished Room with Balcony.,Marine Parade,Private room,1.0,1.5,2,2,63.0,0,25,94.0,1.30766,103.89948000000001,1
+Bright and Modern Furnished Deluxe Bedroom,Marine Parade,Private room,1.0,1.5,2,2,59.0,0,30,97.0,1.30775,103.89944,1
+Newly Renovated Entire Unit for Group / Family,Marine Parade,Entire home/apt,3.0,2.0,6,2,244.0,0,12,98.0,1.30672,103.90052,1
+Studio King at Outram Park near Sentosa (15),Bukit Merah,Entire home/apt,1.0,1.0,2,2,76.0,360,12,83.0,1.27467,103.83321,0
+1BR Cosy Home @ Holland,Tanglin,Entire home/apt,1.0,1.0,2,3,150.0,355,13,95.0,1.31094,103.80467,0
+Suite with Outdoor Tub [Hotel Soloha @ Chinatown],Outram,Private room,1.0,1.5,2,1,255.0,48,10,100.0,1.2803799999999999,103.84195,1
+Ensuite double room 2.0- Penthouse Prime location,River Valley,Private room,1.0,1.0,2,3,75.0,85,12,97.0,1.29732,103.84196,0
+5BR Central Apt For Budget Travellers,Geylang,Entire home/apt,5.0,3.0,12,5,195.0,146,11,98.0,1.31094,103.87813,1
+NEW  Cozy Studio Apt w Balcony @ CITY/Orchard Area,River Valley,Entire home/apt,1.0,1.0,4,2,124.0,0,48,91.0,1.2947899999999999,103.83865,0
+Stylish Cozy Room Near In Bugis,Downtown Core,Private room,1.0,1.0,2,1,85.0,80,22,95.0,1.2984799999999999,103.85811,0
+Tiny House @ 77 Ayer Rajah Crescent,Queenstown,Entire home/apt,1.0,1.0,4,1,166.0,99,15,100.0,1.29844,103.7868,1
+Tiny House @ 81 Ayer Rajah Crescent,Queenstown,Entire home/apt,1.0,1.0,4,1,166.0,100,10,100.0,1.29908,103.78534,1
+"Great Facility 1 BR Condo, Near Town (C3)",Novena,Entire home/apt,1.0,1.0,3,3,149.0,365,17,89.0,1.32323,103.85336,0
+Exclusive Landed Suite (C),Kallang,Private room,1.0,1.5,2,1,90.0,0,18,94.0,1.32485,103.86515,1
+Exclusive Landed Suite (D),Kallang,Private room,1.0,1.0,2,1,95.0,0,10,98.0,1.32444,103.86365,1
+Double cabin without window near Bugis MRT,Downtown Core,Private room,1.0,1.0,2,1,89.0,121,195,95.0,1.2975,103.85773,0
+Double cabin with window near Bugis MRT,Downtown Core,Private room,1.0,1.0,2,1,98.0,365,105,94.0,1.29836,103.85682,0
+Twin Cabin without window near Bugis MRT,Downtown Core,Private room,1.0,1.0,2,1,98.0,0,12,93.0,1.2962,103.85576,0
+Quad room with window near Bugis MRT,Downtown Core,Private room,1.0,1.0,4,1,125.0,365,10,100.0,1.29823,103.85696,0
+"Double Cabin, shared bathroom near Jalan Besar MRT",Rochor,Private room,1.0,0.0,2,1,63.0,362,37,95.0,1.30599,103.85457,0
+"Double Room, 8 Hours: 11PM-7AM near Bugis MRT",Downtown Core,Private room,1.0,1.0,2,1,46.0,317,136,96.0,1.29631,103.85622,1
+ROOM WITH MULTI AMENITIES *,Jurong West,Private room,1.0,1.0,2,180,61.0,364,24,99.0,1.34438,103.70398,1
+"Room with Window, 8 Hours:12MN-8AM Jalan Besar MRT",Rochor,Private room,1.0,1.0,2,1,52.0,365,19,87.0,1.30492,103.85518,0
+"Double Room, 8 Hours: 12MN-8AM at Jalan Besar MRT",Rochor,Private room,1.0,1.0,2,1,52.0,365,54,94.0,1.30445,103.85506,0
+New CITY Comfy Studio Apt @ Somerset/Orchard Area,River Valley,Entire home/apt,1.0,1.0,4,2,113.0,359,15,81.0,1.29655,103.84068,0
+"Double Room, 5 Hours: 9AM-2PM same day in Bugis",Downtown Core,Private room,1.0,1.0,2,1,46.0,364,97,95.0,1.29785,103.85551,0
+"Double Room, 5 Hours: 4PM-9PM same day in Bugis",Downtown Core,Private room,1.0,1.0,2,1,53.0,365,191,96.0,1.2970700000000002,103.85712,1
+"Double Room, 5 Hours: 5PM-10PM at Jalan Besar MRT",Rochor,Private room,1.0,1.0,2,1,60.0,365,36,100.0,1.30618,103.85463,1
+Private master room with private toilet,Marine Parade,Private room,1.0,1.5,2,2,84.0,0,18,99.0,1.30865,103.89827,1
+"Double Room, 5 Hours: 10AM-3PM at Jalan Besar MRT",Rochor,Private room,1.0,1.0,2,1,53.0,364,44,97.0,1.3046,103.85562,1
+Jurong West Room near NTU and Boon Lay MRT,Jurong West,Private room,1.0,1.0,2,1,58.0,356,10,90.0,1.34372,103.71483,1
+Beautiful & Quaint 1970's Walk Up Apartment,Geylang,Entire home/apt,3.0,1.0,6,2,226.0,16,22,99.0,1.31481,103.88951,1
+Maple 1BR Suites near CBD w/ Kitchen,Outram,Entire home/apt,1.0,1.0,4,6,131.0,54,13,92.0,1.2818,103.84579000000001,0
+"1BR Attic Up to 4pax near Food,MRT,Shop,CBD",Outram,Entire home/apt,1.0,1.0,4,6,172.0,67,24,93.0,1.2819,103.84562,0
+"Resort Style 1 BR Condo, Great Location (C3E)",Novena,Entire home/apt,1.0,1.5,3,1,148.0,354,10,98.0,1.32255,103.8528,0
+Hotel Deluxe Double room in City Center,Kallang,Private room,1.0,1.5,2,1,105.0,340,13,77.0,1.3120100000000001,103.86203,0

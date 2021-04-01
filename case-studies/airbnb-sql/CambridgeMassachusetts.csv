@@ -1,0 +1,382 @@
+name,neighbourhood,room_type,bedrooms,bathrooms,accommodates,minimum_nights,price,availability_365,number_of_reviews,review_score,latitude,longitude,is_superhost
+SunsplashedSerenity walk to Harvard & Fresh Pond,West Cambridge,Entire home/apt,2.0,1.0,5,2,150.0,57,36,94.0,42.38329,-71.13616999999999,0
+"Lovely Studio Room: Thu-Mons, Near Universities",North Cambridge,Private room,1.0,1.0,3,2,112.0,364,145,95.0,42.394690000000004,-71.13223,1
+Near Harvard: Safe & Lovely Room,North Cambridge,Private room,1.0,1.0,1,3,82.0,363,34,98.0,42.39454,-71.13431,1
+B & B near Harvard's Quad Houses,Neighborhood Nine,Private room,1.0,1.5,2,2,110.0,336,86,96.0,42.3867,-71.12387,1
+Riverbend Bed and Breakfast,West Cambridge,Private room,1.0,1.0,1,2,110.0,365,178,97.0,42.376059999999995,-71.14041,0
+Furnished suite 2 @ the Windsor,The Port,Private room,1.0,1.0,2,5,123.0,365,11,88.0,42.36381,-71.09754000000001,1
+Cambridge Getaway @ Harvard & MIT,The Port,Entire home/apt,2.0,1.0,5,3,250.0,353,352,97.0,42.3695,-71.09921,1
+large furnished suite in Central sq,The Port,Private room,1.0,1.0,3,5,138.0,365,15,96.0,42.3627,-71.09645,1
+"""The Treehouse"" :  Elegant living near Harvard",West Cambridge,Entire home/apt,1.0,1.0,4,1,180.0,287,20,93.0,42.38377,-71.13543,0
+"A+ Clean & Safe 1Br @ MIT, Kendall, Back Bay",Cambridgeport,Entire home/apt,1.0,1.0,2,10,198.0,334,59,89.0,42.361090000000004,-71.10425,0
+Two-room suite near Harvard Univ. with parking,Agassiz,Entire home/apt,1.0,1.0,3,1,80.0,0,224,97.0,42.38247,-71.11403,1
+Apartment in Harvard's Backyard,Mid-Cambridge,Entire home/apt,1.0,1.0,4,31,165.0,334,54,95.0,42.37125,-71.11105,0
+East Cambridge Apartment,Wellington-Harrington,Entire home/apt,4.0,2.0,7,3,325.0,27,49,99.0,42.37363,-71.08909,1
+Elegant Airy Comfort. Workspace. Private Entrance.,North Cambridge,Entire home/apt,3.0,2.0,6,60,350.0,262,256,99.0,42.39475,-71.12548000000001,1
+Large Room with Shared Bath,The Port,Private room,1.0,1.0,2,5,36.0,0,134,92.0,42.36598,-71.09909,0
+Waterfront-1 Bed Room Luxury Condo,East Cambridge,Private room,1.0,1.0,2,91,180.0,1,14,93.0,42.370740000000005,-71.07722,0
+"Quiet, Artistically Decorated Cambridge Apartment",North Cambridge,Entire home/apt,1.0,1.0,4,2,189.0,167,254,98.0,42.3942,-71.13202,0
+See Yourself in Central Square,Cambridgeport,Entire home/apt,1.0,1.0,3,30,150.0,101,126,92.0,42.36486,-71.10328,0
+Home on quiet street near Harvard,Agassiz,Private room,1.0,1.0,2,1,70.0,121,437,98.0,42.38391,-71.11449,1
+"Sunny, lg 1-br, heart of Cambridge",Mid-Cambridge,Entire home/apt,1.0,1.0,3,91,125.0,274,10,98.0,42.37254,-71.1126,0
+Harvard Tufts MIT: Artist's Home,North Cambridge,Private room,1.0,1.0,1,180,84.0,365,17,100.0,42.39177,-71.13116,1
+#17-1 Big 1 BR in Harvard Sq.!,Riverside,Entire home/apt,1.0,1.0,4,12,154.0,270,70,90.0,42.37039,-71.11489,0
+Harvard/MIT/BU/Central Square Room,Cambridgeport,Private room,1.0,1.0,2,30,70.0,365,43,95.0,42.35629,-71.11095,0
+Great Room Near Harvard/MIT/BU,Cambridgeport,Private room,1.0,1.0,2,30,70.0,365,68,94.0,42.36112,-71.1066,0
+MIT/Harvard/Inman- 2 Bedroom Apt.,Wellington-Harrington,Entire home/apt,2.0,1.0,4,2,179.0,102,422,94.0,42.37117,-71.09685,0
+Beautiful Light-Filled Bedroom/Best Location,North Cambridge,Private room,1.0,1.0,1,91,125.0,365,82,97.0,42.38884,-71.12048,1
+Quiet private room in N. Cambridge,North Cambridge,Private room,1.0,1.0,3,1,65.0,353,365,93.0,42.400209999999994,-71.13643,1
+Large Downstairs Room,The Port,Private room,1.0,1.0,2,9,32.0,0,170,90.0,42.364329999999995,-71.09911,0
+Small Downstairs Room,The Port,Private room,1.0,1.0,2,1,25.0,0,179,89.0,42.36554,-71.10024,0
+Corner Room in Shared Apt,The Port,Private room,1.0,1.0,2,4,34.0,0,89,88.0,42.36439,-71.1006,0
+Minutes to Harvard Square,Strawberry Hill,Entire home/apt,2.0,1.0,3,91,166.0,322,16,99.0,42.378240000000005,-71.14915,0
+Victorian Charm MIT/Harvard/Kendall/Central-1BR,The Port,Entire home/apt,1.0,1.0,3,3,113.0,62,432,97.0,42.36458,-71.09845,1
+"Cambridge Apt, walk to MIT, Harvard",The Port,Entire home/apt,1.0,1.0,3,7,120.0,184,119,98.0,42.3678,-71.10175,1
+Huron Village Lower Unit Harvard Sq,Neighborhood Nine,Entire home/apt,2.0,1.0,4,7,200.0,0,65,97.0,42.38905,-71.12425,1
+"Long term only, Modern Entire Condo MIT/MGH $3600",The Port,Entire home/apt,2.0,1.0,4,91,134.0,271,41,98.0,42.36821,-71.09436,0
+Renovated Brownstone - MIT/Kendall,East Cambridge,Private room,1.0,1.0,2,2,140.0,269,307,98.0,42.36743,-71.08458,1
+City living at its finest!,East Cambridge,Private room,1.0,1.0,2,2,140.0,269,199,97.0,42.37143,-71.07881,1
+Large 2 Bedroom short ride to Harvard,Cambridge Highlands,Entire home/apt,2.0,1.5,5,91,135.0,108,89,85.0,42.389359999999996,-71.15619000000001,0
+Charming Room Near Harvard Square,Mid-Cambridge,Private room,1.0,1.0,2,2,140.0,101,104,99.0,42.37384,-71.10719,1
+2 Cozy Rooms Near Harvard Square,Mid-Cambridge,Private room,2.0,1.0,4,2,173.0,101,43,99.0,42.37209,-71.10328,1
+"Serene & cozy 1BR oasis, walk to  Harvard Square!",Mid-Cambridge,Entire home/apt,1.0,1.0,2,32,88.0,205,60,96.0,42.37485,-71.10563,0
+Cambridge Long-Term Large Room,Strawberry Hill,Private room,1.0,1.0,1,61,65.0,86,33,97.0,42.37617,-71.1544,0
+Lux 1 Bedroom Cambridge Apt by MIT,Area 2/MIT,Entire home/apt,1.0,1.0,3,15,149.0,365,18,94.0,42.36183,-71.0846,0
+Lux 2 Bedroom Cambridge Apt by MIT,East Cambridge,Entire home/apt,2.0,2.0,5,15,149.0,344,31,99.0,42.36342,-71.08281,0
+"It's home, Cambridge! (2BD/2BT)",Cambridgeport,Entire home/apt,2.0,2.0,3,3,180.0,298,62,94.0,42.35564,-71.11298000000001,0
+Bright Convenient Apt Harvard / MIT,The Port,Entire home/apt,1.0,1.0,2,2,145.0,107,159,98.0,42.365629999999996,-71.10043,1
+"Cute, clean & it’s all yours-1 bed- great location",Cambridgeport,Entire home/apt,1.0,1.0,2,2,145.0,343,190,95.0,42.35698,-71.10859,1
+Charming Harvard Victorian,West Cambridge,Entire home/apt,4.0,1.5,10,3,206.0,282,308,95.0,42.381159999999994,-71.13325999999999,0
+Cozy Room in a Charming Townhouse,Strawberry Hill,Private room,1.0,1.0,2,1,125.0,365,26,98.0,42.37852,-71.15249,0
+Stay Across from Harvard's Campus!,Mid-Cambridge,Entire home/apt,1.0,1.0,2,3,91.0,42,136,96.0,42.372170000000004,-71.11453,1
+HarvardSq. Bright&Quiet 1 BdrApt MONTHLY/LONG TERM,Mid-Cambridge,Entire home/apt,1.0,1.0,2,91,95.0,281,34,92.0,42.37109,-71.11066,0
+❤Harvard❤MIT❤Parking ❤Clean❤Quiet❤Full Apartment❤,Mid-Cambridge,Entire home/apt,2.0,1.0,4,2,329.0,277,79,93.0,42.372479999999996,-71.11488,0
+Large Master Bedroom + Full Private Bath,Cambridgeport,Private room,1.0,1.0,1,5,129.0,362,19,95.0,42.361509999999996,-71.1048,0
+Spacious 2 bedrooms Apt-Roof deck NO Cleaning fee,Cambridgeport,Entire home/apt,2.0,1.0,4,1,199.0,1,370,97.0,42.357040000000005,-71.10909000000001,0
+Cambridge Getaway @ MIT and Harvard,The Port,Entire home/apt,2.0,1.0,5,3,250.0,298,264,98.0,42.3695,-71.09921,1
+Huron Village Upper Unit Harvard Sq,Cambridge Highlands,Entire home/apt,3.0,1.0,6,7,200.0,321,43,94.0,42.38817,-71.14601,1
+Lux 1 Bedroom Cambridge Apt by MIT,Area 2/MIT,Entire home/apt,1.0,1.0,3,15,149.0,347,14,96.0,42.361979999999996,-71.08436999999999,0
+Friendly Pleasant Place,Cambridgeport,Private room,1.0,1.0,2,3,108.0,316,245,95.0,42.36397,-71.10712,0
+"Lovely, large 3 room apartment",West Cambridge,Entire home/apt,1.0,1.0,2,2,300.0,179,53,98.0,42.37764,-71.12601,1
+Lovely East Cambridge Apartment,Wellington-Harrington,Entire home/apt,3.0,1.0,5,2,93.0,274,358,96.0,42.36981,-71.09263,1
+"WELL-APPOINTED, BRIGHT AND SPACIOUS",East Cambridge,Entire home/apt,2.0,1.0,4,3,185.0,201,46,98.0,42.36902,-71.0857,1
+"21 - Near Harvard,Sun-filled,Queen bed",West Cambridge,Private room,3.0,1.0,3,91,40.0,163,36,84.0,42.382740000000005,-71.13631,0
+Harvard MIT: Artist's Home,North Cambridge,Private room,1.0,1.0,1,180,84.0,365,30,98.0,42.39403,-71.13094,1
+Queen Bed (Liz) at Waterbridge,Strawberry Hill,Private room,1.0,1.0,1,3,65.0,273,47,98.0,42.37514,-71.15054,0
+Harvard/MIT/Single/Private 1/2 Bath,The Port,Private room,1.0,1.5,1,1,55.0,262,588,96.0,42.36825,-71.0992,1
+Private Room with Bunk Bed near Harvard/MIT,East Cambridge,Private room,1.0,1.0,2,4,85.0,91,28,96.0,42.36903,-71.08794,0
+Walk to MIT or Harvard!  Perfect for a family,Cambridgeport,Entire home/apt,2.0,2.0,4,4,210.0,16,11,100.0,42.36357,-71.10297,0
+#34-2 Charming Apt in Porter Sq!,Neighborhood Nine,Entire home/apt,2.0,1.0,3,3,185.0,269,39,90.0,42.387679999999996,-71.1248,0
+Lux 2 Bedroom Cambridge Apt by MIT,East Cambridge,Entire home/apt,2.0,2.0,5,15,149.0,365,12,95.0,42.36338,-71.08365,0
+Lux 2BR Cambridge Apt by MIT,East Cambridge,Entire home/apt,2.0,2.0,5,15,179.0,344,15,95.0,42.363659999999996,-71.08329,0
+City Oasis |Deck & Yard |Walk To Harvard MIT Train,Cambridgeport,Entire home/apt,1.0,1.0,4,2,100.0,266,263,96.0,42.36079,-71.11365,1
+#34-1 Great apartment in Cambridge!,Neighborhood Nine,Entire home/apt,1.0,1.0,3,14,159.0,311,38,92.0,42.387679999999996,-71.1248,0
+Peaceful One-Bedroom Apartment,North Cambridge,Entire home/apt,1.0,1.0,2,2,140.0,67,62,98.0,42.395109999999995,-71.13134000000001,0
+Sunny Base close to MIT,The Port,Entire home/apt,2.0,1.0,4,91,160.0,90,34,94.0,42.366929999999996,-71.09921,0
+Cambridge Studio Apartment,West Cambridge,Entire home/apt,1.0,1.0,5,2,120.0,342,218,91.0,42.37869,-71.14482,0
+Great House in Central Square,Cambridgeport,Entire home/apt,3.0,2.0,10,2,350.0,269,160,93.0,42.36312,-71.10284,0
+1B PRIVATE STUDIO APT! HARVARD/MIT+REDUCED,Mid-Cambridge,Entire home/apt,1.0,1.0,1,2,120.0,359,182,99.0,42.3677,-71.10584,1
+"Quiet home near Porter, Harvard. On Red Line",North Cambridge,Entire home/apt,3.0,1.0,4,36,225.0,0,19,99.0,42.389540000000004,-71.11806,1
+Sunny 3 Bdr corner luxury apartment,The Port,Entire home/apt,3.0,2.0,6,75,251.0,117,50,96.0,42.369040000000005,-71.09706,1
+"3BR Private Apt, 1 Mile To Harvard, Walk To Stores",West Cambridge,Entire home/apt,3.0,1.0,4,91,115.0,179,29,86.0,42.38157,-71.13658000000001,0
+Family Friendly 3 Bedroom,The Port,Entire home/apt,3.0,2.0,6,75,299.0,190,104,97.0,42.368520000000004,-71.09723000000001,1
+Harvard & MIT- Sweet Retreat in Coolest Cambridge!,Mid-Cambridge,Entire home/apt,1.0,1.0,2,2,131.0,301,171,97.0,42.37066,-71.10431,1
+Private Apartment - enjoy the space,Strawberry Hill,Entire home/apt,1.0,1.0,4,91,179.0,365,44,98.0,42.37826,-71.15505999999999,0
+"Huge classy 3BR Apt w/parking, sleeps 7",Cambridgeport,Entire home/apt,4.0,2.5,7,3,250.0,0,49,92.0,42.35792,-71.11119000000001,1
+Elegant contemporary 2Br,The Port,Entire home/apt,2.0,2.0,6,45,248.0,0,96,97.0,42.36931,-71.09781,1
+Charming Third Floor Apartment,Agassiz,Entire home/apt,2.0,1.0,4,14,145.0,305,123,99.0,42.38412,-71.11484,1
+HOLIDAY IN HARVARD SQUARE. EASY COMMUTE TO BOSTON,Neighborhood Nine,Entire home/apt,1.0,1.0,2,91,179.0,365,17,91.0,42.3798,-71.12124,0
+"Furnished rm, Harvard/Porter Square",Neighborhood Nine,Private room,1.0,1.0,1,2,60.0,82,214,96.0,42.38398,-71.12131,1
+Cozy Bedroom nr Harvard/MIT/Kendall,Mid-Cambridge,Private room,1.0,1.0,1,91,100.0,365,68,99.0,42.373940000000005,-71.10188000000001,0
+Sunny 3BD House near Harvard Square,West Cambridge,Entire home/apt,3.0,2.5,5,7,410.0,161,30,99.0,42.37453,-71.13276,0
+Lux Corner 2Br near MIT/Kendall,The Port,Entire home/apt,2.0,2.0,5,75,253.0,97,47,97.0,42.36724,-71.0985,1
+Sunny Huron Village Apt. w/ Terrace,West Cambridge,Entire home/apt,1.0,1.0,2,3,175.0,0,282,98.0,42.383759999999995,-71.13549,1
+Studio-type space near Central Square,The Port,Entire home/apt,1.0,1.0,2,32,70.0,178,50,88.0,42.368990000000004,-71.09849,0
+Lovely apt easy walk to Harvard Sq,Neighborhood Nine,Entire home/apt,2.0,1.0,4,2,195.0,353,151,97.0,42.38358,-71.13028,1
+Luxury Harvard/MIT Victorian,West Cambridge,Entire home/apt,2.0,1.0,6,1,526.0,280,149,95.0,42.38289,-71.13313000000001,0
+Sunny 3 bed/2 bath-5 min to T- Harvard/MIT/Boston,North Cambridge,Entire home/apt,3.0,2.0,5,2,199.0,199,74,97.0,42.39633,-71.13642,1
+Room w/private bath+fridge+microwave-fast wifi,North Cambridge,Private room,1.0,1.0,1,3,59.0,244,74,98.0,42.39604,-71.13515,1
+✿✿ Dwell Well In A Philadelphia-Style Apartment ✿✿,Agassiz,Entire home/apt,2.0,1.0,5,3,283.0,11,121,100.0,42.38411,-71.11523000000001,1
+2BRM  with Parking - near Harvard & Porter Sq,Neighborhood Nine,Entire home/apt,2.0,1.0,3,30,110.0,272,18,93.0,42.3831,-71.12946,1
+"Lux Kendall Square 1 Bedroom w/gym, WiFi",East Cambridge,Entire home/apt,1.0,1.0,3,15,99.0,310,10,96.0,42.36462,-71.08318,0
+Private Entrance Room in Cambridge,Wellington-Harrington,Private room,1.0,1.0,1,2,70.0,83,56,99.0,42.37169,-71.09617,1
+2BR Walk to Harvard/MIT/Red Line T,The Port,Entire home/apt,2.0,1.0,10,1,249.0,275,291,86.0,42.368140000000004,-71.0989,0
+Single family house / Cambridgeport,Cambridgeport,Entire home/apt,5.0,2.5,8,3,550.0,180,19,95.0,42.36033,-71.10475,0
+Nice room near Harvard Square,Cambridge Highlands,Private room,1.0,1.0,1,2,70.0,89,131,94.0,42.39178,-71.15616999999999,0
+Harvard Square: Historic & Cheerful,Agassiz,Entire home/apt,2.0,1.0,4,4,307.0,277,27,98.0,42.38058,-71.11711,0
+Warm and welcoming,Mid-Cambridge,Private room,1.0,1.0,2,1,88.0,89,124,98.0,42.373020000000004,-71.10300000000001,1
+Sunny+Spacious +AC/walk to T Davis/Porter/Harvard,North Cambridge,Entire home/apt,4.0,2.0,10,2,385.0,298,140,99.0,42.39247,-71.132,1
+Guest room @ Harvard/MIT Central Sq,Mid-Cambridge,Private room,1.0,1.5,1,1,91.0,240,51,96.0,42.368840000000006,-71.10341,0
+Smack dab between Harvard+Porter 2,Neighborhood Nine,Private room,1.0,1.0,1,2,90.0,136,150,100.0,42.38324,-71.12210999999999,1
+Smack dab between Harvard + Porter!,Neighborhood Nine,Private room,1.0,1.0,1,2,90.0,136,187,99.0,42.38299,-71.12278,1
+Spacious 2BR | Kitchen |Work Desk | Kendall Square,East Cambridge,Entire home/apt,2.0,2.0,5,30,292.0,335,17,89.0,42.36469,-71.08274,0
+Room near Alewife Red Line T stop.,North Cambridge,Private room,1.0,1.0,1,1,60.0,360,29,98.0,42.39634,-71.13683,1
+Cambridge Cottage - Garden Room,Wellington-Harrington,Private room,1.0,1.0,2,3,65.0,179,273,97.0,42.37332,-71.09792,1
+WALK EVERYWHERE Heart of Harvard-MIT Private Room,Riverside,Private room,1.0,1.0,1,2,149.0,90,25,96.0,42.37161,-71.11577,0
+"Steps away from Harvard, Inman Sq",Mid-Cambridge,Private room,1.0,1.0,1,1,84.0,89,178,98.0,42.37262,-71.10469,1
+Convenient & Cozy in Cambridgeport,Cambridgeport,Private room,1.0,1.0,2,2,113.0,17,71,99.0,42.35821,-71.10592,0
+2Br Lux Apt near Fresh Pond/Harvard,Neighborhood Nine,Entire home/apt,2.0,2.0,6,75,239.0,0,41,97.0,42.387840000000004,-71.14018,1
+Harvard Cambridge Large room,Neighborhood Nine,Private room,1.0,1.0,2,1,34.0,71,348,95.0,42.38387,-71.13316,0
+Big sunny artist's 1BR near Harvard,Mid-Cambridge,Entire home/apt,1.0,1.0,2,32,111.0,176,59,96.0,42.37453,-71.10589,0
+Charming house in Cambridge C33W,The Port,Private room,1.0,2.0,1,32,45.0,365,11,95.0,42.36946,-71.09899,0
+"Your Own Private Bedroom, Bathroom AND Living Room",North Cambridge,Private room,1.0,1.5,4,1,129.0,1,156,100.0,42.394090000000006,-71.13035,1
+Charming 1 bed loft-Walk to Harvard,Mid-Cambridge,Entire home/apt,1.0,1.0,2,100,114.0,272,25,98.0,42.375370000000004,-71.10695,1
+Bright Loft-Walk to Harvard,Mid-Cambridge,Entire home/apt,1.0,1.0,3,30,118.0,147,22,99.0,42.37344,-71.10484,1
+2Br Harvard/Fresh Pond Lux Apt,Neighborhood Nine,Entire home/apt,2.0,2.0,6,32,189.0,191,41,95.0,42.38694,-71.14058,1
+Mid-Cambridge Apt in Great location,Mid-Cambridge,Entire home/apt,1.0,1.0,1,29,109.0,95,61,97.0,42.369640000000004,-71.10745,1
+7 minute walk to Boston & subway,East Cambridge,Private room,1.0,2.0,1,2,76.0,361,187,97.0,42.369409999999995,-71.0836,1
+Top flr lux apt near MIT/Harvard,The Port,Entire home/apt,2.0,2.0,6,60,261.0,87,67,95.0,42.36922,-71.09638000000001,1
+4BR+3BA: MIT/Harvard/Fenway Park/Longwood Med/BU,Cambridgeport,Entire home/apt,4.0,3.0,6,7,225.0,58,80,92.0,42.36054,-71.11055,1
+"Private room and bath, walk to Harvard & MIT",Cambridgeport,Private room,1.0,1.0,2,2,95.0,265,61,99.0,42.36258,-71.11191,1
+"Historic, Sunny & Updated By Harvard Square!",Mid-Cambridge,Private room,1.0,1.0,2,30,50.0,90,52,92.0,42.36984,-71.10185,0
+Perfect  Location between Harvard and MIT.,The Port,Entire home/apt,3.0,1.5,8,2,220.0,306,440,88.0,42.36868,-71.09875,0
+Lovely room: walk to  Harvard Square with parking,Mid-Cambridge,Private room,1.0,1.0,2,2,85.0,0,227,98.0,42.36919,-71.10927,1
+"Tufts, MIT, Harvard, Davis & Porter Sq. Cambridge!",North Cambridge,Entire home/apt,2.0,1.0,4,30,150.0,75,34,100.0,42.39467,-71.1277,1
+"1BR duplex, walking distance to Harvard Sq.",Neighborhood Nine,Entire home/apt,1.0,1.0,2,2,130.0,1,246,94.0,42.38364,-71.12899999999999,1
+"A Room at the Top-separate entrance, private bath",Neighborhood Nine,Private room,1.0,1.0,2,4,125.0,0,84,97.0,42.38584,-71.12584,1
+Cambridge Bed and Bath,Neighborhood Nine,Private room,1.0,1.0,2,1,91.0,302,166,97.0,42.38701,-71.12753000000001,1
+One Bedroom Between Harvard & MIT (1562),Cambridgeport,Private room,1.0,1.0,1,1,126.0,0,23,96.0,42.36221,-71.09983000000001,0
+One Bedroom Short Walk to Harvard (RM 10),Mid-Cambridge,Private room,1.0,1.0,2,1,120.0,0,13,95.0,42.3694,-71.10723,0
+Lux Furnished Kendall Square 2-Bedroom Apt,East Cambridge,Entire home/apt,2.0,2.0,5,91,249.0,334,10,94.0,42.3634,-71.08377,0
+One Bedroom Close to MIT (1172),Cambridgeport,Private room,1.0,1.0,2,1,100.0,0,34,88.0,42.36208,-71.09963,0
+Room For Two Short Walk To Harvard (RM 11),Riverside,Private room,1.0,1.0,2,1,120.0,0,24,94.0,42.3678,-71.1082,0
+One Subway Stop to Harvard Two Stops to MIT (A),North Cambridge,Private room,1.0,1.0,1,1,100.0,0,28,91.0,42.3927,-71.12688,0
+3BR/3BA Home@Harvard&MIT w/Parking,Mid-Cambridge,Entire home/apt,3.0,3.0,9,5,250.0,263,108,92.0,42.37015,-71.1016,0
+2 BR/1 BA Apt between Harvard/MIT + Parking!,Mid-Cambridge,Entire home/apt,2.0,1.0,5,30,199.0,144,131,91.0,42.37108,-71.10051,0
+2BR+2 BA Home between Harvard/MIT & Onsite Parking,Mid-Cambridge,Entire home/apt,2.0,2.0,6,3,223.0,153,87,92.0,42.37154,-71.10045,0
+"2 bedroom-fast reliable wifi, 5 min walk to T stop",North Cambridge,Entire home/apt,2.0,1.0,4,2,149.0,199,153,99.0,42.39501,-71.13701999999999,1
+"Clean, bright, fully furnished apt",North Cambridge,Entire home/apt,1.0,1.0,2,2,131.0,360,90,97.0,42.39764,-71.13282,0
+Semi-private room close to Harvard!,Mid-Cambridge,Shared room,1.0,1.0,1,1,41.0,269,10,96.0,42.37123,-71.10181999999999,0
+One/Two BR near MIT/Kendall/Harvard,The Port,Entire home/apt,2.0,1.0,4,45,198.0,87,46,98.0,42.36795,-71.09861,1
+Cheerful 2 BR Grd Floor Apt June-August,North Cambridge,Entire home/apt,2.0,2.0,3,30,160.0,358,29,92.0,42.39059,-71.12419,0
+Spacious 2-Bedroom - Ideal Location in Cambridge,Mid-Cambridge,Entire home/apt,2.0,1.0,4,91,299.0,364,11,98.0,42.3692,-71.10864000000001,0
+sunny 2-level apt. near Harvard,Agassiz,Entire home/apt,1.0,1.0,3,3,199.0,245,58,97.0,42.38558,-71.11735,1
+1A CAMBRiDGE HARVARD MiT LOCATION SPOTLESS 1BR!,Mid-Cambridge,Entire home/apt,1.0,1.0,2,2,205.0,66,116,98.0,42.3677,-71.10584,1
+3Bdr with parking in West Cambridge,Neighborhood Nine,Entire home/apt,3.0,2.0,6,60,252.0,213,52,97.0,42.38606,-71.1384,1
+Charming apt easy walk to Harvard,Neighborhood Nine,Entire home/apt,2.0,1.0,4,2,201.0,322,80,98.0,42.38575,-71.1319,1
+Nice Space near Harvard University,Mid-Cambridge,Private room,1.0,2.0,1,1,500.0,90,352,96.0,42.37205,-71.10695,0
+Elegant Apartment Harvard Square,Mid-Cambridge,Entire home/apt,2.0,2.0,6,91,390.0,147,27,98.0,42.37257,-71.10967,0
+3Bdr Walkout Apartment near park,Neighborhood Nine,Entire home/apt,3.0,2.0,9,80,290.0,86,27,98.0,42.38647,-71.13994,1
+"Private Room and Bath, Gym Privileges & Parking!",Cambridgeport,Private room,1.0,1.0,2,91,82.0,1,23,97.0,42.359629999999996,-71.11473000000001,1
+Private studio w/ parking by MIT/Harvard/BU/Fenway,Cambridgeport,Entire home/apt,1.0,1.0,2,1,84.0,67,500,98.0,42.35692,-71.10983,1
+2 Bed w/ Parking Two Blocks from Harvard,Mid-Cambridge,Entire home/apt,2.0,1.0,6,21,175.0,301,107,96.0,42.37315,-71.11180999999999,0
+Nice space near Harvard University 2,Mid-Cambridge,Private room,1.0,2.0,1,1,500.0,90,163,95.0,42.37143,-71.10732,0
+Spacious Harvard Sq Room,Agassiz,Private room,1.0,1.0,2,3,99.0,90,46,97.0,42.38154,-71.11499,0
+Spacious 3BR Apt near Harvard Sq & MIT,Strawberry Hill,Entire home/apt,3.0,1.0,6,1,158.0,0,39,96.0,42.37775,-71.1497,0
+Newly renovated 2BR apartment near MIT,The Port,Entire home/apt,2.0,2.0,6,75,248.0,123,40,95.0,42.369040000000005,-71.09719,1
+Very close to Boston MIT Harvard MGH and subway,East Cambridge,Private room,1.0,1.0,1,2,72.0,362,101,92.0,42.370740000000005,-71.08328,1
+Convenient Harvard Room,Agassiz,Private room,1.0,1.0,2,91,83.0,90,43,95.0,42.38157,-71.11542,0
+Comfortable Sunny Room in Cambridge,Strawberry Hill,Private room,1.0,1.0,1,30,75.0,0,18,93.0,42.38058,-71.15202,0
+"Central Square Cambridge luxury 2 bed, 2 Bath",Cambridgeport,Entire home/apt,2.0,2.0,4,30,200.0,365,63,99.0,42.36079,-71.10242,1
+Typically Cambridge: Harvard/Porter,Agassiz,Private room,1.0,1.0,1,3,75.0,364,27,99.0,42.38467,-71.11679000000001,0
+Beautiful private RM near Harvard,Strawberry Hill,Private room,1.0,1.0,2,1,62.0,101,24,97.0,42.377790000000005,-71.14975,0
+Urban Oasis Near MIT & Harvard,The Port,Entire home/apt,1.0,1.0,2,7,210.0,0,38,98.0,42.36357,-71.09958,1
+Cozy private RM near Harvard SQ,Strawberry Hill,Private room,1.0,1.0,2,1,69.0,32,18,99.0,42.37781,-71.14974000000001,0
+Sunny private RM near Harvard SQ,Strawberry Hill,Private room,1.0,1.0,2,1,60.0,25,10,98.0,42.377520000000004,-71.14935,0
+Room w/private bath/fridge/microwave/fast wifi -T,North Cambridge,Private room,1.0,1.0,1,5,59.0,270,61,99.0,42.39612,-71.13504,1
+One Bedroom Close to MIT (1512),The Port,Private room,1.0,1.0,1,1,100.0,31,93,97.0,42.36245,-71.098,0
+"Close to the subway, MGH, Harvard, MIT & Boston",East Cambridge,Private room,1.0,1.0,1,2,74.0,365,148,94.0,42.36962,-71.08284,1
+❤ of Cambridge | Walk Score 94 | Parking | W/D,Riverside,Entire home/apt,3.0,2.0,7,2,250.0,44,197,99.0,42.36548,-71.10706,1
+Spacious Strawberry Hill Suite (West Cambridge),Strawberry Hill,Entire home/apt,1.0,1.0,2,2,80.0,19,266,99.0,42.38023,-71.15592,1
+Beta Room @ CCVP in Harvard Square,Riverside,Private room,1.0,1.0,2,1,88.0,355,244,96.0,42.369659999999996,-71.11548,0
+Sigma Room @ CCVP in Harvard Square,Riverside,Private room,1.0,1.0,2,1,88.0,1,209,94.0,42.3711,-71.11424,0
+"Classy Cambridge 2BD--Harvard, MIT, Kendall,Boston",Wellington-Harrington,Entire home/apt,2.0,1.0,7,30,306.0,331,259,91.0,42.37236,-71.08870999999999,0
+9th Floor Luxury Corporate Suite with BostonView,Cambridgeport,Entire home/apt,1.0,1.0,2,30,179.0,365,27,98.0,42.35988,-71.10098,1
+Large 1 BD Apartment near Harvard,Mid-Cambridge,Entire home/apt,1.0,1.0,4,2,147.0,0,237,95.0,42.376459999999994,-71.10831,1
+Studio-type room  w private bathroom CBM,The Port,Entire home/apt,1.0,1.0,2,32,70.0,365,42,93.0,42.36907,-71.09874,0
+Harvard/MIT Luxury 2 Bed/2.5 Bath,Cambridgeport,Entire home/apt,2.0,2.5,4,5,115.0,1,187,98.0,42.36223,-71.11211999999999,1
+"Best Location! MIT, MGH, Harvard, Boston and the T",East Cambridge,Private room,1.0,1.0,1,2,76.0,337,77,94.0,42.37102,-71.08301999999999,1
+One Bedroom Close to MIT (1542),Cambridgeport,Private room,1.0,1.0,1,1,100.0,31,29,97.0,42.36094,-71.09776,0
+NEW SPACIOUS 2 BDR APT.  HARVARD - CENTRAL SQ/MIT,Cambridgeport,Entire home/apt,2.0,1.0,5,91,225.0,1,131,94.0,42.36218,-71.1037,0
+8th Floor Luxury One Bedroom with Fantastic View,Cambridgeport,Entire home/apt,1.0,1.0,2,30,179.0,89,37,97.0,42.36079,-71.10242,1
+Cozy Room near Harvard Square,Strawberry Hill,Private room,1.0,1.0,1,30,70.0,89,30,96.0,42.378679999999996,-71.15181,0
+Alpha Room @ CCVP in Harvard Square,Riverside,Private room,1.0,1.0,2,1,79.0,365,222,94.0,42.3695,-71.11475,0
+Omega Room @ CCVP in Harvard Square,Riverside,Private room,1.0,1.0,2,1,79.0,365,206,93.0,42.36953,-71.11492,0
+Charming House in Cambridge C36W,The Port,Private room,1.0,2.0,1,32,45.0,365,10,94.0,42.36931,-71.0976,0
+One Bedroom Close to MIT (1522),Cambridgeport,Private room,1.0,1.0,1,1,100.0,31,68,96.0,42.36192,-71.09959,0
+One Bedroom Close to MIT (1552),Cambridgeport,Private room,1.0,1.0,1,1,100.0,0,52,98.0,42.36074,-71.09925,0
+"East Cambridge, MIT, Kendall & free parking!",East Cambridge,Entire home/apt,1.0,1.0,2,2,158.0,11,137,96.0,42.37187,-71.08621,1
+"Quiet 2 Bedroom Apartment near MIT, BU & HBS",Cambridgeport,Entire home/apt,2.0,1.0,6,91,197.0,176,10,100.0,42.3584,-71.10928,1
+Beautiful 2 bed in Harvard Square,Mid-Cambridge,Entire home/apt,2.0,1.0,8,1,217.0,282,220,94.0,42.37207,-71.1121,0
+Sunny & spacious room in a townhouse by Kendal!,East Cambridge,Private room,1.0,1.0,1,3,40.0,326,103,91.0,42.3688,-71.08811,0
+Spacious room in a townhouse by Kendall Square!,East Cambridge,Private room,1.0,1.0,1,2,41.0,332,80,91.0,42.37027,-71.08703,0
+Three-bedroom Harvard Square condo.,Mid-Cambridge,Entire home/apt,3.0,2.0,4,32,255.0,290,12,100.0,42.376940000000005,-71.11202,1
+Phil's Apartment at Harvard - Harvard Room,Mid-Cambridge,Private room,1.0,1.0,2,1,136.0,77,174,99.0,42.37464,-71.11383000000001,1
+Phil's Apartment at Harvard - MIT Room,Mid-Cambridge,Private room,1.0,1.0,3,1,136.0,85,175,100.0,42.37428,-71.11125,1
+Cambridge Vacation Rental Rooms M807 #2,The Port,Private room,1.0,1.0,2,2,155.0,144,14,99.0,42.37019,-71.09931,1
+Prime location Harvard/Porter Sq,Neighborhood Nine,Private room,1.0,1.0,2,2,75.0,68,142,98.0,42.3824,-71.11985,1
+One Bedroom Close to MIT (1532),Cambridgeport,Private room,1.0,1.0,2,1,100.0,0,57,95.0,42.36112,-71.09985999999999,0
+"Near Harvard, Central  Square,  and Fenway Park",Riverside,Entire home/apt,3.0,2.0,4,110,350.0,155,33,98.0,42.36492,-71.11296999999999,1
+1 Bedroom in the Heart of Kendall Square,East Cambridge,Entire home/apt,1.0,1.0,4,1,60.0,358,176,89.0,42.36772,-71.0799,0
+private studio near Harvard/MIT,The Port,Entire home/apt,1.0,1.0,2,2,150.0,170,178,99.0,42.36683,-71.09938000000001,1
+On River/Harvard Sq. two blocks,West Cambridge,Entire home/apt,2.0,1.0,7,1,127.0,0,177,91.0,42.37523,-71.12945,0
+1 Bedroom in Kendall Square,East Cambridge,Entire home/apt,1.0,1.0,4,1,60.0,350,182,92.0,42.36865,-71.07991,0
+SPACIOUS 1 BED + DEN in HARVARD SQ,Neighborhood Nine,Entire home/apt,1.0,1.0,4,2,248.0,297,31,97.0,42.380340000000004,-71.12375,1
+Private Rm near Tufts/Harvard/MIT/MGH**,North Cambridge,Private room,1.0,2.0,1,14,95.0,92,26,98.0,42.395990000000005,-71.13125,1
+One Bedroom Short Walk to Harvard (Rm 14),Riverside,Private room,1.0,1.0,1,1,106.0,0,12,98.0,42.36722,-71.10826999999999,0
+Harvard/MIT (Unit 1)- Brooklyn Ambiance w/ Parking,Mid-Cambridge,Entire home/apt,3.0,2.0,5,2,250.0,34,171,99.0,42.36632,-71.10458,1
+"Spacious 2BR 2 bath w/deck, walk to Harvard & MIT",Mid-Cambridge,Entire home/apt,2.0,2.0,6,4,225.0,0,116,99.0,42.37709,-71.10732,1
+One Bedroom Short Walk to Harvard (Rm 13),Riverside,Private room,1.0,1.0,2,1,114.0,0,13,95.0,42.36809,-71.10831999999999,0
+One Subway Stop to Harvard Two Stops to MIT (B),North Cambridge,Private room,1.0,1.0,1,1,100.0,0,20,86.0,42.393840000000004,-71.12522,0
+Spacious one queen bedroom with parking(with fee),Wellington-Harrington,Private room,1.0,1.0,2,1,85.0,180,110,91.0,42.3688,-71.09362,0
+Bright & airy studio in historic home,East Cambridge,Entire home/apt,1.0,1.0,3,3,195.0,62,66,98.0,42.36895,-71.08006,0
+A floor all to yourself in our historic home,East Cambridge,Private room,2.0,1.0,3,3,119.0,11,118,97.0,42.368320000000004,-71.08171,0
+Big and Luminous Apartment at Cambridge Port,Cambridgeport,Entire home/apt,1.0,1.0,2,91,150.0,179,23,97.0,42.35667,-71.10744,0
+"Comfortable Cloud, Close to Everything... (3S)",Wellington-Harrington,Private room,1.0,2.0,2,3,80.0,180,280,96.0,42.368179999999995,-71.09174,0
+Cambridge in Harvard Square - a spacious home.,West Cambridge,Entire home/apt,2.0,1.0,4,2,350.0,277,76,99.0,42.374140000000004,-71.12541999999999,1
+Convenient & Comfortable (3K),Wellington-Harrington,Private room,1.0,2.0,2,2,100.0,180,232,97.0,42.36952,-71.08967,0
+"Cozy, Renovated Abode Between Harvard & MIT",Mid-Cambridge,Entire home/apt,1.0,1.0,4,91,99.0,90,75,97.0,42.3707,-71.10068000000001,1
+2# Minutes to Boston -Basic Bedroom,East Cambridge,Private room,1.0,1.0,2,91,68.0,90,105,91.0,42.37275,-71.07871999999999,0
+9# Minutes to Boston -Basic Bedroom,East Cambridge,Private room,1.0,1.0,2,91,68.0,90,109,89.0,42.37252,-71.07831999999999,0
+Cambridge Basement Apartment over 90 day rental,West Cambridge,Entire home/apt,1.0,1.0,5,91,125.0,363,41,90.0,42.37836,-71.14474,0
+West Cambridge 1 BR entire apartment near Harvard,Strawberry Hill,Entire home/apt,1.0,1.0,2,21,88.0,328,25,98.0,42.3758,-71.15354,1
+A Large Sunny Room in a 2BD apartment (2B),Wellington-Harrington,Private room,1.0,2.0,2,1,80.0,180,146,97.0,42.368140000000004,-71.09023,0
+"Private, quiet and clean studio in ideal location",Agassiz,Private room,1.0,1.0,4,1,95.0,182,286,97.0,42.38292,-71.11832,0
+Cozy Bedroom in a 2BD Apartment. (2K),Wellington-Harrington,Private room,1.0,2.0,2,1,100.0,180,326,97.0,42.36845,-71.09151999999999,0
+2020 Grad Student or Professor!,North Cambridge,Private room,1.0,1.0,2,3,85.0,363,11,96.0,42.394259999999996,-71.13327,1
+Spacious 1 Bedroom w/ Free Parking Near MIT,East Cambridge,Entire home/apt,1.0,1.0,4,21,129.0,332,25,97.0,42.367979999999996,-71.08464000000001,0
+"Sunny, quiet Cambridge apartment near Davis Sq",North Cambridge,Entire home/apt,2.0,1.0,4,4,67.0,59,148,99.0,42.39367,-71.12673000000001,1
+Walk to Harvard/MIT (unit 2) w/ parking,Mid-Cambridge,Entire home/apt,3.0,2.0,6,2,300.0,11,129,99.0,42.36736,-71.10338,1
+"^10min walk-Harvard, Suite-like/private entry/3fl",Agassiz,Private room,1.0,1.5,2,2,72.0,33,82,100.0,42.38296,-71.11843,1
+Contemporary 2BR in Central Sq! Harvard/MIT,Cambridgeport,Entire home/apt,2.0,1.5,5,2,199.0,30,125,97.0,42.3625,-71.10604000000001,1
+Ocean Oasis in the Heart of Cambridge,Cambridgeport,Entire home/apt,2.0,1.0,4,4,75.0,0,170,100.0,42.36224,-71.11269,1
+WALK to HARVARD&MIT with MEMORY BED 1,Cambridgeport,Private room,1.0,2.0,2,1,54.0,348,120,92.0,42.36408,-71.1066,0
+WALK to HARVARD&MIT with MEMORY BED 2,Cambridgeport,Private room,1.0,2.0,2,1,54.0,300,135,92.0,42.36501,-71.10493000000001,0
+WALK to HARVARD&MIT with MEMORY BED 4,Mid-Cambridge,Private room,1.0,2.0,2,1,40.0,365,274,89.0,42.36596,-71.1039,0
+WALK to HARVARD&MIT with MEMORY BED 6,Cambridgeport,Private room,1.0,2.0,2,1,40.0,356,304,90.0,42.3646,-71.10486999999999,0
+Amazing Apartment! Close to EVERYTHING!,East Cambridge,Private room,1.0,1.0,2,4,183.0,89,74,96.0,42.36763,-71.08407,1
+WALK to HARVARD&MIT with MEMORY BED 5,Riverside,Private room,1.0,2.0,2,1,40.0,363,188,90.0,42.36551,-71.10851,0
+3A *REDUCED*! HARVARD MiT LOCATION! SPOTLESS 1BR,Mid-Cambridge,Entire home/apt,1.0,1.0,2,2,125.0,282,87,97.0,42.36765,-71.1059,1
+Bright & updated 2BR in Central Sq! Harvard/MIT,Cambridgeport,Entire home/apt,2.0,1.5,6,30,275.0,69,116,97.0,42.361670000000004,-71.10653,1
+Charles River/Harvard Square - free parking,West Cambridge,Entire home/apt,2.0,1.0,6,1,109.0,60,160,92.0,42.37567,-71.12986,0
+Sunny Apt near MIT/Harvard Central Sq-FreeParking,Riverside,Entire home/apt,1.0,1.0,5,2,153.0,180,117,96.0,42.365829999999995,-71.1098,1
+Private room in spacious home near Harvard Square,Mid-Cambridge,Private room,1.0,1.0,1,91,72.0,180,14,95.0,42.37131,-71.1096,0
+4B HUGE AMAZING SPOTLESS CAMBRIDGE HARVARD/MiT,Mid-Cambridge,Entire home/apt,1.0,1.0,2,2,160.0,359,76,98.0,42.3677,-71.10584,1
+2A Cambridge Harvard MIT. Amazing flat,Mid-Cambridge,Entire home/apt,1.0,1.0,2,2,120.0,264,90,97.0,42.3677,-71.10584,1
+Spacious & Private 3BR Central Sq w/ Cooks Kitchen,The Port,Entire home/apt,3.0,1.0,5,4,296.0,136,137,97.0,42.365,-71.10213,1
+"Quirky, Cozy 1 Bedroom in Kendall Square",East Cambridge,Entire home/apt,1.0,1.0,4,1,50.0,342,158,88.0,42.368320000000004,-71.08126,0
+4A CAMBRIDGE HARVARD/MIT GORGEOUS 1BD *REDUCED*!,Mid-Cambridge,Entire home/apt,1.0,1.0,2,2,121.0,84,63,97.0,42.3677,-71.10584,1
+Harvard MIT SUBWAY SMALL ROOM M8,Mid-Cambridge,Private room,1.0,1.0,2,91,45.0,0,33,91.0,42.375040000000006,-71.10431,0
+M3/HARVARD MIT Priv Bath SUBWAY FREE PARKING 走路到哈佛,Mid-Cambridge,Private room,1.0,1.0,2,10,45.0,0,128,86.0,42.37478,-71.10625999999999,0
+M4/NEAR HARVARD MIT SUBWAY FREE PARKING 走路到哈佛,Mid-Cambridge,Private room,1.0,1.0,2,10,45.0,53,117,86.0,42.37458,-71.10433,0
+The Modica Estate #1,The Port,Private room,1.0,1.0,1,1,42.0,348,160,97.0,42.36572,-71.09756,1
+"Modica Estate, Room #2",The Port,Private room,1.0,1.0,1,1,48.0,1,195,96.0,42.36578,-71.09729,1
+A Cozy Large Bedroom - Stay at Home! (3B),Wellington-Harrington,Private room,1.0,2.0,2,1,150.0,0,106,97.0,42.36806,-71.08988000000001,0
+Fabulous Flat Near Harvard Square,Mid-Cambridge,Entire home/apt,1.0,1.5,4,3,199.0,98,31,100.0,42.373059999999995,-71.10653,1
+Large 2 bed w/ Parking in Quiet Cambridge Home,East Cambridge,Entire home/apt,2.0,1.0,6,21,200.0,319,17,95.0,42.36757,-71.08536,0
+M11/Harvard MIT SUBWAY PRIVATE BEDROOM LTR,Mid-Cambridge,Private room,1.0,1.0,2,27,39.0,102,40,88.0,42.37361,-71.10511,0
+4BR 3BA Cambridge Oasis - Harvard/MIT/Boston,Riverside,Entire home/apt,4.0,3.0,9,3,329.0,80,91,99.0,42.366659999999996,-71.11339,1
+"*10min walk-Harvard, Suite-like/private entry/3fl",Agassiz,Private room,1.0,1.5,2,2,72.0,33,85,100.0,42.38439,-71.11849000000001,1
+"Kendall Square, MIT, Biotech Center",East Cambridge,Entire home/apt,1.0,1.0,3,2,119.0,147,103,99.0,42.36956,-71.08109,1
+Comfy Private Bedroom in Cambridge,Wellington-Harrington,Private room,1.0,1.0,2,91,60.0,90,33,94.0,42.3737,-71.09461999999999,0
+Harvard Square Delight with Office Space,Mid-Cambridge,Entire home/apt,3.0,1.0,3,31,180.0,90,31,95.0,42.37081,-71.11304,1
+Harvard/MIT/Lesley/Tufts Private Room & Bath,Agassiz,Private room,1.0,1.0,2,3,95.0,269,72,99.0,42.38629,-71.11723,1
+Casa Paradiso - Top Floor 1bed/1bath in Cambridge,Wellington-Harrington,Entire home/apt,1.0,1.0,2,1,228.0,0,26,100.0,42.37166,-71.09043,1
+R1. Quiet private room near Kendall/MIT,Wellington-Harrington,Private room,1.0,1.0,2,2,29.0,25,141,96.0,42.36909,-71.0928,1
+Whole House 4 Private BRs - Cultural District on T,Cambridgeport,Entire home/apt,4.0,1.0,10,2,299.0,0,67,100.0,42.36248,-71.09908,1
+Cambridge Executive Suites,North Cambridge,Entire home/apt,1.0,1.0,2,91,249.0,187,14,95.0,42.398740000000004,-71.13071,0
+Modern House near Harvard. Luxury Master - Dogs Ok,Riverside,Entire home/apt,3.0,2.0,5,4,359.0,43,24,98.0,42.36696,-71.11151,1
+"R2, Private sunny room near Kendall/MIT",Wellington-Harrington,Private room,1.0,1.0,1,2,27.0,20,143,97.0,42.3685,-71.09053,1
+Harvard Square home,Mid-Cambridge,Entire home/apt,1.0,1.0,3,3,199.0,1,39,99.0,42.37328,-71.11225,1
+*New  2 beds* free parking Harvard MIT Cambridge 4,Cambridgeport,Entire home/apt,1.0,1.0,4,3,155.0,3,139,96.0,42.3643,-71.10344,0
+*New queen Bed *free parking  MITCambridge studio,Cambridgeport,Entire home/apt,1.0,1.0,2,1,109.0,59,152,95.0,42.36335,-71.10429,0
+*New queen bdfree parking Harvard  MIT Cambridge 3,Cambridgeport,Entire home/apt,1.0,1.0,2,3,150.0,0,148,95.0,42.362120000000004,-71.1053,0
+basic room in Cambridgeport,Cambridgeport,Private room,1.0,1.0,2,1,36.0,0,59,99.0,42.35688,-71.10753000000001,1
+"Serene, Roomy 2BR near Harvard & Davis Sq",North Cambridge,Entire home/apt,2.0,1.0,4,30,142.0,0,16,99.0,42.3896,-71.12363,0
+"R6, Private sunny quiet room : Kendall Sq One/MIT",Wellington-Harrington,Private room,1.0,1.0,2,2,29.0,27,118,94.0,42.37064,-71.09068,1
+Fully renovated spacious 2BR mins from Boston & T,North Cambridge,Entire home/apt,2.0,1.0,5,2,170.0,7,82,99.0,42.39467,-71.13348,0
+Harvard MIT Subway Small private bedroom LTR,Mid-Cambridge,Private room,1.0,1.0,1,27,35.0,72,30,85.0,42.373290000000004,-71.10641,0
+Comfortable Room - 2 - Near BU/MIT/NEU/MGH/Harvard,Cambridgeport,Private room,1.0,1.5,2,1,41.0,355,152,99.0,42.35969,-71.11309,1
+"Master bedrm, private bath, convenient to Harvard",West Cambridge,Private room,1.0,1.0,2,32,69.0,174,10,100.0,42.38633,-71.14064,1
+Compact Lux Bedroom C convenient to Harvard,Neighborhood Nine,Private room,1.0,1.0,1,60,44.0,365,12,95.0,42.387170000000005,-71.13951,1
+Cozy 2 Bedroom  on Charles River - Harvard Square,West Cambridge,Entire home/apt,2.0,1.0,6,1,120.0,54,104,86.0,42.375609999999995,-71.1278,0
+R9 - large private bedroom w/ park overview,Wellington-Harrington,Private room,1.0,1.0,2,2,32.0,7,118,96.0,42.36833,-71.09193,1
+Comfortable Room - 3 -near Harvard/MIT/BU/MGH/NEU,Cambridgeport,Private room,1.0,1.5,2,1,69.0,360,163,99.0,42.35889,-71.11101,1
+Room Near Harvard/MIT/NEU/BU/MGH Private Bath - 4,Cambridgeport,Private room,1.0,1.0,2,1,89.0,344,155,98.0,42.35823,-71.11107,1
+Picture-perfect Cambridge guest apartment,North Cambridge,Entire home/apt,1.0,1.0,4,3,165.0,124,151,99.0,42.39523,-71.13032,1
+Stunning 2bd Central Square /MIT/ Harvard/Red Line,Cambridgeport,Entire home/apt,2.0,1.5,5,30,299.0,23,91,100.0,42.36146,-71.10455,1
+Modern 2bd Central Square/ MIT/Harvard/ Red Line T,Cambridgeport,Entire home/apt,2.0,1.5,5,30,299.0,65,96,97.0,42.36298,-71.10613000000001,1
+Spacious room steps to Kendall/MIT,The Port,Private room,1.0,1.5,4,2,80.0,146,105,96.0,42.36694,-71.09498,0
+Comfortable Room- 1 - Near BU/NEU/MIT/Harvard/MGH,Cambridgeport,Private room,1.0,1.5,2,1,93.0,1,76,97.0,42.35773,-71.11283,1
+Beautiful N. Cambridge Private Room,North Cambridge,Private room,1.0,1.0,2,1,80.0,116,130,99.0,42.39394,-71.12856,1
+BnB! Sunny private bedroom/bath near Harvard,West Cambridge,Private room,1.0,1.0,2,2,120.0,146,83,100.0,42.38085,-71.13378,1
+"(3A) LIVING IN THE CITY,CLOSE TO HARVARD&MIT",Wellington-Harrington,Private room,1.0,1.0,2,1,38.0,363,30,89.0,42.37287,-71.09138,0
+"(3B) LIVING IN THE CITY, CLOSE TO HARVARD&MIT",Wellington-Harrington,Private room,1.0,1.0,3,1,54.0,300,27,88.0,42.37325,-71.09047,0
+Comfortable convenient  Cambridge Apt.,Cambridgeport,Entire home/apt,1.0,1.0,4,30,230.0,365,208,94.0,42.35808,-71.10799,0
+"(3C) LIVING IN THE CITY,CLOSE TO HARVARD&MIT",Wellington-Harrington,Private room,1.0,1.0,2,1,39.0,365,33,87.0,42.37317,-71.09132,0
+"Cultural District, MIT, Harvard, 1Br, Free parking",The Port,Entire home/apt,1.0,1.0,4,2,169.0,26,55,100.0,42.36473,-71.09916,1
+Modica Estate #3,The Port,Private room,1.0,1.0,1,1,48.0,318,190,98.0,42.36587,-71.09701,1
+Private Bedroom at Harvard,Agassiz,Private room,1.0,1.0,2,91,43.0,209,10,82.0,42.37767,-71.11119000000001,0
+Serene suites close to Harvard- always disinfected,Agassiz,Entire home/apt,2.0,1.5,4,2,144.0,33,24,99.0,42.38428,-71.11669,1
+"Cambridge beautiful 2BR, near Porter/Harvard Sq.",North Cambridge,Entire home/apt,2.0,1.0,5,30,105.0,0,108,98.0,42.39047,-71.1274,1
+"LIVING IN THE CITY, CLOSE TO HARVARD&MIT",Wellington-Harrington,Private room,1.0,1.0,3,1,39.0,365,68,89.0,42.37378,-71.09004,0
+"LIVING IN THE CITY,CLOSE TO HARVARD&MIT",Wellington-Harrington,Private room,1.0,1.0,2,1,39.0,365,54,85.0,42.37168,-71.09066,0
+"CITY LIFE, CLOSE TO HARVARD&MIT",Wellington-Harrington,Private room,1.0,1.0,2,1,40.0,364,61,85.0,42.37154,-71.09164,0
+CLOSE TO HARVARD&MIT,Wellington-Harrington,Private room,1.0,1.0,2,1,39.0,365,46,93.0,42.37315,-71.09133,0
+Charming  quiet  apt: renovated 2 BR 4 blocks to T,North Cambridge,Entire home/apt,2.0,1.0,4,90,111.0,96,20,98.0,42.38995,-71.12396,0
+WALKING DISTANCE to HARVARD&MIT with MEMORY BED 3,Cambridgeport,Private room,1.0,2.0,2,1,42.0,364,164,93.0,42.36401,-71.10816,0
+WALKING DISTANCE to HARVARD&MIT with MEMORY BED 1,Riverside,Private room,1.0,2.0,2,1,45.0,1,131,87.0,42.36441,-71.1083,0
+ELA: Enjoy Harvard campus & Charles River &  MIT,West Cambridge,Private room,1.0,2.0,2,30,58.0,0,35,89.0,42.37278,-71.12288000000001,0
+Room steps 2 Harvard Yard 來去哈佛,West Cambridge,Private room,1.0,2.0,2,30,54.0,2,14,83.0,42.373999999999995,-71.12345,0
+"ER二：Cozy Private Room in Harvard Square, nr MIT",West Cambridge,Private room,1.0,2.0,2,30,58.0,4,49,91.0,42.374629999999996,-71.12441,0
+WALKING DISTANCE to HARVARD&MIT with MEMORY BED 2,Riverside,Private room,1.0,2.0,2,1,59.0,330,127,90.0,42.3645,-71.10961,0
+The Modica Estates #4,The Port,Private room,1.0,1.0,1,1,41.0,357,196,96.0,42.36629,-71.09851,1
+I1 Private Room by Kendall,Wellington-Harrington,Private room,1.0,1.0,4,1,53.0,122,46,93.0,42.37062,-71.09643,0
+I3 Private Room by Kendall/MIT/Central Statio,Wellington-Harrington,Private room,1.0,1.0,2,1,55.0,146,23,90.0,42.370709999999995,-71.09631,0
+The Modica Estates #5,The Port,Private room,1.0,1.0,1,1,46.0,295,198,96.0,42.36515,-71.0991,1
+"Last Minute Deals, HARVARD/MIT- Location A+++",East Cambridge,Entire home/apt,2.0,1.0,5,2,141.0,152,51,98.0,42.372840000000004,-71.08716,1
+Budget Room in Cambridge - Paris Concept,The Port,Private room,1.0,1.0,2,2,29.0,21,69,91.0,42.36991,-71.09693,0
+Budget Room in Cambridge - Istanbul Concept,Wellington-Harrington,Private room,1.0,2.0,2,2,29.0,0,49,94.0,42.37102,-71.09544,0
+Budget Room in Cambridge - Woof Concept,Wellington-Harrington,Private room,1.0,1.5,2,2,29.0,103,62,93.0,42.37189,-71.09621,0
+Budget Room in Cambridge - Twin Concept,The Port,Private room,1.0,1.5,2,2,29.0,26,70,93.0,42.37042,-71.097,0
+"Newly renovated, spacious gem in heart of City",East Cambridge,Entire home/apt,1.0,1.0,4,2,144.0,69,47,98.0,42.36877,-71.08051999999999,1
+Budget Room in Cambridge - Full Concept,Wellington-Harrington,Private room,1.0,1.5,2,2,28.0,26,54,93.0,42.3716,-71.09661,0
+"Beautiful Single Family Home in Cambridge, MA",The Port,Entire home/apt,2.0,1.5,4,2,300.0,90,10,98.0,42.364090000000004,-71.09851,0
+Light filled lofty layout and all yours!,Cambridgeport,Entire home/apt,2.0,1.0,6,2,214.0,219,44,99.0,42.36097,-71.10983,1
+"Cambridge renovated 1BR, near Porter/Harvard Sq.",Neighborhood Nine,Entire home/apt,1.0,1.0,2,29,67.0,3,90,96.0,42.38813,-71.12640999999999,1
+"NEW Sunny, Large 1Bed facing Harvard Law School!!",Agassiz,Entire home/apt,1.0,1.0,4,91,89.0,90,20,99.0,42.381009999999996,-71.11856999999999,1
+Great room AWESOME LOCATION * Close to SUB,Agassiz,Private room,1.0,1.0,1,3,75.0,0,17,100.0,42.38433,-71.11646999999999,1
+HARVARD/MIT - Artist's Pad in Central Sq (Room B),Cambridgeport,Private room,1.0,1.0,2,91,60.0,364,51,93.0,42.36444,-71.1063,0
+Newly Renovated & Oh-So-Convenient!,East Cambridge,Entire home/apt,1.0,1.0,3,2,115.0,93,84,100.0,42.368809999999996,-71.08283,1
+R5 Cozy quiet private room near MIT,Wellington-Harrington,Private room,1.0,1.0,1,2,28.0,24,12,98.0,42.368320000000004,-71.09154000000001,1
+R3 Quiet Cozy Room,Wellington-Harrington,Private room,1.0,0.0,2,2,29.0,33,15,97.0,42.36998,-71.09186,1
+"Tangerine Dream - Pvt Entry, MIT-Harvard-Downtown",Wellington-Harrington,Private room,1.0,1.0,2,1,105.0,148,42,100.0,42.36962,-71.09183,1
+N. Cambridge Private Bedroom for Two,North Cambridge,Private room,1.0,1.0,2,1,80.0,301,79,100.0,42.39366,-71.12912,1
+Beautiful  private room at Harvard Sq 1,West Cambridge,Private room,1.0,1.0,2,91,60.0,365,30,91.0,42.37375,-71.123,0
+Beautiful private room at Harvard Sq 2,West Cambridge,Private room,1.0,1.0,2,91,60.0,365,38,86.0,42.374109999999995,-71.12433,0
+Beautiful private room at Harvard Sq 3,West Cambridge,Private room,1.0,1.0,4,91,60.0,365,33,90.0,42.37198,-71.12265,0
+Cozy private room next to Harvard Square 1,West Cambridge,Private room,1.0,1.0,2,91,60.0,365,32,86.0,42.37209,-71.12292,0
+Cozy private room next to Harvard Square 2,West Cambridge,Private room,1.0,1.0,2,91,60.0,365,19,88.0,42.373329999999996,-71.12250999999999,0
+Cozy private room next to Harvard Square 3,West Cambridge,Private room,1.0,1.0,2,91,60.0,365,34,93.0,42.37415,-71.12414,0
+Cozy Private room next to Harvard sq 4,West Cambridge,Private room,1.0,1.0,2,91,60.0,365,28,92.0,42.37278,-71.12256,0
+High-class private room next to MIT/Harvard 2,The Port,Private room,1.0,1.5,2,1,55.0,171,58,91.0,42.36993,-71.09761999999999,0
+Hey Private Room close to MIT and Harvard Uni,Mid-Cambridge,Private room,1.0,1.5,4,1,55.0,180,70,92.0,42.37219,-71.09947,0
+joyful private room next to central sq/MIT 1,Cambridgeport,Private room,1.0,2.0,4,1,54.0,180,75,92.0,42.35969,-71.10925,0
+joyful private room next to central sq/MIT 2,Cambridgeport,Private room,1.0,2.0,4,1,54.0,0,103,92.0,42.35953,-71.10946,0
+joyful private room next to central sq/MIT 3,Cambridgeport,Private room,1.0,2.0,4,1,54.0,180,109,91.0,42.35938,-71.1111,0
+"Keyless private room near MIT,Central Sq 1",Cambridgeport,Private room,1.0,2.0,4,1,51.0,180,93,90.0,42.35881,-71.10452,0
+"keyless private room near MIT,Central Sq 2",Cambridgeport,Private room,1.0,2.0,4,1,51.0,174,132,97.0,42.35995,-71.10423,0
+"keyless private room near MIT,Central Sq 3",Cambridgeport,Private room,1.0,2.0,4,1,51.0,169,96,94.0,42.36036,-71.10338,0
+3 Bed 2 Bath w/ Free Parking near Kendall Square,East Cambridge,Entire home/apt,3.0,2.0,8,1,80.0,347,68,96.0,42.37168,-71.07861,0
+3 Bed 2 Bath Tourist House near Kendall Square,East Cambridge,Entire home/apt,3.0,2.0,8,1,81.0,315,53,93.0,42.3722,-71.07726,0
+New 3 Bed 2 Bath Tourist House near Kendall Square,East Cambridge,Entire home/apt,3.0,2.0,7,1,80.0,286,66,91.0,42.37089,-71.07786999999999,0
+Cozy apartment next to Central Sq/Harvard Sq/MIT,Mid-Cambridge,Entire home/apt,2.0,1.0,4,5,156.0,154,80,98.0,42.368559999999995,-71.10446999999999,1
+"Cute, Comfortable, and Centrally Located",East Cambridge,Private room,1.0,1.5,1,3,139.0,364,11,100.0,42.36848,-71.08153,1
+Luxury studio w/ parking by MIT/Harvard/BU/Fenway,Cambridgeport,Private room,1.0,1.0,2,1,81.0,85,222,97.0,42.3577,-71.11166,1
+2 BR  APT w/ parking near MIT/Harvard/BU/Fenway,Cambridgeport,Entire home/apt,2.0,1.0,4,1,104.0,107,160,98.0,42.35589,-71.11012,1
+Luxury 1BR APT w/ parking by MIT/Harvard/BU/Fenway,Cambridgeport,Entire home/apt,1.0,1.0,2,1,127.0,78,202,99.0,42.35756,-71.11102,1
+"Enchanting1bed-9min drive toAirport,walk to train",Wellington-Harrington,Entire home/apt,1.0,1.0,4,2,83.0,86,40,89.0,42.372240000000005,-71.09895,0
+4BR 2BA Bright Spacious Home in Cambridge,North Cambridge,Entire home/apt,4.0,2.0,9,1,399.0,168,13,97.0,42.39152,-71.13118,0
+"Clean, Bright Space near Harvard/MIT",Riverside,Private room,1.0,1.0,1,1,68.0,89,11,93.0,42.37184,-71.11610999999999,0
+"Private, clean, non-shared 1BR near Harvard & MIT",Riverside,Entire home/apt,1.0,1.0,5,2,97.0,264,27,99.0,42.36695,-71.1084,1
+Cambridge total,East Cambridge,Entire home/apt,2.0,1.0,4,3,120.0,54,46,98.0,42.37222,-71.08421,1
+Harvard Law - Cozy Double,Agassiz,Private room,1.0,1.0,2,2,90.0,179,18,98.0,42.381,-71.11966,1
+Tasteful 2 bedroom near Harvard Square,Agassiz,Entire home/apt,2.0,1.0,4,30,99.0,0,36,94.0,42.37918,-71.10837,0
+New House in Safe and Convenient North Cambridge,North Cambridge,Entire home/apt,2.0,2.0,6,3,209.0,33,20,98.0,42.39175,-71.13289,1
+Spacious garden-level loft near Harvard Square,Neighborhood Nine,Entire home/apt,1.0,1.0,4,2,120.0,60,10,94.0,42.38785,-71.12281999999999,1
+Beautiful West Cambridge Apartment,Neighborhood Nine,Entire home/apt,2.0,1.0,4,1,125.0,6,15,100.0,42.38503,-71.13604000000001,1
+Private 2BR & Yoga Room in North Cambridge,North Cambridge,Entire home/apt,2.0,1.0,4,2,156.0,84,12,98.0,42.39216,-71.12557,0
+Private bedroom close to Central Sq & BU,Cambridgeport,Private room,1.0,2.0,4,1,51.0,365,20,94.0,42.3589,-71.10625,1
+Private bedroom close to MIT & BU,Cambridgeport,Private room,1.0,2.0,4,1,51.0,342,15,93.0,42.3574,-71.10498,1
+Private bedroom close to MIT & Central Sq,Cambridgeport,Private room,1.0,2.0,2,1,51.0,363,16,94.0,42.36123,-71.10840999999999,1
+Kendall Squares only LUXURY BOUTIQUE HOTEL,Area 2/MIT,Private room,1.0,1.0,2,1,137.0,0,15,99.0,42.36184,-71.08811999999999,0
