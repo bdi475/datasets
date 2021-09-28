@@ -1,41 +1,22 @@
-name,major1,major2,city,distance_from_champaign,fav_restaurant,has_iphone
-Citlalli,Anthropology,,Chicago,125.86,Seven Saints,TRUE
-Zach,Finance,Information Systems,Glenview,137.04,,FALSE
-Ori,Information Science,,Skokie,134.94,Culvers,TRUE
-Dylan,Accountancy,,Chicago,125.86,Signature Grill,TRUE
-Ajay,Organizational Psychology,Statistics,Fairview Heights,141.24,Chipotle,TRUE
-Andrew,Economics,Statistics,Skokie,134.94,,TRUE
-Sarah,Marketing,Theatre,Morris,86.38,,TRUE
-Ahsaas,Finance,,Muscat,7543.35,Five Guys,TRUE
-Jennifer,Food Science,Human Nutrition,Macau,7807.02,,TRUE
-Ella,Accountancy,,Hong Kong,7789.61,,TRUE
-James,Accountancy,Informatics,Orland Park,106.11,,TRUE
-Jaewon,Acturial Science,,Seoul,6623.7,Jimmy Johns,TRUE
-Max,Finance,Informatics,Clarendon Hills,117.12,Chick-fil-A,TRUE
-Nick,Information Science,,Northbrook,140.84,Potbelly,TRUE
-Jackie,Supply Chain Management,Marketing,Wheeling,397.48,Portillos,TRUE
-Nicole,Accountancy,Finance,Shanghai,7154.42,,TRUE
-Harsha,Accountancy,,Lisle,116.73,Chipotle,TRUE
-Keziah,Agricultural and Consumer Economics,Communications,Bolingbrook,109.64,,TRUE
-Jainil,Information Systems,,Niles,133.44,Chipotle,TRUE
-Erin,Accountancy,,Highland Park,144.55,,TRUE
-Dylan,Learning and Education,,Chicago,125.86,,TRUE
-Victoria,Finance,Accountancy,Chicago,125.86,Pokelab,TRUE
-Bella,Accountancy,Information Systems,Seoul,6623.7,,TRUE
-Kevin,Accountancy,Statistics,Naperville,115.46,,TRUE
-Marissa,Finance,,Plainfield,104.74,,TRUE
-Hwanjae,Accountancy,Technology & Management,Seoul,6623.7,,TRUE
-Jake,Accountancy,Informatics,Orland Park,106.11,Chipotle,TRUE
-Erisa,Chemistry,Informatics,Lake Forest,149.48,Portillos,TRUE
-Bianca,Supply Chain Management,Marketing,Niles,133.44,,TRUE
-Claudia,Economics,,Hong Kong,7789.61,,TRUE
-Mark,Finance,,Metamora,74.97,Taco Bell,FALSE
-Yushan,Accountancy,Statistics,Nanjing,7159.39,,TRUE
-Maura,Consumer Economics,Finance,Glenview,104.55,Wildfire,TRUE
-Genoveva,Finance,,Chicago,125.86,,TRUE
-Michelle,Accountancy,,Chicago,125.86,,FALSE
-Nicole,Community Health,,Lake Bluff,152.55,,TRUE
-Jim,Accountancy,,Orland Park,106.11,Chipotle,TRUE
-Tyler,Information Systems,,Homewood-Flossmoor,134.94,Lou Malnati's,TRUE
-Joe,Agricultural and Consumer Economics,Marketing,Chicago,125.86,,FALSE
-Clint,Political Science,,Springfield,85.11,Chipotle,TRUE
+name,major1,major2,city,distance_from_champaign,fav_restaurant,fav_movie,has_iphone
+Khalid,Computer Science,,Fairfax,713.45,Chick-fil-a,Ford vs Ferrari,FALSE
+Ana Maria,Nondegree,,Bucharest,5313,,,TRUE
+Aishani,Finance,,Naperville,115.46,Noodles and Company,The Mummy,TRUE
+Joshua,Advertising,,Chicago,125.86,Soho House,The Shawshank Redemption,FALSE
+Adrian,Finance,Information Systems,Grayslake,180.82,Choong Man Chicken,Inception,TRUE
+Anika,Information Sciences,,Barrington,,California Pizza Kitchen,Goldfinch,TRUE
+Mia,Computer Science,,Chicago,125.86,Olive Garden,Sabrina,TRUE
+Adam,Economics,Statistics,Rockford,184.22,Seven Saints,John Wick,TRUE
+Talal,Information Sciences,,Dubai,7345,Kabobi Persian,Monsters Inc.,TRUE
+Colby,Statistics,Computer Science,Fremont,2169,Cravings,TRON: Legacy,FALSE
+Dylan,Mathematics,Chemistry,London,4051,Fast Food,,TRUE
+Rhea,Psychology,Business,Chicago,125.86,RPM Italian,,TRUE
+Michael,Information Sciences,Business,Northbrook,158.81,Chipotle,Rounders,TRUE
+Eli,Systems Engineering,,Lincolnshire,164.07,Maize,Wall-E,TRUE
+Jaqueline,Mathematics,,,,,,TRUE
+Kyle,Econometrics,Quantative Economics,Highland Park,144.55,Tsu Kasa,Wolf of Wall Street,TRUE
+Sean W,Mathematics,,,,,,TRUE
+Luke,Finance,,Urbana,2,Pizzaria Antica,,TRUE
+Sean S,Advertising,,Taipei,7539,Dragon Gate,Let the Bullets Fly,TRUE
+Sarvani,Psychology,,Grayslake,180.82,Big Bowl,The Trial of Chicago 7,TRUE
+Leo,Statistics,Computer Science,Wuxi,7158,Shiquan,Interstellar,TRUE
