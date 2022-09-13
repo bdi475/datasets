@@ -1,41 +1,46 @@
 name,major1,major2,city,fav_restaurant,fav_movie,has_iphone
-Amin Akkila,Accountancy,Marketing,Fairfax,Chick-fil-a,Ford vs Ferrari,FALSE
-Abby Arentsen,Marketing,,Ploiesti,Burger King,Interstellar,FALSE
-Cansas Buckalew,Supply Chain Management,Marketing,Naperville,Noodles and Company,The Mummy,TRUE
-Sam Burch,Statistics,,Chicago,Soho House,The Shawshank Redemption,FALSE
-Juan Caminos Colm,Nondegree,,Grayslake,Choong Man Chicken,Inception,TRUE
-Duncan Cleary,Agr & Consumer Economics,,Barrington,California Pizza Kitchen,Goldfinch,TRUE
-Marissa DeMeo,Interdisciplinary Health,,Chicago,Olive Garden,Sabrina,TRUE
-Alvaro Diez De Rive,Nondegree,Statistics,Champaign,Seven Saints,John Wick,TRUE
-John Fitzgerald,Econometrics & Quant Econ,,Champaign,Kabobi Persian,Monsters Inc.,TRUE
-Daniel Frederick,Econometrics & Quant Econ,Computer Science,Evanston,Cravings,TRON: Legacy,FALSE
-Ayla Guvener,Advertising,Marketing,Evanston,Fast Food,,TRUE
-Phoebe Harmon,Computer Science & Econom,Business,Urbana,RPM Italian,,TRUE
-Sicong He,Statistics & Computer Sci,Business,Oak Park,Chipotle,Rounders,TRUE
-Daaniyaal Hussain,Accountancy,,Lincolnshire,Maize,Wall-E,TRUE
-Johnathan Im,Computer Science & Econom,Statistics,Chicago,Falco's Pizza,Stepbrothers,TRUE
-Hernan Juarez,Accountancy,Finance,Highland Park,Tsu Kasa,Wolf of Wall Street,TRUE
-Paul Kim,Computer Science,,Naperville,,,TRUE
-Erin Klapacz,Accountancy,Finance,Urbana,Pizzaria Antica,,TRUE
-Benjamin  Kulis,Computer Sci & Linguistic,,Taipei,Dragon Gate,Let the Bullets Fly,TRUE
-Milena Lim,Accountancy,,Grayslake,Big Bowl,The Trial of Chicago 7,TRUE
-Anthony Lu,Accountancy,Supply Chain Management,Wuxi,Shiquan,Interstellar,TRUE
-Mike Meissner,Psychology,,Orland Park,,,TRUE
-Jacob Moza,Accountancy,,Lake Forest,,,TRUE
-Daishi Nezu,Nondegree,,Buffalo Grove,,,TRUE
-Julisa Payan-Mercad,Mathematics,,Vernon Hills,,,TRUE
-Gabriel Regalado,Agr & Consumer Economics,,Chicago,Chick-fil-a,,TRUE
-William Roscher,Chemical Engineering,,Northbrook,Burger King,,FALSE
-Saloni Sahni,Information Sciences,,Champaign,Noodles and Company,,TRUE
-Carlos Sanchez Albe,Nondegree,,Urbana,Soho House,,TRUE
-Ajit Singh,Computer Science,,Rockford,Choong Man Chicken,,TRUE
-Paras Singh,Econometrics & Quant Econ,,Dubai,California Pizza Kitchen,,TRUE
-Hamza Sohail,Economics,,Fremont,Olive Garden,,TRUE
-Charlotte Sowter,Nondegree,,London,Lai-lai Wok,Spiderman,TRUE
-June Tan,Statistics,,Champaign,,,TRUE
-Bea Verin,Information Sciences,,Champaign,,,TRUE
-Yuhan Wei,Accountancy,,Buffalo Grove,,Avengers,TRUE
-Yuwen Xiang,Statistics,,Northbrook,,,TRUE
-Xinxin Xu,Accountancy,,Vernon Hills,Chick-fil-a,,FALSE
-Jay Zhang,Computer Science & Econom,,Naperville,Burger King,,FALSE
-Zella Zhao,Information Sciences,,Buffalo Grove,Noodles and Company,Parasite,TRUE
+Nishita Amberkar,Computer Engineering,Marketing,Fairfax,Chick-fil-a,Ford vs Ferrari,FALSE
+Alvino Angelo,Computer Science,,Ploiesti,Burger King,Interstellar,FALSE
+Guadalupe Badillo,Agr & Consumer Economics,Marketing,Naperville,Noodles and Company,The Mummy,TRUE
+Denise Bahena,Information Sciences + DS,,Chicago,Soho House,The Shawshank Redemption,FALSE
+Arnav Batta,Computer Science,,Grayslake,Choong Man Chicken,Inception,TRUE
+Anika Dixit,Information Sciences,,Barrington,California Pizza Kitchen,Goldfinch,TRUE
+Rikuto Fukagai,Nondegree,,Chicago,Olive Garden,Sabrina,TRUE
+Jason Gonzalez,Information Sciences,Statistics,Champaign,Seven Saints,John Wick,TRUE
+Shaurya Gupta,Economics,,Champaign,Kabobi Persian,Monsters Inc.,TRUE
+Xavier Gutierrez,Agr & Consumer Economics,Computer Science,Evanston,Cravings,TRON: Legacy,FALSE
+Clayton Haase,Econometrics & Quant Econ,Marketing,Evanston,Fast Food,,TRUE
+Wesley Hollenberg,Political Science,Business,Urbana,RPM Italian,,TRUE
+Tianyi Huang,Mathematics,Business,Oak Park,Chipotle,Rounders,TRUE
+Romero Isa,Computer Science,,Lincolnshire,Maize,Wall-E,TRUE
+Nupur Khandelwal,Information Sciences,Statistics,Chicago,Falco's Pizza,Stepbrothers,TRUE
+Mike Koziol,Computer Science,Finance,Highland Park,Tsu Kasa,Wolf of Wall Street,TRUE
+Akash Kumar,Computer Science,,Naperville,,,TRUE
+Marc Kusno,Econometrics & Quant Econ,Finance,Urbana,Pizzaria Antica,,TRUE
+Brooke Lafferty,Information Sciences,,Taipei,Dragon Gate,Let the Bullets Fly,TRUE
+Hongyu Liu,Economics,,Grayslake,Big Bowl,The Trial of Chicago 7,TRUE
+Yeung Lo,Nondegree,Supply Chain Management,Wuxi,Shiquan,Interstellar,TRUE
+Matt Mak,Agr & Consumer Economics,,Orland Park,,,TRUE
+Savio Manuel Da Gr,Nondegree,,Lake Forest,,,TRUE
+Kayla Moy,Information Sciences,,Buffalo Grove,,,TRUE
+Sailaj Nallacheruvu,Computer Science,,Vernon Hills,,,TRUE
+Alekhya Nathella,Information Sciences,,Chicago,Chick-fil-a,,TRUE
+Job Ngangu Mvunz,Information Sciences,,Northbrook,Burger King,,FALSE
+Dhea Ong,Computer Science,,Champaign,Noodles and Company,,TRUE
+Cameron Reedy,Econometrics & Quant Econ,,Urbana,Soho House,,TRUE
+Diego Rocha,Agr & Consumer Economics,,Rockford,Choong Man Chicken,,TRUE
+Arjun Sahu,Recreation and Sport,,Dubai,California Pizza Kitchen,,TRUE
+Thomas Sinn,Nondegree,,Fremont,Olive Garden,,TRUE
+Robbie Stirling,Economics,,London,Lai-lai Wok,Spiderman,TRUE
+Nathan Tuala,Computer Science,,Champaign,,,TRUE
+Madelief Vis,Nondegree,,Champaign,,,TRUE
+Ethan Wee,Information Sciences,,Buffalo Grove,,Avengers,TRUE
+Michael Wong,Computer Science,,Northbrook,,,TRUE
+Brandon Xamonhtry,Information Sciences,,Vernon Hills,Chick-fil-a,,FALSE
+Ashley Yoon,Actuarial Science,,Naperville,Burger King,,FALSE
+Zijun Yu,Statistics,,Buffalo Grove,Noodles and Company,Parasite,TRUE
+Jasmine Yuan,Information Sciences,,Urbana,,,TRUE
+Kelly Yuen,Information Sciences,,Champaign,,,FALSE
+Alejandro Zenteno,Community Health,,Champaign,,,TRUE
+Brianna Zhang,Computer Science,,Champaign,,,TRUE
+Cindy Zhang,Communication,,Champaign,,,TRUE
