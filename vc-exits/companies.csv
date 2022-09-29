@@ -1,0 +1,251 @@
+company_name,deal_id,industry,city,country,is_profitable,patents
+300,300145_202112,Entertainment Software,New York,United States,False,0
+ACROBiosystems,acr168_202110,Discovery Tools (Healthcare),Beijing,China,True,0
+ASR Microelectronics,asr032_202201,Application Specific Semiconductors,Shanghai,China,False,6
+Admix,adm196_202206,Business/Productivity Software,London,United Kingdom,False,0
+Affera,aff071_202208,Therapeutic Devices,Newton,United States,False,6
+Affinivax,aff004_202208,Drug Discovery,Cambridge,United States,False,1
+Allbirds,all195_202111,Footwear,San Francisco,United States,False,17
+Alpha Tau,alp217_202203,Therapeutic Devices,Jerusalem,Israel,False,3
+Altenergy Power Systems,alt107_202206,"Computers, Parts and Peripherals",Jiaxing,China,True,0
+Amprius,amp055_202209,Energy Storage,Fremont,United States,False,5
+Asieris Pharmaceuticals,asi147_202201,Drug Discovery,Shanghai,China,False,0
+Aspiration,asp190_202112,Financial Software,Marina del Rey,United States,False,0
+Attivo Networks,att078_202203,Network Management Software,Fremont,United States,False,13
+Aurora,aur042_202111,Automotive,Mountain View,United States,False,29
+Ava Security,ava152_202203,Network Management Software,London,United Kingdom,False,4
+AvidXchange,avi073_202110,Financial Software,Charlotte,United States,False,0
+Avitide,avi218_202109,Biotechnology,Lebanon,United States,False,0
+Axios Media,axi092_202208,Publishing,Arlington,United States,False,0
+Azerion,aze120_202202,Media and Information Services (B2B),Amsterdam,Netherlands,False,0
+Beach Bum,bea219_202109,Entertainment Software,Raanana,Israel,False,0
+Becorp Rental Homes,bec068_202201,Real Estate Services (B2C),Barcelona,Spain,False,0
+Benson Hill,ben137_202109,Business/Productivity Software,Saint Louis,United States,True,80
+BentoBox,ben187_202111,Business/Productivity Software,New York,United States,False,0
+Benzinga,ben197_202110,Publishing,Detroit,United States,False,0
+Billie,bil193_202111,Personal Products,New York,United States,False,11
+BioRez,bio233_202208,Therapeutic Devices,New Haven,United States,False,6
+Bird Rides,bir189_202111,Other Transportation,Belgium,Netherlands,False,3
+Black Shark,bla115_202201,Electronics (B2C),Nanchang,China,False,0
+Bluetrum Technology,blu154_202207,Application Specific Semiconductors,Shenzhen,China,True,1
+Bottlepay,bot208_202110,Financial Software,Newcastle upon Tyne,United Kingdom,False,0
+Boxed,box224_202112,Internet Retail,New York,United States,False,0
+Braze,bra097_202111,Business/Productivity Software,New York,United States,False,13
+BreezoMeter,bre234_202209,Environmental Services (B2B),Haifa,Israel,False,1
+Brightpearl,bri205_202201,Business/Productivity Software,Bristol,United Kingdom,False,0
+Busuu,bus124_202201,Educational Software,London,United Kingdom,False,0
+CICT Mobile,cic083_202209,Telecommunications Service Providers,Wuhan,China,False,1
+CYNORA,cyn199_202206,Other Commercial Products,Bruchsal,Germany,False,74
+Caper,cap165_202110,Electronic Equipment and Instruments,New York,United States,False,0
+Cardiovalve,car198_202201,Surgical Devices,Or Yehuda,Israel,False,27
+CartiHeal,car099_202111,Therapeutic Devices,Kfar Saba,Israel,False,0
+Castlight Health,cas160_202202,Enterprise Systems (Healthcare),San Francisco,United States,True,2
+Celeno,cel191_202112,Wireless Communications Equipment,Ra'anana,Israel,False,35
+Cellwize,cel177_202206,Business/Productivity Software,Southlake,United States,False,7
+Clarabridge,cla026_202110,Business/Productivity Software,Reston,United States,False,3
+Cleared,cle118_202201,Clinics/Outpatient Services,New York,United States,False,0
+Cloud Music,clo130_202112,Entertainment Software,Hangzhou,China,False,0
+CloudCheckr,clo170_202111,Business/Productivity Software,Rochester,United States,False,0
+Cloudwalk Technology,clo225_202205,Automation/Workflow Software,Guangzhou,China,False,0
+Cloudways,clo166_202209,Business/Productivity Software,Saint Julians,Malta,False,0
+Clover Biopharmaceuticals,clo226_202111,Biotechnology,Chengdu,China,False,1
+Codecademy,cod153_202204,Educational and Training Services (B2C),New York,United States,False,0
+Cofoe,cof082_202110,Therapeutic Devices,Changsha,China,True,0
+Cognito,cog235_202201,Network Management Software,Walnut,United States,False,0
+Coincheck,coi245_202203,Financial Software,Tokyo,Japan,False,0
+Currencycloud,cur049_202112,Financial Software,London,United Kingdom,False,0
+Current Health,cur149_202111,Other Healthcare Technology Systems,Edinburgh,United Kingdom,False,1
+Dave,dav230_202201,Financial Software,Los Angeles,United States,False,0
+DeepGlint,dee210_202203,Business/Productivity Software,Beijing,China,False,0
+Delhivery,del043_202205,Logistics,Gurgaon,India,False,2
+Deliverr,del010_202207,Logistics,San Francisco,United States,False,0
+Devolver Digital,dev223_202111,Entertainment Software,Austin,United States,False,0
+Dioo Microcircuits,dio150_202208,Application Specific Semiconductors,Nantong,China,True,0
+Dosilicon,dos096_202112,General Purpose Semiconductors,Shanghai,China,True,10
+Ducentis,duc114_202209,Drug Discovery,Oxford,United Kingdom,False,1
+EQRx,eqr024_202112,Drug Discovery,Cambridge,United States,False,0
+ESS,ess037_202110,Electrical Equipment,Wilsonville,United States,False,0
+EVEN Financial,eve126_202202,Financial Software,New York,United States,False,0
+EVERFI,eve063_202112,Educational Software,Washington,United States,True,0
+Embark Trucks,emb133_202111,Road,San Francisco,United States,False,0
+Energy Vault,ene151_202202,Energy Storage,Westlake Village,United States,False,1
+Enjoy Technology,enj121_202110,Specialty Retail,Palo Alto,United States,False,0
+Epsagon,eps100_202110,Business/Productivity Software,New York,United States,False,1
+ErisX,eri138_202205,Other Financial Services,Chicago,United States,False,1
+Eve Holding,eve246_202205,Air,Melbourne,United States,False,4
+Everbright Photonics,eve127_202204,Application Specific Semiconductors,Suzhou,China,True,0
+ExaWizards,exa181_202112,Business/Productivity Software,Tokyo,Japan,False,79
+Expensify,exp222_202111,Financial Software,Portland,United States,False,7
+Exscientia,exs194_202110,Discovery Tools (Healthcare),Oxford,United Kingdom,False,1
+FOXO Technologies,fox161_202202,Biotechnology,Minneapolis,United States,False,0
+FairX,fai216_202202,Other Financial Services,Chicago,United States,False,0
+Fast Radius,fas171_202202,Logistics,Chicago,United States,False,0
+FieldWire,fie200_202111,Business/Productivity Software,San Francisco,United States,False,0
+Finaro,fin084_202203,Financial Software,Valletta,Malta,False,4
+Finimize,fin015_202110,Publishing,London,United Kingdom,False,0
+Finxact,fin074_202204,Financial Software,Jacksonville,United States,False,0
+FiveStars,fiv188_202110,Media and Information Services (B2B),San Francisco,United States,False,1
+Flow Commerce,flo101_202201,Business/Productivity Software,Hoboken,United States,False,0
+Forendo Pharma,for050_202112,Drug Discovery,Turku,Finland,False,6
+Forge Global,for090_202203,Other Capital Markets/Institutions,San Francisco,United States,True,2
+FourQ,fou243_202201,Financial Software,Westport,United States,False,0
+Frame,fra029_202110,Multimedia and Design Software,New York,United States,False,0
+Fresheasy,fre227_202110,Food Products,Seoul,South Korea,False,0
+GOGOX Holdings,gog072_202206,Business/Productivity Software,Beijing,China,False,0
+GSN Games,gsn038_202110,Entertainment Software,San Francisco,United States,False,4
+Gabi,gab183_202111,Financial Software,San Francisco,United States,False,0
+Gelesis,gel213_202201,Drug Discovery,Boston,United States,False,12
+GeoPhy,geo209_202202,Business/Productivity Software,The Hague,Netherlands,False,0
+Ginger,gin006_202110,Clinics/Outpatient Services,San Francisco,United States,False,11
+GitLab,git054_202110,Software Development Applications,San Francisco,United States,False,2
+Glovo,glo048_202201,Other Services (B2C Non-Financial),Barcelona,Spain,False,0
+Gojek,goj044_202204,Business/Productivity Software,Jakarta,Indonesia,False,0
+Good Therapeutics,goo236_202208,Drug Discovery,Seattle,United States,False,0
+Grab,gra102_202112,Automotive,Singapore,Singapore,False,3
+Granulate,gra075_202203,Business/Productivity Software,Tel Aviv,Israel,False,1
+Greenbacker Group,gre180_202205,Specialized Finance,New York,United States,False,0
+Grupa Pracuj,gru221_202112,Human Capital Services,Warsaw,Poland,True,0
+GuardiCore,gua079_202110,Network Management Software,Tel Aviv,Israel,False,9
+Gyroscope,gyr021_202202,Drug Discovery,London,United Kingdom,False,9
+HashiCorp,has027_202112,Business/Productivity Software,San Francisco,United States,False,7
+HiTrendtech,hit242_202209,Application Specific Semiconductors,Shanghai,China,True,1
+Hoymiles,hoy051_202112,Alternative Energy Equipment,Hangzhou,China,True,0
+Huitongda,hui212_202202,Logistics,Nanjing,China,False,0
+Huiyu Pharmaceutical,hui155_202110,Pharmaceuticals,Neijiang,China,True,0
+Hwatsing,hwa089_202206,Machinery (B2B),Tianjin,China,False,3
+Hygon Information Technology,hyg020_202208,"Computers, Parts and Peripherals",Beijing,China,False,2
+Hyperfine,hyp157_202112,Diagnostic Equipment,Guilford,United States,False,8
+IPG,ipg158_202208,Managed Care,Alpharetta,United States,True,0
+In2Bones,in2228_202205,Therapeutic Devices,Memphis,United States,False,28
+Innovium,inn039_202110,Application Specific Semiconductors,San Jose,United States,False,56
+Inpria,inp098_202110,Production (Semiconductors),Corvallis,United States,False,13
+InventisBio,inv192_202207,Biotechnology,Shanghai,China,False,0
+Ivantis,iva111_202201,Surgical Devices,Irvine,United States,False,16
+Jahez,jah129_202201,"Other Restaurants, Hotels and Leisure",Riyadh,Saudi Arabia,False,0
+Just Spices,jus240_202201,Food Products,Dusseldorf,Germany,False,0
+Kaleo,kal156_202112,Pharmaceuticals,Richmond,United States,False,34
+Lengo Therapeutics,len112_202112,Drug Discovery,San Diego,United States,False,0
+Levelset,lev108_202111,Financial Software,New Orleans,United States,False,0
+LianBio,lia182_202111,Biotechnology,Shanghai,China,False,0
+Linmon Pictures,lin025_202208,"Movies, Music and Entertainment",Shanghai,China,False,0
+Lucid,luc030_202112,Media and Information Services (B2B),New Orleans,United States,False,3
+MGI Tech,mgi002_202209,Biotechnology,Shenzhen,China,True,34
+Mabwell,mab088_202201,Biotechnology,Shanghai,China,False,1
+Mall,mal036_202111,Internet Retail,Prague,Czech Republic,False,0
+Maverick Therapeutics,mav093_202110,Drug Discovery,Brisbane,United States,False,0
+MicroTech Medical,mic238_202110,Monitoring Equipment,Hangzhou,China,False,5
+Microwave Chemical,mic013_202206,Industrial Supplies and Parts,Osaka,Japan,False,29
+MineralTree,min103_202110,Financial Software,Boston,United States,False,0
+Mir,mir140_202112,Software Development Applications,Richmond,United States,False,0
+MiroBio,mir135_202209,Biotechnology,Oxford,United Kingdom,False,0
+Misonix,mis091_202110,Surgical Devices,Farmingdale,United States,False,49
+MoPub,mop034_202201,Media and Information Services (B2B),San Francisco,United States,False,0
+Mobidays,mob244_202205,Business/Productivity Software,Seoul,South Korea,False,0
+Moonbug,moo007_202111,"Movies, Music and Entertainment",London,United Kingdom,False,0
+Navent,nav201_202112,Holding Companies,Buenos Aires,Argentina,True,0
+Navitas Semiconductor,nav184_202110,Application Specific Semiconductors,Dublin,Ireland,False,29
+Neoway,neo179_202110,Media and Information Services (B2B),Florianopolis,Brazil,False,0
+Nextdoor,nex136_202111,Social/Platform Software,San Francisco,United States,False,4
+Nimbus Health,nim110_202202,Distributors (Healthcare),Offenbach,Germany,True,0
+Ningbo Pia Automation Holding,nin239_202203,Machinery (B2B),Ningbo,China,False,0
+Novosense Microelectronics,nov047_202204,Application Specific Semiconductors,Suzhou,China,True,0
+Nuance Communications,nua000_202203,Business/Productivity Software,Burlington,United States,False,1113
+Nubank,nub009_202112,Other Commercial Banks,Sao Paulo,Brazil,False,1
+Nykaa,nyk065_202111,Specialty Retail,Mumbai,India,True,0
+OPM Biosciences,opm241_202209,Biotechnology,Shanghai,China,True,0
+OVO,ovo060_202110,Financial Software,Jakarta,Indonesia,False,0
+Octal,oct077_202205,Plastic Containers and Packaging,Muscat,Oman,False,6
+Oculii,ocu164_202111,Electronic Equipment and Instruments,Beavercreek,United States,False,9
+Oriental Semiconductor,ori175_202202,Application Specific Semiconductors,Suzhou,China,True,13
+Oxford Nanopore Technologies,oxf064_202109,Electronic Equipment and Instruments,Oxford,United Kingdom,False,85
+Paidy,pai008_202110,Financial Software,Tokyo,Japan,False,1
+Pantum,pan035_202110,Office Electronics,Zhuhai,China,True,36
+Payrix,pay057_202112,Financial Software,Sandy Springs,United States,False,0
+Paytm,pay011_202111,Financial Software,Noida,India,True,0
+Pear Therapeutics,pea214_202112,Other Healthcare Technology Systems,Boston,United States,False,3
+Pensando,pen016_202205,Systems and Information Management,Milpitas,United States,False,32
+Personal Genome Diagnostics,per085_202202,Discovery Tools (Healthcare),Baltimore,United States,False,3
+Pinganyi,pin146_202112,"Other Restaurants, Hotels and Leisure",Haidong,China,False,0
+Planet Labs,pla172_202112,Media and Information Services (B2B),San Francisco,United States,False,0
+PolicyBazaar,pol058_202111,Insurance Brokers,Gurugram,India,True,0
+Puppet,pup178_202205,Business/Productivity Software,Portland,United States,True,0
+Raxium,rax040_202205,Electrical Equipment,Fremont,United States,False,22
+ReKTGlobal,rek116_202207,Media and Information Services (B2B),Weddington,United States,False,0
+ReViral,rev094_202206,Drug Discovery,Stevenage,United Kingdom,False,4
+Rent The Runway,ren163_202110,Other Services (B2C Non-Financial),New York,United States,False,0
+Rigetti,rig173_202203,Application Specific Semiconductors,Berkeley,United States,False,0
+Rivian,riv001_202111,Automotive,Irvine,United States,False,114
+Roadie,roa080_202110,Logistics,Atlanta,United States,False,1
+Rubicon,rub017_202208,Business/Productivity Software,Lexington,United States,False,35
+Ruitai New Energy,rui095_202206,Specialty Chemicals,Zhangjiagang,China,True,0
+Rumble,rum202_202209,"Broadcasting, Radio and Television",Toronto,Canada,False,0
+SES,ses215_202202,Energy Storage,Woburn,United States,False,17
+SafetyPay,saf125_202201,Financial Software,Aventura,United States,False,0
+Samsara,sam053_202112,Business/Productivity Software,San Francisco,United States,False,39
+Satellogic,sat220_202201,Aerospace and Defense,Montevideo,Uruguay,False,0
+Science 37,sci249_202110,Enterprise Systems (Healthcare),Culver City,United States,False,0
+SenseTime,sen052_202112,Business/Productivity Software,Shatin,China,False,256
+Shapeways,sha134_202110,Multimedia and Design Software,New York,United States,False,8
+Siemplify,sie104_202201,Network Management Software,New York,United States,False,2
+SimpleNexus,sim045_202201,Financial Software,Lehi,United States,False,0
+Sinocat,sin247_202110,Industrial Supplies and Parts,Chengdu,China,True,2
+SiteMinder,sit117_202111,Business/Productivity Software,Sydney,Australia,False,0
+Sixense Enterprises,six232_202110,Other Hardware,,,False,0
+Social Chain,soc207_202110,Media and Information Services (B2B),Manchester,United Kingdom,False,0
+Solid Power,sol169_202112,Other Equipment,Louisville,United States,False,2
+Sonder,son122_202201,Real Estate Services (B2C),San Francisco,United States,False,0
+SoundHound,sou014_202204,Business/Productivity Software,Santa Clara,United States,False,65
+Specific,spe159_202205,Diagnostic Equipment,San Jose,United States,False,0
+Standard Bariatrics,sta203_202209,Surgical Devices,Cincinnati,United States,False,8
+StreamSets,str081_202204,Business/Productivity Software,San Francisco,United States,False,3
+Streamlit,str056_202205,Business/Productivity Software,San Francisco,United States,False,0
+Sunseap,sun069_202202,Energy Production,Singapore,Singapore,False,0
+Superhero,sup033_202206,Financial Software,Sydney,Australia,False,0
+Sweetgreen,swe162_202111,Restaurants and Bars,Los Angeles,United States,False,0
+Swvl,swv123_202204,Automotive,Dubai,United Arab Emirates,False,0
+Syndesi Therapeutics,syn041_202202,Drug Discovery,Ottignies-Louvain-la-Neuve,Belgium,False,0
+Tapjoy,tap142_202201,Business/Productivity Software,San Francisco,United States,True,8
+Technisys,tec046_202203,Financial Software,Miami,United States,False,0
+Tendeka,ten019_202202,Oil and Gas Equipment,Westhill,United Kingdom,False,8
+TeneoBio,ten023_202110,Biotechnology,Newark,United States,False,2
+The Athletic,the087_202202,Publishing,San Francisco,United States,False,0
+Tink,tin012_202203,Financial Software,Stockholm,Sweden,False,0
+Tokopedia,tok031_202204,Internet Retail,West Jakarta City,Indonesia,False,0
+Trifacta,tri143_202202,Database Software,San Francisco,United States,False,8
+Triple Jump Israel,tri204_202110,Other Devices and Supplies,Yokneam,Israel,False,1
+Truebill,tru028_202112,Other Financial Services,Silver Spring,United States,False,0
+Truecaller,tru186_202110,Information Services (B2C),Stockholm,Sweden,False,0
+Tufin,tuf086_202208,Network Management Software,Boston,United States,False,10
+Udemy,ude131_202110,Educational Software,San Francisco,United States,False,3
+United,uni018_202208,Diagnostic Equipment,Shanghai,China,True,273
+Univ,uni206_202112,Laboratory Services (Healthcare),Shanghai,China,True,0
+Unknown Worlds Entertainment,unk061_202110,Entertainment Software,San Francisco,United States,False,0
+VNDLY,vnd113_202112,Business/Productivity Software,Mason,United States,False,0
+Vacasa,vac211_202112,Real Estate Services (B2C),Portland,United States,False,0
+Vanchip Technologies,van132_202204,Application Specific Semiconductors,Tianjin,China,False,0
+Vanguard Renewables,van066_202207,Environmental Services (B2B),Wellesley,United States,False,0
+Vazyme Biotech,vaz176_202111,Biotechnology,Nanjing,China,True,0
+Velo3D,vel174_202109,Machinery (B2B),Campbell,United States,False,13
+Vertical Aerospace,ver148_202112,Aerospace and Defense,Bristol,United Kingdom,False,0
+ViaCyte,via185_202207,Drug Discovery,San Diego,United States,False,79
+Vitafy,vit229_202112,Food Products,Munich,Germany,False,0
+Vungle,vun062_202110,Media and Information Services (B2B),San Francisco,United States,True,17
+Wag,wag167_202208,Other Services (B2C Non-Financial),San Francisco,United States,False,0
+Wallbox,wal237_202110,Electronic Equipment and Instruments,Barcelona,Spain,False,2
+Wankai,wan109_202203,Plastic Containers and Packaging,Jiaxing,China,True,0
+Warby Parker,war005_202109,Accessories,New York,United States,False,5
+WayZim,way119_202110,Business/Productivity Software,Wuxi,China,True,0
+WeWork,wew105_202110,Buildings and Property,New York,United States,False,8
+Within,wit144_202110,Entertainment Software,Los Angeles,United States,False,0
+Wolfspeed,wol076_202201,Other Commercial Products,Durham,United States,True,720
+Wolt,wol003_202206,"Other Restaurants, Hotels and Leisure",Helsinki,Finland,False,0
+Wurl,wur128_202204,"Broadcasting, Radio and Television",Palo Alto,United States,False,4
+XM Cyber,xm 067_202111,Network Management Software,Herzliya,Israel,False,22
+Yaydoo,yay106_202205,Financial Software,Mexico City,Mexico,False,0
+Yogiyo,yog070_202110,"Other Restaurants, Hotels and Leisure",Seoul,South Korea,False,0
+ZeroFox,zer022_202208,Network Management Software,Baltimore,United States,False,21
+Zhejiang Power New Energy,zhe231_202209,Commodity Chemicals,Zhuji,China,True,0
+ecobee,eco059_202112,Electronic Equipment and Instruments,Toronto,Canada,False,2
+has,has248_202110,Road,Radstadt,Austria,False,0
+inRiver,inr139_202205,Business/Productivity Software,Malmo,Sweden,False,0
+smallcase,sma141_202208,Financial Software,Bangalore,India,False,0
