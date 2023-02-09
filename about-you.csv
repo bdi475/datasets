@@ -1,45 +1,40 @@
 name,major1,major2,city,fav_restaurant,fav_movie,has_iphone
-Nishita Amberkar,Computer Engineering,Marketing,Fairfax,Chick-fil-a,Ford vs Ferrari,FALSE
-Alvino Angelo,Computer Science,,Jakarta,Chipotle,Edge of Tomorrow,FALSE
-Guadalupe Badillo,Finance in Agribusiness,Marketing,Chicago,Fiaschetteria,Toy Story,TRUE
-Denise Bahena,Information Sciences,,Chicago,Chipotle,Little Women,FALSE
-Arnav Batta,Computer Science,T&M,Palatine,Huaraches Moroleon,Interstellar,TRUE
-Anika Dixit,Information Sciences,,Barrington,California Pizza Kitchen,Goldfinch,TRUE
-Rikuto Fukagai,Economics,,Tokyo,,Top Gun,TRUE
-Jason Gonzalez,Information Sciences,,Chicago,Potbelly,Avengers,TRUE
-Shaurya Gupta,Economics,CS,Bangalore,Huaraches,Stand By Me,TRUE
-Xavier Gutierrez,Consumer Economics and Finance,,Chicago,Maggiano's,Tron,FALSE
-Clayton Haase,Econometrics,Informatics,Lexington,Black Dog,The Revenant,TRUE
-Wesley Hollenberg,Political Science,Journalism and Informatics,Northbrook,Lou Malnatis Pizza,Moneyball,TRUE
-Tianyi Huang,Mathematics,Business,Oak Park,Chipotle,Rounders,TRUE
-Romero Isa,Computer Science,,Lincolnshire,Maize,Wall-E,TRUE
-Nupur Khandelwal,Information Sciences,Statistics,Chicago,Falco's Pizza,Stepbrothers,TRUE
-Mike Koziol,Computer Science,,Glenview,Portillos,Inception,FALSE
-Akash Kumar,Computer Science,,Chicago,,,FALSE
-Marc Kusno,Econometrics & Quant Econ,Finance,Urbana,Pizzaria Antica,,TRUE
-Brooke Lafferty,Information Sciences,,Naperville,Maize,Taken,TRUE
-Hongyu Liu,Economics,,Grayslake,Big Bowl,The Trial of Chicago 7,TRUE
-Yeung Lo,Nondegree,Supply Chain Management,Wuxi,Shiquan,Interstellar,TRUE
-Matt Mak,ACES,Philosophy,Mundelein,,The Shawshank Redemption,TRUE
-Savio Manuel,Econometrics & Operations Research,,Amsterdam,Cannibale Royale,Harry Potter,TRUE
-Kayla Moy,Information Sciences,,Chicago,Yogi,Howls moving castle,TRUE
-Sailaj Nallacheruvu,Computer Science,,Vernon Hills,Bangkok Thai,,TRUE
-Alekhya Nathella,Information Sciences,,Naperville,Chipotle,Moana,TRUE
-Job Ngangu Mvunz,Information Sciences,,Kinshasa,Olive Garden,Avengers: The End game,TRUE
-Dhea Ong,Computer Science,,Champaign,Noodles and Company,,TRUE
-Cameron Reedy,Econometrics,,Carpentersville,Chipotle,Interstellar,TRUE
-Diego Rocha,Consumer Economics and Finance,Informatics,Chicago,Canes,The Dark Knight,TRUE
-Arjun Sahu,Finance,,New Delhi,Chipotle,War Dogs,TRUE
-Thomas Sinn,Computer Science,,Sydney,Anything with Hainan Chicken Rice,Good will hunting,FALSE
-Robbie Stirling,Economics,Informatics and Business,San Diego,Bangkok Thai,1917,TRUE
-Nathan Tuala,Computer Science,,Champaign,,,TRUE
-Madelief Vis,Econometrics & Operations Research,,Amsterdam,Shake Shack,The Greatest Showman,TRUE
-Ethan Wee,Information Sciences,,Atherton,In-n-Out,Airplane,TRUE
-Michael Wong,Computer Science,,Northbrook,,,TRUE
-Brandon Xamonhtry,Information Sciences,,Rockford,Lino's,Sicario,TRUE
-Ashley Yoon,Actuarial Science,,Schaumburg,Chipolte,Everything Everywhere All at Once,TRUE
-Zijun Yu,Statistics,,Chongqing,Evo Cafe,Everything Everywhere All at Once,TRUE
-Jasmine Yuan,Information Sciences,,Aurora,In-n-Out,Minions,TRUE
-Kelly Yuen,Information Sciences,,Chicago,Cravings,Everything Everywhere All at Once,FALSE
-Alejandro Zenteno,Community Health,Business,Chicago,Giordanos,Avengers,TRUE
-Brianna Zhang,Computer Science,,Los Gatos,Lao Sze Chuan,Our Beloved Summer,TRUE
+Deeya Bansal,Computer Science,,Naperville,Potbelly,Avengers Endgame,True
+Giulia,Hospitality Management,Business,"Lima, Peru",Sakanaya,Aladdin,True
+Matthew Boyd,Finance,Informatics,Normal,Moe's Southwest Grill,Black Panther 2,True
+Chloe Chen,Statistics,Economics with a Business Minor,"Changhua, Taiwan",Antico Posto,Life is Beautiful,False
+Hayden Covello,Economics,Business Minor,Chicago,Bangkok Thai,Mean Girls,True
+Tina Dou,Global Studies,"CS, Informatics, Global Market and Society, and Spanish",Beijing,Sichuan Taste,Kungfu Panda,True
+Ruxin (Clementine) Duan,Accounting,Informatics,"Chengdu, China",Bab Plus,Lord of the Rings,True
+Joel Esparza,Economics,Consumer Economics and Finance,Alsip,Cheesecake Factory,The Godfather,True
+Maggie Fortune,Chemistry,Business,Park Ridge,Pizzeria Portofino,Age of Adaline,True
+Nicole Gromski,Information Sciences,Business,Bartlett.,Middleterranean,"Crazy, Stupid Love",True
+Jian Guan,Econometrics & Quantitative Economics,Business,Chicago,TAO Chicago,Avengers: Endgame,True
+Anita Gugulski,Finance,Accountancy,Barrington,Lou Malnati's,Inception,True
+Michelle Guo,Systems Engineering and Design,Business,Champaign,Oishi,Avatar,True
+Brianna Juarez,Statistics,Psychology & Business Minors,Lindenhurst,The Cheesecake Factory,,False
+Kenny,Statistics,Informatics,Orland Park,Watsons,Spiderman,True
+Heewon Kim,Statistics,Informatics,Chicago,Shawarma Joint,Parasite,True
+Safa Lakhany,Information Science + Data Science,Business,Naperville,Red Lobster,Divergent,True
+True Ledford,Economics,Informatics,Hopedale,Masijta,Knive's Out,True
+Jason Lee,Economics,Busines,Crystal Lake,Nobu,Inception,True
+Michelle Liang,Computer Science + Chemistry,,Bedford,Raku,The Blind Side,True
+Nathan Lin,Communication,Business,"Naperville, IL",Cucina Biagio - Basically a better Biaggi's :),Shutter Island,False
+Angel Lopez,Political Science,Business,Chicago,Mo's Burritos,Puss in Boots: The Last Wish,True
+Deric Maurer,Econometrics & Quantitative Economics,,New Athens,Bangkok Thai,Finding Nemo,True
+Joe Medley,Information Sciences,Data Science,O'Fallon,Chipotle,Goodfellas,True
+Darwin,Agricultural Accounting,,Chicago,Taco Bell,,False
+Edmond Mui,Econometrics,Business,Chicago,Sushi Taku,Spiderman,True
+Adish Patil,Computer Engineering,,Hong Kong,Basil Thai,Interstellar,True
+Vinaya Pillai,Statistics and Computer Science,Business,Schaumburg,Shawarma Joint,Black Panther,True
+Clare Regelbrugge,Advertising,Business and Informatics,Sycamore,Signature grill,Interstellar,True
+Mitch Ryba,Advertising,Business,Glen Ellyn,Potbelly,The Lion King,True
+Richie Salinas,Agricultural & Consumer Economics,Statistics with a minor in Business,Chicago,Raising Cane's,The Departed,True
+Aarthi Shivkumar,Information Sciences + Data Science,Computer Science,Singapore,Chipotle,Harry Potter,True
+Nathan Somorin,Community Health Planning & Administration,Business,Naperville,Uno,The Batman,True
+Natalie Tabor,Accounting,Minor: Informatics,Ottawa,Rosebud,Little Women,True
+Dev,Computer Science,Business,Vadodara,Maize Mexican Grill,The Perks of Being a Wallflower,True
+Evan Walker,Advertising,Informatics & Business,Flossmoor,Chipotle,Interstellar,True
+Phyllis Wang,Computer Science,Minor: Business,Chicago Suburbs,I like homemade food :),,True
+Jason Yu,Chemistry,"Statistics, Business Minor","Shanghai, China",Mid-Summer's Lounge,Love Actually,True
+Zach Zhu,Advertising,Business,"Yiwu, China",Shiquan Woton,John Wick,True
