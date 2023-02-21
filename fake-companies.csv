@@ -1,0 +1,251 @@
+company_id,company_name,country,is_profitable,branches
+572907,Smith Group,Armenia,True,1
+859451,Martinez-Cooper,Brazil,True,2
+355366,Estrada-Mccann,Saint Kitts and Nevis,False,1
+512925,Mitchell Inc,United States Minor Outlying Islands,True,4
+664465,Aguirre Ltd,Fiji,True,4
+136482,Davis-Walker,Wallis and Futuna,True,4
+306083,Jarvis-Rosario,Malta,False,4
+833004,Thomas-Smith,Malta,True,2
+686160,Lin and Sons,Germany,True,3
+296886,Pearson Ltd,France,False,7
+222929,Wong-Patterson,Colombia,False,2
+443988,Cook and Sons,Heard Island and McDonald Islands,True,1
+214565,Hayes-Gutierrez,Sao Tome and Principe,True,1
+120953,"Bates, Riley and Parker",Saint Helena,False,3
+796738,Fields-Cuevas,Central African Republic,False,3
+632939,"Thomas, Ellis and Bennett",Namibia,True,3
+109846,Love Group,Macedonia,True,3
+236266,Glenn-Harris,Paraguay,True,4
+688160,Day-Valdez,Colombia,True,5
+641800,"Hooper, Trujillo and Thomas",Antarctica (the territory South of 60 deg S),True,4
+119660,Kelly and Sons,Singapore,True,2
+672685,Garcia Group,Nepal,False,5
+464626,Delgado-Lee,Lesotho,True,5
+943865,Wall-Hoffman,Kyrgyz Republic,True,2
+895939,"Meyers, Williams and Berger",Turks and Caicos Islands,True,2
+366174,"Ballard, Arias and Fitzpatrick",Liechtenstein,True,2
+869124,Powell-Beck,American Samoa,True,2
+205889,"Wong, Campbell and Smith",Malta,True,2
+253246,Smith Inc,Croatia,True,1
+275223,Newman-Phillips,French Southern Territories,False,1
+211039,Williams Ltd,Serbia,True,1
+390962,Acosta-Harrison,China,True,3
+998518,Rose-Perry,Timor-Leste,True,4
+410194,Baker PLC,Tanzania,True,4
+770676,"Johnson, Howard and Perry",Jordan,False,2
+756518,Vargas-Crawford,Latvia,True,5
+348443,Barnes-Weiss,Myanmar,True,1
+960745,Long-Huynh,Guernsey,True,4
+367949,"Smith, Warren and Taylor",Sudan,True,3
+366654,Baker Ltd,Nigeria,True,2
+457024,"Cunningham, Morgan and Armstrong",Bulgaria,True,5
+353038,Hester Inc,Saint Pierre and Miquelon,True,5
+383163,"Garcia, Rojas and Bauer",Bosnia and Herzegovina,False,5
+912731,Cantu PLC,Latvia,False,1
+264825,"Gomez, Brennan and Novak",Guam,True,1
+203099,"Walters, Robertson and Hill",Luxembourg,True,4
+126584,"Perry, Mathis and Martinez",Georgia,True,4
+254649,Mcintyre-Morales,Marshall Islands,False,1
+149910,"Tucker, Glenn and Armstrong",Bangladesh,True,5
+363648,Boyd and Sons,Japan,True,5
+859748,Myers Group,Gibraltar,True,1
+167137,Brown and Sons,Belize,True,5
+851083,Evans-Roberts,Bhutan,True,5
+422860,Walsh and Sons,Tunisia,True,4
+232005,Hernandez-Howell,Swaziland,True,2
+582507,Phillips PLC,Dominica,True,3
+402325,Lee Ltd,Zambia,True,2
+607716,"Williams, Flores and Murray",Cape Verde,True,2
+708459,Vasquez and Sons,United States of America,True,2
+193493,Walker LLC,Guatemala,True,3
+349451,"Pennington, Curtis and Alexander",Moldova,True,3
+329551,Bowman and Sons,Uganda,False,3
+727772,West-Arnold,Tonga,True,5
+501888,"Sims, Jones and Freeman",Pitcairn Islands,True,1
+686410,Archer-Roth,Cayman Islands,True,5
+545638,Lynch-Nguyen,Finland,True,5
+614669,Rose Inc,Samoa,True,1
+190051,"Smith, Gonzalez and Barker",Belarus,True,2
+417596,"Garcia, Williams and Dennis",Burkina Faso,True,3
+190570,"Waller, Golden and Schroeder",Bermuda,True,3
+935642,"Holland, Johnson and Mcbride",Mozambique,False,5
+251099,James and Sons,Argentina,True,2
+361204,Chandler and Sons,Iraq,True,2
+161795,Horn LLC,Philippines,True,5
+982870,Rose-Bell,Heard Island and McDonald Islands,True,4
+160599,Lewis Group,Macedonia,True,3
+377204,Martin-Coleman,Cape Verde,True,4
+907403,Moore-Wong,Austria,True,1
+600973,Benitez Group,Sweden,True,4
+856193,Fuller-Bates,Kenya,True,5
+934068,Wilkerson Group,Ethiopia,True,4
+151613,Heath and Sons,French Polynesia,False,3
+289637,"White, Jackson and Phillips",Korea,True,1
+524437,Medina-Lane,Nauru,True,4
+974283,Smith and Sons,Indonesia,True,1
+234955,Kent and Sons,Syrian Arab Republic,True,3
+425394,Carroll Inc,Myanmar,True,1
+505113,Mendoza-Simmons,Cayman Islands,True,4
+620685,"Randall, Harris and Rios",Hong Kong,True,3
+462230,Bailey-Henry,Finland,True,5
+741652,"Cordova, Moore and Sutton",Senegal,True,5
+624791,Schneider-Daniels,Bosnia and Herzegovina,True,3
+479462,Carter PLC,Iceland,True,1
+995602,"Allen, Hale and Weber",Papua New Guinea,True,2
+326395,Chase-Hampton,Ukraine,True,4
+538259,Arias Inc,Swaziland,True,4
+571970,Willis PLC,Palestinian Territory,False,4
+379014,Wall PLC,Nepal,True,5
+628484,"White, Jones and Brown",Venezuela,True,2
+119253,Orr Inc,Palestinian Territory,True,4
+696538,Ayala-Costa,Cuba,False,5
+253856,Matthews-Pittman,Taiwan,True,1
+314128,"Morris, Hunt and Dodson",Guinea,True,5
+834885,Meyers-Barnett,Cook Islands,True,1
+427828,"Perez, Wood and Miller",Malaysia,True,3
+821919,"Mitchell, Davis and Carpenter",Albania,True,1
+175600,Schroeder Inc,French Guiana,True,1
+833123,Holloway Inc,United Kingdom,True,4
+428685,"Todd, Brown and Young",Cyprus,True,1
+748407,Martinez-Flores,Swaziland,True,3
+364249,Malone-Becker,Jersey,False,4
+338518,"Parks, Patel and Benson",Fiji,True,5
+995160,Rojas LLC,Christmas Island,True,2
+964870,Clark PLC,Comoros,True,1
+162191,Thomas-Gill,Bolivia,True,5
+361729,"Thomas, Poole and Travis",Gambia,True,1
+378316,Gonzalez-Smith,Bosnia and Herzegovina,True,5
+461285,Adams Ltd,Ecuador,True,5
+376458,Hull Inc,Cuba,False,5
+203945,"Brown, Robinson and Hendricks",Italy,True,5
+528219,Stein Group,,True,4
+384827,Mcdonald LLC,Slovenia,True,2
+300220,"Clayton, Bender and Perez",Dominica,False,4
+184994,"Miller, Williams and Drake",Haiti,True,3
+118864,Ramirez LLC,Papua New Guinea,True,4
+594840,Moss-Burns,Lithuania,True,2
+105932,"Bailey, Melendez and Sellers",Bermuda,True,4
+380500,Clark-Cunningham,Tokelau,True,2
+880615,Gonzales-Gonzales,Italy,False,1
+536851,Wells Group,Rwanda,True,3
+723670,"Mclaughlin, Stanley and Mclean",Sri Lanka,True,4
+724542,Stanley Ltd,Nauru,True,3
+105540,"Boyd, Jackson and Mathis",Estonia,True,4
+866510,Moore Ltd,Yemen,False,3
+760106,Bennett-Ellis,Jamaica,True,3
+789228,Erickson and Sons,Bahamas,True,3
+402408,Aguilar-Price,India,True,3
+382902,Medina and Sons,Senegal,True,1
+253577,Skinner LLC,Equatorial Guinea,True,1
+305624,Phillips LLC,Argentina,True,2
+161390,Shannon and Sons,Somalia,True,3
+991332,Campbell-Wong,Cyprus,True,2
+266233,Owens LLC,Cayman Islands,True,5
+340207,Johnson-Anderson,Botswana,False,4
+426276,Peterson-Kim,Burundi,True,5
+702908,"Lara, Miller and Rodriguez",French Guiana,True,4
+337716,Mccullough and Sons,Tunisia,True,4
+945777,"Mcclain, Berg and Smith",Iceland,True,2
+710027,Huang LLC,Guam,False,3
+328100,Thomas-Williams,Guadeloupe,True,5
+944507,Ford LLC,Latvia,True,3
+521779,Bennett-Martin,French Southern Territories,True,1
+197138,Johnson Group,Thailand,True,4
+611704,Johnson Inc,Saint Helena,True,1
+155083,Tucker-Oneill,Norway,True,5
+901900,Carroll-Mckenzie,Malta,False,4
+988925,Willis-Luna,Sri Lanka,False,3
+764768,Parrish Group,Estonia,True,4
+590209,"Martinez, Lamb and Johnson",Saint Kitts and Nevis,True,4
+604190,Carr-Robinson,Egypt,True,3
+963940,Simpson-Lester,Belize,True,1
+479103,"Berry, Hernandez and Lopez",Honduras,True,1
+903750,Jones LLC,Monaco,True,1
+314676,Bridges-Richardson,Saint Vincent and the Grenadines,True,1
+133986,"Johnson, Figueroa and Kemp",Vanuatu,True,5
+546170,Mosley-Hamilton,Myanmar,True,5
+336362,"Marshall, Wheeler and Santana",Estonia,True,3
+989952,"Simmons, Evans and Johnson",Maldives,False,2
+109311,"Walker, Silva and Rose",Gabon,True,2
+266513,Coleman and Sons,Comoros,True,4
+476778,Young and Sons,Kazakhstan,True,2
+142162,Ellis LLC,Guinea-Bissau,True,2
+352112,"Andrews, Adams and Patterson",Mozambique,True,1
+220849,"Hall, Mason and Walter",Belarus,True,2
+896308,"Carpenter, Estes and Smith",Saint Lucia,True,1
+312394,Baker-Long,Turkmenistan,True,3
+862215,Watson-King,Northern Mariana Islands,True,5
+946631,Sanchez-Berry,Qatar,False,1
+248638,"Todd, Harrison and Salazar",Western Sahara,False,4
+345241,Brown Ltd,New Zealand,True,2
+392625,Hayes-Hogan,Bahrain,True,4
+506086,Lynch-Martinez,Norfolk Island,False,4
+754801,Hill-Moore,Haiti,True,1
+780387,"Yu, Bell and Mcpherson",Sierra Leone,False,2
+726191,"Scott, Hooper and Pearson",Hong Kong,True,2
+309441,"Butler, Macias and Castillo",Zimbabwe,True,5
+165196,Martinez-Hudson,Saint Kitts and Nevis,True,1
+821272,Miller-Duncan,Gibraltar,False,4
+524212,Snyder PLC,Slovakia (Slovak Republic),True,1
+125370,Brown-Burnett,Jordan,False,5
+528328,"Perez, Miller and Medina",Cyprus,True,3
+398568,Harrison-Wu,Palestinian Territory,False,1
+591992,Warren and Sons,Israel,True,2
+142760,Huffman-Lozano,Greece,True,4
+436911,"Campbell, Perry and Hale",Dominica,True,2
+823020,"Farley, Herrera and Miller",Finland,True,2
+496207,Miranda LLC,Niger,True,2
+450867,"Brown, Hughes and Brown",Saint Lucia,False,2
+757641,Jenkins-Garrett,Malaysia,True,3
+655918,"Warren, Werner and Johnson",Somalia,True,3
+878398,Noble and Sons,Brazil,True,5
+359755,"Ward, Woods and Rios",Maldives,True,3
+359343,Alvarado LLC,Norfolk Island,True,4
+571950,Johnson-Wright,Saint Kitts and Nevis,False,4
+105381,Juarez Group,British Indian Ocean Territory (Chagos Archipelago),True,3
+123617,Green Ltd,Eritrea,True,3
+656822,Murray-Graham,Guatemala,True,4
+727443,Silva LLC,Sri Lanka,False,1
+268018,Gray PLC,Saint Martin,True,4
+574259,"Jones, Swanson and Thomas",United Arab Emirates,True,1
+151345,"Wilson, Wright and Paul",Liberia,True,3
+680825,Lewis LLC,Ghana,True,1
+815485,Lawrence-Jenkins,Saint Kitts and Nevis,True,1
+726462,"Douglas, Arnold and Hubbard",Switzerland,True,4
+207027,Dyer LLC,Pakistan,True,5
+455938,Freeman-Wallace,Palestinian Territory,True,5
+733007,Allison-Ferguson,Estonia,True,4
+377230,"Phillips, Mason and Roberts",Falkland Islands (Malvinas),True,4
+253531,Williams PLC,Ecuador,True,4
+323880,Smith-Harvey,Somalia,True,1
+438857,Ramos-Davis,Djibouti,False,5
+526099,Davis-Williams,Congo,True,3
+146245,Lopez-Scott,,True,1
+852257,Ferrell Ltd,Seychelles,True,5
+131287,"Berger, Forbes and Rojas",China,False,3
+260548,Thompson-Gilbert,Mozambique,True,2
+169309,"Conner, Boyle and Duran",Svalbard & Jan Mayen Islands,False,1
+664749,"Rivers, Ruiz and Crane",Namibia,True,2
+919664,"Rivera, Miller and Ford",Venezuela,False,5
+970574,Rocha Inc,New Caledonia,True,4
+892413,"Brown, Salazar and Leblanc",Seychelles,True,4
+386952,"Blankenship, Norman and Medina",Belgium,True,3
+300563,Scott-Fox,Central African Republic,True,4
+812356,Silva-Walker,Honduras,True,1
+578730,Newton-Reynolds,India,True,2
+423522,"Matthews, Evans and Taylor",Macedonia,False,3
+583058,Sanchez Ltd,Togo,True,2
+853551,"Bennett, Olsen and Chen",Libyan Arab Jamahiriya,True,1
+303582,"Richardson, Smith and Morrison",Guinea-Bissau,True,4
+791550,Valdez-Weiss,Ecuador,True,1
+900292,Cantu PLC,Andorra,True,5
+436608,"Rodriguez, Goodwin and Griffin",Jordan,False,1
+901715,"Clark, Davis and Lopez",Faroe Islands,True,2
+776485,Fisher Ltd,Peru,True,3
+576770,Huffman-Coleman,Palestinian Territory,True,3
+447967,"Hawkins, Rhodes and Huff",Kyrgyz Republic,True,4
+117919,Guzman-Hancock,Sweden,True,1
+615844,Gonzales Inc,Gibraltar,True,5
+469047,"Adams, Williams and Spencer",Nepal,True,1
+877181,Rice-Moore,Rwanda,True,1
