@@ -1,112 +1,110 @@
 name,major1,major2,city,fav_restaurant,fav_movie,has_iphone
-Evelyn Ge,Accountancy,Statistics,"Qingdao, China",Yogi,The Twilight Saga,TRUE
-Lizi Ma,Master of Science in Advertising and Data Science,,"Linfen, China",Mcdonalds,Alice in wonderland,TRUE
-Sankalp Kumar,Statistics and Computer Science,,Pleasanton,Amakara,Interstellar,FALSE
-Aishani Sahoo,Computer Science + Linguistics,Business,Lincolnshire,Depends,Wolf of Wall Street,TRUE
-Aanya Bhatia,Psychology,Business,Fremont,Beyond Sushi,,TRUE
-Maya Acevedo,Marketing,Informatics,West Dundee,Wingstop,Set It Up,TRUE
-Claudia Robles,Information Sciences,,Elgin,Jurassic Grill,Freedom Writers,FALSE
-Sophia Matias,Information Sciences,Business Minor,Chicago,Iron Age,The Truman Show,TRUE
-Xu Su,Econometric,Statistics,"Zhongshan, China",Lao Sze Chuan,Catch Me If You Can,TRUE
-Yitao Luo,Economics.,Business.,"Guangzhou, China",Chick-fil-A,Interstellar,TRUE
-Clara Chen,Econometrics,Informatics,"Taipei, Taiwan","ISHI & Kaori's Oven
-
-",Spirited Away,TRUE
-Avinash Kalanadhabhatta,Food Science,Agricultural Accounting,Buffalo Grove,Tacool Tacos,,TRUE
-Laura Meltzer,Hospitality Management,Business,Winnetka,Cravings,Before Sunrise,TRUE
-Jeremy Hughes,History,Business,Lake Forest,Sakanaya,Superbad,TRUE
-Adrianne Sun,Computer Science,Business,Saint Paul,Chipotle,,TRUE
-Jiayuan Zhang,Economics,Business,Dallas,Panda express,,TRUE
-Preeti Kamma,My major is Bioengineering.,Computer Science,Buffalo Grove,Bangkok Thai,Sita Raman,TRUE
-Claire Zhu,Computer Engineering,,Boston,,Minions,TRUE
-Qingwen Liu,Mathematics,Statistics and Business,"Ningbo, China",Chipotle,,TRUE
-Aashu Deochakke,Computer Science,Business,Shrewsbury,Shawarma Joint,Interstellar,FALSE
-Telmen Bayarsaikhan,Computer Science + Economics,Business,Glenview,Bangkok Thai,Shawshank Redemption,TRUE
-Anisha Raja,Information Sciences,Computer Science,Johns Creek,Watson's Shack and Rail,Harry Potter,FALSE
-Tanvi Talla,Computer Science + Economics,Business,Plano,Bangkok Thai,Tangled,TRUE
-Wendy Ruan,Computer Science,,Chicago,Sakanaya,Spider-Man: Into the Spider-Verse,FALSE
-Jake Schaefer,Statistics,I am minoring in informatics,La Grange,Capri,Goodfellas,TRUE
-Shreya Deshpande,Computer Science,Minor in Business,Schaumburg,Bangkok Thai,Cars,TRUE
-Mathijs Ranson,Business,Information Systems,Sint-Denijs-Westrem,Cravings,,FALSE
-Sathya Machireddy,Molecular and Cellular Biology,"Business, Psychology, Chemistry Minors","Taipei, Taiwan",Oozu,Flubber,TRUE
-Jingyi Yu,Economics,,"Wuhu, China",,One Day,TRUE
-Serlina Ku,Computer Science,Business,Northbrook,Sakanaya,Crazy Rich Asians,TRUE
-Max Min,CS,Business,"Busan, South Korea",Rainbow Garden,Real Steel,TRUE
-Sally Seo,Statistics,Computer Science,"Seoul, South Korea",San Ma Ru,About Time,TRUE
-Emily Shin,Statistics,Quantitative Economics & Econometrics,"Busan, South Korea",Chipotle,Elemental,TRUE
-Mingxia Wu,Accounting,Statistics,"Huai'an, China",GG Bowl,Spiderman,TRUE
-Caroline Bazan,Finance,Informatics Minor,Bloomington,Chipotle,Moana,TRUE
-Azra Trebovic,Brain and Cognitive Science,Minor: Business and Informatics,Chicago,Sakanaya,Fast and Furious,TRUE
-Aryan Vakharia,Computer Science,Business,"Mumbai, India",Midsummer Lounge,Good Will Hunting,FALSE
-Natalia Lesak,Mathematics,Minor in Business,Arlington Heights,Jurassic Grill,Avatar,TRUE
-Atharv Gudi,Mathematics,German Business Studies,"Bengaluru, India",Sticky Rice,Aachar and Co,TRUE
-Christian Chlebek,Computer Science + Economics,Business,Barrington,Bangkok Thai,,TRUE
-Chloé Daoust,Business Administration,,"Brussels, Belgium",Chipotle,Grease and Mamma mia,TRUE
-Katherine Mei,Major: Information Sciences,Business,Vernon Hills,Olive Garden,Everything Everywhere All At Once,TRUE
-Namrata Acharya,Computer Science,,Naperville,Lou Malnati's,The Social Network,TRUE
-Zac Chadehumbe,Organizational Psych,Business Management,"Princeton, New Jersey",PF Changs,Monsters Inc,TRUE
-Tej Rai,Systems Engineering & Design,Business,Carol Stream,Watson's Shack & Rail,Django Unchained,TRUE
-Dhruv Mehta,Computer Science,,Kolkata,Fiesta Cafe,Forrest Gump,TRUE
-Jaehong Lim,Computer Science,,"Seoul, South Korea",Bangkok Thai,Inception,TRUE
-Ryan Moore,Accountancy,Informatics,Wheaton,Taco Bell,Interstellar,TRUE
-Vincent Roger L Claes,Business,Information Systems,Sint-Truiden,Peppermill,The Godfather,TRUE
-Yoel Gros,Community Health: Health Planning and Administration,Business Minor,"Northbrook, Illinois",Chipotle,The Secret Life of Walter Mitty,TRUE
-Shreya Pullabhotla,Computer Science,Business,Chicago,Lao Sze Chuan,Instant Family,TRUE
-Adi Perswal,Computer Engineering,Econometrics,Lake Zurich,Shwarma Joint,Spiderverse 2,FALSE
-Preeti Gomathinayagam,Computer Science,Business,San Ramon,Bangkok Thai,Me Before You,TRUE
-Andrew Tatum,Aerospace Engineering,Business,DeKalb,Jurassic Grill,Inception,TRUE
-Shreya Vilayannur,Interdisciplinary Health Sciences,Business,Peoria,KoFusion,Tangled,TRUE
-Jillian Butler,Industrial Engineering,Business,Highland Park,Signature Grill,Anything Wes Anderson,TRUE
-Jay Wagh,Statistics and Computer Science,Informatics,Chicago,Ming Hin,Interstellar,TRUE
-Victor Zhang,Undecided,business,Chicago,Ep rest,Inception,TRUE
-Hao Qi,Computer Science,Linguistics,Greater Cleveland,Red Lobster,Inception,FALSE
-Folarin Walter-Johnson,Economics,Informatics,Skokie,Shwarma Joint,John Q,TRUE
-Nick Worrell,ACE - Consumer Economics and Finance,Informatics,Chicago,Ishi Sushi,Role Models,TRUE
-Stone Gomberg,Advertising,Informatics,Long Grove,Shawarma Joint,Avengers movies,TRUE
-Iniya Rajamani,Computer Science,Business,South Brunswick,La Pecora Bianca,Pitch Perfect,TRUE
-Remington Liang,Accounting,Computer Science,Hong Kong,Sticky Rice,2001: A Space Odyssey,TRUE
-Yice Zhang,Economics,Business,Northern of China,,Coherence,TRUE
-Agnes Akenou,Political Science,Finance,"Toronto, Canada",,The Prince of Egypt,TRUE
-Ash Luis,Communication,Business,Chicago,El Progreso,Identity theft,TRUE
-J Coria,Architectural Studies,Business,Streamwood,Baxter's Steak House,Spiderman: Far From Home,TRUE
-Vidya Bharadwaj,Computer Science,,Buffalo Grove,Taco Bell,Ratatouille,TRUE
-Anu Kherlen,Information Sciences,Business and Art & Design,"Ulaanbaator, Mongolia",Root's Pizza,21 Jump Street,TRUE
-Kareem Adi,Undecalred -> information science,Business,Vernon Hills,Chic fil a,Scarface,TRUE
-Ben Amberg,Information Sciences,Business,Elmhurst,Chipotle,Superbad,TRUE
-Adithya Vuruputoor,I am Majoring in Economics.,Business,Saratoga,Bangkok Thai,The Dark Knight,TRUE
-Lochan Rathod,Economics,Political Science,Schaumburg,Lou Malnati's,Cars,TRUE
-Gavin Mechling,Economics,Business,Lovington,Monicals,Whiplash,TRUE
-David Pak,Information Sciences,Business,Skokie,Pho Noodle Station,Spirited Away,TRUE
-Raunak Bathwal,Computer Engineering,Business,Bolingbrook,Daves Hot Chicken,Passengers,TRUE
-Simran Bhargava,Computer Science + Economics,Business,Charlotte,Jip Bap,Princess Diaries,TRUE
-Yanshu Hou,My major is Accounting,,"Lanzhou, China",Lao Sze Chuan,The Hobbit,TRUE
-Andrew Clemmensen,Mechanical Engineering,Computer Science,,,Top Gun,TRUE
-Hiba Ayub,Information Science + Data Science,,Woodridge,Chef Soon,Ella Enchanted,TRUE
-Shaunie Talapatra,Economics,Business,Carbondale,Shiquan Wonton,Anything from the Xmen Series lol,TRUE
-Matthew Hamilton,Statistics and Computer Science,,Mount Prospect,Raising Canes,Whiplash,TRUE
-Albert Chen,Information Science,Business,Champaign,Oishi,Avengers Endgame,TRUE
-Nancy Wang,Consumer Economics,Informatics,Cupertino,Big Grove Tavern,The Pianist,TRUE
-Jennifer Lahey,Molecular and Cellular Biology,Chemistry,Singapore,San Maru,Our Times,TRUE
-Jennie Duong,Economics,,Ho Chi Minh City,,Call me by your name,TRUE
-Gleb Tymoshenko,Advertising,Business Minor,Odessa,Burrito King,,TRUE
-Nathan Kim,Computer Engineering,Business,Palatine,Asian Noodle House,Demon Slayer: Mugen Train,TRUE
-Ethan DeValk,Econometrics,Business,Itasca,Uncle Julio's,Star Wars: Empire Strikes Back,TRUE
-Jiani Lu,Econometrics,Business,"Suzhou, China",Kongfu Taste,Harry Potter,TRUE
-Shiduo Qian,Econometrics,Business,China,Taxas Roadhouse,Barbie,TRUE
-Tarun Bathini,Data Science and Information Science,Business,Vernon Hills,Alla Vita,Need for speed,TRUE
-Arnav Sethi,Computer Science,,New Delhi,Indian Accent,Star Wars The Return of the Jedi,TRUE
-Niyathi Upadrasta,Psychology,Business,Grayslake,Basil Thai,Us,TRUE
-Xeniya Green,Economics,Sociology,Chicago,Chipotle,SALT,TRUE
-Sneha Mohan,Computer Science,Business,Buffalo Grove,Green Basil,Crazy Rich Asians,TRUE
-Sirui Zhang,Math,Economics,"Chengdu, China",Chipotle,Pianist,TRUE
-Kanchan Krishna,Computer Science,Statistics,San Jose,Sarku Japan,Mission Impossible,TRUE
-Somto Agboifoh,Economics,Informatics,Palatine,McDonalds,Hunger Games Mocking Jay pt 2,TRUE
-Udit Methi,Computer Science + Economics,Statistics,Delhi,Ichiran,Shutter Island,TRUE
-Minal Singh,Computer Science,,Sunnyvale,Chipotle,Hunger Games,TRUE
-Sanika Salgaonkar,Finance,Informatics,Naperville,Shawarma Joint,Ladybird,TRUE
-Brian Jett,Information Science + Data Science,Business,Naperville,Bangkok Thai,The Dark Knight,TRUE
-Dirgh Shah,Engineering Physics,Business,Mumbai,Mia Zas,Cars,TRUE
-Maya Geren,Computer Science & Math,Business,Deerfield,Aspen Tap House,The Departed,TRUE
-Amy Bisalputra,civil engineering,informatics,Bangkok,Basil Thai,minions,TRUE
-Aashna Bombwal,Econometrics,Informatics,San Jose,Sakanaya,Spiderman into the Spiderverse,TRUE
-Riya Patel,Computer Science,Business Minor,Fremont,Blaze Pizza,Forrest Gump,TRUE
+Evelyn Ge,Accountancy,Statistics,"Qingdao, China",Yogi,The Twilight Saga,True
+Lizi Ma,Advertising,,"Linfen, China",Mcdonalds,Alice in wonderland,True
+Sankalp Kumar,Statistics and Computer Science,,Pleasanton,Amakara,Interstellar,False
+Aishani Sahoo,Computer Science,Business,Lincolnshire,Depends,Wolf of Wall Street,True
+Aanya Bhatia,Psychology,Business,Fremont,Beyond Sushi,,True
+Maya Acevedo,Marketing,Informatics,West Dundee,Wingstop,Set It Up,True
+Claudia Robles,Information Sciences,,Elgin,Jurassic Grill,Freedom Writers,False
+Sophia Matias,Information Sciences,Business,Chicago,Iron Age,The Truman Show,True
+Xu Su,Econometric,Statistics,"Zhongshan, China",Lao Sze Chuan,Catch Me If You Can,True
+Yitao Luo,Economics,Business,"Guangzhou, China",Chick-fil-A,Interstellar,True
+Clara Chen,Econometrics,Informatics,"Taipei, Taiwan",ISHI & Kaori's Oven,Spirited Away,True
+Avinash Kalanadhabhatta,Food Science,Agricultural Accounting,Buffalo Grove,Tacool Tacos,,True
+Laura Meltzer,Hospitality Management,Business,Winnetka,Cravings,Before Sunrise,True
+Jeremy Hughes,History,Business,Lake Forest,Sakanaya,Superbad,True
+Adrianne Sun,Computer Science,Business,Saint Paul,Chipotle,,True
+Jiayuan Zhang,Economics,Business,Dallas,Panda express,,True
+Preeti Kamma,Bioengineering,Computer Science,Buffalo Grove,Bangkok Thai,Sita Raman,True
+Claire Zhu,Computer Engineering,,Boston,,Minions,True
+Qingwen Liu,Mathematics,Statistics,"Ningbo, China",Chipotle,,True
+Aashu Deochakke,Computer Science,Business,Shrewsbury,Shawarma Joint,Interstellar,False
+Telmen Bayarsaikhan,Computer Science + Economics,Business,Glenview,Bangkok Thai,Shawshank Redemption,True
+Anisha Raja,Information Sciences,Computer Science,Johns Creek,Watson's Shack and Rail,Harry Potter,False
+Tanvi Talla,Computer Science + Economics,Business,Plano,Bangkok Thai,Tangled,True
+Wendy Ruan,Computer Science,,Chicago,Sakanaya,Spider-Man: Into the Spider-Verse,False
+Jake Schaefer,Statistics,Informatics,La Grange,Capri,Goodfellas,True
+Shreya Deshpande,Computer Science,Business,Schaumburg,Bangkok Thai,Cars,True
+Mathijs Ranson,Business,Information Systems,Sint-Denijs-Westrem,Cravings,,False
+Sathya Machireddy,Molecular and Cellular Biology,Business,"Taipei, Taiwan",Oozu,Flubber,True
+Jingyi Yu,Economics,,"Wuhu, China",,One Day,True
+Serlina Ku,Computer Science,Business,Northbrook,Sakanaya,Crazy Rich Asians,True
+Max Min,Computer Science,Business,"Busan, South Korea",Rainbow Garden,Real Steel,True
+Sally Seo,Statistics,Computer Science,"Seoul, South Korea",San Ma Ru,About Time,True
+Emily Shin,Statistics,Quantitative Economics & Econometrics,"Busan, South Korea",Chipotle,Elemental,True
+Mingxia Wu,Accounting,Statistics,"Huai'an, China",GG Bowl,Spiderman,True
+Caroline Bazan,Finance,Informatics,Bloomington,Chipotle,Moana,True
+Azra Trebovic,Brain and Cognitive Science,Informatics,Chicago,Sakanaya,Fast and Furious,True
+Aryan Vakharia,Computer Science,Business,"Mumbai, India",Midsummer Lounge,Good Will Hunting,False
+Natalia Lesak,Mathematics,Business,Arlington Heights,Jurassic Grill,Avatar,True
+Atharv Gudi,Mathematics,German Business Studies,"Bengaluru, India",Sticky Rice,Aachar and Co,True
+Christian Chlebek,Computer Science + Economics,Business,Barrington,Bangkok Thai,,True
+Chloe Daoust,Business Administration,,"Brussels, Belgium",Chipotle,Grease and Mamma mia,True
+Katherine Mei,Information Sciences,Business,Vernon Hills,Olive Garden,Everything Everywhere All At Once,True
+Namrata Acharya,Computer Science,,Naperville,Lou Malnati's,The Social Network,True
+Zac Chadehumbe,Organizational Psychology,Business Management,"Princeton, New Jersey",PF Changs,Monsters Inc,True
+Tej Rai,Systems Engineering & Design,Business,Carol Stream,Watson's Shack & Rail,Django Unchained,True
+Dhruv Mehta,Computer Science,,"Kolkata, India",Fiesta Cafe,Forrest Gump,True
+Jaehong Lim,Computer Science,,"Seoul, South Korea",Bangkok Thai,Inception,True
+Ryan Moore,Accountancy,Informatics,Wheaton,Taco Bell,Interstellar,True
+Vincent Roger L Claes,Business,Information Systems,Sint-Truiden,Peppermill,The Godfather,True
+Yoel Gros,Community Health,Business,"Northbrook, Illinois",Chipotle,The Secret Life of Walter Mitty,True
+Shreya Pullabhotla,Computer Science,Business,Chicago,Lao Sze Chuan,Instant Family,True
+Adi Perswal,Computer Engineering,Econometrics,Lake Zurich,Shwarma Joint,Spiderverse 2,False
+Preeti Gomathinayagam,Computer Science,Business,San Ramon,Bangkok Thai,Me Before You,True
+Andrew Tatum,Aerospace Engineering,Business,DeKalb,Jurassic Grill,Inception,True
+Shreya Vilayannur,Interdisciplinary Health Sciences,Business,Peoria,KoFusion,Tangled,True
+Jillian Butler,Industrial Engineering,Business,Highland Park,Signature Grill,Anything Wes Anderson,True
+Jay Wagh,Statistics and Computer Science,Informatics,Chicago,Ming Hin,Interstellar,True
+Victor Zhang,Undecided,Business,Chicago,Ep rest,Inception,True
+Hao Qi,Computer Science,Linguistics,Greater Cleveland,Red Lobster,Inception,False
+Folarin Walter-Johnson,Economics,Informatics,Skokie,Shwarma Joint,John Q,True
+Nick Worrell,Consumer Economics and Finance,Informatics,Chicago,Ishi Sushi,Role Models,True
+Stone Gomberg,Advertising,Informatics,Long Grove,Shawarma Joint,Avengers movies,True
+Iniya Rajamani,Computer Science,Business,South Brunswick,La Pecora Bianca,Pitch Perfect,True
+Remington Liang,Accounting,Computer Science,Hong Kong,Sticky Rice,2001: A Space Odyssey,True
+Yice Zhang,Economics,Business,Northern of China,,Coherence,True
+Agnes Akenou,Political Science,Finance,"Toronto, Canada",,The Prince of Egypt,True
+Ash Luis,Communication,Business,Chicago,El Progreso,Identity theft,True
+J Coria,Architectural Studies,Business,Streamwood,Baxter's Steak House,Spiderman: Far From Home,True
+Vidya Bharadwaj,Computer Science,,Buffalo Grove,Taco Bell,Ratatouille,True
+Anu Kherlen,Information Sciences,Art & Design,"Ulaanbaator, Mongolia",Root's Pizza,21 Jump Street,True
+Kareem Adi,Information Sciences,Business,Vernon Hills,Chic fil a,Scarface,True
+Ben Amberg,Information Sciences,Business,Elmhurst,Chipotle,Superbad,True
+Adithya Vuruputoor,Economics,Business,Saratoga,Bangkok Thai,The Dark Knight,True
+Lochan Rathod,Economics,Political Science,Schaumburg,Lou Malnati's,Cars,True
+Gavin Mechling,Economics,Business,Lovington,Monicals,Whiplash,True
+David Pak,Information Sciences,Business,Skokie,Pho Noodle Station,Spirited Away,True
+Raunak Bathwal,Computer Engineering,Business,Bolingbrook,Daves Hot Chicken,Passengers,True
+Simran Bhargava,Computer Science + Economics,Business,Charlotte,Jip Bap,Princess Diaries,True
+Yanshu Hou,Accounting,,"Lanzhou, China",Lao Sze Chuan,The Hobbit,True
+Andrew Clemmensen,Mechanical Engineering,Computer Science,,,Top Gun,True
+Hiba Ayub,Information Science + Data Science,,Woodridge,Chef Soon,Ella Enchanted,True
+Shaunie Talapatra,Economics,Business,Carbondale,Shiquan Wonton,X-Men,True
+Matthew Hamilton,Statistics and Computer Science,,Mount Prospect,Raising Canes,Whiplash,True
+Albert Chen,Information Sciences,Business,Champaign,Oishi,Avengers Endgame,True
+Nancy Wang,Consumer Economics,Informatics,Cupertino,Big Grove Tavern,The Pianist,True
+Jennifer Lahey,Molecular and Cellular Biology,Chemistry,Singapore,San Maru,Our Times,True
+Jennie Duong,Economics,,Ho Chi Minh City,,Call me by your name,True
+Gleb Tymoshenko,Advertising,Business,Odessa,Burrito King,,True
+Nathan Kim,Computer Engineering,Business,Palatine,Asian Noodle House,Demon Slayer: Mugen Train,True
+Ethan DeValk,Econometrics,Business,Itasca,Uncle Julio's,Star Wars: Empire Strikes Back,True
+Jiani Lu,Econometrics,Business,"Suzhou, China",Kongfu Taste,Harry Potter,True
+Shiduo Qian,Econometrics,Business,China,Taxas Roadhouse,Barbie,True
+Tarun Bathini,Information Sciences,Business,Vernon Hills,Alla Vita,Need for Speed,True
+Arnav Sethi,Computer Science,,"New Delhi, India",Indian Accent,Star Wars: The Return of the Jedi,True
+Niyathi Upadrasta,Psychology,Business,Grayslake,Basil Thai,Us,True
+Xeniya Green,Economics,Sociology,Chicago,Chipotle,SALT,True
+Sneha Mohan,Computer Science,Business,Buffalo Grove,Green Basil,Crazy Rich Asians,True
+Sirui Zhang,Math,Economics,"Chengdu, China",Chipotle,Pianist,True
+Kanchan Krishna,Computer Science,Statistics,San Jose,Sarku Japan,Mission Impossible,True
+Somto Agboifoh,Economics,Informatics,Palatine,McDonalds,Hunger Games: Mockingjay – Part 2,True
+Udit Methi,Economics,Statistics,Delhi,Ichiran,Shutter Island,True
+Minal Singh,Computer Science,,Sunnyvale,Chipotle,Hunger Games,True
+Sanika Salgaonkar,Finance,Informatics,Naperville,Shawarma Joint,Ladybird,True
+Brian Jett,Information Sciences,Business,Naperville,Bangkok Thai,The Dark Knight,True
+Dirgh Shah,Engineering Physics,Business,"Mumbai, India",Mia Zas,Cars,True
+Maya Geren,Computer Science & Math,Business,Deerfield,Aspen Tap House,The Departed,True
+Amy Bisalputra,Civil Engineering,Informatics,"Bangkok, Thailand",Basil Thai,minions,True
+Aashna Bombwal,Econometrics,Informatics,San Jose,Sakanaya,Spiderman: Into the Spiderverse,True
+Riya Patel,Computer Science,Business,Fremont,Blaze Pizza,Forrest Gump,True
