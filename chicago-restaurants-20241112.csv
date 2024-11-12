@@ -1,0 +1,269 @@
+name,type,borough,street,city,zip_code,state,latitude,longitude,average_rating,num_reviews,reviews_per_score_1,reviews_per_score_2,reviews_per_score_3,reviews_per_score_4,reviews_per_score_5,photos_count,business_status,range,verified,place_id
+Girl & The Goat,New American restaurant,West Loop,809 W Randolph St,Chicago,60607,Illinois,41.8841279,-87.6479354,4.7,6271,118,92,271,803,4987,10280,OPERATIONAL,$$$,True,ChIJs8mbNsUsDogRUnpg-b_IK5E
+Boka,American restaurant,Old Town,1729 N Halsted St,Chicago,60614,Illinois,41.9135551,-87.6480103,4.7,1716,31,34,54,198,1399,4209,OPERATIONAL,$$$$,True,ChIJg7aSMj3TD4gRlHUmzqlebUI
+RL Restaurant,American restaurant,Streeterville,115 E Chicago Ave,Chicago,60611,Illinois,41.8965408,-87.6249154,4.6,1241,36,25,63,173,944,1454,OPERATIONAL,$$$,True,ChIJcVWnFFPTD4gR4wHd5_rdgxo
+Sepia,Fine dining restaurant,West Loop,123 N Jefferson St,Chicago,60661,Illinois,41.8839596,-87.6425789,4.6,1315,22,32,69,192,1000,3646,OPERATIONAL,$$$,True,ChIJ_0NFbsYsDogRHqnXKkBCgs8
+Cherry Circle Room,American restaurant,Chicago Loop,12 S Michigan Ave,Chicago,60603,Illinois,41.881626,-87.624942,4.6,934,22,31,41,131,709,978,OPERATIONAL,$$$,True,ChIJmaZOQKQsDogR3rQRpnycNg8
+Rose Mary,Croatian restaurant,West Loop,932 W Fulton St,Chicago,60607,Illinois,41.8869184,-87.6511534,4.6,1346,42,33,88,157,1026,2329,OPERATIONAL,,True,ChIJ5x1j00EtDogRy59iMkDkmBY
+Ever Restaurant,Restaurant,West Loop,1340 W Fulton St,Chicago,60607,Illinois,41.8869314,-87.6604084,4.8,309,7,4,4,14,280,1361,OPERATIONAL,$$$$,True,ChIJqUoVvkgtDogRLGIKXcfaiKk
+Bar Mar by José Andrés,Restaurant,Chicago Loop,120 N Wacker Dr,Chicago,60606,Illinois,41.8840009,-87.637223,4.5,832,37,22,43,129,601,1828,OPERATIONAL,$$$,True,ChIJrfMn-lMtDogRFrnP9YUR6Mc
+Oriole,Fine dining restaurant,West Loop,661 W Walnut St,Chicago,60661,Illinois,41.8861692,-87.6450939,4.8,530,12,9,5,28,476,2739,OPERATIONAL,$$$$,True,ChIJ4_ovZs8sDogRyw3X3QCiI-Y
+Tanta Chicago,Peruvian restaurant,Near North Side,118 W Grand Ave,Chicago,60654,Illinois,41.8917705,-87.6320169,4.5,3063,87,67,167,536,2206,4700,OPERATIONAL,$$$,True,ChIJdeoev7MsDogRZOJFBNqupKQ
+Asador Bastian,Basque restaurant,Near North Side,214 W Erie St,Chicago,60654,Illinois,41.8940917,-87.6348275,4.6,230,9,8,8,14,191,538,OPERATIONAL,$$$,True,ChIJk8Z5cdstDogRdMPc0yBZB5M
+Bavette's Bar & Boeuf,Steak house,Near North Side,218 W Kinzie St,Chicago,60654,Illinois,41.8892908,-87.6348887,4.8,3118,67,28,80,254,2689,3880,OPERATIONAL,$$$$,True,ChIJyauRlLYsDogRE_Hnbxx7V8E
+Next Restaurant,Fine dining restaurant,West Loop,953 W Fulton Market,Chicago,60607,Illinois,41.8866077,-87.6518836,4.6,567,15,16,33,56,447,3256,OPERATIONAL,$$$$,True,ChIJqdQDvtAsDogRMmlkDTCE-W4
+Monteverde Restaurant & Pastificio,Italian restaurant,West Loop,1020 W Madison St,Chicago,60607,Illinois,41.8818361,-87.6529694,4.7,2173,36,30,63,231,1813,3784,OPERATIONAL,$$$,True,ChIJMViM4dssDogRdmIJH2z_Q10
+Elske,New American restaurant,West Loop,1350 W Randolph St,Chicago,60607,Illinois,41.8844672,-87.6609002,4.6,668,10,15,47,89,507,1930,OPERATIONAL,$$$$,True,ChIJSWTvSyYtDogRE-4fa_DPwZA
+Smyth,New American restaurant,West Loop,177 N Ada St #101,Chicago,60607,Illinois,41.8849722,-87.6605593,4.6,1218,33,42,48,154,941,3766,OPERATIONAL,$$$,True,ChIJxRcpzSctDogRBKHyFUKauHc
+Au Cheval,Restaurant,West Loop,800 W Randolph St,Chicago,60607,Illinois,41.8846303,-87.6475872,4.6,9108,268,160,390,1153,7137,10612,OPERATIONAL,$$,True,ChIJ78NyRsUsDogR6AqyYoPrts4
+Alinea,Fine dining restaurant,Old Town,1723 N Halsted St,Chicago,60614,Illinois,41.913435,-87.6480552,4.6,2615,119,55,111,217,2113,11551,OPERATIONAL,$$$$,True,ChIJuyI60yLTD4gROwTWENq1He0
+The Purple Pig Restaurant,Mediterranean restaurant,Streeterville,444 Michigan Ave,Chicago,60611,Illinois,41.890739,-87.6245691,4.6,6500,149,130,331,1074,4816,12251,OPERATIONAL,$$,True,ChIJl8NTEawsDogRwXH-IVDyH2A
+EL ideas,American restaurant,Douglass Park,2419 W 14th St,Chicago,60608,Illinois,41.86289,-87.6868569,4.8,356,6,3,9,18,320,1362,OPERATIONAL,$$$$,True,ChIJbbQglnAtDogR-Y6w6ETH91A
+Little Bad Wolf,New American restaurant,Edgewater,1541 W Bryn Mawr Ave,Chicago,60660,Illinois,41.9833483,-87.6690624,4.6,3274,73,47,164,570,2420,2047,OPERATIONAL,$$,True,ChIJtYk3mI_RD4gRJsyRbLkkt9o
+Beatrix,American restaurant,Streeterville,671 N St Clair St,Chicago,60611,Illinois,41.8943596,-87.6225456,4.5,2856,61,62,177,665,1891,1723,OPERATIONAL,$$,True,ChIJpTqIMRotDogR5NK9guzl_Ew
+Smoque BBQ,Barbecue restaurant,Old Irving Park,3800 N Pulaski Rd,Chicago,60641,Illinois,41.9501327,-87.727667,4.6,4157,75,77,167,614,3224,2068,OPERATIONAL,$$,True,ChIJDZeum7DND4gRz3TnBpALJxM
+Superkhana International,Modern Indian restaurant,Logan Square,3059 W Diversey Ave,Chicago,60647,Illinois,41.9318828,-87.7048219,4.5,446,17,21,24,57,327,758,OPERATIONAL,$$,True,ChIJ_YNqnCDND4gRhKqI_vGvUiY
+avec Restaurant,Mediterranean restaurant,West Loop,615 W Randolph St,Chicago,60661,Illinois,41.8842861,-87.643401,4.6,2102,32,35,102,331,1602,2654,OPERATIONAL,$$$,True,ChIJNYrg38UsDogRP1lxJuC05hw
+Calumet Fisheries,Seafood restaurant,South Side,3259 E 95th St,Chicago,60617,Illinois,41.7226459,-87.543974,4.5,2022,78,52,105,331,1456,1291,OPERATIONAL,$$,True,ChIJcYUwMPcnDogRozmDlaNgoyQ
+Penumbra,Steak house,Logan Square,3309 W Fullerton Ave,Chicago,60647,Illinois,41.924457,-87.7108975,4.8,510,4,4,11,52,439,574,OPERATIONAL,$$,True,ChIJyW6MXm7ND4gRmsOMtUD27mM
+Demera Restaurant,Ethiopian restaurant,Uptown,4801 N Broadway,Chicago,60640,Illinois,41.9691819,-87.6594406,4.6,2075,70,37,75,315,1578,1566,OPERATIONAL,$$,True,ChIJn3YvvizSD4gRpcXR5695BoU
+Proxi,Small plates restaurant,West Loop,565 W Randolph St,Chicago,60661,Illinois,41.8843078,-87.6424911,4.5,857,19,12,62,152,612,1762,OPERATIONAL,$$$,True,ChIJa3CSbMYsDogR5h2hx43APA4
+Jinsei Motto,Sushi restaurant,West Loop,564 W Randolph St,Chicago,60661,Illinois,41.8845641,-87.6421398,4.7,228,7,3,5,13,200,594,OPERATIONAL,,True,ChIJHfUX-kstDogRvJwilXIwCmY
+Birrieria Zaragoza,Mexican restaurant,Archer Heights,4852 S Pulaski Rd,Chicago,60632,Illinois,41.8044682,-87.7237056,4.5,425,29,9,21,27,339,257,OPERATIONAL,,True,ChIJ914hMQAxDogRhC6d8qpjHxk
+Shaw's Crab House,Crab house,Near North Side,21 E Hubbard St,Chicago,60611,Illinois,41.8899505,-87.6271084,4.6,4989,109,101,220,743,3816,4755,OPERATIONAL,$$$,True,ChIJcdOuC64sDogRO4O8lHWPFfs
+Immm Rice & Beyond,Thai restaurant,Uptown,4949 N Broadway,Chicago,60640,Illinois,41.9730214,-87.6595058,4.6,638,19,10,27,100,482,786,OPERATIONAL,$,True,ChIJ_7O04CrSD4gRgis_XQgq-ew
+Marisol Restaurant and Bar,New American restaurant,Streeterville,205 E Pearson St,Chicago,60611,Illinois,41.8974234,-87.6214196,4.6,293,5,3,13,67,205,379,OPERATIONAL,$$,True,ChIJbWIp-VTTD4gRB1W_7ZQjLhY
+OMAKASE YUME,Sushi restaurant,West Loop,651 W Washington Blvd Suite #101,Chicago,60661,Illinois,41.883044,-87.6444946,4.7,231,8,3,8,18,194,764,OPERATIONAL,$$$$,True,ChIJ2RtTWRgtDogRPCjq4g_BsWo
+Time Out Market Chicago,Restaurant,West Loop,916 W Fulton Market,Chicago,60607,Illinois,41.8868872,-87.650454,4.5,3428,68,57,250,741,2312,5216,OPERATIONAL,$$,True,ChIJYXDdCxItDogRcZQLZaZpZJI
+Frontier Chicago,American restaurant,Noble Square,1072 N Milwaukee Ave,Chicago,60642,Illinois,41.9012771,-87.6634546,4.3,1478,63,57,106,333,919,1624,OPERATIONAL,$$,True,ChIJw0cVUdHSD4gRZADPW6blGZY
+Carbon Live Fire Mexican Grill,Mexican restaurant,Armour Square,300 W 26th St,Chicago,60616,Illinois,41.8457425,-87.6347923,4.4,1762,83,53,135,370,1121,540,OPERATIONAL,$$,True,ChIJrxuroWgsDogRmEcvcT87mnk
+Terrace 16,Restaurant,Near North Side,401 N Wabash Ave 16th Floor,Chicago,60611,Illinois,41.8888012,-87.6263094,4.2,688,74,18,37,101,458,1643,OPERATIONAL,$$$$,True,ChIJA6EvXa4sDogRmjTfKum06wM
+Toro by Chef Richard Sandoval,Restaurant,Chicago Loop,200 N Columbus Dr,Chicago,60601,Illinois,41.8861637,-87.621083,3.9,349,24,22,53,102,148,337,OPERATIONAL,$$,True,ChIJn1T4iagsDogRpiYH_22ZYKY
+Bar Roma,Italian restaurant,Uptown,5101 N Clark St,Chicago,60640,Illinois,41.9744963,-87.6680821,4.6,822,12,19,51,141,599,464,OPERATIONAL,$$,True,ChIJcReJ4SfSD4gRTHFLUwR7HWg
+Red Barrel Restaurant,Family restaurant,Archer Heights,5214 S Archer Ave,Chicago,60632,Illinois,41.8000058,-87.7353615,4.4,834,34,39,60,156,545,928,OPERATIONAL,$$,True,ChIJmRXesZ8xDogRVESoQvZ0IRk
+Spacca Napoli Pizzeria,Pizza restaurant,Ravenswood,1769 W Sunnyside Ave,Chicago,60640,Illinois,41.9631881,-87.6737274,4.7,2857,43,23,84,337,2370,1834,OPERATIONAL,$$,True,ChIJH-W6YjzSD4gRBjteTfMbtak
+Rebar,Restaurant,Near North Side,"Mezzanine, 401 N Wabash Ave 14th Floor",Chicago,60611,Illinois,41.8888012,-87.6263094,4.3,121,11,2,6,22,80,239,OPERATIONAL,$$$$,True,ChIJA6EvXa4sDogRDaB-PygnNSQ
+Ada Street,Restaurant,West Town,1664 N Ada St,Chicago,60642,Illinois,41.9125186,-87.6623571,4.7,457,6,8,15,64,364,451,OPERATIONAL,$$,True,ChIJK5WKjt7SD4gRxcuBA_R_aXo
+Thai Neighbor,Thai restaurant,,250 Chicago Ave,Oak Park,60302,Illinois,41.8947825,-87.7824437,4.7,120,4,4,3,4,105,122,OPERATIONAL,$$,True,ChIJeQUsWLc1DogRGObVsLxhfP8
+Ravinia Brewing Company,Brewpub,Logan Square,2601 W Diversey Ave,Chicago,60647,Illinois,41.9319463,-87.6929492,4.4,246,13,7,13,39,174,360,OPERATIONAL,$$,True,ChIJdf10pzAtDogREJowKqDQ7wQ
+Bayan Ko,Filipino restaurant,Ravenswood,1810 W Montrose Ave,Chicago,60613,Illinois,41.96162,-87.674965,4.6,389,11,5,17,44,312,664,OPERATIONAL,,True,ChIJF2DcZgPTD4gRKm-aJ9pu4BM
+Hollywood Grill,Diner,Wicker Park,1601 W North Ave,Chicago,60622,Illinois,41.9104706,-87.667928,4.3,601,52,17,29,118,385,353,OPERATIONAL,$$,True,ChIJv1Fo2U_TD4gRhQm_bu8cq34
+Munno Pizzeria & Bistro,Pizza restaurant,Ravenswood,4656 N Clark St,Chicago,60640,Illinois,41.9669144,-87.6672169,4.7,245,6,2,4,32,201,123,OPERATIONAL,$$,True,ChIJs1572sXTD4gRX4k901UOHdY
+Cafecito,Cuban restaurant,Streeterville,215 E Chestnut St,Chicago,60611,Illinois,41.8981921,-87.6212748,4.4,2359,136,65,118,387,1653,1223,OPERATIONAL,$,True,ChIJK2h_UlTTD4gRMtZvkuFGt1o
+Easy Street Pizza & Beer Garden,Pizza restaurant,Portage Park,3750 N Central Ave,Chicago,60634,Illinois,41.9491862,-87.7671093,4.5,864,33,16,56,138,621,321,OPERATIONAL,$$,True,ChIJuexTO3DMD4gRvCOuNBFLUc8
+RAMEN-SAN Deluxe,Ramen restaurant,Streeterville,165 E Huron St,Chicago,60611,Illinois,41.8948318,-87.6229935,4.4,1796,71,55,121,320,1229,1720,OPERATIONAL,$$,True,ChIJE6f7eTgtDogRqCWFhg4b1NQ
+"Antepli Mediterranean Grill,Baklava&Kunafa",Turkish restaurant,Albany Park,4849 N Kedzie Ave,Chicago,60625,Illinois,41.9698633,-87.7080632,4.5,1157,92,16,35,64,950,635,OPERATIONAL,$$,True,ChIJhy-Abf_ND4gRNy5L6Oq0G_Y
+Bodega Bay Chicago,Sandwich shop,Wicker Park,2007 W North Ave,Chicago,60647,Illinois,41.9102526,-87.6777854,4.9,140,2,3,1,0,134,66,OPERATIONAL,$,True,ChIJR4q6sj3TD4gREoU353g3kZo
+Andiamo Pizzaria,Pizza restaurant,Lake View,2814 N Halsted St,Chicago,60657,Illinois,41.9332129,-87.6492881,4.5,133,8,6,5,7,107,335,OPERATIONAL,$$,False,ChIJDf1kyQfTD4gRDhWI4iLHl7k
+White Castle,Fast food restaurant,South Loop,2140 S Wabash Ave,Chicago,60616,Illinois,41.8531335,-87.6259912,3.7,2442,318,172,413,551,988,507,OPERATIONAL,$,True,ChIJIXveqn0sDogR8ervJbCHIK0
+DealerRater,Car dealer,West Loop,300 S Riverside Plaza STE 1000,Chicago,60606,Illinois,41.8776432,-87.6387339,4.2,188,32,1,3,5,147,4,OPERATIONAL,,True,ChIJ3cHbACGD44kRPErB5GN5llA
+Taco Moro,Taco restaurant,Schorsch Forest View,4640 N Cumberland Ave,Chicago,60656,Illinois,41.9643052,-87.8373662,4.6,768,34,19,24,39,652,215,OPERATIONAL,$$,True,ChIJYZ1OtTbLD4gRYUCVmZL9GeY
+Sammy's Breakfast,Breakfast restaurant,South Side,250 E 103rd St,Chicago,60628,Illinois,41.7076116,-87.6167034,3.8,339,46,18,47,76,152,66,OPERATIONAL,$,True,ChIJf-vjoncmDogRNdnfCTpCJd4
+Fried Rice Express,Chinese restaurant,Union Ridge,7108 W Higgins Ave,Chicago,60656,Illinois,41.980868,-87.805137,4.3,235,19,8,17,37,154,53,OPERATIONAL,$,True,ChIJa6dPJmPJD4gRMizTuOC8zxA
+Pat's Pizza & Ristorante,Italian restaurant,Wrightwood Neighbors,2679 N Lincoln Ave,Chicago,60614,Illinois,41.9308374,-87.6558397,4.5,785,35,23,34,113,580,459,OPERATIONAL,$$,True,ChIJG-gqggHTD4gRX2s6JJFR490
+D'Nuez - Mexican Fusion Restaurant (Pilsen),Fusion restaurant,Heart of Chicago,2000 W 18th St,Chicago,60608,Illinois,41.857813,-87.676152,4.3,927,78,28,70,154,597,557,OPERATIONAL,$$,True,ChIJBynf7AotDogRX5O3buWLb-g
+LongHorn Steakhouse,Steak house,,9530 S Pulaski Rd,Oak Lawn,60453,Illinois,41.719351,-87.721688,4.0,3456,373,155,306,765,1857,1292,OPERATIONAL,$$,True,ChIJo9eTCBk7DogRU2Udg9STAD4
+Sharks Fish Chicken & Grill,Fast food restaurant,Douglas,250 E 35th St,Chicago,60616,Illinois,41.831278,-87.619792,4.0,427,34,18,51,124,200,71,OPERATIONAL,$,True,ChIJucTFGQosDogRTLhZzisz88A
+Antonio Ristorante Italiano,Italian restaurant,,280 N Rohlwing Rd,Itasca,60143,Illinois,41.9722937,-88.0320671,4.3,525,38,16,38,102,331,316,OPERATIONAL,$$,True,ChIJpVSeqMKtD4gRrVOOTu3IlVI
+White Castle,Fast food restaurant,Irving Park East,3212 W Addison St,Chicago,60618,Illinois,41.946881,-87.7083733,4.0,2740,237,138,349,643,1373,481,OPERATIONAL,$,True,ChIJCd5LDJDND4gRL5sNKhmrfP8
+White Castle,Fast food restaurant,South Side,4750 W 63rd St,Chicago,60629,Illinois,41.7788058,-87.7415509,3.9,2547,243,158,397,531,1218,226,OPERATIONAL,$,True,ChIJ_R3wBgIxDogRLhapsio9o7g
+White Castle,Fast food restaurant,Edgewater,5940 N Ridge Ave,Chicago,60660,Illinois,41.9896823,-87.6703547,3.7,1780,247,134,284,392,723,314,OPERATIONAL,$,True,ChIJK7E11pDRD4gR8g5wOFrt7qo
+LongHorn Steakhouse,Steak house,,1470 E Touhy Ave,Des Plaines,60018,Illinois,42.009974,-87.886914,4.4,2693,93,67,177,566,1790,1195,OPERATIONAL,$$,True,ChIJ27VGh1C2D4gRMKSIcX5wSBM
+Petey's Gyros,Fast food restaurant,South Side,250 W 47th St,Chicago,60609,Illinois,41.8093379,-87.6331439,3.9,737,85,37,90,161,364,282,OPERATIONAL,$,True,ChIJw7dBb6QuDogRkOMBK6rogPc
+Olive Garden Italian Restaurant,Italian restaurant,Avondale,3555 W Addison St,Chicago,60618,Illinois,41.946229,-87.717162,4.4,4130,179,115,330,894,2612,1586,OPERATIONAL,$$,True,ChIJ7UH3ApjND4gR9cYHrwTuaWM
+White Castle,Fast food restaurant,Austin,5618 W North Ave,Chicago,60639,Illinois,41.909638,-87.766381,3.7,1619,183,122,279,378,657,71,OPERATIONAL,$,True,ChIJvccIzbrMD4gRNQJPDyLNffg
+115 Bourbon Street,Restaurant,,3359 W 115th St,Merrionette Park,60803,Illinois,41.6833793,-87.7050804,4.3,3150,137,88,276,731,1918,2080,OPERATIONAL,$$,True,ChIJ7QYbQjE7DogR_e1m4Qyo0uQ
+White Castle,Fast food restaurant,Tri-Taylor,2356 Roosevelt Rd,Chicago,60608,Illinois,41.8669054,-87.6857457,3.7,1683,211,129,316,376,651,57,OPERATIONAL,$,True,ChIJay58J3AtDogRhTzYwjwW_3s
+Oromo Cafe Bucktown,Coffee shop,Logan Square,1912 N Western Ave,Chicago,60647,Illinois,41.9163122,-87.6876828,4.6,277,11,8,6,28,224,345,OPERATIONAL,$,True,ChIJt9EunxzTD4gRBf7YjI8tNtI
+White Castle,Fast food restaurant,Edison Park,7550 N Harlem Ave,Chicago,60631,Illinois,42.0186797,-87.806954,3.8,1555,193,85,212,351,714,218,OPERATIONAL,$,True,ChIJqRnjWv3ID4gRiAlJVs_yhLc
+IHOP,Breakfast restaurant,Lake View,3760 N Halsted St,Chicago,60613,Illinois,41.9510634,-87.6499237,3.9,2511,303,132,339,558,1179,858,OPERATIONAL,$,True,ChIJvftgOrfTD4gRvzfIPHJCuNU
+White Castle,Fast food restaurant,Dunning,3132 N Harlem Ave,Chicago,60634,Illinois,41.9374916,-87.8070387,3.9,1184,131,71,178,252,552,152,OPERATIONAL,$,True,ChIJB8IJwgfLD4gRXfSYEHQpCKE
+White Castle,Fast food restaurant,Douglas,3457 S King Dr,Chicago,60616,Illinois,41.8317103,-87.6164308,3.6,1549,241,107,284,352,565,68,OPERATIONAL,$,True,ChIJHwn-uPUrDogRaQZZ3YqvvSk
+Spiteful Brewing Tap Room,Pub,Bowmanville,2024 W Balmoral Ave,Chicago,60625,Illinois,41.9798007,-87.6806468,4.7,396,8,6,4,47,331,330,OPERATIONAL,$,True,ChIJl-yoZPTRD4gRO-xatKf3nNI
+LongHorn Steakhouse,Steak house,,3300 W Touhy Ave,Skokie,60076,Illinois,42.0123056,-87.7121585,4.4,2466,101,69,186,529,1581,1404,OPERATIONAL,$$,True,ChIJLXUZ7DPOD4gRSrstCy1WhGU
+White Castle,Fast food restaurant,South Side,10301 S Michigan Ave,Chicago,60628,Illinois,41.7069809,-87.619802,3.6,1478,190,128,262,335,563,69,OPERATIONAL,$,True,ChIJowSwPtglDogRvxQdEZ5DTcQ
+REEF KABOB مشاوي ريف,Middle Eastern restaurant,,7215 W 103rd St,Palos Hills,60465,Illinois,41.7037973,-87.799464,4.7,1362,85,18,17,44,1198,365,OPERATIONAL,$$,True,ChIJrzM3S0U5DogRtNzSXy1k8v8
+White Castle,Fast food restaurant,South Side,6901 S Western Ave,Chicago,60636,Illinois,41.7681889,-87.6825338,3.6,1414,190,119,251,318,536,47,OPERATIONAL,$,True,ChIJoYT1SM8vDogRGKmydw78Pvg
+White Castle,Fast food restaurant,South Side,9450 S Jeffery Blvd,Chicago,60617,Illinois,41.7227961,-87.5758373,3.8,1907,170,140,356,475,766,103,OPERATIONAL,$,True,ChIJc1B55BonDogRp-InimNHLLU
+Blackthorn Pub,Sports bar,Mount Greenwood,3300 W 111th St,Chicago,60655,Illinois,41.6916503,-87.7035598,4.3,155,8,2,15,36,94,4,OPERATIONAL,$,True,ChIJKV0avi47DogRowjxsN41ggc
+Virgin Hotels Chicago,Hotel,Chicago Loop,203 N Wabash Ave,Chicago,60601,Illinois,41.886059,-87.6260006,4.5,2714,69,57,135,610,1843,3805,OPERATIONAL,,True,ChIJv0qZca8sDogRy4hcGzkHjvY
+Hilton Chicago,Hotel,South Loop,720 S Michigan Ave,Chicago,60605,Illinois,41.8722592,-87.624696,4.3,8880,409,320,748,2325,5078,15099,OPERATIONAL,,True,ChIJL3osJJksDogRodsJu9TjTQA
+White Castle,Fast food restaurant,South Side,11050 S Halsted St,Chicago,60628,Illinois,41.6926855,-87.6428004,3.8,1713,180,128,309,380,716,69,OPERATIONAL,$,True,ChIJZ4g5k0skDogRqICb-krMgro
+Pita Inn,Mediterranean restaurant,,4710 Dempster St,Skokie,60076,Illinois,42.041079,-87.7451748,4.6,5762,155,68,265,982,4292,1834,OPERATIONAL,$,True,ChIJzZCTJnLPD4gRzVsT2gjPozI
+LongHorn Steakhouse,Steak house,,7070 W Forest Preserve Dr,Norridge,60706,Illinois,41.955506,-87.804609,4.4,2503,112,86,175,547,1583,1224,OPERATIONAL,$$,True,ChIJpxrRtbnLD4gRvEN24lB_CIg
+White Castle,Fast food restaurant,South Side,3205 S Ashland Ave,Chicago,60608,Illinois,41.835144,-87.6652374,3.9,1551,145,86,251,355,714,161,OPERATIONAL,$,True,ChIJESF-MsgtDogRVDjUP4eYVPE
+Galleria Market,Convenience store,Near North Side,340 W Superior St,Chicago,60654,Illinois,41.8957152,-87.6373156,4.0,184,19,9,22,44,90,184,OPERATIONAL,$$,True,ChIJu87Gr0rTD4gRYXUuzzD3PYI
+SEN Sushi Bar,Sushi restaurant,,814 S Oak Park Ave,Oak Park,60304,Illinois,41.87366,-87.793908,4.7,664,13,10,19,95,527,488,OPERATIONAL,$$,True,ChIJLc0KfZM0DogR4TDnmxA0Yqw
+White Castle,Fast food restaurant,Grand Crossing,1550 E 79th St,Chicago,60619,Illinois,41.7517927,-87.5867617,3.8,1931,178,128,365,461,799,98,OPERATIONAL,$,True,ChIJJZ7JyY0oDogRcxg9bh7Rgsg
+Regalia bar & restaurant,Italian restaurant,Edgewater,5959 N Broadway,Chicago,60660,Illinois,41.9906259,-87.6600204,4.8,319,3,3,3,28,282,247,OPERATIONAL,$$,True,ChIJzWYQxLfRD4gRHbkOtoZ9Xq0
+Big Jones,Southern restaurant (US),Edgewater,5347 N Clark St,Chicago,60640,Illinois,41.9794493,-87.6680875,4.3,1595,65,68,141,314,1007,1405,OPERATIONAL,$$,True,ChIJbffEpojRD4gRCMjrcCJbV_4
+Mas Alla del Sol,Mexican restaurant,Edgewater,5848 N Broadway,Chicago,60660,Illinois,41.9883806,-87.6604472,4.6,790,16,12,35,119,608,660,OPERATIONAL,$$,True,ChIJPZeks53RD4gR_ED7pqrOzA8
+Svea Restaurant,Swedish restaurant,Edgewater,5236 N Clark St,Chicago,60640,Illinois,41.9773034,-87.6685165,4.6,476,6,8,32,97,333,274,OPERATIONAL,$,True,ChIJ7VJ-b4jRD4gRqSv4jB9HO38
+Andie's Restaurant,Mediterranean restaurant,Edgewater,5253 N Clark St,Chicago,60640,Illinois,41.977739,-87.668246,4.3,535,22,23,46,116,328,290,OPERATIONAL,$$,True,ChIJkUZlfojRD4gROMz3SeWDYdo
+Pauline's,Breakfast restaurant,Edgewater,1754 W Balmoral Ave,Chicago,60640,Illinois,41.979863,-87.6743772,4.5,823,14,12,51,186,560,492,OPERATIONAL,$,True,ChIJgQw0jYvRD4gRXORjbUrNq4s
+Simply Pasteur,Vietnamese restaurant,Edgewater,5525 N Broadway,Chicago,60640,Illinois,41.9825693,-87.6597405,4.3,500,27,21,36,89,327,428,OPERATIONAL,$$,True,ChIJWQMpBZTRD4gRCNDm6-dgGWA
+The Waterfront Cafe,Restaurant,Edgewater,6219 N Sheridan Rd,Chicago,60660,Illinois,41.9952591,-87.6547877,4.4,686,32,13,56,142,443,684,CLOSED_TEMPORARILY,$$,True,ChIJKVM603TRD4gRnmNXfarUYv0
+Piatto Pronto,Deli,Edgewater,5624 N Clark St,Chicago,60660,Illinois,41.984238,-87.669081,3.7,483,144,8,4,28,299,53,OPERATIONAL,$,False,ChIJswqwwY_RD4gRm1ap2aqdW8M
+The Dearborn,American restaurant,Chicago Loop,145 N Dearborn St,Chicago,60602,Illinois,41.8843373,-87.6292766,4.6,4652,75,80,209,811,3477,4305,OPERATIONAL,$$,True,ChIJ-XdXNKUsDogRW-m5g5Siao8
+Raffi's Locale,Italian restaurant,Dunning,7547 W Irving Park Rd,Chicago,60634,Illinois,41.9523702,-87.8164467,4.7,207,5,4,5,20,173,97,OPERATIONAL,$$,True,ChIJvzr4I-jLD4gRe3g7tUVQ-WM
+Bust Outs,American restaurant,Forest Glen,5200 N Elston Ave,Chicago,60630,Illinois,41.9754038,-87.7522887,4.7,399,10,11,16,25,337,275,OPERATIONAL,$$,True,ChIJQ_n1iFTND4gRK6m4m0gqSYE
+Little Goat Diner,Diner,Lake View,3325 N Southport Ave,Chicago,60657,Illinois,41.9423438,-87.6635606,4.7,7739,126,129,345,1081,6058,5149,OPERATIONAL,$$,True,ChIJ-zu2tdosDogRx95ZkNcp7t0
+Forno Rosso Pizzeria Napoletana,Pizza restaurant,Dunning,3719 N Harlem Ave,Chicago,60634,Illinois,41.947658,-87.806747,4.6,1799,77,25,56,178,1463,1042,OPERATIONAL,$$,True,ChIJ4VC46K_LD4gRSBSCs-5TaU8
+Community Tavern,Restaurant,Portage Park,4038 N Milwaukee Ave,Chicago,60641,Illinois,41.9541155,-87.7487216,4.8,755,7,7,19,89,633,819,OPERATIONAL,$$$,True,ChIJwwllWkbMD4gRlB69I7W-dKU
+Gordon Ramsay Burger,Hamburger restaurant,Near North Side,2 E Ontario St,Chicago,60611,Illinois,41.8935196,-87.627921,4.2,2923,226,165,283,419,1830,4011,OPERATIONAL,$$,True,ChIJKQMYP-stDogRylePgyGTXjw
+Gale Street Inn Chicago,Restaurant,Jefferson Park,4914 N Milwaukee Ave,Chicago,60630,Illinois,41.9699297,-87.7628968,4.5,1311,46,30,54,242,939,641,OPERATIONAL,$$,True,ChIJeXTItBvMD4gRJ4hG5yqifss
+Apolonia,Restaurant,South Loop,105 E Cermak Rd,Chicago,60616,Illinois,41.8526966,-87.6234958,4.6,560,17,8,36,58,441,865,OPERATIONAL,$$,True,ChIJO2tjG1ctDogRTyaf6oWJ1ak
+Anelya,Ukrainian restaurant,Avondale,3472 N Elston Ave,Chicago,60618,Illinois,41.9442056,-87.7056575,4.5,169,9,5,11,19,125,313,OPERATIONAL,$$,True,ChIJX0Q0cfnND4gRQls6tng3lEQ
+EL G-FE,Mexican restaurant,Archer Heights,4253 W 47th St,Chicago,60632,Illinois,41.8076547,-87.7305364,4.1,764,86,35,57,125,461,433,OPERATIONAL,$$,True,ChIJN37t4dMxDogRUnhvV245uI4
+Daisies,Restaurant,Logan Square,2375 N Milwaukee Ave,Chicago,60647,Illinois,41.9244424,-87.6996148,4.4,1028,72,32,62,121,741,1380,OPERATIONAL,$$,True,ChIJMbRTOnvND4gRrup6n88Rwa4
+Standard Pho,Pho restaurant,Tri-Taylor,1014 S Western Ave Unit C,Chicago,60612,Illinois,41.8686647,-87.6864993,4.6,145,4,3,9,13,116,208,OPERATIONAL,$$,True,ChIJU7tA1AItDogRRdQ7bt-TeXE
+Dunning Pour House,Bar,Dunning,7718 W Addison St,Chicago,60634,Illinois,41.9453574,-87.8204284,4.7,354,10,2,9,45,288,138,OPERATIONAL,$$,True,ChIJgbEs2FPKD4gRKCRxnsCBlk4
+Tacotlan,Mexican restaurant,Belmont Gardens,4312 W Fullerton Ave,Chicago,60639,Illinois,41.9246009,-87.7346719,4.2,1351,139,55,74,148,935,863,OPERATIONAL,$$,True,ChIJ__9jqh3ND4gRyXxBP4BY1Tk
+Bryn Mawr Breakfast Club,Restaurant,Belmont Gardens,4459 W Belmont Ave,Chicago,60641,Illinois,41.9387335,-87.7392414,4.7,480,23,5,13,35,404,642,OPERATIONAL,$$,True,ChIJIYjfuAfND4gRpPBS5rkMSwE
+Beautiful Rind,Restaurant,Logan Square,2211 N Milwaukee Ave,Chicago,60647,Illinois,41.921171,-87.6942539,4.9,180,2,2,2,7,167,104,OPERATIONAL,$$,True,ChIJPxkbvoDTD4gRnzZ5kvUEgvE
+Meli Cafe,American restaurant,Near North Side,540 N Wells St,Chicago,60654,Illinois,41.8920088,-87.6342982,4.3,1343,63,47,103,290,840,828,OPERATIONAL,$$,False,ChIJo1iMbrQsDogRnV0fPvbsNT0
+Honore Storage,Self-storage facility,Uptown,5145 N Clark St,Chicago,60640,Illinois,41.9757677,-87.6678954,4.9,243,3,1,0,6,233,4,OPERATIONAL,,True,ChIJAQD0_YfRD4gRf5N4A4eGFZU
+Qing Xiang Yuan Dumplings,Dumpling restaurant,Armour Square,2002 S Wentworth Ave #103,Chicago,60616,Illinois,41.8551711,-87.6319894,4.6,2571,71,63,143,356,1938,2527,OPERATIONAL,$$,True,ChIJMaWLcmIsDogR7d-87VAKkbQ
+Hangry's,Restaurant,Belmont Cragin,5000 W Fullerton Ave,Chicago,60639,Illinois,41.9245618,-87.7514602,4.6,807,23,18,38,88,640,404,OPERATIONAL,$$,True,ChIJueWI63nND4gR_pgRE0-FIBo
+Horse Thief Hollow,Restaurant,South Side,10426 S Western Ave,Chicago,60643,Illinois,41.703866,-87.681948,4.5,538,22,12,28,107,369,419,OPERATIONAL,$$,True,ChIJHc-WwCMlDogRTeP3gtGcwNQ
+Cafe El Meson,Puerto Rican restaurant,South Side,4631 S Kedzie Ave,Chicago,60632,Illinois,41.8090179,-87.7037459,4.8,571,9,8,11,48,495,312,OPERATIONAL,$,True,ChIJby4TE_sxDogRpNV8Qa0jr9w
+Taco Bell Cantina,Fast food restaurant,Near North Side,1160 N Clark St,Chicago,60610,Illinois,41.9037,-87.6317,2.9,150,62,11,14,13,50,92,OPERATIONAL,$,True,ChIJvW5o--DTD4gRqmh2RzERRic
+Flat Top Grill,Asian fusion restaurant,Chicago Loop,30 S Wabash Ave,Chicago,60603,Illinois,41.8811278,-87.6263889,4.2,2560,151,106,250,597,1456,1391,OPERATIONAL,$$,True,ChIJ8c2DiaQsDogRPnIg1eFnKl0
+Coco Pazzo,Italian restaurant,Near North Side,300 W Hubbard St,Chicago,60654,Illinois,41.8902,-87.635807,4.5,642,13,18,46,101,464,994,OPERATIONAL,$$$,True,ChIJM7K_gLYsDogRkmdAgJsxL54
+Gene & Georgetti,Steak house,Near North Side,500 N Franklin St,Chicago,60654,Illinois,41.8908839,-87.6357762,4.5,1903,69,65,119,278,1372,1977,OPERATIONAL,$$$,True,ChIJ8-60LbQsDogRcZ-sM7qUNPA
+The Berghoff Restaurant,German restaurant,Chicago Loop,17 W Adams St,Chicago,60603,Illinois,41.879252,-87.628406,4.5,4403,69,98,357,1121,2758,4753,OPERATIONAL,$$,True,ChIJ00KvtLwsDogR3GNih9CYiQs
+India House Restaurant Chicago,Indian restaurant,Near North Side,59 W Grand Ave,Chicago,60654,Illinois,41.891367,-87.6303965,4.4,4820,257,128,268,753,3414,2161,OPERATIONAL,$$,True,ChIJ-T0KSLIsDogRHgkWFAe3uT8
+PAZZO'S,Italian restaurant,Chicago Loop,311 S Wacker Dr,Chicago,60606,Illinois,41.87746,-87.6361386,4.4,229,5,4,16,75,129,212,OPERATIONAL,$$,True,ChIJaxvsur8sDogRIGvn1542yOI
+Soulé,Soul food restaurant,Lawndale,3615 W Roosevelt Rd,Chicago,60624,Illinois,41.8660012,-87.716194,4.1,1848,199,94,160,315,1080,1124,OPERATIONAL,$$,True,ChIJOycCLzUtDogReXXnxVrtZrU
+Maxwells Trading,Restaurant,West Loop,1516 W Carroll Ave,Chicago,60607,Illinois,41.8876644,-87.6652479,4.6,174,5,2,14,15,138,323,OPERATIONAL,,True,ChIJZftHjnAtDogRevLY7PXWbd8
+Noon O Kabab Chicago,Restaurant,Kimball,4701 N Kedzie Ave,Chicago,60625,Illinois,41.9670764,-87.7080632,4.5,3863,235,87,157,547,2837,2977,OPERATIONAL,$$,True,ChIJr7g8WeXND4gRmKj_z_-JQuQ
+Valois Restaurant,American restaurant,Hyde Park,1518 E 53rd St,Chicago,60615,Illinois,41.7997683,-87.5883172,4.5,2347,54,27,160,494,1612,904,OPERATIONAL,$,True,ChIJwx63BHIpDogRd9-Kwp9TAj8
+Columbia Yacht Club,Yacht club,,111 N DuSable Lake Shore Dr,Chicago,60601,Illinois,41.8839728,-87.6123348,4.8,399,4,1,11,56,327,1384,OPERATIONAL,,False,ChIJrUqZVFgrDogRKmQqKewOmE0
+Carnitas Uruapan Restaurant,Mexican restaurant,Heart of Chicago,1725 W 18th St,Chicago,60608,Illinois,41.8575813,-87.6696819,4.6,2669,80,43,130,347,2069,1156,OPERATIONAL,$,True,ChIJ9eemRwgtDogR_EsmnDF1M4E
+Superdawg Drive-In,Hot dog stand,Norwood Park East,6363 N Milwaukee Ave,Chicago,60646,Illinois,41.9967817,-87.7870347,4.5,6159,181,130,384,1026,4438,3509,OPERATIONAL,$,True,ChIJcWh97kfJD4gR9zRthArTV6A
+Gibsons Bar & Steakhouse,Steak house,Near North Side,1028 N Rush St,Chicago,60611,Illinois,41.9013961,-87.6280861,4.6,5938,166,124,251,831,4566,5303,OPERATIONAL,$$$$,True,ChIJIWnn51HTD4gR1Ie6zt2J2dE
+White Castle,Fast food restaurant,,2209 S Cicero Ave,Cicero,60804,Illinois,41.8502778,-87.7438889,3.7,1021,133,79,153,219,437,43,OPERATIONAL,$,True,ChIJcQhvLK4zDogR16NYyYk7JRU
+LongHorn Steakhouse,Steak house,,7115 Cermak Rd,Berwyn,60402,Illinois,41.8499517,-87.8023325,4.1,2846,241,127,245,615,1618,940,OPERATIONAL,$$,True,ChIJFfUOals0DogROF3y3SfdMkQ
+The Walnut Room,American restaurant,Chicago Loop,111 N State St,Chicago,60602,Illinois,41.8833498,-87.6270667,4.3,1500,91,72,115,286,936,1755,OPERATIONAL,$$,True,ChIJrc2yQaUsDogRw-2jEIOgV9c
+Twin Anchors Restaurant & Tavern,Barbecue restaurant,Old Town,1655 N Sedgwick St,Chicago,60614,Illinois,41.9127239,-87.6384224,4.7,1630,27,23,72,220,1288,881,OPERATIONAL,$$,True,ChIJH2QIfz_TD4gRawN6EJTH5ag
+White Castle,Fast food restaurant,,9501 S Cicero Ave,Oak Lawn,60453,Illinois,41.719719,-87.740251,3.8,1194,152,68,168,259,547,95,OPERATIONAL,$,True,ChIJq6YqwGA6DogRhyR9QeD5usE
+Sanders BBQ Supply Co,Barbecue restaurant,Beverly,1742 W 99th St,Chicago,60643,Illinois,41.7140233,-87.6671463,4.3,289,22,12,18,31,206,223,OPERATIONAL,$$,True,ChIJxSwDR-clDogRUt9Bfg2oU38
+Armitage Alehouse,Restaurant,Sheffield Neighbors,1000 W Armitage Ave,Chicago,60614,Illinois,41.9183532,-87.6536,4.6,633,32,10,24,40,527,1097,OPERATIONAL,$$,True,ChIJO0zgvw3TD4gRtEez2q5Y-EA
+White Castle,Fast food restaurant,,10339 W Grand Ave,Franklin Park,60131,Illinois,41.9296888,-87.8841222,3.9,1644,146,100,254,405,739,120,OPERATIONAL,$,True,ChIJdSp34w-1D4gRix0kevTzleY
+Popeyes Louisiana Kitchen,Chicken restaurant,South Side,8732 S Stony Island Ave,Chicago,60617,Illinois,41.7359571,-87.5859164,3.2,1309,344,119,181,271,394,130,OPERATIONAL,$,True,ChIJET3GeoIoDogR_B6KoaBp0nw
+Great Sea Restaurant,Chinese restaurant,Kimball,3253 W Lawrence Ave,Chicago,60625,Illinois,41.9683293,-87.7105411,4.3,1093,90,32,73,185,713,413,OPERATIONAL,$$,True,ChIJE7E8suXND4gRftwdg-HTqVE
+Galit,Middle Eastern restaurant,Wrightwood Neighbors,2429 N Lincoln Ave,Chicago,60614,Illinois,41.9262961,-87.6494903,4.5,698,25,16,53,62,542,1582,OPERATIONAL,,True,ChIJ37gaSeXTD4gR4G_7yDPUKME
+White Castle Restaurant,Fast food restaurant,,12156 S Cicero Ave,Alsip,60803,Illinois,41.6711291,-87.7394109,3.9,1065,110,58,153,236,508,84,OPERATIONAL,$,True,ChIJo8vFAJ07DogRKVNKTCt9iQI
+White Castle,Fast food restaurant,South Side,1400 W 79th St,Chicago,60620,Illinois,41.7507634,-87.6590091,3.7,1589,185,121,314,363,606,93,OPERATIONAL,$,True,ChIJvYn_7J0vDogRao3vKbZ_adE
+White Castle,Fast food restaurant,,10555 S Harlem Ave,Chicago Ridge,60415,Illinois,41.699373,-87.797237,4.0,986,91,40,137,224,494,97,OPERATIONAL,$,True,ChIJIRXVkwo5DogR7HxiGth0oEY
+White Castle,Fast food restaurant,Englewood,6646 S Halsted St,Chicago,60621,Illinois,41.772895,-87.644949,3.9,1130,97,57,192,262,522,42,OPERATIONAL,$,True,ChIJndKQQxwvDogRirgwxxVdZ44
+The Boiler Shrimp & Crawfish,Cajun restaurant,,3445 Dempster St,Skokie,60076,Illinois,42.0404966,-87.71512,4.4,954,54,23,61,146,670,725,OPERATIONAL,$$,True,ChIJ2ZK-eOvPD4gRxZPLG0hn_pg
+White Castle,Fast food restaurant,,840 W North Ave,Melrose Park,60160,Illinois,41.9077785,-87.8445409,3.9,1049,103,65,158,239,484,68,OPERATIONAL,$,True,ChIJZZmHYLDKD4gR9uPNgYcFG8c
+Aladdin Kitchen and Market,Turkish restaurant,,810 Elmhurst Rd,Des Plaines,60016,Illinois,42.0365906,-87.9413419,4.7,601,37,5,5,14,540,534,OPERATIONAL,$$,True,ChIJB1uAFPCxD4gRWiElUNEQqOM
+Casino's Pizza,Pizza restaurant,,190 N Swift Rd Unit A,Addison,60101,Illinois,41.9314198,-88.0424347,4.1,124,20,4,9,6,85,91,OPERATIONAL,$$,True,ChIJNWSH5XutD4gRiiOY_Z3Z7po
+White Castle,Fast food restaurant,,6059 LaGrange Rd,Countryside,60525,Illinois,41.7796416,-87.867647,3.9,1445,129,84,203,356,673,99,OPERATIONAL,$,True,ChIJ_dY-FjNIDogRSPBAkZFScUQ
+Bishop's Chili,Restaurant,,250 N Cass Ave #1,Westmont,60559,Illinois,41.8017213,-87.9756718,4.3,245,12,10,27,31,165,123,OPERATIONAL,$,True,ChIJJZp1Ol5ODogRFTuOYBDJ2Ac
+Old Vilnius Cafe Deli,Deli,,2601 75th St,Darien,60561,Illinois,41.7505989,-88.0088015,4.5,572,26,11,27,97,411,406,OPERATIONAL,$$,True,ChIJEwn2-PxPDogRltwxWWEmOIE
+Indus Progressive Indian,Modern Indian restaurant,,617 Central Ave,Highland Park,60035,Illinois,42.1854758,-87.8005566,4.8,136,0,3,7,4,122,3,OPERATIONAL,,True,ChIJU1L_6pTBD4gRU8akPNRijk0
+The Gage,American restaurant,Chicago Loop,24 S Michigan Ave,Chicago,60603,Illinois,41.8813268,-87.6246925,4.6,4272,59,67,230,1014,2902,3602,OPERATIONAL,$$$,True,ChIJ5a8ra6QsDogRENtJLAp40AE
+Remington's,American restaurant,Chicago Loop,20 N Michigan Ave,Chicago,60602,Illinois,41.8826897,-87.6246716,4.5,2206,51,43,110,446,1556,1852,OPERATIONAL,$$,True,ChIJfecaS6QsDogRYoT-1zdAdJE
+312 Chicago,Italian restaurant,Chicago Loop,136 N La Salle St,Chicago,60602,Illinois,41.8843462,-87.6328186,4.4,844,19,18,73,211,523,708,OPERATIONAL,$$$,True,ChIJCQKeF7osDogRXujVV3cHa_Y
+The Capital Grille,Fine dining restaurant,Streeterville,633 N St Clair St,Chicago,60611,Illinois,41.893506,-87.622498,4.7,1825,42,27,61,254,1441,1365,OPERATIONAL,$$$$,True,ChIJo9QCaqssDogRmmJ0MAf-aeE
+No Vacancy,Restaurant,Near North Side,509 N Wells St,Chicago,60654,Illinois,41.8911443,-87.6337336,4.8,174,3,1,2,14,154,169,OPERATIONAL,$$,True,ChIJW80a0KgtDogRQnr2pn9IkH4
+Chubby Cattle BBQ | Chicago,Barbecue restaurant,Armour Square,2162 S Archer Ave,Chicago,60616,Illinois,41.8534773,-87.634573,4.9,2982,9,3,15,121,2834,1081,OPERATIONAL,,True,ChIJxTGJ2NstDogRY1uYLTWFaFI
+White Castle,Fast food restaurant,,1551 River Oaks Dr,Calumet City,60409,Illinois,41.6006034,-87.5610074,4.0,1507,114,77,226,376,714,4,OPERATIONAL,$,True,ChIJ_aYO5UMgDogRIcBU5np2nw0
+Smith & Wollensky - Chicago,Steak house,Near North Side,318 N State St,Chicago,60654,Illinois,41.8879887,-87.628606,4.4,2725,120,103,191,427,1884,3909,OPERATIONAL,$$$,True,ChIJ0UCxLa4sDogRMomCwKTcXS4
+Ocean Prime,Seafood restaurant,Chicago Loop,87 E Wacker Dr,Chicago,60601,Illinois,41.8878127,-87.6252546,4.7,1131,25,15,40,124,927,1725,OPERATIONAL,$$$,True,ChIJP0_743EtDogRWv6-GyI8HVw
+White Castle,Fast food restaurant,,3956 Guthrie St,East Chicago,46312,Indiana,41.640744,-87.433771,3.8,1108,101,86,236,240,445,67,OPERATIONAL,$,True,ChIJH1MnT27cEYgR9yoR5Wo732c
+The J. Parker,Restaurant,Old Town,1816 N Clark St,Chicago,60614,Illinois,41.91527,-87.63438,4.3,1672,98,66,121,354,1033,1507,OPERATIONAL,$$,True,ChIJ1bF4CWrTD4gRf3FAlYUHeXI
+Chicago Cut Steakhouse,Steak house,Near North Side,300 N La Salle Dr,Chicago,60654,Illinois,41.8880993,-87.6327417,4.4,2962,142,80,194,451,2095,2668,OPERATIONAL,$$$$,True,ChIJQ8QqIbEsDogReNfi-87G-4A
+White Castle,Fast food restaurant,,2555 95th St,Evergreen Park,60805,Illinois,41.7206006,-87.687499,3.6,1209,180,106,202,266,455,4,OPERATIONAL,$,True,ChIJnxNwJkYlDogRv4GL_K0jbjg
+White Castle,Fast food restaurant,,7900 S Harlem Ave,Bridgeview,60455,Illinois,41.747689,-87.800248,4.1,977,76,46,102,240,513,105,OPERATIONAL,$,True,ChIJrehEQmY3DogRdyhU_33tv-A
+White Castle,Fast food restaurant,,4632 Calumet Ave,Hammond,46327,Indiana,41.6291367,-87.5092398,4.0,877,64,34,133,218,428,49,OPERATIONAL,$,True,ChIJj7l_-BnfEYgR-1Z44nBrpAc
+Dillingers Drive-In Inc,Fast food restaurant,,1414 W 127th St,Calumet Park,60827,Illinois,41.6632001,-87.6566283,4.4,1076,53,31,69,237,686,146,OPERATIONAL,$$,True,ChIJ_Vsgx30kDogROFtumikuf2o
+White Castle,Fast food restaurant,,6517 Calumet Ave,Hammond,46324,Indiana,41.594836,-87.5085491,3.9,1458,117,81,237,368,655,66,OPERATIONAL,$,True,ChIJUcDd6LffEYgRr7MsIjheLGM
+White Castle,Fast food restaurant,,1879 Indianapolis Blvd,Whiting,46394,Indiana,41.6795644,-87.4991982,4.0,1041,77,50,157,250,507,107,OPERATIONAL,$,True,ChIJ5Usr7h3ZEYgRGASmI0l_gH8
+Jibek Jolu Glenview,Fusion restaurant,,2601 Aviator Ln,Glenview,60026,Illinois,42.0882679,-87.8227988,4.5,1200,89,20,34,91,966,1091,OPERATIONAL,$$,True,ChIJvTswxNfHD4gRihKaJHRda4k
+Pita Inn,Mediterranean restaurant,,9854 N Milwaukee Ave,Glenview,60025,Illinois,42.0598498,-87.8440639,4.6,3601,85,51,175,677,2613,752,OPERATIONAL,$,True,ChIJb79Q3eLHD4gREMG4almc-jA
+White Castle,Fast food restaurant,,14700 S Cicero Ave,Midlothian,60445,Illinois,41.6247487,-87.7376798,3.8,1342,156,89,223,299,575,79,OPERATIONAL,$,True,ChIJxSypGFY8DogRXcsj93Navl4
+Nonna Silvia's Trattoria & Pizzeria,Italian restaurant,,1400 Canfield Rd,Park Ridge,60068,Illinois,41.993232,-87.822442,4.6,946,24,20,50,160,692,812,OPERATIONAL,$$,True,ChIJ13jGepnJD4gRJ_wvzhgUmL8
+El Taconazo La Fiesta,Mexican restaurant,,5600 W 35th St,Cicero,60804,Illinois,41.8293723,-87.7637027,3.9,552,81,25,62,104,280,136,OPERATIONAL,$$,True,ChIJ_TeA2rQzDogR5SiZru7ISL8
+Beermiscuous,Bar,Lake View,2812 N Lincoln Ave,Chicago,60657,Illinois,41.9328472,-87.6594283,4.7,662,10,5,15,87,545,471,OPERATIONAL,$$,True,ChIJW6ETSv7SD4gRU81ef2JzAJ8
+White Castle,Fast food restaurant,,1304 Broadway,Gary,46407,Indiana,41.58985,-87.3373849,3.6,1096,160,103,199,228,406,3,OPERATIONAL,$,True,ChIJw04zo2DCEYgRlWAJYAvSi2g
+Viet Taste,Vietnamese restaurant,,7221 W Forest Preserve Dr,Norridge,60706,Illinois,41.9529906,-87.8082131,4.5,641,31,9,22,96,483,426,OPERATIONAL,$,False,ChIJO6Br1rDLD4gR4HVnvC29Fr8
+White Castle,Fast food restaurant,,15902 Kedzie Ave,Markham,60426,Illinois,41.6004612,-87.6950279,3.8,1595,178,108,278,368,663,69,OPERATIONAL,$,True,ChIJ76APVcoiDogRtHFGNlcYH1E
+Roister,New American restaurant,West Loop,951 W Fulton Market,Chicago,60607,Illinois,41.8865282,-87.6518464,4.5,1539,46,56,117,207,1113,3060,OPERATIONAL,$$$,True,ChIJg5a1l9AsDogRxwZw028T0kI
+Trivoli Tavern,New American restaurant,West Loop,114 N Green St,Chicago,60607,Illinois,41.8838272,-87.6492538,4.6,1132,40,22,53,138,879,1840,OPERATIONAL,$$,True,ChIJSwROLIEtDogRw4rWhgp9Ehs
+Carnivale,Latin American restaurant,West Loop,"702 West Fulton Market Street, 702 W Fulton St",Chicago,60661,IL,41.8869731,-87.6460081,4.4,4035,122,114,275,868,2656,4982,OPERATIONAL,$$,True,ChIJufo-n88sDogRT_JGk4egawU
+BLVD Steakhouse,Steak house,West Loop,817 W Lake St,Chicago,60607,Illinois,41.885407,-87.648237,4.3,1285,88,66,108,194,829,1512,OPERATIONAL,$$$,True,ChIJE6lVU8UsDogRG9Wyf-QM6xY
+Bar Siena,Italian restaurant,West Loop,832 W Randolph St,Chicago,60607,Illinois,41.884679,-87.6488272,4.4,3064,102,90,235,761,1876,2004,OPERATIONAL,$$,True,ChIJf3h_t9osDogReehZO7Hgk50
+ROOP Chicago Innovative Indian Restaurant & Cocktail Bar,Indian restaurant,West Loop,736 W Randolph St,Chicago,60661,Illinois,41.8846536,-87.6471423,4.3,1580,90,75,125,254,1036,2692,OPERATIONAL,$$$,True,ChIJBx6ZFq4tDogR-tC978YLipw
+SoJu BBQ,Korean restaurant,Near West Side,36 S Ashland Ave,Chicago,60607,Illinois,41.8804776,-87.6670036,4.3,628,50,28,47,91,412,707,OPERATIONAL,$$,True,ChIJiwECKsYtDogRv5NcbQIhYnc
+Jerk. Jamaican Barbecue,Jamaican restaurant,River West,811 W Chicago Ave,Chicago,60642,Illinois,41.8962233,-87.6482988,4.2,1182,99,55,81,208,739,614,OPERATIONAL,$$,True,ChIJF2sW16wtDogRi8_3XszA1jE
+The SoulFood Lounge 2,Soul food restaurant,South Side,10701 S Hale Ave,Chicago,60643,Illinois,41.6990179,-87.6688197,4.6,204,4,2,13,27,158,282,OPERATIONAL,,False,ChIJVRTSQ3MlDogRPxMe8Scyo64
+Aloha Wagon,Hawaiian restaurant,Heart of Chicago,2023 S Western Ave,Chicago,60608,Illinois,41.8540363,-87.6854652,4.8,509,1,3,10,45,450,372,OPERATIONAL,$,True,ChIJKw9rSHAtDogRl25T5otZURU
+Roux,Southern restaurant (US),Hyde Park,1055 E 55th St,Chicago,60615,Illinois,41.7948341,-87.6003897,4.6,775,15,18,41,151,550,697,OPERATIONAL,$$,True,ChIJixq0WBkpDogRTtEh9UHD5t0
+Ignotz's Ristorante,Pizza restaurant,Heart of Chicago,2421 S Oakley Ave,Chicago,60608,Illinois,41.8478156,-87.6828076,4.8,922,10,6,18,95,793,515,OPERATIONAL,$$,True,ChIJj5x_9ZktDogRQoOgKJq4B6g
+Phil's Pizza,Pizza restaurant,,8932 Ridgeland Ave,Oak Lawn,60453,Illinois,41.730141,-87.780746,4.5,1085,87,17,38,119,824,118,OPERATIONAL,$$,False,ChIJqYtC7_k5DogRrZR_Gb__jj8
+White Castle,Fast food restaurant,,12709 S Western Ave,Blue Island,60406,Illinois,41.6623768,-87.6797145,3.7,1624,198,119,268,360,679,85,OPERATIONAL,$,True,ChIJjTNnNxYjDogRAElUUT__HwQ
+White Castle,Fast food restaurant,,15801 S Harlem Ave,Orland Park,60462,Illinois,41.6038889,-87.7936111,4.2,876,65,25,114,177,495,71,OPERATIONAL,$,True,ChIJ7UD09mo-DogRAPkZFo1fpCI
+El Chaparro Mexican food,Mexican restaurant,,8613 W 95th St,Hickory Hills,60457,Illinois,41.717838,-87.8331846,4.3,228,19,7,13,30,159,77,OPERATIONAL,$$,True,ChIJSROutMI5DogRCWtodJewvLE
+La Catedral Cafe - Little Village,Mexican restaurant,South Lawndale,2500 S Christiana Ave,Chicago,60623,Illinois,41.8461602,-87.7090214,4.5,3114,179,66,181,434,2254,2023,OPERATIONAL,$$,True,ChIJw3dWlm8yDogRTedodwaaYuI
+PR Italian Bistro,Italian restaurant,Wrigleyville,3908 N Sheridan Rd,Chicago,60613,Illinois,41.9530746,-87.6547562,4.5,664,19,23,36,122,464,333,OPERATIONAL,$$,True,ChIJo2UNtrXTD4gRV_AGcouPFMY
+Bodega Sur,Argentinian restaurant,Wrigleyville,3755 N Southport Ave,Chicago,60613,Illinois,41.9505503,-87.6637842,4.6,495,13,8,20,79,375,325,OPERATIONAL,$$,True,ChIJAW4lTUnSD4gRPc_AfkochmY
+The Reservoir,Restaurant,Uptown,844 W Montrose Ave,Chicago,60613,Illinois,41.9620847,-87.6517652,4.4,704,27,14,43,171,449,294,OPERATIONAL,$$,True,ChIJozLQ7c7TD4gRTSdwCiNGXck
+Amici-Chicago,Restaurant,Lake View,3933 N Broadway,Chicago,60613,Illinois,41.9537444,-87.6498635,5.0,132,0,0,0,3,129,110,OPERATIONAL,$$,True,ChIJz_yYwDLTD4gRLu-eaAvafUg
+Mordecai,Brasserie,Wrigleyville,3632 N Clark St,Chicago,60613,Illinois,41.9477882,-87.6572657,4.5,309,14,13,16,37,229,343,OPERATIONAL,,True,ChIJVT4HKLPTD4gR6eF29XpGUiI
+"The Chicago Diner, Lakeview",Diner,Lake View,3411 N Halsted St,Chicago,60657,Illinois,41.9440107,-87.6491327,4.7,3041,55,38,148,420,2380,2181,OPERATIONAL,$$,True,ChIJL4Illa_TD4gRgIGc4TYXoD8
+North Pond,American restaurant,Lincoln Park,2610 N Cannon Dr,Chicago,60614,Illinois,41.9298705,-87.6374652,4.6,548,17,8,27,61,435,1476,OPERATIONAL,$$$$,True,ChIJt2vvlXTTD4gRHTP-0F3Hnyg
+Itoko,Japanese restaurant,Lake View,3325 N Southport Ave,Chicago,60657,Illinois,41.9422969,-87.6636994,4.8,890,12,10,24,39,805,677,OPERATIONAL,$$,True,ChIJy5Vs8Q3TD4gRKASmBweYcjY
+Range,New American restaurant,Sheffield Neighbors,1119 W Webster Ave,Chicago,60614,Illinois,41.9215923,-87.6567591,4.6,393,3,4,25,76,285,270,OPERATIONAL,$$,True,ChIJ6UgZwh3TD4gR3InT-zYh4Bc
+The Lakefront Restaurant at Theater on the Lake,American restaurant,Lincoln Park,2401 N DuSable Lake Shore Dr,Chicago,60614,Illinois,41.9269518,-87.6308916,4.4,487,20,16,33,79,339,479,OPERATIONAL,$$$,True,ChIJbYnaU3DTD4gRgcGd6pOfTS4
+SIFR,Middle Eastern restaurant,Near North Side,660 N Orleans St,Chicago,60654,Illinois,41.8941356,-87.63737,4.3,228,12,12,15,35,154,354,OPERATIONAL,$$,True,ChIJF5Jxe-4tDogRjL3u78pqCGA
+Steingold's of Chicago,Restaurant,Wrigleyville,3737 N Southport Ave,Chicago,60613,Illinois,41.9500767,-87.663925,4.3,658,52,30,47,91,438,435,OPERATIONAL,$$,True,ChIJDSLsXUDSD4gRx6GSMSuSuMU
+White Castle,Fast food restaurant,,1400 Sibley Blvd,Dolton,60419,Illinois,41.6229782,-87.581853,3.7,2113,254,156,407,476,820,68,OPERATIONAL,$,True,ChIJKzx5pQMhDogRxGque8kUzTY
+L. Woods Tap & Pine Lodge,Barbecue restaurant,,7110 Lincoln Ave,Lincolnwood,60712,Illinois,42.0101169,-87.737834,4.5,3069,55,59,179,675,2101,1437,OPERATIONAL,$$,True,ChIJoy2oufjOD4gRHMzwbhgsE3E
+Il Culaccino - Chicago Italian Restaurant,Italian restaurant,South Loop,2134 S Indiana Ave,Chicago,60616,Illinois,41.853206,-87.622482,4.3,676,43,31,44,134,424,573,OPERATIONAL,$$,True,ChIJMcIdYX4sDogRuBFBB1_9GKg
+The Loyalist,New American restaurant,West Loop,177 N Ada St #001,Chicago,60607,Illinois,41.8851063,-87.6606021,4.4,533,29,14,34,75,381,905,OPERATIONAL,,True,ChIJNch6ec8tDogRHtOZrHXV5s0
+Mother's Ruin,Bar,Avondale,2943 N Milwaukee Ave,Chicago,60618,Illinois,41.934971,-87.7164668,4.7,317,14,6,5,24,268,201,OPERATIONAL,$$,True,ChIJNaL7s1nND4gRgjh3CyL8e2M
+Han 202 Restaurant,Chinese restaurant,South Side,605 W 31st St,Chicago,60616,Illinois,41.837921,-87.641748,4.8,186,1,3,5,18,159,327,OPERATIONAL,$$,True,ChIJEeM05EAsDogRNfAVOvYxQz0
+La Cantina Grill,Mexican restaurant,Prairie District,1911 S Michigan Ave,Chicago,60616,Illinois,41.8563107,-87.6236981,4.4,2341,95,73,191,505,1477,875,OPERATIONAL,$$,True,ChIJS0MMs4AsDogR0JGhIqqBxh0
+The Chicago Firehouse Restaurant,Steak house,South Loop,1401 S Michigan Ave,Chicago,60605,Illinois,41.8639214,-87.6238957,4.5,1700,54,38,100,312,1196,1666,OPERATIONAL,$$$,True,ChIJQ8oynoQsDogR4Swh24sV4kQ
+Go 4 Food,Chinese restaurant,Armour Square,212 W 23rd St,Chicago,60616,Illinois,41.8511146,-87.6326051,4.6,399,13,12,23,40,311,916,OPERATIONAL,$$,True,ChIJq8IzsFEtDogRi7jC8MdVK9o
+Chicago Oyster House,Seafood restaurant,Prairie District,1933 S Indiana Ave,Chicago,60616,Illinois,41.855733,-87.621991,4.3,670,34,28,51,139,418,612,OPERATIONAL,$$,True,ChIJN8BHmYAsDogRCWywayTor3o
+Chicago Waffles,Brunch restaurant,South Loop,1400 S Michigan Ave,Chicago,60605,Illinois,41.8637139,-87.6243056,4.2,1765,147,91,147,337,1043,1404,OPERATIONAL,$$,True,ChIJW5Huk4QsDogR077NPs7c5tM
+Bryn Mawr Breakfast Club,Breakfast restaurant,Hollywood Park,3348 W Bryn Mawr Ave,Chicago,60659,Illinois,41.9831664,-87.7133481,4.6,2026,60,22,79,294,1571,1937,OPERATIONAL,$$,True,ChIJq6qqqg3OD4gRsiaMzFwwUUg
+Great Chicago Food & Beverage Co,Kosher restaurant,West Ridge,3149 W Devon Ave,Chicago,60659,Illinois,41.9971932,-87.7088942,4.3,362,25,7,29,57,244,94,OPERATIONAL,$$,True,ChIJW79UDT3OD4gRVJIIOguoV_g
+Summer House Santa Monica,New American restaurant,Lincoln Park,1954 N Halsted St,Chicago,60614,Illinois,41.9175694,-87.648662,4.4,3315,122,99,220,677,2197,2885,OPERATIONAL,$$$,True,ChIJxYDpLhjTD4gRXbOM_K_279E
+BULSHO restaurant,East African restaurant,Near North Side,211 W Walton St,Chicago,60610,Illinois,41.8995257,-87.6349066,4.5,191,9,7,9,12,154,3,OPERATIONAL,$,True,ChIJg6qbw0vTD4gRGRWK-_hz9lU
+Sea Ranch Sushi Evanston,Sushi restaurant,,518 Dempster St,Evanston,60202,Illinois,42.041028,-87.680026,4.5,437,19,12,9,73,324,228,OPERATIONAL,$,True,ChIJxf6eCxPQD4gRO1J8Ha2zuf8
+Spears Bourbon Burgers Beer,American restaurant,,723 N Milwaukee Ave,Wheeling,60090,Illinois,42.1507977,-87.9126952,4.4,1725,61,49,124,454,1037,807,OPERATIONAL,$$,True,ChIJPfC2n7i-D4gR7R19jFBmB5I
+Kol Tuv Kosher Foods,Grocery store,West Ridge,2938 W Devon Ave,Chicago,60659,Illinois,41.997675,-87.703637,4.8,349,6,2,8,32,301,45,OPERATIONAL,,True,ChIJxS5VOCLOD4gRl7zlJvdV4QU
+Buffalo Joe's - Clark St.,Chicken wings restaurant,,812 Clark St,Evanston,60201,Illinois,42.0498045,-87.6824917,4.3,1438,89,51,92,248,958,363,OPERATIONAL,$,True,ChIJNVOaAAzQD4gRl6c-NeXvy9A
+Chrysler Dodge Jeep Ram Of Chicago,Jeep dealer,West Ridge,5950 N Western Ave,Chicago,60659,Illinois,41.9897041,-87.6899337,4.4,370,50,4,4,6,306,78,OPERATIONAL,,True,ChIJhySQAijRD4gRTkmuwLCrdAs
+Next Door Bistro,American restaurant,,250 Skokie Blvd,Northbrook,60062,Illinois,42.1479448,-87.7989562,4.3,135,12,4,3,35,81,71,OPERATIONAL,$$,True,ChIJs5eysTnBD4gRZr_tcxHbaj4
+Naxos A Greek Island Restaurant,Greek restaurant,,933 W Irving Park Rd,Itasca,60143,Illinois,41.973924,-88.030573,4.6,1064,21,25,50,148,820,442,OPERATIONAL,$$,True,ChIJHyKlj-etD4gRd9e-vATOOCY
+Dozika Restaurant,Asian restaurant,,1018 Davis St,Evanston,60201,Illinois,42.0468566,-87.6860383,4.6,154,5,2,5,31,111,196,OPERATIONAL,$$,True,ChIJDfviK1nRD4gRHCI39-HV9Os
+Top View Restaurant,Family restaurant,South Side,4715 W 63rd St,Chicago,60629,Illinois,41.7782059,-87.7404479,4.3,1070,67,35,81,225,662,264,OPERATIONAL,$,True,ChIJRRBP3wExDogRLXIDNcypdUk
+Giordano's,Pizza restaurant,Clearing East,6314 S Cicero Ave,Chicago,60638,Illinois,41.7778767,-87.7426797,4.3,4366,318,118,308,932,2690,1998,OPERATIONAL,$$,True,ChIJ2QNz8f0wDogRwocNEix_NQs
+Lou Malnati's Pizzeria,Pizza restaurant,Clearing East,6456 S Cicero Ave,Chicago,60638,Illinois,41.774966,-87.742635,4.4,3076,145,95,239,651,1946,1581,OPERATIONAL,$$,True,ChIJG0p3O_wwDogRf8HaoAPrWQ0
+Josephine's Southern Cooking,Soul food restaurant,South Side,436 E 79th St,Chicago,60619,Illinois,41.7512581,-87.6134507,3.8,620,87,51,64,112,306,216,OPERATIONAL,$$,True,ChIJR_bIrrYoDogRuVb91LgsRYo
+Cafe Ba-Ba-Reeba!,Spanish restaurant,Sheffield Neighbors,2024 N Halsted St,Chicago,60614,Illinois,41.9189768,-87.6487012,4.6,5422,95,78,263,971,4015,3884,OPERATIONAL,$$,True,ChIJXxwm3BnTD4gR1Y9NlVH_RU8
+Mac's Restaurant,Diner,,812 W Higgins Rd,Park Ridge,60068,Illinois,41.9865121,-87.8357949,4.7,1402,23,9,52,204,1114,440,OPERATIONAL,$,True,ChIJ0x9e1PLJD4gRJE_bIbyU4oM
+Roanoke Restaurant,Restaurant,Chicago Loop,135 W Madison St,Chicago,60602,Illinois,41.8818554,-87.6319806,4.3,1631,78,75,135,402,941,1581,OPERATIONAL,$$,True,ChIJAdXyvrssDogRfPeijP0aa1k
+Beatnik On The River,Mediterranean restaurant,Chicago Loop,180 N Wacker Dr,Chicago,60606,Illinois,41.8851748,-87.6371784,4.1,2427,185,138,241,438,1425,4424,OPERATIONAL,$$$,True,ChIJS0kqaTItDogRXIgU7nCVHKQ
+Hoyt's Chicago,American restaurant,Chicago Loop,71 E Wacker Dr,Chicago,60601,Illinois,41.8873941,-87.625694,3.8,200,32,12,20,44,92,191,OPERATIONAL,$$,True,ChIJbQekZ7AsDogR4IdJdOUjq_Q
+The L Station,Restaurant,Chicago Loop,186 N Wells St,Chicago,60606,Illinois,41.8853379,-87.6341608,4.3,629,63,33,26,49,458,338,OPERATIONAL,$$,True,ChIJDQ2ZfpMtDogR93yPZkwW-Nk
+FireLake Grill House and Cocktail Bar,Bar & grill,Chicago Loop,221 N Columbus Dr,Chicago,60601,Illinois,41.8862313,-87.6200263,3.8,266,32,21,36,61,116,321,OPERATIONAL,,True,ChIJrze1LlgrDogRAyf025kpMPE
+Forum 55,Restaurant,Chicago Loop,55 E Monroe St,Chicago,60603,Illinois,41.8806273,-87.6257022,4.3,164,4,5,20,41,94,66,OPERATIONAL,$,False,ChIJQYmkeKQsDogRI7ZFEEivzyY
+Chez Joël,French restaurant,Near West Side,1119 W Taylor St,Chicago,60607,Illinois,41.8692177,-87.6550919,4.7,505,9,7,16,73,400,702,OPERATIONAL,$$,True,ChIJB11Kt-MsDogRdRcKFaGscAI
+Adorn Bar & Restaurant,Fine dining restaurant,Streeterville,120 E Delaware Pl,Chicago,60611,Illinois,41.8993714,-87.6251633,4.4,140,10,7,9,12,102,319,OPERATIONAL,,True,ChIJ3_uIxFPTD4gRcWB6knYJZQo
+Zimi's Pizza and Grill,Restaurant,West Ridge,6954 N Western Ave,Chicago,60645,Illinois,42.0084586,-87.6903569,4.9,371,7,2,3,15,344,120,OPERATIONAL,$$,True,ChIJP2XWzvfRD4gR5QPMg_i7CVY
+Siam Pasta,Thai restaurant,West Ridge,7416 N Western Ave,Chicago,60645,Illinois,42.0164012,-87.6905063,4.3,205,15,7,15,34,134,141,OPERATIONAL,$,True,ChIJTXe-3izQD4gRNj454d9WUO0
+Dastarkhwan,Restaurant,West Ridge,6418 N Western Ave,Chicago,60645,Illinois,41.998277,-87.690267,4.5,234,23,4,4,13,190,96,OPERATIONAL,$$,True,ChIJ6_lgtAnRD4gRexfcTVaoamU
+Mullen's Sports Bar & Grill,Restaurant,West Ridge,7301 N Western Ave,Chicago,60645,Illinois,42.0142619,-87.6898722,4.5,619,19,12,42,134,412,277,OPERATIONAL,$,True,ChIJz0x74NLRD4gR1VlNagcwhQg
+Eng's Asian Cuisine,Chinese restaurant,West Ridge,7300 N Western Ave,Chicago,60645,Illinois,42.014448,-87.690794,4.0,284,41,14,20,50,159,114,OPERATIONAL,$,True,ChIJz9SBH9PRD4gRUasIY34uILU
+Al Safa Mediterranean Restaurant,Middle Eastern restaurant,West Ridge,3146 W Touhy Ave,Chicago,60645,Illinois,42.0122178,-87.7086144,4.6,723,48,8,5,36,626,341,OPERATIONAL,$$,True,ChIJCb5Xg_DPD4gRswCHbPMmUQc
+Garden of Eden,Mediterranean restaurant,West Ridge,7156 N California Ave,Chicago,60645,Illinois,42.0117373,-87.6998832,4.7,120,2,2,5,14,97,51,OPERATIONAL,,True,ChIJBT-qNSrOD4gRwrDVmHpzN-4
+Queen K's Kitchen,Restaurant,West Ridge,7210 N California Ave,Chicago,60645,Illinois,42.0124163,-87.6999674,4.4,127,10,5,3,10,99,221,OPERATIONAL,$$,True,ChIJlwN35FXTD4gRS0dwI1pYR0A
+R Public House,Pub,Rogers Park,1508 W Jarvis Ave,Chicago,60626,Illinois,42.0162849,-87.6685864,4.6,1081,20,18,51,178,814,632,OPERATIONAL,$$,True,ChIJe53KQk3QD4gRJLZOGDPd0ck
